@@ -1,0 +1,112 @@
+1)  
+[Give Half an Apple]
+2)  LEE
+[pickup 2] {thinkingA}Apple, Doug?
+3)  DOUG
+[pickup 2] {happyB}Sure! {thinkingA}I never used to eat fruit...{happyA}now this seems like just about the best thing in the world. {normalA}Thanks, Lee.
+4)  
+[Give Piece of Jerky]
+5)  
+[Give Crackers and Cheese]
+6)  
+[Give Crackers and Cheese]
+7)  LEE
+[pickup 2] {thinkingA}Don't suppose I could interest you in some food?
+57)  LEE
+[pickup 2] {thinkingA}Don't suppose I could interest you in some food?
+8)  LEE
+[pickup 2] {sadA}Sorry I ran out before I could give you any food.
+9)  DOUG
+[pickup 2] {normalB}That's okay, Lee. You don't need to be saving my life ALL the time.
+10)  LEE
+[pickup 2] {thinkingA}Think Katjaa can save that guy?
+11)  DOUG
+[pickup 2] {sadA}Maybe. {normalC}I mean, I know about computers, but that doesn't mean I can fix a calculator.
+12)  DOUG
+[pickup 2] {thinkingA}Well, yeah... {happyA}Good point.
+13)  LEE
+[pickup 2] {happyA}But you probably COULD fix a calculator.
+14)  DOUG
+[pickup 2] {normalC}You too, Lee.
+15)  LEE
+[pickup 2] {normalA}Take it easy, Doug.
+16)  DOUG
+[pickup2]{normalC}I worked up a little "warning system" for outside.
+17)  LEE
+[pickup2]{happyA}{thinkingA}What are you working on, Doug?
+18)  DOUG
+[pickup2]{happyA}No, it's a LOT of string, wired to {happyB}several bells {happyA}strategically placed to let us know when walkers are coming, where they're coming from, {happyB}and how long 'till they get here.
+19)  LEE
+[pickup2][responding to "I worked up a little "warning system" for outside."]{thinkingB}It's just some string and some old bells.
+20)  LEE
+[pickup2]{happyA}{happyA}Nice.
+21)  
+What are you working on?
+22)  DOUG
+[pickup2] {sadA}...I owe you a lot more than a half a day's rations.
+23)  DOUG
+[pickup 2] [sacrificing food to pay Lee back fro saving him] {normalC}Actually, {sadA}why don't you keep my share today...
+24)  
+Think Katjaa can save that guy?
+25)  
+Talk To
+26)  
+Give Food To
+27)  DOUG
+[pickup3][Thanking Lee for saving him 3 months ago] I know you didn't consciously choose to save me, but...
+28)  DOUG
+[pickup3][Thanking Lee for saving him 3 months ago] I still wish I wasn't the one you thought needed help, but...
+29)  
+I'm out of food.
+30)  
+Want some food? [Give Food]
+31)  LEE
+[flat]{normalD}Hey, Doug.
+32)  LEE
+[flat]{normalD}Hey, Doug.
+33)  DOUG
+[pickup3][standing up absentmindedly and hitting his head] Oof!  Ahh..ssss...[As in Family guy Knee gag, then with a bit of wincing] What's up, Lee?
+34)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Well, that's one more down.  Nine hungry people and only two pieces of food left.
+35)  LEE
+[pickup3][knowing there is only one more piece of food left]Hm.  Maybe I should keep this for myself?
+36)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]One more piece of food to give out, then it's all gone for today.
+37)  
+[Keep the last piece of food for yourself]
+38)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]I need to keep up my strength, too.
+39)  
+[Save the last piece of food for someone else]
+40)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nah.  Some of these people have gone longer than me without food.  They're the ones that need it.
+41)  LEE
+[pickup3][talking to doug about his alarm]So we'll know where they are and how long we have. Smart.
+42)  DOUG
+[pickup3][talking  about his alarm]I set up triplines at four locations, and each one triggers one of these four bells. So-
+43)  LEE
+[pickup3][talking to doug about his alarm]How does it work?
+44)  LEE
+[pickup3][talking about Dougs alarm]Does it work?
+45)  DOUG
+[pickup3][talking about Dougs alarm]It should.  We'll have to wait and see.
+46)  DOUG
+[pickup3][talking about Dougs alarm]I know it doesn't look like much, but the bells will ring when walkers get nearby.
+47)  LARRY
+[pickup3]Hey, if Dough-Boy doesn't want his food, hand it this way.
+48)  LEE
+[pickup3]It doesn't work like that.  I'll decide who gets the food.
+52)  LEE
+[pickup3]It doesn't work like that.  I'll decide who gets the food.
+49)  LARRY
+[pickup3]Well, decide smart.  You don't really want to piss me off, do you?
+50)  MARK
+[pickup3]Hey, if Doug doesn't want any food, I'll take it.
+51)  MARK
+[pickup3][appologetic]Right, I'm sorry. The hunger is just getting to me. I'll  let you do your job.
+53)  DOUG
+[pickup3][Thanking Lee for saving him 3 months ago]I know you wanted to save me AND Carley... But, well...
+54)  DOUG
+[pickup3][Thanking Lee for saving him 3 months ago] I know I said it didn't matter why you saved me and not Carley, but...
+55)  
+[Exit]

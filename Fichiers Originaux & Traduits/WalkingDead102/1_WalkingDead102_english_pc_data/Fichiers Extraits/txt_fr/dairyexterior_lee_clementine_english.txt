@@ -1,0 +1,132 @@
+1)  LEE
+[pickup3]Hey, Clem, do you like the swing?
+2)  CLEMENTINE
+[pickup3]Yeah!  It's fun!
+3)  CLEMENTINE
+[pickup3]Thanks for fixing it!
+4)  LEE
+[pickup3]You're welcome.
+5)  CLEMENTINE
+[pickup3]I will!
+6)  LEE
+[pickup3]Be sure to tell Andy "Thank you," okay?
+7)  CLEMENTINE
+[pickup3] Will you push me on it?
+8)  CLEMENTINE
+[pickup3] Will you push me on it?
+9)  
+Sure.
+10)  
+Maybe later.
+11)  CLEMENTINE
+[pickup3]Lee!  Will you push me again?
+12)  LEE
+[pickup3]Sure, happy to push you on the swing. [I'll push you on the swing Clem]
+13)  LEE
+[pickup3]Maybe later, okay?
+14)  CLEMENTINE
+[pickup3[bummed out] Oh.  Okay.
+15)  DUCK
+[Bummed]...Okay.
+16)  LEE
+[pickup3][turning to Kenny]Mind if Clementine takes a turn?
+17)  KENNY
+[pickup3]All right, Duck, let's let Clementine have a try for a bit.
+18)  LEE
+[PICKUp3]Mind if we cut in again?
+19)  KENNY
+[pickup3]All right, Duck, time to take a break.
+20)  
+How are you doing?
+21)  
+What do you think of the dairy?
+22)  
+We're safe here.
+23)  CLEMENTINE
+[pickup3][smiling] {HappyA}Okay.
+24)  CLEMENTINE
+[pickup3]{ThinkingA}I'm okay I guess. Are you okay?
+25)  LEE
+[pickup3]{HappyA}He got lucky out there. Could have been a lot worse.
+26)  CLEMENTINE
+[pickup3]{SadA}Be careful.  I wan't you to stay lucky, too.
+27)  LEE
+[pickup3]{ThinkingA}We have to make sure they don't hurt anyone else.
+28)  CLEMENTINE
+[pickup3]{SadA}Is Mark going to be okay?
+29)  LEE
+[pickup3]{Body-CrouchAxe}{ThinkingA}How are you holding up Clementine?
+30)  LEE
+[pickup3]{HappyB}Ever since I met you I've had good luck, so don't worry.
+31)  CLEMENTINE
+[pickup3] {ThinkingA}Are you going to find the people who hurt Mark?
+32)  LEE
+[pickup3]Yeah, I'm just a little worried about Mark.
+33)  CLEMENTINE
+[pickup3]{HappyA}It's pretty. It reminds me of how things used to look before.
+34)  CLEMENTINE
+[pickup3]{ThinkingA}Do you think things will ever get back to how they were?
+35)  LEE
+[pickup3]{HappyB}Yeah, it does.
+36)  LEE
+[pickup3]{Body-CrouchAxe}{ThinkingA}What do you think of the dairy?
+37)  
+Yes.
+38)  
+I'm not sure.
+39)  
+I don't think so.
+40)  LEE
+[pickup3]{Body-CrouchAxe}{HappyA}Yeah.  I'm not sure when, but one day things have got to get back to normal.
+41)  CLEMENTINE
+[pickup3]{HappyA}That's good. I hope it's soon.
+42)  LEE
+[pickup3]{HappyB}Me, too.
+43)  LEE
+[pickup3]{Body-CrouchAxe}{ThinkingA}I'm not sure, Clem. I hope so.
+44)  CLEMENTINE
+[pickup3]{SadA}I hope so, too.
+45)  LEE
+[pickup3] {SadA}I know , Clem.  I miss mine, too.
+46)  LEE
+[pickup3]{Body-CrouchAxe}{SadA}I don't think so.
+47)  CLEMENTINE
+[pickup3]{SadB}Oh.
+48)  CLEMENTINE
+[pickup3]{NormalA}Lee?
+49)  CLEMENTINE
+[pickup3]{SadA}I miss my family.
+50)  LEE
+[pickup3]{ThinkingA}Yeah?
+51)  CLEMENTINE
+[pickup3][After Lee is silent] {SadA}I miss the way things used to be.
+52)  LEE
+[pickup3]I promise.
+53)  CLEMENTINE
+[pickup3]As long as the bad people don't get me too, right?
+54)  LEE
+[pickup3]I won't let what happened to Mark happen to you.
+55)  CLEMENTINE
+[pickup3] Promise?
+56)  LEE
+[pickup3] {Body-CrouchAxe}{HappyB}Don't worry, we're safe here now.
+57)  LEE
+[pickup3]{NormalA}Yeah, I'm just a little worried about Mark.
+58)  CLEMENTINE
+[pickup3]Okay.
+59)  LEE
+[pickup3]{Body-CrouchAxe}{ThinkingA}I've got some things to take care of.  I'll be back in a bit.
+60)  CLEMENTINE
+[pickup3]Okay. Thanks for pushing me.
+61)  LEE
+[pickup3]All right, Clem, that's enough for now.
+65)  LEE
+[pickup3]All right, Clem, that's enough for now.
+62)  LEE
+[pickup3]Of course. [turns to Kenny] It's all yours!
+63)  DUCK
+Yeah!!
+64)  KENNY
+[pickup3][Duck reallly want to get back on the swing]Okay, Duck, don't pop a gasket.
+66)  CLEMENTINE
+[pickup3]Lee!  Will you push me?

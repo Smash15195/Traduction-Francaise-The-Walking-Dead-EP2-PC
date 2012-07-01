@@ -1,0 +1,418 @@
+1)  BEN
+{surprisedA} Bitten? No! I swear!
+2)  KENNY
+{disgustA} How the hell did he lose this much blood? {fearB} Was he bitten?
+3)  BEN
+[freaking out] Oh man, oh man....
+4)  BEN
+[freaking out] This can't be happening!
+5)  BEN
+[freaking out] Come on, DO something!
+6)  BEN
+[freaking out] Why would somebody do this?!
+7)  BEN
+[freaking out] Oh God, he can't die.
+8)  BEN
+[nervous] {sadC} O...okay.
+9)  LEE
+{sadA} Calm down, kid. We'll get him out of this.
+10)  BEN
+{sadC} Ah, crap. Okay.
+11)  LEE
+[stern] {angryA} Kid, we need you to keep an eye on those zombies.
+12)  LEE
+{angryC] Shut up!
+13)  BEN
+{fearD} Screw you, man! Just help him!
+14)  DAVID
+[in pain!] Get it off!!  Get it off, God Dammit, get it off me!!
+15)  MARK
+[Examining the leg in the bear trap] {fearB} Jesus Christ...
+16)  LEE
+{body-B}{ThinkingB}This is too much stuff for just one person.
+17)  LEE
+{body-B}{ThinkingA}We don't know whose camp this is. {SadA}Might not be bandits.
+18)  DANNY
+[disappointed] {body-A}{AngryB}God dammit.
+19)  DANNY
+{ThinkingB}What the hell did you do that for?
+20)  DANNY
+{body-A}{SurprisedA}Shit!
+21)  LEE
+{body-B}{SurpriseB}She was about to shoot us both!
+22)  DANNY
+{body-A}{AngryA}You could've just taken her down. {ThinkingA}You didn't have to kill her.
+23)  LEE
+{body-B}{AngryA}Justice. {ThinkingA}They've killed too many people.
+24)  DANNY
+{body-A}{SurprisedA}Jeez. {HappyA}Whatever, Tex.
+25)  LEE
+{body-B}{AngryC}You heard her. {SurpriseB}She was too far gone.
+26)  DANNY
+{body-A}{AngryA}She was a fuckin' freakshow, {SurprisedA}but you didn't have to kill her.
+27)  DANNY
+{body-A}{SadB}I mean, I know she was crazy {AngryB}but... damn!
+28)  DANNY
+{body-A}{AngryA}Lee, don't piss her off.
+29)  JOLENE
+{CrazyC}Killin' everywhere. {CrazyD}Take all the dead folks you want, we'll make more!
+30)  JOLENE
+{body-Crossbow}{HappyD}Like you could kill me. {CrazyA}They couldn't kill me. {CrazyD}They tried.
+31)  LEE
+{body-B}{AngryB}Screw this.
+32)  LEE
+{body-B}{SadB}Put down the crossbow.
+33)  JOLENE
+{body-Crossbow}{AngryB}No, sir, I need it.
+34)  LEE
+[angrily] {body-B}{AngryD}Enough!
+35)  DANNY
+[fed up]{body-A}{AngryB}Okay, fuck this shit!
+36)  MARK
+[weakly] Lee...
+37)  LARRY
+{ThinkingA}How on {HappyB}earth did y'all {HappyC}get barbecue meat?
+38)  DUCK
+[excited] {HappyB}Barbecue! Oh, boy!
+39)  LEE
+{AngryB}Let her go, Brenda!
+40)  KATJAA
+[scared]Please, listen to him!
+41)  LEE
+{FearA}Think about what you're doing. {SadC}It doesn't have to end like this.
+42)  ANDY
+[ambient conversation]What do you do for a living, Kenny?
+43)  KENNY
+[ambient conversation]I.. uh... I was a fisherman down in Fort Lauderdale.
+44)  DANNY
+[ambient conversation]If we were lucky we'd bring in a Sturgeon  or two, but man... Never been out in the deep sea.
+45)  DANNY
+[ambient conversation]Man, that sounds nice! Daddy used to take us out for large mouth bass when we were kids.
+46)  KENNY
+[ambient conversation]Commercially, Snapper and Yellow fin mostly. But in the summers I'd take tourists out for some sailfish!
+47)  KENNY
+[ambient conversation]I tell ya, there ain't nothing like fresh tuna straight from the sea - to the grill - to the plate!!  Especially the way Kat cooks it up!
+48)  KATJAA
+[ambient conversation]I met Ken after I opened my Veterinary office  and he came in with a sick octopus!
+49)  KENNY
+[ambient conversation]What?  Where else was i gonna take it?
+50)  DANNY
+[ambient conversation]Where are you from Katjaa?  That accent sure ain't from Georgia!
+51)  KATJAA
+[ambient conversation][friendly]No, definitely not!  My family is from Belgium, but we moved to Florida when I was in my teens.
+52)  KENNY
+[ambient conversation]Dan, did you always work here at the dairy?
+53)  DANNY
+[ambient conversation]Me?  no, that was Daddy's business.  I ran an insurance company over in Decatur.
+54)  KENNY
+[ambient conversation]I hear that.
+55)  DANNY
+[ambient conversation]Yeah, anyway, it was good business.  But when all this shit went down, I had to come home.  Family is more important, ya know?
+56)  ANDY
+[ambient conversation]Yeah, well Dan felt it would be best to get away from Macon for a while. Had some... trouble.
+57)  LILLY
+[ambient conversation]Decatur?
+58)  ANDY
+[ambient conversation]Well, I took over as business manager eventually. Put that college degree to work.
+59)  KATJAA
+[ambient conversation]What did you do before that?
+60)  ANDY
+[ambient conversation]	I had a real estate business, but, you know... in this economy...
+61)  DANNY
+[ambient conversation]Yeah, Daddy always wanted you to take over anyway.
+62)  ANDY
+[ambient conversation]Just worked out that way, Dan.
+63)  LARRY
+[ambient conversation]How long have ya had this Dairy?
+64)  ANDY
+[ambient conversation]Long as I can remember.  We grew up here.  Dan and I helped out where we could, but really this was a Mom and Pop business.
+65)  LILLY
+[ambient conversation]So you two didn't work here?
+66)  ANDY
+[ambient conversation]	So how long have you been a vet?
+67)  DANNY
+[ambient conversation]You work with many farm animals?
+68)  KATJAA
+[ambient conversation][trying to think back] Ooh... well... a long time now.
+69)  KATJAA
+[ambient conversation]Early in my training I did, but them mostly it was household pets.
+70)  KATJAA
+[ambient conversation]I started working in a veterinarian  office in my twenties, then got my license a few years later.
+71)  KATJAA
+[ambient conversation]Oh yes. Wildlife Rescue center was always bringing their injured alligators to me to get patched up before releasing them.
+72)  DUCK
+[ambient conversation]And alligators!
+73)  CLEMENTINE
+[ambient conversation]Nu uh!
+74)  LILLY
+[ambient conversation]So that fence does a good job of keeping the walkers out, huh?
+75)  DUCK
+[ambient conversation]Once, my dad smashed one in the face with a TV!
+76)  DUCK
+[ambient conversation]Sorry.
+77)  ANDY
+[ambient conversation]Yeah. Unfortunately we lost most of our livestock before we managed to get the thing rigged up.
+78)  KATJAA
+[ambient conversation]Kenny Jr!  That is not appropriate talk at the dinner table.
+79)  DANNY
+[ambient conversation][mumbled]Damned walkers.
+80)  KENNY
+[ambient conversation]Our hunting trips have turned up nothing. The walkers are eating anything living they can get their teeth into.
+81)  DANNY
+[ambient conversation]	Well, ya just have to know what to hunt.  There's meat out there that'll keep you alive if ya know what to look for.
+82)  KATJAA
+[ambient conversation]Thanks again for this meal.  You have no idea how longs it's been!
+83)  KENNY
+[ambient conversation]how have you folks managed to find food?
+84)  ANDY
+[ambient conversation]And what do you do Miss Lilly?
+85)  LARRY
+[ambient conversation]	Lilly's a military woman.  Takes after her old man.
+86)  DANNY
+[ambient conversation]That right?  Ever see any action?
+87)  LILLY
+[ambient conversation][blunt, emotionless]I have.
+88)  LARRY
+[ambient conversation]	Son, you don't ever ask a soldier that question, got it?
+89)  LARRY
+[ambient conversation]All you need to know is that you don't wanna fuck with her. Period.
+90)  LILLY
+[ambient conversation]Dad...
+91)  DANNY
+[ambient conversation]Yeah, I'm sorry.
+92)  ANDY
+[ambient conversation]	Don't pay my brother no mind.  I swear he makes a hobby of chewing his own foot.
+93)  ANDY
+[ambient conversation]So did ya'all know each other before the outbreak?
+94)  LILLY
+[ambient conversation]No. We just sort of found ourselves thrown together.
+95)  LILLY
+[ambient conversation]But now we've gotta stick together if we're gonna survive.
+96)  ANDY
+[ambient conversation]	I hear ya.  Ya gotta know when to make sacrifices for the greater good, ya know.
+97)  KENNY
+[ambient conversation]It ain't right though.  No kid should have to see the things they've seen.
+98)  KATJAA
+[ambient conversation]Kids are resilient, you know?  I hate that this is the way they have to grow up, but under the circumstances, I think they are doing well.
+99)  DANNY
+[ambient conversation]How have the kids been dealing with ...everything?
+100)  DANNY
+[ambient conversation]Maybe I should check on him?
+101)  KATJAA
+[ambient conversation]Let the man clean up. He'll be done in a minute.
+102)  DUCK
+[ambient conversation]Are we gonna eat soon, momma?
+103)  LARRY
+[ambient conversation]How long does it takes to wash your damn hands?
+104)  KATJAA
+[ambient conversation]As soon as Lee gets back.
+105)  ANDY
+[ambient conversation]Yeah, Maybelle is the only one we have left.
+106)  DANNY
+[ambient conversation][cont.] She provides the milk.
+107)  CLEMENTINE
+[ambient conversation]I like your cow.  She's pretty.
+108)  DANNY
+[ambient conversation]That's why we need Katjaa's help.
+109)  DANNY
+[ambient conversation]We'd love to have another healthy calf, but we mostly want to make sure maybelle is okay.
+110)  LEE
+[pickup1][hushed but shocked!] Mark?!  What the hell happened?!!
+111)  MARK
+[pickup1][weakly..drugged, trying to tell Lee what happened] ... brothers...
+112)  LILLY
+Dad! Please, stop!
+113)  LARRY
+[Having a heart attack!] Hrrrgggttt!!!   Oh God...
+114)  LILLY
+[panicked] DAD?!
+115)  LILLY
+[worried] No! Dad, come on! DAD!
+116)  LILLY
+Oh God, he's stopped breathing. I think he's had a heart attack!
+117)  KENNY
+Shit!  Is he dead?
+118)  LILLY
+[anguished] Medicine? You had medicine?! You BASTARD!
+119)  LEE
+I...
+120)  LILLY
+[pickup2] [pissed] Don't talk to me, Lee. Don't fucking talk to me.
+121)  LEE
+[pickup2] Lilly, I-
+122)  LILLY
+He's not dead.  Somebody help me!
+123)  KENNY
+[realizing that Larry may turn zombie]Fuuuuuuck... if he's dead...
+124)  LILLY
+HE'S NOT DEAD!
+125)  LEE
+We can't kill him if he's not dead, Kenny!
+126)  KENNY
+[successfully pulling the AC off the wall]
+127)  KENNY
+[A little brethless/ slightly hushed]Well there's our way out, Lee.
+128)  CLEMENTINE
+{sadA}I had it a couple days ago.
+129)  LEE
+{normalC}When did you lose it?
+130)  LEE
+{normalD}Do you really need it?
+131)  LEE
+{sadA}Sorry, hon, I don't have time.
+132)  CLEMENTINE
+[annoyed] {angryA}Lee!
+133)  CLEMENTINE
+[annoyed] {angryA}Lee!
+134)  CLEMENTINE
+{sadA}I'm really hungry, Lee.
+135)  LEE
+{normalD}How are you doing, Clementine?
+136)  LILLY
+{normalB}If the hunting trips nearby don't work, we'll just have to head farther out.
+137)  LILLY
+{angryB}But this is a good spot.  {normalB}We're protected, we're close to the drug store, {thinkingA}we have a routine now and it's working.
+138)  LILLY
+{angryA}God, not you too.  I know kenny wants to leave.  I think that's why he's so eager to get the RV working.
+139)  LEE
+{normalC}These generators are enough to power the whole dairy?
+140)  LEE
+{normalD}Is it just the three of you here?
+141)  ANDY
+{normalA}'Fraid so. {sadA}We lost Daddy the first month.
+142)  ANDY
+{angryA}Then we had some run-ins with the fuckin' bandits about a month and a half ago, {sadA}killed one of the hands.
+143)  ANDY
+{angryA}Then HE came back and took out the rest of the hands before we could stop him.
+144)  LEE
+{thinkingB}An electric fence is enough to keep out walkers?
+145)  ANDY
+{happyC}Walkers? {happyB}Is that what you call them? That's good. [beat] {normalC}The old one wouldn't have, but Mac -- he was our foreman -- {happyA}he figured out how to amp it up with the generators.
+146)  ANDY
+{happyB}We used to sit out here some nights and watch the sons o' bitches sizzle and pop when they got too close.
+147)  ANDY
+{happyA}Closest thing to entertainment these days, I guess.
+148)  LEE
+{normalD}Can we help out with the fence?
+149)  ANDY
+{normalB}Actually, yeah. {normalA}A couple of walkers managed to get in while the generators were out of gas.
+150)  DANNY
+{normalC}Remember: we're just doing reconnaissance for now. No use getting ourselves killed.
+151)  DANNY
+{normalC}What do you think of the place?
+152)  LEE
+{normalA}It's beautiful.
+153)  LEE
+{normalC}How?
+154)  DANNY
+{normalC}It's cool.  {normalB}You don't have to decide right now.  {normalA}But don't wait too long or you may not have a choice.
+155)  BRENDA
+Sittin' out here, looking over the farm, I can pretend that things are like they used to be.
+156)  BRENDA
+[pickup2]That's the world we're living in now, I guess.
+157)  LEE
+I'd still like to check on him.
+158)  BRENDA
+[pickup2]You're gonna have to trust me on this one, Lee.  I've helped stitch my share of wounds...I know what I'm talking about.
+159)  BRENDA
+Just you wait, Lee, things are gonna seem so much nicer once you've all had supper and a good night's rest.
+160)  BRENDA
+[pickup2][friendly]Please! After what we've been through...you can call me Brenda!
+161)  LEE
+[pickup2][initiating conversation]Mrs. St. John...
+162)  LEE
+[pickup2][initiating conversation] Pardon me, Brenda...
+163)  BRENDA
+[pickup2][friendly]What's on your mind, Lee?
+164)  ANDY
+{happyB}Here it is.  St. John's family dairy.  {normalC}It ain't much, {happyA}but it's kept us safe so far.
+165)  MARK
+{happyA}It's beautiful.
+166)  DUCK
+[scared whimpering as he's held at gunpoint]
+167)  LEE
+[Calling out, firm] {AngryC} Andy!
+168)  BEN
+[quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them
+169)  LEE
+[quiet]{NormalC}Do you have a weapon?
+170)  BEN
+{disgustA}It's not the bite that does it! {fearA}Yeah, the bite will kill you, but...
+171)  KENNY
+[furious] {angryC}You said he wasn't bitten!
+172)  BEN
+{disgustA}You come back no matter how you die.  {sadB}If you don't destroy the brain, {disgustA}that's just what happens.  {sadC}That's what's gonna to happen to ALL of us.
+173)  LEE
+[a bit out of breath]{normalD} Thanks.
+174)  LEE
+[Shouting] The Axe!  Hurry!!
+175)  DUCK
+{happyA}Okay.  Me and Clementine are coloring.
+176)  DUCK
+{thinkingA}Yeah.  When are we gonna get some food?
+177)  LEE
+{happyA}The wall's looking good, Doug.
+178)  DOUG
+{happyA}Thanks. {normalA}I also worked up a little "early warning system" for outside.
+179)  LEE
+{thinkingA}Early warning system?
+180)  DOUG
+{thinkingA}Well... it's just string with some cans attached, buy hey, it works.
+181)  LEE
+[flat]{normalD}Hey, Doug.
+182)  CLEMENTINE
+[to ben; quizzing him about her drawing] {normalC}Guess what it is?
+183)  BEN
+[still a little out of sorts; guessing what clems picture is of]{sadA} I don't know... a dog?
+184)  CLEMENTINE
+{happyB}Nope.
+185)  DUCK
+{happyB}Oh, I know!  It's a goat, right?
+186)  LEE
+{normalD}Thanks for keeping the kids over here.
+187)  CARLEY
+{happyB}Yeah, well, my instinct was to run over and get the story.  But ... {sadA}yeah... the kids didn't need to see that.
+188)  CARLEY
+{thinkingA}Oh, and do me a favor and talk to Lilly about getting some rest.  {angryA}You and I are supposed to be on watch together tonight.  I need you sharp.
+189)  DOUG
+{sadA}Hey, I owe you a lot more than a half eaten candy bar.  Take it.
+190)  LEE
+{sadA}Thanks. {thinkingA}I appreciate it.
+191)  LEE
+{sadB}Keep it.
+192)  DOUG
+{fearA}You look like crap, Lee. When was the last time you ate?
+193)  CARLEY
+{thinkingA}You look like crap, Lee. When was the last time you ate?
+194)  LEE
+[Don't worry about me]{sadA}I'm okay.
+195)  CARLEY
+{disgustA}I want you to have this, okay? In case you or Clementine starts feeling weak.
+196)  LEE
+{sadA}You don't owe me anything, Carley.
+197)  LEE
+[friendly, talking to Duck]{normalD}Have I missed anything?
+198)  DUCK
+No, not really.
+199)  DUCK
+[sniffs the air] You smell funny.
+200)  KATJAA
+[pickup1]Kids! [dont be rude!...and stop giggling over the word Doo-Dee!]
+201)  CLEMENTINE
+[pickup1][giggles at the word "doo-dee"]
+203)  DUCK
+[pickup1][giggles at the word "doo-dee"]
+202)  CLEMENTINE
+[pickup1][whispered] Doo-dee!
+204)  DUCK
+[pickup1][confused]What's "manure"?
+205)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn][proud that she learned a new word]...Like manure!
+206)  CLEMENTINE
+[pickup1][sad and embarased after being scolded about using swear words]Okay.
+207)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]Like... Shit, right Lee?
+208)  LEE
+[pickup1][after Clem says something smells like "shit"] Hey, don't use swear words, okay?
+209)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]...Like doo-dee!

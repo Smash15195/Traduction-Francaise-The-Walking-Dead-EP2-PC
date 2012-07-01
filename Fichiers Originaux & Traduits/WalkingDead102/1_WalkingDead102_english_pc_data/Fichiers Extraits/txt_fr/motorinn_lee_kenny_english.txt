@@ -1,0 +1,150 @@
+1)  KENNY
+[pickup2][Conversation with Lee about leaving the Motel]You told Glenn he was making the wrong call, too.  Maybe he was and maybe he wasn't.  And maybe we'll never know, but at least we gotta be ready.
+2)  KENNY
+[pickup2][Conversation with Lee about leaving the Motel] "You gotta do what you gotta do." That's what you told Glenn, right?
+3)  LEE
+[pickup2][Conversation with Kenny about leaving the Motel]Yeah, but he was leaving to find his friends.  Your family's right here.
+4)  KENNY
+[pickup2][Conversation with Lee about leaving the Motel]You gave Glenn your blessing when he left, I'm just asking you respect my choice as well.
+5)  KENNY
+[pickup3][Conversation with Lee about leaving the Motel/  blowing the whole conversation off]Well, the RV ain't even working yet so there's no point in talking about it right now.
+6)  LEE
+[pickup2][Conversation with Kenny about leaving the Motel]Fair enough.
+7)  
+[Give Half an Apple]
+8)  
+[Give Piece of Jerky]
+9)  
+[Give Crackers and Cheese]
+10)  
+[Give Crackers and Cheese]
+11)  LEE
+[pickup 2] Here, Kenny, take this.
+12)  KENNY
+[pickup 2]How about my boy? He eat yet?
+13)  LEE
+[pickup 2] Here Kenny, take this. We need you at your best.
+14)  KENNY
+[pickup 2] How about my boy? He eat yet?
+15)  KENNY
+[pickup 2] Then I truly appreciate you taking care of us, Lee.
+16)  LEE
+[pickup 2] Yeah, I gave him something.
+22)  LEE
+[pickup 2] Yeah, I gave him something.
+72)  LEE
+[pickup 2] Yeah, I gave him something.
+17)  LEE
+[pickup 2] [a little uneasy]Uh... No.
+18)  KENNY
+[pickup 2] Come talk to me once my boy's taken care of.
+21)  KENNY
+[pickup 2] Come talk to me once my boy's taken care of.
+19)  KENNY
+[pickup 2] Sure, then hand it over, I'm starved. Thanks.
+71)  KENNY
+[pickup 2] Sure, then hand it over, I'm starved. Thanks.
+20)  LEE
+[pickup 2] [a little uneasy] No.
+23)  LEE
+[pickup 2] I didn't have enough for everybody. I thought you could handle yourself.
+24)  KENNY
+[pickup 2] Hey, you took care of my boy. As far as I'm concerned you did right by me.
+25)  KENNY
+[pickup 2] You could've at least had the decency to give some food to Duck.  Use your head, Lee.
+26)  LEE
+[pickup 2]  Lilly has a point about these new people being extra mouths to feed.
+27)  LEE
+[pickup 2]  [leaving conversation] Let's hope things turn for the better soon.
+28)  KENNY
+[pickup 2] Now there's a statement I can get behind.
+29)  KENNY
+[pickup2]I know, but... maybe the problem isn't that there isn't any food, there just isn't any HERE!  We've gotta think about moving on.
+30)  KENNY
+[pickup2]That ain't no secret, Lee.  It's probably our best bet.
+31)  LEE
+[pickup2]Word's gettin' out that you wanna leave the motor inn.
+32)  LEE
+[pikcup2]I'm not sure that's the best idea.
+33)  
+Lilly's right about these new people...
+34)  
+Talk To
+35)  
+Give Food To
+36)  LEE
+Want something to eat?
+75)  LEE
+Want something to eat?
+37)  
+There's not enough food for you...
+38)  
+Want some food? [Give Food]
+39)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Well, that's one more down.  Nine hungry people and only two pieces of food left.
+40)  LEE
+[pickup3][knowing there is only one more piece of food left]Hm.  Maybe I should keep this for myself?
+41)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]One more piece of food to give out, then it's all gone for today.
+42)  
+[Keep the last piece of food for yourself]
+43)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]I need to keep up my strength, too.
+44)  
+[Save the last piece of food for someone else]
+45)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nah.  Some of these people have gone longer than me without food.  They're the ones that need it.
+46)  KENNY
+[pickup3]Look, you've been good to me and my family.  You saved Duck from those monsters, and ya stood up to Larry at the drugstore.    I won't forget that.  You and Clem are welcome to come with us.
+47)  KENNY
+[pickup3][Letting Lee down, awkwardly refusing Lee a ride]Listen.  I gotta look out for my family.  I gotta know that whoever I take with me is gonna be looking out for Kat and Duck.
+48)  KENNY
+[pickup3][cutting Lee off - Arguing, but NOT getting heated, keeping it in a low tone]Once at Hershel's farm and then again with Larry at the drugstore.
+49)  LEE
+[pickup3][asking Kenny if he'll take Lee and Clem along in the RV once it's fixed] Got room for me and Clem in there?
+50)  LEE
+[pickup3][attempting to defend his actions when not saving Duck]Wait, I know that-
+51)  LEE
+[pickup3][attempting to defend his actions when not saving Duck]I didn't-
+52)  KENNY
+[pickup3][cutting Lee off - Arguing, but NOT getting heated, keeping it in a low tone]Lee, you left Duck in danger twice!
+53)  LEE
+[pickup3]Oye, Kenny.
+54)  KENNY
+[pickup3] ¿Qué estás pensando, Lee?
+55)  LEE
+[pickup3]The guy in the beartrap.  You think we gave up too early?  I think if I had just another minute or two...
+56)  KENNY
+[pickup3]You saw that guy. His leg was completely mangled.  Even if you got him out what then?  I had my family in mind and you gotta think of Clementine.  We gotta stay alive for them.
+57)  LEE
+[pickup3]Thanks for buying me time to get that guy out of the bear trap back there.
+58)  KENNY
+[pickup3]I can't believe you cut off his leg.  I don't know if I coulda done it.
+59)  LEE
+[pickup3]I didn't have a choice.  It was that or the walkers.
+60)  
+About the guy in the bear trap...
+61)  KENNY
+[pickup3]Well, "here" isn't doing us any good.  You should think about coming with us.  You and Clem.
+62)  LEE
+[pickup3][urging Kenny to stay with the group]We need you here. We have a better chance of surviving as a group.
+63)  KENNY
+[pickup3]Our BEST chance of surviving is to get away from the mainland!  My mind is made up.
+64)  KENNY
+[pickup3][confident that leaving is for the best] I know that it is.  I'm taking my family.
+65)  LEE
+[pickup3]The coast does sound like a smart idea.  Maybe that is the best thing.
+66)  LILLY
+[pickup3][Seeing Lee give Kenny food]How's it going Lee?  From up here it looks like you're playing favorites.
+67)  
+[Exit]
+68)  
+You should stay here.
+69)  
+The coast does sound like a smart idea.
+70)  LEE
+Back in a bit.
+73)  LEE
+Back in a bit.
+74)  KENNY
+[pickup2] Whatever.

@@ -1,0 +1,98 @@
+1)  
+[Give Half an Apple]
+2)  
+[Give Piece of Jerky]
+3)  
+[Give Crackers and Cheese]
+4)  
+[Give Crackers and Cheese]
+5)  LEE
+[pickup 2]  Here, eat something.
+49)  LEE
+[pickup 2]  Here, eat something.
+6)  MARK
+[pickup 2]  Thanks, Lee.
+7)  MARK
+[pickup 2] [a little surprised at Lee's generosity] Wow. Thanks a lot, that's awesome.
+8)  LEE
+[pickup 2]  I got you an apple.
+9)  LEE
+[pickup 2] Sorry there wasn't enough food to go around.
+10)  MARK
+[pickup 2]  	I understand. Got to be hard to make those decisions. Just, get me next time.
+11)  LEE
+[pickup 2]Lilly's pretty pissed at us.
+12)  MARK
+[pickup 2] Well...what did she want us to do, just leave a couple of teenagers to the walkers?
+13)  MARK
+[pickup 2] We'll get it.
+14)  LEE
+[pickup 2]Well, good luck with that wall.
+15)  MARK
+[pickup 2] Listen, I know her intentions are good, but-
+16)  LARRY
+[pickup2][defending his daughter] [Leaving those teeneages to the walker is-]That's exactly what you should have done.
+17)  LEE
+[pickup2]Need any help with the wall?
+18)  MARK
+[pickup2]Actually... we need some real tools to repair the wall.  Can ya lend Larry the axe?
+19)  LARRY
+[pickup2][flat] Nope.
+20)  LEE
+[pickup2][casual. Talking to Mark at Motel]You ever miss the Air Force base?  I mean this wall isn't exactly military standard.
+21)  MARK
+[pickup2]No way I'm going back there. You saw what it was like when you guys picked me up. {sadA} Completely overrun.
+22)  LARRY
+[pickup2][looking for his food for the day from Lee]Hey, where's mine?
+23)  LEE
+[pickup2] Sorry Larry, I'm out.  That's all there was.
+24)  LARRY
+[pickup2][after not being given food because Lee is "All Out"]Oh really?  Well, that's convenient.
+25)  LARRY
+[pickup2][defending Lilly]But nothing!  She's making the smart choice.  Those parasites you guys brought back need to go!
+26)  
+Ever miss the Air Force base?
+27)  
+Lilly's pretty pissed at us.
+28)  
+Talk To
+29)  
+Give Food To
+30)  MARK
+Actually, we could use your axe.  You mind if we take it?
+31)  
+Sorry, I'm out of food.
+32)  
+Want some food? [Give Food]
+33)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Well, that's one more down.  Nine hungry people and only two pieces of food left.
+34)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]One more piece of food to give out, then it's all gone for today.
+35)  LEE
+[pickup3][knowing there is only one more piece of food left]Hm.  Maybe I should keep this for myself?
+36)  
+[Keep the last piece of food for yourself]
+37)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]I need to keep up my strength, too.
+38)  
+[Save the last piece of food for someone else]
+39)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nah.  Some of these people have gone longer than me without food.  They're the ones that need it.
+40)  LEE
+[pickup3][casual/tired]Yeah.  I just hope Katjaa can save him.
+41)  MARK
+[pickup3][greeting Lee]Hey.  You holding up okay Lee?  That was pretty fucked up back there.  Having to cut that guy's leg off.
+42)  MARK
+[pickup3]Hey, you know it was an accident right.  I didn't mean to shoot him.
+43)  LEE
+[pickup3] I know.  It was crazy back there.  The kid acted stupid.
+44)  MARK
+[pickup3][Gretting Lee, whorried about the shot kid]Hey, will the kid make it?
+45)  LEE
+[pickup3]I don't know. [If travis will make it]
+46)  
+[Exit]
+47)  LEE
+Back in a bit.
+48)  LEE
+Sorry.

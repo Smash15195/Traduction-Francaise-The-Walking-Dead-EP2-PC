@@ -1,0 +1,82 @@
+1)  
+Carley
+2)  
+Clementine
+3)  
+Doug
+4)  
+Duck
+5)  
+Kenny
+6)  
+Larry
+7)  
+Lilly
+8)  
+Katjaa
+9)  
+Zombie
+10)  
+Look At
+11)  
+Talk To
+12)  
+Use
+13)  
+Take
+14)  
+Open
+15)  
+Move To
+16)  
+Push
+17)  
+Unlock
+18)  
+Search
+19)  
+Look Through
+20)  
+Exit
+32)  
+Exit
+21)  
+Examine
+22)  
+Move
+23)  
+Help
+24)  
+Hit
+25)  
+Pick Up
+26)  
+Pull
+27)  
+...
+28)  
+Stomp
+29)  
+TO BE CONTINUED...
+30)  
+Ben
+31)  
+Chop
+33)  
+Danny
+34)  
+Andy
+35)  
+Mark
+36)  
+Brenda
+37)  
+Jolene
+38)  
+Close
+39)  
+Eat
+40)  
+Look Under
+41)  
+Back

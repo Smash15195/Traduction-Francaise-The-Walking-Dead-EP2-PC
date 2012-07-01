@@ -1,0 +1,166 @@
+1)  KATJAA
+[pickup2][Scared for her life]Lee!
+2)  LEE
+[pickup2][In STERN negotiations with Brenda who has Katjaa hostage.]Let her go, Brenda!
+3)  BRENDA
+[pickup2]{FearC}Stay back!
+4)  BRENDA
+[pickup2][Stern, but scared and angry that Lee ruined everything by discovering mark/david]You just HAD to go snooping around, didn't you?!
+5)  KATJAA
+[pickup2][Gasps as Katjaa grabs her and puts a gun to her head!]
+6)  BRENDA
+[pickup2][Stern!! scared for her life, threatening Lee!!] {FearB}Stop right there!  {SadC}I mean it!
+7)  BRENDA
+[pickup2][STERN!! scared for her life, threatening Lee!!] {AngryD}Stay back!  {FearC}Don't do anything stupid.
+8)  BRENDA
+[pickup2][STERN!! scared for her life, threatening Lee!!] {SadD}I don't want to kill you, Lee!!
+9)  BRENDA
+{pickup2}[Shouting, scared, and breaking down after shooting lee]  I told you to stop!!  I told you!!
+10)  KATJAA
+[pickup2][Seeing Lee get shot!!] {FearD}No, LEE!
+11)  KATJAA
+[pickup2][Seeing Lee get shot!!] {FearD}Nooo!!!
+12)  BRENDA
+[pickup2][trying to controll the situation, after Telling Lee to STOP and he did.]{AngryA}That's it.  {AngryB}Nice and calm...
+13)  BRENDA
+[pickup2][trying to controll the situation, after Telling Lee to STOP and he did.]Just leave us alone, now!
+14)  BRENDA
+[screaming in pain] {FearD}Ahhhhhhh!
+15)  KATJAA
+[pickup2][panicked!! Just having broken free from Brenda] {FearC}They took Duck! Where's Kenny!?
+16)  KATJAA
+[pickup2][hearing Andy threaten Kenny outdise the house, realizing her baby  boy is in danger] {FearC}Oh my god!
+17)  KENNY
+[pickup2][process: outside the house][shouting at Andy to Let Duck go]Don't you fucking hurt him!!!
+18)  ANDY
+[pickup2][process: outside the house][threating Kenny, yelling]I said don't move, asshole!
+19)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Think of your husband, Brenda!  {AngryB}Would he have wanted {SadB}his Dairy turned into a...{FearA}a slaughterhouse??!
+25)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Think of your husband, Brenda!  {AngryB}Would he have wanted {SadB}his Dairy turned into a...{FearA}a slaughterhouse??!
+57)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Think of your husband, Brenda!  {AngryB}Would he have wanted {SadB}his Dairy turned into a...{FearA}a slaughterhouse??!
+20)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Danny was {AngryB}a twisted man, Brenda!!  {AngryA}Is he the one that started all of this?!
+21)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{NormalD}Your boys... {SadB}they care about you a lot!  {ThinkingB}Now think about Duck{FearA} growing up without his mother!
+22)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}What happened, Brenda?  {ThinkingB}Your family was obviously smart!  {SadB}How did it come to this?!
+26)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}What happened, Brenda?  {ThinkingB}Your family was obviously smart!  {SadB}How did it come to this?!
+62)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}What happened, Brenda?  {ThinkingB}Your family was obviously smart!  {SadB}How did it come to this?!
+23)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{AngryA}You keep these things {DisgustB}to remember better times!  {AngryC}Don't corrupt those memories with this!! [this=  this whole messed up situation!]
+24)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}This dairy was your pride!  {AngryC}Look what you've done to it!!
+27)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}This dairy was your pride!  {AngryC}Look what you've done to it!!
+67)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}This dairy was your pride!  {AngryC}Look what you've done to it!!
+28)  LEE
+{FearA}Think about what you're doing. {SadC}It doesn't have to end like this.
+54)  LEE
+{FearA}Think about what you're doing. {SadC}It doesn't have to end like this.
+29)  LEE
+{AngryB}Let her go, Brenda!
+60)  LEE
+{AngryB}Let her go, Brenda!
+30)  KATJAA
+[scared]Please, listen to him!
+58)  KATJAA
+[scared]Please, listen to him!
+31)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Get back!
+32)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll kill her, Lee!
+33)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll kill her, Lee!
+53)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll kill her, Lee!
+55)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll kill her, Lee!
+34)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll do it!
+59)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll do it!
+35)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Just stop!
+36)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Just stop!
+63)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Just stop!
+65)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Just stop!
+37)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] I mean it!
+66)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] I mean it!
+38)  KATJAA
+[pickup1][ambient pleading with Brenda] Don't do this...
+56)  KATJAA
+[pickup1][ambient pleading with Brenda] Don't do this...
+39)  KATJAA
+[pickup1][ambient pleading with Brenda] Brenda, please...
+64)  KATJAA
+[pickup1][ambient pleading with Brenda] Brenda, please...
+40)  KATJAA
+[pickup1][ambient pleading with Brenda] Just let me go...
+52)  KATJAA
+[pickup1][ambient pleading with Brenda] Just let me go...
+41)  KATJAA
+[pickup1][ambient pleading with Brenda] Please...
+61)  KATJAA
+[pickup1][ambient pleading with Brenda] Please...
+42)  LEE
+[pickup 3] [trying to calm Brenda, who has Katjaa hostage, down] Brenda, come on, now, you know you don't want to do this.
+43)  BRENDA
+[pickup 3] [panicked] Lee, please don't you take another step!
+44)  BRENDA
+[pickup 3] [to Lee, pleading and scared] Just go away and leave us be!
+45)  LEE
+[pickup3]Give me the gun and {AngryB}let her go.
+46)  LEE
+[pickup3]Put the gun down, bitch!!
+47)  LEE
+[pickup3]I'll kill all of you!  Every last one!!
+48)  LEE
+[pickup3]You don't have the GUTS!
+49)  
+You don't have the GUTS!
+50)  
+I'll kill all of you!
+51)  
+Put the gun down, bitch!!
+68)  
+It doesn't have to end like this.
+69)  
+Think of your husband, Brenda!
+70)  
+Let her go, Brenda.
+71)  
+How did it come to this?!
+72)  LEE
+[pickup3]Please, don't make this any worse.
+73)  
+This dairy was your pride!
+74)  
+Please, don't make this any worse.
+75)  BRENDA
+[pickup3][horrified screams 1]
+76)  BRENDA
+[pickup3][shooting lee]I said DON'T!!
+77)  BRENDA
+[pickup3][horrified screams 3]
+78)  BRENDA
+[pickup3][horrified screams 2]
+79)  BRENDA
+[pickup3]STOP!
+80)  BRENDA
+[pickup3][shooting lee]You ruined everything!!
+81)  BRENDA
+[pickup3][shooting lee]You don't deserve to live!
+82)  BRENDA
+[pickup3][shooting lee]Screw you!
+83)  BRENDA
+[pickup3][shooting lee]Damnit, Lee!!
