@@ -1,8 +1,0 @@
-1)  DANNY
-{normalC}On dirait qu'on peut l'utiliser.
-2)  ANDY
-{normalC}Nous avons un peu de nourriture que nous pourrions partager.
-3)  ANDY
-{happyB}Nous sommes de la Laiterie Saint-John.
-4)  LEE
-{thinkingB}D'où viennent ces types ?
