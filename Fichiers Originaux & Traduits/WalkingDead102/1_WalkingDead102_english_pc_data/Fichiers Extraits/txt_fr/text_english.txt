@@ -17,47 +17,47 @@ Katjaa
 9)  
 Zombie
 10)  
-Look At
+Regarder
 11)  
-Talk To
+Parler à
 12)  
-Use
+Utiliser
 13)  
-Take
+Prendre
 14)  
-Open
+Ouvrir
 15)  
-Move To
+Aller vers
 16)  
-Push
+Pousser
 17)  
-Unlock
+Déverrouiller
 18)  
-Search
+Rechercher
 19)  
-Look Through
+Regarder à Travers
 20)  
-Exit
+Quitter
 32)  
-Exit
+Quitter
 21)  
-Examine
+Examiner
 22)  
-Move
+Déplacer
 23)  
-Help
+Aider
 24)  
-Hit
+Frapper
 25)  
-Pick Up
+Ramasser
 26)  
-Pull
+Tirer
 27)  
 ...
 28)  
-Stomp
+Écraser
 29)  
-TO BE CONTINUED...
+A SUIVRE...
 30)  
 Ben
 31)  
@@ -73,10 +73,10 @@ Brenda
 37)  
 Jolene
 38)  
-Close
+Fermer
 39)  
-Eat
+Manger
 40)  
-Look Under
+Regarder sous
 41)  
-Back
+Retour

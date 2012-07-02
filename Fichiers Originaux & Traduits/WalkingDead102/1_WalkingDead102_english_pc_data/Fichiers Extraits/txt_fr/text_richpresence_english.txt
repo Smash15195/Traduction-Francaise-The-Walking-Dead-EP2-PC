@@ -1,17 +1,17 @@
 1)  
-Main Menu
+Menu principal
 2)  
-Episode 1:
-A New Day
+Épisode 1:
+Un Nouveau Jour
 3)  
-Episode 2:
-Starved For Help
+Épisode 2:
+Besoin d'Aide Désespérément
 4)  
-Episode 3:
-Long Road Ahead
+Épisode 3:
+Une Longue Route
 5)  
-Episode 4:
-Around Every Corner
+Épisode 4:
+A Chaque Détour
 6)  
-Episode 5:
-No Time Left
+Épisode 5:
+Plus de Temps
