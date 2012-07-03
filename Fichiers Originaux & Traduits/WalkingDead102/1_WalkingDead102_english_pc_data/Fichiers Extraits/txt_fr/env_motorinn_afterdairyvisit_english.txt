@@ -1,0 +1,26 @@
+1)  LEE
+[friendly, talking to Duck]{normalD}Have I missed anything?
+2)  DUCK
+No, not really.
+3)  DUCK
+[pickup2][sniffs the air] It smells funny in here.
+4)  KATJAA
+[pickup1]Kids! [dont be rude!...and stop giggling over the word Doo-Dee!]
+5)  CLEMENTINE
+[pickup1][giggles at the word "doo-dee"]
+7)  DUCK
+[pickup1][giggles at the word "doo-dee"]
+6)  CLEMENTINE
+[pickup1][whispered] Doo-dee!
+8)  DUCK
+[pickup1][confused]What's "manure"?
+9)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn][proud that she learned a new word]...Like manure!
+10)  CLEMENTINE
+[pickup1][sad and embarased after being scolded about using swear words]Okay....
+11)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]Like... shit, right Lee?
+12)  LEE
+[pickup3][after Clem says something smells like "shit"] Hey, don't use swear words, okay?
+13)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Like doo-dee!
