@@ -1,15 +1,15 @@
 1)  BEN
-{surprisedA} Mordu? Non! Je le jure!
+{surprisedA} Mordu ? Non ! Je le jure !
 2)  KENNY
-{disgustA} Comment, bon dieu, a t'il pu perdre autant de sang? {fearB} Est-ce qu'il a été mordu?
+{disgustA} Comment, bon dieu, a t'il pu perdre autant de sang? {fearB} Est-ce qu'il a été mordu ?
 3)  BEN
 [peur] Oh mec, oh mec....
 4)  BEN
-[peur] Ca ne peut pas arriver!
+[peur] Ca ne peut pas arriver !
 5)  BEN
-[peur] Allez, FAITES quelque chose!
+[peur] Allez, FAITES quelque chose !
 6)  BEN
-[peur] Pourquoi quelqu'un ferait ça?!
+[peur] Pourquoi quelqu'un ferait ça ?!
 7)  BEN
 [peur] Oh mon Dieu, il ne peut pas mourir.
 8)  BEN
@@ -21,13 +21,13 @@
 11)  LEE
 [sévère] {angryA} Gamin, on a besoin que tu gardes un oeil sur ces zombies.
 12)  LEE
-{angryC] La ferme!
+{angryC] La ferme !
 13)  BEN
-{fearD} Je t'emmerde, mec! Aide-le!
+{fearD} Je t'emmerde, mec! Aide-le !
 14)  DAVID
-[douleur!] Enlèves ça!!  Enlèves ça, Bon Dieu, enlèves moi ça!!
+[douleur!] Enlevez ça !!  Enlevez ça, Bon Dieu, enlevez moi ça !!
 15)  MARK
-[Examinant la jambe dans le piège à ours] {fearB} Jesus Christ...
+[Examinant la jambe dans le piège à ours] {fearB} Jésus Christ...
 16)  LEE
 {body-B}{ThinkingB}C'est trop de boulot pour une seule personne.
 17)  LEE
@@ -35,13 +35,13 @@
 18)  DANNY
 [déçu] {body-A}{AngryB}Bon dieu.
 19)  DANNY
-{ThinkingB}Pourquoi, bordel, as-tu fait ça?
+{ThinkingB}Pourquoi, bordel, avez-vous fait ça?
 20)  DANNY
-{body-A}{SurprisedA}Merde!
+{body-A}{SurprisedA}Merde !
 21)  LEE
-{body-B}{SurpriseB}Elle allait nous tirer dessus!
+{body-B}{SurpriseB}Elle allait nous tirer dessus !
 22)  DANNY
-{body-A}{AngryA}Tu aurais pu juste la démonter. {ThinkingA}Tu n'avais pas besoin de la tuer.
+{body-A}{AngryA}Vous auriez pu juste la démonter. {ThinkingA}Vous n'aviez pas besoin de la tuer.
 23)  LEE
 {body-B}{AngryA}Justice. {ThinkingA}Ils ont tué trop de gens.
 24)  DANNY
@@ -49,89 +49,89 @@
 25)  LEE
 {body-B}{AngryC}Vous l'avez entendue. {SurpriseB}Elle est partie trop loin.
 26)  DANNY
-{body-A}{AngryA}C'était un putain de monstre, {SurprisedA}mais tu n'avais pas besoin de la tuer.
+{body-A}{AngryA}C'était un putain de monstre, {SurprisedA}mais vous n'aviez pas besoin de la tuer.
 27)  DANNY
-{body-A}{SadB}Je veux dire, je sais qu'elle était dingue {AngryB}mais... zut!
+{body-A}{SadB}Je veux dire, je sais qu'elle était dingue {AngryB}mais... zut !
 28)  DANNY
-{body-A}{AngryA}Lee, ne l'énerves pas.
-29)  JOLENE
-{CrazyC}Ca tue partout. {CrazyD}Prenez tous les morts que vous voulez,on en fera plus!
+{body-A}{AngryA}Lee, ne l'énervez pas.
+29)  JOLENE 
+{CrazyC}Ca tue partout. {CrazyD}Prenez tous les morts que vous voulez, on en fera plus !
 30)  JOLENE
 {body-Crossbow}{HappyD}Comme vous pourriez me tuer. {CrazyA}Ils n'ont pas pu me tuer. {CrazyD}Ils ont essayé.
 31)  LEE
-{body-B}{AngryB}Visse ça.
+{body-B}{AngryB}Ca fait chier.
 32)  LEE
-{body-B}{SadB}Baisse l'arbalète.
+{body-B}{SadB}Baissez l'arbalète.
 33)  JOLENE
 {body-Crossbow}{AngryB}Non, monsieur, j'en ai besoin.
 34)  LEE
-[énervé] {body-B}{AngryD}Assez!
+[énervé] {body-B}{AngryD}Assez !
 35)  DANNY
-[en a assez]{body-A}{AngryB}Ok, fais chier!
+[en a assez]{body-A}{AngryB}Ok, faites chier !
 36)  MARK
 [faiblement] Lee...
 37)  LARRY
-{ThinkingA}Comment, bon dieu, {HappyB}avez-vous eu {HappyC} toute cette viande à griller?
+{ThinkingA}Comment, bon dieu, {HappyB}avez-vous eu {HappyC} toute cette viande à griller ?
 38)  DUCK
-[excité] {HappyB}Un barbecue! Oh, chouette!
+[excité] {HappyB}Un barbecue ! Oh, chouette !
 39)  LEE
-{AngryB}Laisse la y aller, Brenda!
+{AngryB}Laissez la y aller, Brenda !
 40)  KATJAA
-[scared]S'il-te-plait, écoutes le!
+[scared]S'il-te-plait, écoutez le !
 41)  LEE
-{FearA}Penses à ce que tu es en train de faire. {SadC}Ca ne doit pas finir comme ça.
+{FearA}Pensez à ce que vous êtes en train de faire. {SadC}Ca ne doit pas finir comme ça.
 42)  ANDY
-[conversation ambiante]Qu'est-ce que tu fais dans la vie, Kenny?
+[conversation ambiante]Qu'est-ce que vous faites dans la vie, Kenny ?
 43)  KENNY
 [conversation ambiante]Je... euh... j'étais pêcheur à Fort Lauderdale.
 44)  DANNY
 [conversation ambiante]On aurait été chanceux, on aurait rapporté un esturgeon ou deux, mais... On a jamais été en haute-mer.
 45)  DANNY
-[conversation ambiante]Hey, c'est une bonne idée! Papa avit l'habitude de nous emmener pêcher l'achigan à grande bouche quand nous étions gamins.
+[conversation ambiante]Hey, c'est une bonne idée! Papa avait l'habitude de nous emmener pêcher l'achigan à grande bouche quand nous étions gamins.
 46)  KENNY
-[conversation ambiante]Commerciallement, surtout la nageoire du vivaneau jaune. Mais pendant l'été, j'emmenerais les touristes pêcher en bateau!
+[conversation ambiante]Commercialement, surtout la nageoire du vivaneau jaune. Mais pendant l'été, j'emmenerais les touristes pêcher en bateau !
 47)  KENNY
-[conversation ambiante]Moi, j'vous le dis, il n'y a rien de mieux que le thon frais, aussitôt pêché - sur le grill - dans l'assiette!! Surtout cuisiné par Kat!
+[conversation ambiante]Moi, j'vous le dis, il n'y a rien de mieux que le thon frais, aussitôt pêché - sur le grill - dans l'assiette !! Surtout cuisiné par Kat !
 48)  KATJAA
 [conversation ambiante]J'ai rencontré Ken quand j'ai ouvert mon cabinet vétérinaire et il est arrivé avec un poulpe malade!
 49)  KENNY
-[conversation ambiante]Bin quoi? Où est-ce que j'aurais pu l'emmener?
+[conversation ambiante]Bin quoi ? Où est-ce que j'aurais pu l'emmener ?
 50)  DANNY
-[conversation ambiante]D'où es-tu Katjaa?  C'est sûr que cet accent n'est pas de Géorgie!
+[conversation ambiante]D'où êtes-vous Katjaa ?  C'est sûr que cet accent n'est pas de Géorgie !
 51)  KATJAA
-[conversation ambiante][friendly]Non, vraiment pas!  Ma famille vient de Belgique, mais nous avons déménagé en Floride quand j'avais environ dix ans.
+[conversation ambiante][friendly]Non, vraiment pas !  Ma famille vient de Belgique, mais nous avons déménagé en Floride quand j'avais environ dix ans.
 52)  KENNY
-[conversation ambiante]Dan, tu as toujours travaillé ici, à la laiterie?
+[conversation ambiante]Dan, vous avez toujours travaillé ici, à la laiterie ?
 53)  DANNY
-[conversation ambiante]Moi?  Non, c'était l'affaire de Papa.  J'ai dirigé une compagnie d'assurance à Decatur.
+[conversation ambiante]Moi ?  Non, c'était l'affaire de Papa.  J'ai dirigé une compagnie d'assurance à Decatur.
 54)  KENNY
-[conversation ambiante]Je t'écoute.
+[conversation ambiante]Je vous écoute.
 55)  DANNY
-[conversation ambiante]Ouais enfin, c'était un bon business.  Mais quand toute cette merde est arrivé, j'ai dû rentrer.  La famille est plus importante, tu crois pas?
+[conversation ambiante]Ouais enfin, c'était un bon business.  Mais quand toute cette merde est arrivé, j'ai dû rentrer.  La famille est plus importante, vous croyez pas ?
 56)  ANDY
-[conversation ambiante]Oais, et bien Dan sentait que ça serait mieux de quitter Macon pendant un moment. Il y avait des... problèmes.
+[conversation ambiante]Ouais, et bien Dan sentait que ça serait mieux de quitter Macon pendant un moment. Il y avait des... problèmes.
 57)  LILLY
-[conversation ambiante]Decatur?
+[conversation ambiante]Decatur ?
 58)  ANDY
 [conversation ambiante]Et bien, finalement, j'ai repris la gérance d'une affaire. Que mon diplôme universitaire serve à quelque chose.
 59)  KATJAA
 [conversation ambiante]Qu'est-ce que tu as fait avant ça ?
 60)  ANDY
-[conversation ambiante]	J'avais une agence immobilière, mais, tu sais... dans cette économie...
+[conversation ambiante]	J'avais une agence immobilière, mais, vous savez... dans cette économie...
 61)  DANNY
 [conversation ambiante]Ouais, Papa a toujours voulu que tu reprennes l'exploitation.
 62)  ANDY
 [conversation ambiante]Just worked out that way, Dan.
 63)  LARRY
-[conversation ambiante]Depuis combien de temps avez-vous cette exploitation laitière?
+[conversation ambiante]Depuis combien de temps avez-vous cette exploitation laitière ?
 64)  ANDY
-[conversation ambiante]Aussi longtemps que je m'en souvienne.  On a grandi ici.  Dan et moi, on aidais où on pouvait, mais vraiment c'était l'affaire de Maman et Papa.
+[conversation ambiante]Aussi longtemps que je m'en souvienne.  On a grandi ici.  Dan et moi, on aidait où on pouvait, mais vraiment c'était l'affaire de Maman et Papa.
 65)  LILLY
-[conversation ambiante]Alors, vous n'avez pas travaillé ici?
+[conversation ambiante]Alors, vous n'avez pas travaillé ici ?
 66)  ANDY
-[conversation ambiante]	Alors depuis quand es-tu vétérinaire?
+[conversation ambiante]	Alors depuis quand êtes-vous vétérinaire ?
 67)  DANNY
-[conversation ambiante]Tu travailles avec des animaux de ferme?
+[conversation ambiante]Vous travaillez avec des animaux de ferme ?
 68)  KATJAA
 [conversation ambiante][essayant de se rappeler] Ooh... et bien... ça fait longtemps maintenant.
 69)  KATJAA
@@ -141,39 +141,39 @@
 71)  KATJAA
 [conversation ambiante]Oh oui. Le centre de sauvetage de la faune m'amenait tout le temps ses alligators blessés pour que je les badge avant qu'il les relâche.
 72)  DUCK
-[conversation ambiante]Et des alligators!
+[conversation ambiante]Et des alligators !
 73)  CLEMENTINE
-[conversation ambiante]Nu uh!
+[conversation ambiante]Nu uh !
 74)  LILLY
 [conversation ambiante]Alors cette barrière fait bien son boulot de tenir éloignés les rôdeurs, hein?
 75)  DUCK
-[conversation ambiante]Une fois, mon père en a cogné un avec une télé!
+[conversation ambiante]Une fois, mon père en a cogné un avec une télé !
 76)  DUCK
 [conversation ambiante]Désolé.
 77)  ANDY
-[conversation ambiante]Oauis. Malheureusement, on a perdu la majorité de notrebétail avant qu'on réussisse à installer ce truc.
+[conversation ambiante]Ouais. Malheureusement, on a perdu la majorité de notre bétail avant qu'on réussisse à installer ce truc.
 78)  KATJAA
-[conversation ambiante]Kenny Jr!  Ce n'est pas une conversation approprié à table.
+[conversation ambiante]Kenny Jr !  Ce n'est pas une conversation approprié à table.
 79)  DANNY
 [conversation ambiante][murmurant]Satanés rôdeurs.
 80)  KENNY
 [conversation ambiante]Nos parties de chasse n'ont rien donné. Les rôdeurs mangent tout ce qui est vivant dans lequel ils peuvent planter leurs dents.
 81)  DANNY
-[conversation ambiante]	Et bien, nouss devons jsute savoir quoi chasser.  Il y a de la viande là dehors qui vous gardera en vie si vous savez quoi chercher.
+[conversation ambiante]	Et bien, nous devons juste savoir quoi chasser.  Il y a de la viande là dehors qui vous gardera en vie si vous savez quoi chercher.
 82)  KATJAA
-[conversation ambiante]Merci encore pour ce repas.  Vous n'avez pas idée depuis combien de temps on n'avait pas mangé commme ça!
+[conversation ambiante]Merci encore pour ce repas.  Vous n'avez pas idée depuis combien de temps on n'avait pas mangé commme ça !
 83)  KENNY
-[conversation ambiante]Comment vous faites, les gars, pour trouver de la nourriture?
+[conversation ambiante]Comment vous faites, les gars, pour trouver de la nourriture ?
 84)  ANDY
-[conversation ambiante]Et qu'est-ce que vous faites dans la vie, Mademoiselle Lilly?
+[conversation ambiante]Et qu'est-ce que vous faites dans la vie, Mademoiselle Lilly ?
 85)  LARRY
-[conversation ambiante]	Lilly is une militaire.  Elle ressemble à son vieux père.
+[conversation ambiante]	Lilly est militaire.  Elle ressemble à son vieux père.
 86)  DANNY
-[conversation ambiante]C'est vrai?  Vous  avez déjà vu de l'action?
+[conversation ambiante]C'est vrai ?  Vous  avez déjà vu de l'action ?
 87)  LILLY
 [conversation ambiante][brusque, impassible]Oui, j'en ai vu.
 88)  LARRY
-[conversation ambiante]	Fiston, tu ne poses pas toujours cette question à un soldat, n'est ce pas?
+[conversation ambiante]	Fiston, tu ne poses pas toujours cette question à un soldat, n'est ce pas ?
 89)  LARRY
 [conversation ambiante]Tout ce que tu as besoin de savoir, c'est que tu ne voudras pas coucher avec elle. Règles.
 90)  LILLY
@@ -183,27 +183,27 @@
 92)  ANDY
 [conversation ambiante]	Ne faites pas attention à mon frère.  Je jure qu'il a fait un jeu de mâcher son propre pied.
 93)  ANDY
-[conversation ambiante]Alors vous vous connaissiez avant l'épidémie?
+[conversation ambiante]Alors vous vous connaissiez avant l'épidémie ?
 94)  LILLY
 [conversation ambiante]Non On s'est juste retrouvés tous ensemble.
 95)  LILLY
 [conversation ambiante]Mais maintenant, on doit rester tous ensemble si on veut survivre.
 96)  ANDY
-[conversation ambiante]	Je vous comprends.  Vous devez savoir quand faire des sacrifices pour le bien de tous, non?
+[conversation ambiante]	Je vous comprends.  Vous devez savoir quand faire des sacrifices pour le bien de tous, non ?
 97)  KENNY
 [conversation ambiante]Ce n'est pas vrai.  Aucun gosse ne devrait voir ce qu'ils ont vu.
 98)  KATJAA
-[conversation ambiante]Les gosses sont résistants, vous savez.  Je déteste la manièredont ils doivent grandir, mais pour les circonstances, je pense qu'ils s'en sortent plutôt bien.
+[conversation ambiante]Les gosses sont résistants, vous savez.  Je déteste la manière dont ils doivent grandir, mais vu les circonstances, je pense qu'ils s'en sortent plutôt bien.
 99)  DANNY
-[conversation ambiante]Comment les gosses font avec ... tout ça?
+[conversation ambiante]Comment les gosses font avec ... tout ça ?
 100)  DANNY
-[conversation ambiante]Peut-être je pourrais vérifier avec lui?
+[conversation ambiante]Peut-être je pourrais vérifier avec lui ?
 101)  KATJAA
-[conversation ambiante]Laisse le se laver. Il sera prêt dans une minute.
+[conversation ambiante]Laissez le se laver. Il sera prêt dans une minute.
 102)  DUCK
-[conversation ambiante]On va bientôt manger maman?
+[conversation ambiante]On va bientôt manger maman ?
 103)  LARRY
-[conversation ambiante]Combien de temps ça va te prendre de te laver tes foutues mains?
+[conversation ambiante]Combien de temps ça va te prendre de te laver tes foutues mains ?
 104)  KATJAA
 [conversation ambiante]Dès que Lee sera de retour.
 105)  ANDY
@@ -217,37 +217,37 @@
 109)  DANNY
 [conversation ambiante]On aimerait bien avoir un autre veau en bonne santé, mais on voudrait surtout être sûr que Maybelle va bien.
 110)  LEE
-[pickup1][silencieux mais choqué!] Mark?!  Qu'est-ce qui s'est passé bon dieu?!!
+[pickup1][silencieux mais choqué!] Mark ?!  Qu'est-ce qui s'est passé bon dieu ?!!
 111)  MARK
 [pickup1][faiblement..drogué, essayant de dire à Lee ce qu'il s'est passé] ... Les frères...
 112)  LILLY
-Papa! S'il te plait, arrêtes!
+Papa! S'il te plait, arrêtes !
 113)  LARRY
-[Fait une crise cardiaque!] Hrrrgggttt!!!   Oh mon Dieu...
+[Fait une crise cardiaque!] Hrrrgggttt !!!   Oh mon Dieu...
 114)  LILLY
-[paniquée] PAPA?!
+[paniquée] PAPA ?!
 115)  LILLY
-[inquiète] Non! Papa, allez! PAPA!
+[inquiète] Non ! Papa, allez ! PAPA !
 116)  LILLY
-Oh mon Dieu, il a arrêté de respirer. Je pense qu'il fait une crise cardiaque!
+Oh mon Dieu, il a arrêté de respirer. Je pense qu'il fait une crise cardiaque !
 117)  KENNY
-Merde!  Il est  mort?
+Merde!  Il est  mort ?
 118)  LILLY
-[angoissé] Le médicament? Tu avais le médicament?! Espèce d'enfoiré!
+[angoissé] Le médicament? Vous avez le médicament ?! Espèce d'enfoiré !
 119)  LEE
 I...
 120)  LILLY
-[pickup2] [très enervée] Ne me parles pas, Lee. Ne viens vraiment pas me parler.
+[pickup2] [très enervée] Ne me parlez pas, Lee. Ne venez vraiment pas me parler.
 121)  LEE
-[pickup2] Lilly, Je-
+[pickup2] Lilly, J-
 122)  LILLY
-Il n'est pas mort.  Que quelqu'un m'aide!
+Il n'est pas mort.  Que quelqu'un m'aide !
 123)  KENNY
-[realsiant que Larry pourrait devenir un zombie]Meeeeeeerde... s'il est mort...
+[réalisant que Larry pourrait devenir un zombie]Meeeeeeerde... s'il est mort...
 124)  LILLY
-IL N'EST PAS MORT!
+IL N'EST PAS MORT !
 125)  LEE
-Nous ne pouvons pas le tuer s'il n'est pas mort, Kenny!
+Nous ne pouvons pas le tuer s'il n'est pas mort, Kenny !
 126)  KENNY
 [réussissant à débrancher la prise électrique du mur]
 127)  KENNY
@@ -255,29 +255,29 @@ Nous ne pouvons pas le tuer s'il n'est pas mort, Kenny!
 128)  CLEMENTINE
 {sadA}Je l'avais il y a quelques jours.
 129)  LEE
-{normalC}Quand l'as tu perdu?
+{normalC}Quand l'as tu perdu ?
 130)  LEE
-{normalD}Tu en as vraiment besoin?
+{normalD}Tu en as vraiment besoin ?
 131)  LEE
 {sadA}Désolé, ma puce, je n'ai pas le temps.
 132)  CLEMENTINE
-[ennuyée] {angryA}Lee!
+[ennuyée] {angryA}Lee !
 133)  CLEMENTINE
-[ennuyée] {angryA}Lee!
+[ennuyée] {angryA}Lee !
 134)  CLEMENTINE
 {sadA}J'ai vraiment faim, Lee.
 135)  LEE
-{normalD}Comment ça va, Clementine?
+{normalD}Comment ça va, Clementine ?
 136)  LILLY
 {normalB}Si la chasse près d'ici ne rapporte rien, on n'a qu'aller plus loin.
 137)  LILLY
 {angryB}Mais c'est un bon endroit.  {normalB}Nous sommes protégés, nous sommes proches du drugstore, {thinkingA}nous avons nos habitudes maintenant et ça marche.
 138)  LILLY
-{angryA}Mon dieu, pas toi aussi.  Je sais que Kenny veut rester. Je pense que c'est pour ça qu'il est impatient que le camping-car fonctionne.
+{angryA}Mon dieu, pas vous aussi.  Je sais que Kenny veut rester. Je pense que c'est pour ça qu'il est impatient que le camping-car fonctionne.
 139)  LEE
-{normalC}Ces générateurs sont assez puissants pour alimenter toute la laiterie?
+{normalC}Ces générateurs sont assez puissants pour alimenter toute la laiterie ?
 140)  LEE
-{normalD}Il n'y a que vous trois ici?
+{normalD}Il n'y a que vous trois ici ?
 141)  ANDY
 {normalA}J'en ai bien peur. {sadA}Nous avons perdu Papa le premier mois.
 142)  ANDY
@@ -285,25 +285,25 @@ Nous ne pouvons pas le tuer s'il n'est pas mort, Kenny!
 143)  ANDY
 {angryA}Alors il est revenu et a pris le reste des mains avant que nous ne puissions l'arrêter.
 144)  LEE
-{thinkingB}Une barrière électrique suffit à tenir éloignés les rôdeurs?
+{thinkingB}Une barrière électrique suffit à tenir éloignés les rôdeurs ?
 145)  ANDY
-{happyC}Les rôdeurs? {happyB}C'est comme ça que vous les appelez? C'est bien. [beat] {normalC}Le vieux ne l'aurait pas fait, mais Mac -- c'était notre contremaître -- {happyA}il a trouvé comment l'amplifier avec les générateurs.
+{happyC}Les rôdeurs ? {happyB}C'est comme ça que vous les appelez ? C'est bien. [beat] {normalC}Le vieux ne l'aurait pas fait, mais Mac -- c'était notre contremaître -- {happyA}il a trouvé comment l'amplifier avec les générateurs.
 146)  ANDY
 {happyB}On avait l'habitude de s'asseoir dehors certaines nuits et de regarder frire et éclater ces fils de putes, quand ils étaient trop proches.
 147)  ANDY
 {happyA}Le truc divertissant le plus proche ces jours-ci, je pense.
 148)  LEE
-{normalD}Est-ce qu'on peut vous aider avec cette barrière?
+{normalD}Est-ce qu'on peut vous aider avec cette barrière ?
 149)  ANDY
 {normalB}Et bien, en fait ouais. {normalA}Une paire de rôdeurs ont essayé de rentrer pendant que les générateurs étaient à court de carburant.
 150)  DANNY
 {normalC}Souvenez-vous: on fait une reconnaissance. Pas besoin de se faire tuer.
 151)  DANNY
-{normalC}Qu'est-ce que vous pensez de l'endroit?
+{normalC}Qu'est-ce que vous pensez de l'endroit ?
 152)  LEE
 {normalA}C'est magnifique.
 153)  LEE
-{normalC}Comment?
+{normalC}Comment ?
 154)  DANNY
 {normalC}C'est cool.  {normalB}Vous n'avez pas besoin de prendre une décision maintenant.  {normalA}Mais n'attendez pas trop longtemps ou vous pourriez ne pas avoir le choix.
 155)  BRENDA
@@ -317,13 +317,13 @@ J'aimerais encore le surveiller.
 159)  BRENDA
 Attendez, Lee, les choses sembleront beaucoup plus belles une fois que vous aurez dîné et que vous aurez passé une bonne nuit de sommeil.
 160)  BRENDA
-[pickup2][amicale]Je vous en prie! Après ce que nous avons traversé... vous pouvez m'appeler Brenda!
+[pickup2][amicale]Je vous en prie ! Après ce que nous avons traversé... vous pouvez m'appeler Brenda!
 161)  LEE
 [pickup2][démarrant la conversation]Madame St. John...
 162)  LEE
 [pickup2][démarrant la conversation] Excusez-moi, Brenda...
 163)  BRENDA
-[pickup2][amicale]Qu'avez-vous en tête, Lee?
+[pickup2][amicale]Qu'avez-vous en tête, Lee ?
 164)  ANDY
 {happyB}Et voilà. La laiterie de la famille St. John.  {normalC}Ce n'est pas grand-chose, {happyA}mais jusqu'à présent, ça nous a gardé en sécurité.
 165)  MARK
@@ -331,86 +331,88 @@ Attendez, Lee, les choses sembleront beaucoup plus belles une fois que vous aure
 166)  DUCK
 [gémit effrayé tandis qu'il est menacé par une arme]
 167)  LEE
-[criant fermement] {AngryC} Andy!
+[criant fermement] {AngryC} Andy !
 168)  BEN
-[calme]{AngryA}Je le savais! [à Doug/Carley]{FearA}Jje t'avais dit qu'on ne pouvait pas leur faire confiance
+[calme]{AngryA}Je le savais ! [à Doug/Carley]{FearA}Je t'avais dit qu'on ne pouvait pas leur faire confiance
 169)  LEE
-[calme]{NormalC}Est-ce que vous avez une arme?
+[calme]{NormalC}Est-ce que vous avez une arme ?
 170)  BEN
-{disgustA}Ce n'est pas la morsure qui fait ça! {fearA}Ouais, la morsure vous tuera, mais...
+{disgustA}Ce n'est pas la morsure qui fait ça ! {fearA}Ouais, la morsure vous tuera, mais...
 171)  KENNY
-[furieux] {angryC}Tu as dit qu'il n'avait pas été mordu!
+[furieux] {angryC}Tu as dit qu'il n'avait pas été mordu !
+172)  BEN
 {disgustA}Qu'importe la manière dont vous mourrez, vous revenez.  {sadB}Si vous ne détruisez pas le cerveau, {disgustA}c'est ça qui arrive.  {sadC}C'est ça qui nous arrivera à tous.
 173)  LEE
 [un peu essouflé]{normalD} Merci.
 174)  LEE
-[Criant] La hâche!  Vite!!
+[Criant] La hâche !  Vite !!
 175)  DUCK
-{happyA}D'accord.  Clémentine et moi colorions.
+{happyA}D'accord.  Clémentine et moi colorons.
 176)  DUCK
-{thinkingA}Ouais.  Quand est-ce qu'on va avoir à manger?
+{thinkingA}Ouais.  Quand est-ce qu'on va avoir à manger ?
+177)  LEE
 {happyA}Le mur est bien, Doug.
 178)  DOUG
-{happyA}Merci. {normalA}J'ai aussi  bricolé un petit "système de première alerte " pour l'extérieur.
+{happyA}Merci. {normalA}J'ai aussi bricolé un petit "système de première alerte " pour l'extérieur.
 179)  LEE
-{thinkingA}Un système de première alerte?
+{thinkingA}Un système de première alerte ?
 180)  DOUG
-{thinkingA}Et bien... c'est juste une corde avec des canettes accrochées, mais hey, ça marche.
+{thinkingA}Et bien... c'est juste une corde avec des canettes accrochées, mais hé, ça marche.
 181)  LEE
-[monotone]{normalD}Hey, Doug.
+[monotone]{normalD}Hé, Doug.
 182)  CLEMENTINE
-[à Ben; le questionnant sur son dessin] {normalC}Devine ce que c'est?
+[à Ben; le questionnant sur son dessin] {normalC}Devine ce que c'est ?
 183)  BEN
-[encore perturbé; devinant que représente le dessin de Clem]{sadA} Je sais pas ... un chien?
+[encore perturbé; devinant que représente le dessin de Clem]{sadA} Je sais pas ... un chien ?
 184)  CLEMENTINE
 {happyB}Non.
 185)  DUCK
-{happyB}Oh, je sais!  C'est une chèvre, pas vrai?
+{happyB}Oh, je sais !  C'est une chèvre, pas vrai ?
 186)  LEE
 {normalD}Merci de garder les enfants là-bas.
 187)  CARLEY
 {happyB}Ouais, et bien, mon instinct était d'inspecter et d'avoir l'histoire.  Mais ... {sadA}et bien... les enfants n'avaient pas besoin de voir ça.
 188)  CARLEY
-{thinkingA}Oh, et fais moi une faveur et dis à Lilly d'aller se reposer.  {angryA}Toi et moi sommes supposés monter la garde ensemble ce soir. J'ai besoin que tu sois vif.
+{thinkingA}Oh, et faites moi une faveur et dites à Lilly d'aller se reposer.  {angryA}Vous et moi sommes supposés monter la garde ensemble ce soir. J'ai besoin que vous soyez alerte.
 189)  DOUG
-{sadA}Hey, je te dois beaucoup plus qu'une barre de sucreries à moitié mangée.  Prends là.
+{sadA}Hey, je vous dois beaucoup plus qu'une barre de sucreries à moitié mangée.  Prenez là.
 190)  LEE
 {sadA}Merci. {thinkingA}J'apprécie.
 191)  LEE
-{sadB}Garde la.
+{sadB}Gardez la.
 192)  DOUG
-{fearA}T?
+{fearA}Vous avez une gueule de déterré, Lee. C'est quand la dernière fois que vous avez mangé ?
 193)  CARLEY
-{thinkingA}T'as une gueule de déterré, Lee. C'est quand la dernière fois que tu as mangé?
+{thinkingA}Vous avez une gueule de déterré, Lee. C'est quand la dernière fois que avez mangé ?
 194)  LEE
-[Ne t'en fais pas pour moi]{sadA}Ca va.
+[Ne vous en faites pas pour moi]{sadA}Ca va.
 195)  CARLEY
-{disgustA}Je veux que tu l'aies, d'accord? Au cas où toi ou Clémentine commenceriez à vous sentir faible.
+{disgustA}Je veux que vous l'ayez, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faible.
 196)  LEE
-{sadA}Tu ne me dois rien, Carley.
+{sadA}Vous ne me devez rien, Carley.
 197)  LEE
-[amical, parlant à Duck]{normalD}Est-ce que j'ai raté un truc?
+[amical, parlant à Duck]{normalD}Est-ce que j'ai raté un truc ?
 198)  DUCK
 Non, pas vraiment.
 199)  DUCK
 [reniflant l'air] Tu sens bizarre.
 200)  KATJAA
-[pickup1]Les enfants! [ne soyez pas impoli!...et arrêtez de ricaner à propos du mot Doo-Dee!]
+[pickup1]Les enfants! [ne soyez pas impoli ! ... et arrêtez de ricaner à propos du mot Doo-Dee!]
 201)  CLEMENTINE
 [pickup1][ricane au mot "doo-dee"]
 203)  DUCK
 [pickup1][ricane au mot "doo-dee"]
 202)  CLEMENTINE
-[pickup1][chuchotta] Doo-dee!
+[pickup1][chuchotta] Doo-dee !
 204)  DUCK
-[pickup1][confus]C'est quoi du "fumier"?
+[pickup1][confus]C'est quoi du "fumier" ?
 205)  CLEMENTINE
-[pickup1][Quand Duck dit que Lee sent bizarre, Clem se souvient de ce que Lee avait dit dans l'étable de Hershel][fière qu'elle avait appris un nouveau mot]...Comme du fumier!
+[pickup1][Quand Duck dit que Lee sent bizarre, Clem se souvient de ce que Lee avait dit dans l'étable de Hershel][fière qu'elle avait appris un nouveau mot]...Comme du fumier !
 206)  CLEMENTINE
 [pickup1][triste et embarrassée après avoir été grondée pour avoir dit un juron]D'accord.
 207)  CLEMENTINE
-[pickup1][Quand Duck dit que Lee sent bizarre, Clem se souvient de ce que Lee avait dit dans l'étable de Hershel]Comme... de la merde, pas vrai, Lee?
+[pickup1][Quand Duck dit que Lee sent bizarre, Clem se souvient de ce que Lee avait dit dans l'étable de Hershel]Comme... de la merde, pas vrai, Lee ?
 208)  LEE
-[pickup1][après que Clem ait dit quelque chose comme  "merde"] Hey, ne jures pas, d'accord?
+[pickup1][après que Clem ait dit quelque chose comme  "merde"] Hé, ne jures pas, d'accord ?
 209)  CLEMENTINE
-[pickup1][Quand Duck dit que Lee sent bizarre, Clem se souvient de ce que Lee avait dit dans l'étable de Hershel]...comme doo-dee!
+[pickup1][Quand Duck dit que Lee sent bizarre, Clem se souvient de ce que Lee avait dit dans l'étable de Hershel]...comme doo-dee !
