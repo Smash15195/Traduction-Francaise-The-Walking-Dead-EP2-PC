@@ -29,7 +29,7 @@ Duck et sa famille ont apprécié.
 14)  
 Vous avez choisi de nourrir Carley
 15)  
-Vous avez choisi de prendre soin de Clementine.
+Vous avez choisi de prendre soin de Clémentine.
 16)  
 Vous avez choisi de vous garder de la nourriture.
 17)  
@@ -85,7 +85,7 @@ Vous avez tenté de l'arrêter !
 42)  
 Vous l'avez empêché de manger !
 43)  
-Vous avez empêché Clementine de manger !
+Vous avez empêché Clémentine de manger !
 44)  
 Vous n'avez pas pu empêcher Clem de manger !
 45)  
@@ -97,17 +97,17 @@ Vous vous rangez du côté de Lilly.
 48)  
 Kenny se rappellera votre loyauté.
 49)  
-Clementine a été témoin de vos actes.
+Clémentine a été témoin de vos actes.
 50)  
 Vous avez choisi de tuer Andy.
 51)  
 Vous avez épargné la vie d'Andy
 52)  
-Clementine se rappellera que vous l'avez épargné.
+Clémentine se rappellera que vous l'avez épargné.
 53)  
 Vous avez choisi de prendre la nourriture de la voiture quand même.
 54)  
-Vous et Clementine avez choisi de ne pas voler de nourriture.
+Vous et Clémentine avez choisi de ne pas voler de nourriture.
 55)  
 Vous avez tenté de donner à Doug de la nourriture, mais il a refusé.
 56)  
@@ -153,11 +153,11 @@ Vous avez alerté Brenda de votre présence.
 77)  
 Brenda a été effrayée par votre manque de réponse.
 78)  
-Vous avez rassuré Clementine.
+Vous avez rassuré Clémentine.
 79)  
-Vous avez repris espoir avec Clementine.
+Vous avez repris espoir avec Clémentine.
 80)  
-Vous n'avez pas caché la vérité à Clementine.
+Vous n'avez pas caché la vérité à Clémentine.
 81)  
 Danny s'en rappellera.
 82)  
@@ -179,16 +179,16 @@ Kenny couvre vos arrières.
 90)  
 Kenny se rappelera vos paroles.
 91)  
-Vous avez fait prendre à Clementine le blouson.
+Vous avez fait prendre à Clémentine le blouson.
 92)  
-Vous avez convaincu Clementine de mettre un blouson un moment.
+Vous avez convaincu Clémentine de mettre un blouson un moment.
 93)  
-Vous avez convaincu Clementine que c'était bien de mettre le blouson.
+Vous avez convaincu Clémentine que c'était bien de mettre le blouson.
 94)  
-Vous avez été direct avec Clementine.
+Vous avez été direct avec Clémentine.
 95)  
-Vous avez donné à Clementine une réponse rassurante.
+Vous avez donné à Clémentine une réponse rassurante.
 96)  
-Clementine a noté votre silence.
+Clémentine a noté votre silence.
 97)  
-Vous avez révélé votre culpabilité à Clementine.
+Vous avez révélé votre culpabilité à Clémentine.
