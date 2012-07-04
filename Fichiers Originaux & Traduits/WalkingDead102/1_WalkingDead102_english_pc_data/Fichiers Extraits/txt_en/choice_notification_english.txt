@@ -1,194 +1,194 @@
 1)  
-Mark will remember that.
+Mark se souviendra de ça.
 2)  
-He noticed your silence.
+Il a remarqué votre silence.
 3)  
-She noticed your silence.
+Elle a remarqué votre silence.
 4)  
-You weren't able to free David.
+Vous n'avez pas pu libérer David.
 62)  
-You weren't able to free David.
+Vous n'avez pas pu libérer David.
 5)  
-Kenny noticed your loyalty
+Kenny a remarqué votre loyauté.
 6)  
-Lilly noticed your loyalty.
+Lilly a remarqué votre loyauté.
 7)  
-Kenny was frustrated by your silence.
+Kenny a été frustré par votre silence.
 8)  
-You tried to stay neutral.
+Vous avez tenté de rester neutre.
 9)  
-Katjaa didn't appreciate that.
+Katjaa n'a pas apprécié.
 10)  
-They all noticed you side with Kenny.
+Ils ont tous remarqué votre parti-pris pour Kenny.
 11)  
-They all noticed you side with Lilly.
+Ils ont tous remarqué votre parti-pris pour Lilly.
 12)  
-Giving food to Ben may prove an unpopular choice.
+Nourrir Ben peut être impopulaire.
 13)  
-Duck and his family appreciate that.
+Duck et sa famille ont apprécié.
 14)  
-You chose to feed Carley.
+Vous avez choisi de nourrir Carley
 15)  
-You chose to take care of Clementine.
+Vous avez choisi de prendre soin de Clementine.
 16)  
-You chose to keep food for yourself.
+Vous avez choisi de vous garder de la nourriture.
 17)  
-You gave Doug an apple.
+Vous avez donné une pomme à Doug.
 18)  
-The others noticed you fed Kenny.
+Les autres ont remarqué que vous avez nourri Kenny.
 19)  
-You made a tough choice.
+Vous avez fait un choix difficile.
 20)  
-You gave food to Lilly.
+Vous avez nourri Lilly.
 21)  
-Lilly is still angry.
+Lilly est toujours fâchée.
 22)  
-You fed Mark.
+Vous avez nourri Mark.
 23)  
-You chose to shoot Jolene.
+Vous avez choisi de tirer sur Jolene.
 24)  
-Danny noticed what you found.
+Danny a remarqué ce que vous avez trouvé.
 25)  
-You found nitro-glycerin pills.  Lilly might want those.
+Vous avez trouvé des pillules de nitro-glycerine.  Lilly pourrait les vouloir.
 26)  
-You voted against going to the dairy.
+Vous avez voté contre partir pour la ferme.
 27)  
-She will remember that.
+Elle s'en souviendra.
 28)  
-You decided everyone should go.
+Vous avez décidé que tout le monde devrait partir.
 29)  
-There are three pieces of food left.
+Il y a trois portions de nourriture restantes.
 30)  
-There are two pieces of food left.
+Il y a deux portions de nourriture restantes.
 31)  
-There is one piece of food left.
+Il y a une portion de nourriture restante.
 32)  
-There is no food left for today.
+Il n'y a plus de nourriture pour aujourd'hui.
 33)  
-Mark noted your worry.
+Mark à noté votre embarras.
 34)  
-Mark picked up on your doubt.
+Mark a relevé vos doutes.
 35)  
-He noticed your ambivalence.
+Il a remarqué votre ambiguïté.
 36)  
-He will remember that.
+Il s'en rappellera.
 37)  
-You learned they have several guns.
+Vous avez appris qu'ils ont quelques armes à feu.
 38)  
-Andy appreciates your offer of help.
+Andy apprécie votre offre.
 39)  
-You found out that other survivors have stayed at the farm.
+Vous avez découvert que d'autres survivants sont restés à la ferme.
 40)  
-Kenny didn't like that.
+Kenny n'a pas aimé ça.
 41)  
-You tried to stop her!
+Vous avez tenté de l'arrêter !
 42)  
-You stopped her from eating!
+Vous l'avez empêché de manger !
 43)  
-You stopped Clementine from eating!
+Vous avez empêché Clementine de manger !
 44)  
-You couldn't stop Clem from eating!
+Vous n'avez pas pu empêcher Clem de manger !
 45)  
-You let Larry eat human flesh.
+Vous avez laissé Larry manger de la chair humaine.
 46)  
-Brenda noticed you've been silent.
+Brenda a remarqué que vous n'avez rien dit.
 47)  
-You sided with Lilly.
+Vous vous rangez du côté de Lilly.
 48)  
-Kenny will remember your loyalty.
+Kenny se rappellera votre loyauté.
 49)  
-Clementine witnessed what you did.
+Clementine a été témoin de vos actes.
 50)  
-You chose to kill Andy.
+Vous avez choisi de tuer Andy.
 51)  
-You spared Andy's life.
+Vous avez épargné la vie d'Andy
 52)  
-Clementine will remember you spared his life.
+Clementine se rappellera que vous l'avez épargné.
 53)  
-You chose to take food from the car anyway.
+Vous avez choisi de prendre la nourriture de la voiture quand même.
 54)  
-You and Clementine chose not to steal food.
+Vous et Clementine avez choisi de ne pas voler de nourriture.
 55)  
-You tried to give Doug food, but he declined.
+Vous avez tenté de donner à Doug de la nourriture, mais il a refusé.
 56)  
-You cut David free.
+Vous avez dégagé David.
 57)  
-You told Kenny leaving for the coast was a good idea.
+Vous avez dit à Kenny que partir pour la côte était une bonne idée.
 58)  
-You tried to convince Kenny to stay.
+Vous avez tenté de convaincre Kenny de rester.
 59)  
-You gave your opinion about Kenny.
+Vous avez donné votre avis sur Kenny.
 60)  
-You only have four food items for ten hungry people.
+Vous n'avez que quatre portions de nourriture pour dix personnes affamées.
 61)  
-Kenny doesn't think you were looking out for Duck in the last episode.
+Kenny ne crois pas que vous avez aidé Duck dans l'épisode précédent.
 63)  
-Andy will remember that.
+Andy s'en rappellera.
 64)  
-The St. John brothers noticed your silence.
+Les frères St. John ont remarqué votre silence.
 65)  
-The St.John brothers think you are in charge of the group.
+Les frères St. John pense que vous êtes responsable du groupe.
 66)  
-The St. John brothers took note of that.
+Les frères St. John en ont pris note.
 67)  
-You answered honestly.
+Vous avez été honnête.
 68)  
-You let them know you are prepared to defend yourselves.
+Vous leur faites savoir que vous êtes préparés à vous défendre.
 69)  
-You avoided answering the question.
+Vous avez évité de répondre à la question.
 70)  
-You chose to help Lilly save her dad.
+Vous avez choisi d'aider Lilly à sauver son père.
 71)  
-You chose to help Kenny keep Larry from turning.
+Vous avez choisi d'aider Kenny à empêcher Larry de revenir.
 72)  
-You chose not to shoot Jolene.
+Vous avez choisi de ne pas tirer sur Jolene.
 73)  
-Danny noticed your suspicion.
+Danny a remarqué vos soupçons.
 74)  
-Brenda saw through your lie.
+Brenda a percé votre mensonge.
 75)  
-You frightened Brenda.
+Vous avez effrayé Brenda.
 76)  
-You alerted Brenda to your presence.
+Vous avez alerté Brenda de votre présence.
 77)  
-Brenda was frightened by the lack of response.
+Brenda a été effrayée par votre manque de réponse.
 78)  
-You made Clementine feel safe.
+Vous avez rassuré Clementine.
 79)  
-You shared hope with Clementine.
+Vous avez repris espoir avec Clementine.
 80)  
-You didn't hide the truth from Clementine.
+Vous n'avez pas caché la vérité à Clementine.
 81)  
-Danny will remember that.
+Danny s'en rappellera.
 82)  
-You chose to be direct!
+Vous avez choisi d'être direct !
 83)  
-Brenda didn't like being judged.
+Brenda n'a pas aimé être jugée.
 84)  
-You chose to plead with them.
+Vous avez choisi de les supplier.
 85)  
-You chose to threaten them!
+Vous avez choisi de les menacer.
 86)  
-You made an excuse.
+Vous avez trouvé une excuse.
 87)  
-You questioned Andy directly.
+Vous avez interrogé Andy directement.
 88)  
-You lied to Andy.
+Vous avez menti à Andy.
 89)  
-Kenny covered for you.
+Kenny couvre vos arrières.
 90)  
-Kenny will remember your words.
+Kenny se rappelera vos paroles.
 91)  
-You made Clementine take the hoodie.
+Vous avez fait prendre à Clementine le blouson.
 92)  
-You convinced Clementine to take to hoodie for a while.
+Vous avez convaincu Clementine de mettre un blouson un moment.
 93)  
-You convinced Clementine that it's okay to take the hoodie.
+Vous avez convaincu Clementine que c'était bien de mettre le blouson.
 94)  
-You were direct with Clementine.
+Vous avez été direct avec Clementine.
 95)  
-You gave Clementine a reassuring answer.
+Vous avez donné à Clementine une réponse rassurante.
 96)  
-Clementine noted your silence.
+Clementine a noté votre silence.
 97)  
-You revealed your guilt to Clementine.
+Vous avez révélé votre culpabilité à Clementine.
