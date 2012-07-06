@@ -1,15 +1,15 @@
 1)  LILLY
 {normalB}Si la chasse ne donne rien ici, on va devoir s'en aller.
 2)  LILLY
-{angryB}Mais c'est un bon coin.  {normalB}On est protégé, proche de la pharmacie, {thinkingA}nous avons une routine et ça fonctionne.
+{angryB}Mais c'est un bon coin.  {normalB}On est protégé, proche du drugstore, {thinkingA}nous avons une routine et ça fonctionne.
 3)  LILLY
 {angryA}Bon sang, pas vous.  Je sais que Kenny veut partir.  C'est pour ça qu'il tient tant à faire marcher le camping-car.
 4)  LILLY
 [pickup2]Hé bien, n'espérez pas que ça change.  Il est comme ça, c'est tout.
 5)  LEE
-[pickup2]Ca va faire trois mois et votre père me traite toujours comme de la merde.
+[pickup2]Ca va faire trois mois et votre père me traite toujours comme un salaud.
 6)  LEE
-[pickup2]Donc c'est LUI la merde.
+[pickup2]Donc c'est LUI le salaud.
 7)  LEE
 [pickup2]Il vous traite comme ça aussi ?
 8)  LEE
@@ -95,7 +95,7 @@ Je ne vous envie pas.
 47)  LEE
 [pickup2]Mais on a rien à manger.  Vous le savez mieux que quiconque.
 48)  LILLY
-[pickup2]C'est un bon coin.  On est protégé, proche de la pharmacie. Nous avons une routine et ça fonctionne.
+[pickup2]C'est un bon coin.  On est protégé, proche du drugstore. Nous avons une routine et ça fonctionne.
 49)  LILLY
 [pickup3][As if there is no other choice - responding to "But there IS no food."]Hé bien il suffit d'en trouver.
 50)  LILLY
@@ -107,7 +107,7 @@ Parlons de vous et Kenny.
 53)  
 Prenez-en quand même.
 54)  
-Ok. Ne mangez pas.
+D'accord. Ne mangez pas.
 55)  
 Parler à
 56)  
