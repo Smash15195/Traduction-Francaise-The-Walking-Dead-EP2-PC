@@ -1,125 +1,125 @@
 1)  LEE
-[quietly to himself as he spots a zombie at the fence] Shit.
+[quietly to himself as he spots a zombie at the fence] Merde.
 2)  LEE
-[quietly calling out, trying to find Kenny] Kenny!
+[quietly calling out, trying to find Kenny] Kenny !
 221)  LEE
-[quietly calling out, trying to find Kenny] Kenny!
+[quietly calling out, trying to find Kenny] Kenny !
 3)  LEE
-[quietly calling out, trying to find Kenny]Kenny, where are you?
+[quietly calling out, trying to find Kenny]Kenny, où êtes-vous ?
 4)  LEE
-[quietly calling out, trying to find Kenny]...Kenny?
+[quietly calling out, trying to find Kenny]...Kenny ?
 5)  DUCK
 [scared whimpering as he's held at gunpoint]
 6)  LEE
-[Calling out, firm] {AngryC} Andy!
+[Calling out, firm] {AngryC} Andy !
 7)  ANDY
-[furious] {AngryB}Who the fuck do you people think you are? {AngryC}Look what you've done!
+[furious] {AngryB}Pour qui vous vous prenez, bordel ? {AngryC}Regardez ce que vous avez fait !
 8)  LEE
-{NormalC} Calm down.
+{NormalC} Du calme.
 9)  LEE
-{NormalC}You brought this on yourself.
+{NormalC}Vous avez provoqué tout ça.
 10)  LEE
-{AngryA} Shut the fuck up!
+{AngryA} Fermez-la !
 11)  ANDY
-{AngryC} Calm down? What for, huh? {DisgustA}All we wanted was some goddamn gasoline!
+{AngryC} Me calmer ? Pourquoi ? {DisgustA}On voulait juste un peu d'essence !
 12)  ANDY
-{AngryA} No!  Uh uh!  {AngryC} YOU did this!  {DisgustA} All we wanted was a little gas to keep ourselves safe.
+{AngryA} Non !  {AngryC} C'est VOTRE faute !  {DisgustA} On voulait juste un peu d'essence pour notre protection.
 13)  ANDY
-{AngryB}You think I'm playin' here, boy?!  All we wanted was gas. {DisgustA} We came to you peacefully!
+{AngryB}Vous croyez que je m'amuse ici, mon gars ?!  On voulait juste de l'essence. {DisgustA} On venait en paix !
 14)  CLEMENTINE
-They're getting in!
+Ils arrivent !
 15)  LILLY
-[Urgent]Come on, honey, we gotta go.
+[Urgent]Allez, ma puce, on doit y aller.
 16)  LEE
-[urgent]Let's go, let's go...
+[urgent]On y va, on y va...
 17)  CLEMENTINE
-Wait!  What about Maybelle?
+Attends !  Et Maybelle?
 18)  LEE
-[confused]Who?
+[confused]Qui ?
 19)  CLEMENTINE
-The cow!
+La vache !
 20)  LILLY
-[Urgent but compasionate]Come on, honey, we gotta move...
+[Urgent but compasionate]Allez, ma puce, on doit y aller....
 21)  ANDY
-{AngryB} I don't want to hurt him, but I swear I will! {DisgustA} Is that what you want?
+{AngryB} Je veux pas le buter mais je vous jure que je vais le faire ! {DisgustA} C'est ce que vous voulez ?
 22)  DUCK
 [Scared whimpering]
 23)  ANDY
-[fight:Getting Hit exertion4]Errff!!
+[fight:Getting Hit exertion4]Hmmppff !!
 24)  ANDY
-[fight:attack exertion4]Errff!!
+[fight:attack exertion4]Hmmppff !!
 25)  ANDY
-[fight:attack exertion6]Errff!!
+[fight:attack exertion6]Hmmppff !!
 26)  LEE
-[pickup3][fight:attack exertion6]Errff!!
+[pickup3][fight:attack exertion6]Hmmppff !!
 27)  ANDY
-[fight:Getting Hit exertion1]Errff!!
+[fight:Getting Hit exertion1]Hmmppff !!
 28)  ANDY
-[fight:Getting Hit exertion6]Errff!!
+[fight:Getting Hit exertion6]Hmmppff !!
 29)  LEE
-[pickup3]	[fight:Getting Hit exertion3]Errff!!
+[pickup3]	[fight:Getting Hit exertion3]Hmmppff !!
 30)  LEE
-[pickup3][fight:attack exertion3]Errff!!
+[pickup3][fight:attack exertion3]Hmmppff !!
 31)  LEE
-[pickup3][fight:Getting Hit exertion1]Errff!!
+[pickup3][fight:Getting Hit exertion1]Hmmppff !!
 32)  ANDY
-[fight:Getting Hit exertion3]Errff!!
+[fight:Getting Hit exertion3]Hmmppff !!
 33)  ANDY
-[fight:attack exertion5]Errff!!
+[fight:attack exertion5]Hmmppff !!
 34)  ANDY
-[fight:Getting Hit exertion2]Errff!!
+[fight:Getting Hit exertion2]Hmmppff !!
 35)  LEE
-[pickup3][fight:Getting Hit exertion5]Errff!!
+[pickup3][fight:Getting Hit exertion5]Hmmppff !!
 236)  LEE
-[pickup3][fight:Getting Hit exertion5]Errff!!
+[pickup3][fight:Getting Hit exertion5]Hmmppff !!
 36)  ANDY
-[fight:Getting Hit exertion5]Errff!!
+[fight:Getting Hit exertion5]Hmmppff !!
 37)  LEE
-[pickup3][fight:attack exertion2]Errff!!
+[pickup3][fight:attack exertion2]Hmmppff !!
 38)  LEE
-[pickup3][fight:Getting Hit exertion4]Errff!!
+[pickup3][fight:Getting Hit exertion4]Hmmppff !!
 39)  LEE
-[pickup3][fight:attack exertion1]Errff!!
+[pickup3][fight:attack exertion1]Hmmppff !!
 40)  LEE
-[pickup3][fight:Getting Hit exertion2]Errff!!
+[pickup3][fight:Getting Hit exertion2]Hmmppff !!
 41)  ANDY
-[fight:attack exertion3]Errff!!
+[fight:attack exertion3]Hmmppff !!
 42)  LEE
-[pickup3][fight:attack exertion4]Errff!!
+[pickup3][fight:attack exertion4]Hmmppff !!
 43)  LEE
-[pickup3][fight:Getting Hit exertion6]Errff!!
+[pickup3][fight:Getting Hit exertion6]Hmmppff !!
 44)  ANDY
-[fight:attack exertion1]Errff!!
+[fight:attack exertion1]Hmmppff !!
 45)  LEE
-[pickup3][fight:attack exertion5]Errff!!
+[pickup3][fight:attack exertion5]Hmmppff !!
 46)  ANDY
-[fight:attack exertion2]Errff!!
+[fight:attack exertion2]Hmmppff !!
 47)  ANDY
-[being electrocuted! - More Electricy] Aaaarrrrrggghhhhhh!!!!
+[being electrocuted! - More Electricy] Aaaarrrrrggghhhhhh !!!!
 48)  ANDY
-[Screaming as he's eaten by a zombie]AAAaaahhhhhhggghggghh!!!
+[Screaming as he's eaten by a zombie]AAAaaahhhhhhggghggghh !!!
 49)  ANDY
-[alt-Screaming as he's eaten by a zombie - More Death gurgly]AAAaaahhhhhhggghggghh!!!
+[alt-Screaming as he's eaten by a zombie - More Death gurgly]AAAaaahhhhhhggghggghh !!!
 50)  LEE
-[tired] Thanks...
+[tired] Merci...
 51)  LILLY
-[to herself]That was for Dad.
+[to herself]C'était pour papa.
 52)  LEE
-[Whispering, but calling out] KENNY!
+[Whispering, but calling out] KENNY !
 53)  DOUG
-{FearB}Lee, is that you?  {ThinkingA}What the hell happened to you guys?
+{FearB}Lee, c'est vous ?  {ThinkingA}Qu'est-ce qui vous est arrivé ?
 54)  CARLEY
-{FearA} Lee?
+{FearA} Lee ?
 55)  BEN
-[quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them.
+[quiet]{AngryA}Je le savais ! [to Doug/Carley]{FearA}Je vous avais dit qu'on pouvait pas leur faire confiance.
 187)  BEN
-[quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them.
+[quiet]{AngryA}Je le savais ! [to Doug/Carley]{FearA}Je vous avais dit qu'on pouvait pas leur faire confiance.
 56)  LEE
-[quiet]{NormalC}Do you have a weapon?
+[quiet]{NormalC}Vous êtes armé ?
 201)  LEE
-[quiet]{NormalC}Do you have a weapon?
+[quiet]{NormalC}Vous êtes armé ?
 57)  ANDY
-[dying off as zombies devour him]AAaahhhggghgg...gggh...ggg...gg....
+[dying off as zombies devour him]AAaahhhggghgg... gggh... ggg... gg....
 58)  LEE
 [pickup3][fight: out of breath1]
 59)  LEE
@@ -141,29 +141,29 @@ The cow!
 67)  KENNY
 [hurt/ panting/grunting (Shot in his side) 4]
 68)  ANDY
-[pickup1][taunting lee, beat to shit, barely able to stand]  [Spits out blood] Is that all ya got, Lee? ...You ain't shit!
+[pickup1][taunting lee, beat to shit, barely able to stand]  [Spits out blood] C'est tout, Lee ? ...Vous valez rien !
 69)  LEE
-[pickup1][getting his face shoved into an Electric fence] Aahhhhhhhh!!!!!
+[pickup1][getting his face shoved into an Electric fence] Aahhhhhhhh !!!!!
 70)  ANDY
 [pickup1][satisfied shove as he pushes Lee's face into the barbed wire!]
 71)  KATJAA
-[pickup1][process, far in the distance, inside the house - but clearly audible][building to a panicked yell as Andy leaves the house with Duck]No, please God, NO!
+[pickup1][process, far in the distance, inside the house - but clearly audible][building to a panicked yell as Andy leaves the house with Duck]Non, par pitié, NON !
 72)  BRENDA
-[pickup1][process, far in the distance, inside the house - but clearly audible][stern, trying to get Katjaa to calmdown]Just shut up and he'll be fine!
+[pickup1][process, far in the distance, inside the house - but clearly audible][stern, trying to get Katjaa to calmdown]Taisez-vous et il ira bien !
 73)  DUCK
-[screams as his dad gets shot!]{FearC}DAAAD!!!
+[screams as his dad gets shot!]{FearC}PAPAAA !!!
 74)  KENNY
-[pickup1][shouting to Andy to let duck go!]{AngryC} Let him go, God dammit!!
+[pickup1][shouting to Andy to let duck go!]{AngryC} Lâchez-le, bordel !!
 75)  KATJAA
 [pickup1][gasps in horror seeing her kid held at gunpoint!]{FearC}
 76)  ANDY
-[pickup1][Shouted!  Delivered quickly!] {AngryB} That ain't gonna happen!
+[pickup1][Shouted!  Delivered quickly!] {AngryB} Ca se passera pas comme ça !
 77)  KATJAA
 [pickup1][screams as Kenny gets shot!]
 78)  ANDY
-[Pickup1][shouted] {AngryC}SHUT UP!
+[Pickup1][shouted] {AngryC}TA GUEULE !
 79)  LEE
-[pickup1][stern w/ projection - almost threatening] {AngryC} Andy, don't!
+[pickup1][stern w/ projection - almost threatening] {AngryC} Andy, non !
 80)  DUCK
 [ambient crying]
 81)  DUCK
@@ -171,23 +171,23 @@ The cow!
 82)  DUCK
 [ambient whimpering]
 83)  
-Electric Fence
+Clôture électrique
 84)  
-Corn Field
+Champ de maïs
 85)  
-Generator
+Générateur
 86)  
-Hay Pile
+Botte de foin
 87)  
-Walkers
+Marcheurs
 88)  ANDY
-[pickup1][winded and tired after fighting Lee tumbing down the hill, Andy is ready to finish Lee off] Get up.   Get the fuck up!
+[pickup1][winded and tired after fighting Lee tumbing down the hill, Andy is ready to finish Lee off] Lève-toi.   Lève-toi putain !
 89)  LEE
 [pickup1][weary and breathless from the fight, Lee gets pulled to his feet by Andy]Enngh...
 90)  LEE
-[pickup1][seeing Lilly aiming the gun, trying to help Lee while Andy is trying to push his face into the electric fence!]Lilly!
+[pickup1][seeing Lilly aiming the gun, trying to help Lee while Andy is trying to push his face into the electric fence!]Lilly !
 91)  LEE
-[pickup1][seeing Lilly holding Danny's rifle, but not sure whether to help Lee or not]Lilly! Help!
+[pickup1][seeing Lilly holding Danny's rifle, but not sure whether to help Lee or not]Lilly ! A l'aide !
 92)  LEE
 [pickup1][punching Andy in the face 1a]
 100)  LEE
@@ -253,247 +253,247 @@ Walkers
 155)  LEE
 [pickup1][heavy breathing after having beat the shit out of Andy]
 123)  LEE
-[pickup1][stern, tired having just beat the shit out of Andy, but Andy wont quit] It's over!
+[pickup1][stern, tired having just beat the shit out of Andy, but Andy wont quit] C'est fini !
 124)  ANDY
-[pickup1] [taunting lee, beat to shit, barely able to stand] Fuck you.  As soon as Dan and Mama get out here you're all fucked!!
+[pickup1] [taunting lee, beat to shit, barely able to stand] Je t'emmerde.  Dès que Dan et Maman seront ici vous serez baisés !!
 125)  LEE
-[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]They're both dead.
+[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Ils sont tous morts.
 126)  LEE
-[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Your mother's dead.
+[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Ta mère est morte.
 127)  LEE
-[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]They're not coming.
+[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Ils viendront pas.
 128)  ANDY
-[pickup1][beat to hell, shocked to hear his mother is dead] What?
+[pickup1][beat to hell, shocked to hear his mother is dead] Quoi ?
 129)  LEE
-[pickup1][ tired having just beat the shit out of Andy.]And your brother soon will be.
+[pickup1][ tired having just beat the shit out of Andy.]Et ton frère c'est pour bientôt.
 130)  ANDY
-[pickup1][beat to hell, wondering what Lee did to his family] What do you mean?
+[pickup1][beat to hell, wondering what Lee did to his family] Ca veut dire quoi ?
 131)  ANDY
-[pickup1][beat to hell, wondering what Lee did to his family - More insistant when Lee says nothing] Lee, what the fuck do you mean?
+[pickup1][beat to hell, wondering what Lee did to his family - More insistant when Lee says nothing] Lee, de quoi tu parles bordel ?
 132)  ANDY
-[pickup1][beat to hell but furious and heartbroken after learning the Lee killed his family]... What did you do?   WHAT THE FUCK DID YOU DO?!
+[pickup1][beat to hell but furious and heartbroken after learning the Lee killed his family]... Qu'est-ce que t'as fait ?   T'AS FAIT QUOI PUTAIN ?!
 133)  LEE
-[pickup1][exhausted, after having beat up andy - stern]I said it's over!  Just walk away!
+[pickup1][exhausted, after having beat up andy - stern]J'ai dit c'est terminé !  Barre-toi !
 134)  DOUG
-[pickup1][after watching Lee beat the crap out of Andy]He's not worth it.
+[pickup1][after watching Lee beat the crap out of Andy]Il n'en vaut pas la peine.
 135)  DOUG
-[pickup1][after watching Lee beat the crap out of Andy]Come on, man... Let's get the hell outta here.
+[pickup1][after watching Lee beat the crap out of Andy]Allez, mec... On se barre d'ici.
 136)  ANDY
-[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Don't you DARE walk away from me, Lee!!
+[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Ne t'AVISES pas de me tourner le dos, Lee !!
 137)  ANDY
-[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Get back here and finish this!
+[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Reviens ici et finissons-en !
 138)  CARLEY
-[pickup1][after watching Lee beat the crap out of Andy, but Andy wont give up, she ugres Lee to let it go]Lee, let it go. Think about who you want to be...
+[pickup1][after watching Lee beat the crap out of Andy, but Andy wont give up, she ugres Lee to let it go]Lee, laissez tomber. Pensez à qui vous voulez être...
 139)  KENNY
-[pickup1][urging Lee to not fight Andy and just leave]Let's go, Lee
+[pickup1][urging Lee to not fight Andy and just leave]Allons-y, Lee.
 140)  KENNY
-[pickup1][urging Lee to not fight Andy and just leave]Don't do it.
+[pickup1][urging Lee to not fight Andy and just leave]Ne faîtes pas ça.
 141)  ANDY
-[pickup1][beat to hell, waiting for Lee to fight him again]Fuckin' coward.
+[pickup1][beat to hell, waiting for Lee to fight him again]Sale lâche.
 142)  ANDY
-[pickup1][beat to hell, waiting for Lee to fight him again]Come on!
+[pickup1][beat to hell, waiting for Lee to fight him again]Allez !
 143)  KENNY
-[pickup1][urging Lee to not fight Andy and just leave]Lee, come on.
+[pickup1][urging Lee to not fight Andy and just leave]Lee, voyons.
 144)  ANDY
-[pickup1][beat to hell, waiting for Lee to fight him again]Do it!
+[pickup1][beat to hell, waiting for Lee to fight him again]Allez, viens !
 145)  ANDY
 [pickup1][beat to hell, waiting for Lee to fight him again][heavy breathing 2]
 146)  ANDY
 [pickup1][beat to hell, waiting for Lee to fight him again][heavy breathing 1]
 147)  ANDY
-[pickup1][broken and hopless and Lee walks away]Lee!
+[pickup1][broken and hopless and Lee walks away]Lee !
 148)  ANDY
-[pickup1][broken and hopless and Lee walks away][Continuing to call out, getting more desperate, knowing there is no hope left for him]Leee!
+[pickup1][broken and hopless and Lee walks away][Continuing to call out, getting more desperate, knowing there is no hope left for him]Leee !
 149)  ANDY
-[pickup1][broken and hopless and Lee walks away][Continuing to call out, finally breaking down into tears]Leee!
+[pickup1][broken and hopless and Lee walks away][Continuing to call out, finally breaking down into tears]Leee !
 150)  ANDY
-[pickup1][beat all to hell, watching Lee walk away] Get back here and fight me like a man, Lee!
+[pickup1][beat all to hell, watching Lee walk away] Reviens ici et bats-toi comme un homme, Lee !
 151)  DOUG
-[pickup1][tries to pull Lee away after watching im beat the crap outta Andy]Jesus, Lee!!
+[pickup1][tries to pull Lee away after watching im beat the crap outta Andy]Bon dieu, Lee !!
 152)  DOUG
-[pickup1][tries to pull Lee away after watching im beat the crap outta Andy - quietly]Come on... let's go.
+[pickup1][tries to pull Lee away after watching im beat the crap outta Andy - quietly]Allez... partons.
 153)  CARLEY
-[pickup1][after watching Lee beat the crap outta Andy - Sternly trying to stop him]Lee, that's enough!
+[pickup1][after watching Lee beat the crap outta Andy - Sternly trying to stop him]Lee, ça suffit !
 154)  CARLEY
-[pickup1][after watching Lee beat the crap outta Andy - quiet understanding]He's had enough.
+[pickup1][after watching Lee beat the crap outta Andy - quiet understanding]Il a son compte.
 156)  ANDY
 [pickup1][electrocuted for a brief moment, then falls to the ground.]
 157)  LEE
-[pickup1][beat up, seeing Andy poi9nt a gun at him] No, Andy wait!
+[pickup1][beat up, seeing Andy poi9nt a gun at him] Non, Andy attendez !
 158)  LEE
-[pickup1][tired, but bad ass/ almost to himself] I said it's over.
+[pickup1][tired, but bad ass/ almost to himself] J'ai dit c'est terminé.
 159)  LILLY
-[pickup1][flat. without emotion, stating why she didnt try to save Lee]You could have saved Dad.
+[pickup1][flat. without emotion, stating why she didnt try to save Lee]Vous auriez pu sauver papa.
 160)  LEE
-[pickup1][exhausted from fighting, looking at Lilly who never tried to help]...You could have saved me.
+[pickup1][exhausted from fighting, looking at Lilly who never tried to help]...Vous auriez pu me sauver.
 161)  
-Punch
+Frapper
 211)  
-Punch
+Frapper
 268)  
-Punch
+Frapper
 276)  
-Punch
+Frapper
 277)  
-Punch
+Frapper
 278)  
-Punch
+Frapper
 162)  
-Block
+Bloquer
 267)  
-Block
+Bloquer
 163)  
-Shoot
+Tirer
 164)  LEE
-[pickup2][quiet]{NormalC}These people are fucking crazy!
+[pickup2][quiet]{NormalC}Ces gens sont tarés !
 165)  BEN
-[pickup2][quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them!
+[pickup2][quiet]{AngryA}J'en étais sûr ! [to Doug/Carley]{FearA}Je vous avais dit qu'on ne pouvait pas leur faire confiance !
 166)  DOUG
-[pickup2][quiet]{ThinkingA} Where is everybody?  What can we do to help?
+[pickup2][quiet]{ThinkingA} Où sont les autres ?  Qu'est-ce qu'on peut faire ?
 167)  DOUG
-[pickup2]	[quiet]Holy Shit!  Is everyone okay? What can we do?
+[pickup2]	[quiet]Oh putain !  Tout le monde va bien ? Qu'est-ce qu'on peut faire ?
 168)  LEE
-[pickup2][quiet]{SurpriseA}Get out of here!
+[pickup2][quiet]{SurpriseA}Partez d'ici !
 193)  LEE
-[pickup2][quiet]{SurpriseA}Get out of here!
+[pickup2][quiet]{SurpriseA}Partez d'ici !
 169)  BEN
-[pickup2][quiet]{ThinkingA}Why?  What's going on?
+[pickup2][quiet]{ThinkingA}Pourquoi ?  Qu'est-ce qu'il se passe ?
 194)  BEN
-[pickup2][quiet]{ThinkingA}Why?  What's going on?
+[pickup2][quiet]{ThinkingA}Pourquoi ?  Qu'est-ce qu'il se passe ?
 170)  DOUG
-[pickup2][quiet]Oh, God.  What happened?
+[pickup2][quiet]Oh, mon dieu.  Qu'est-ce qu'il s'est passé ?
 171)  LEE
-[pickup2][quiet]{FearA}We need your help!
+[pickup2][quiet]{FearA}On a besoin d'aide !
 172)  DOUG
-[pickup2][quiet]{FearA}Lee?  You okay?
+[pickup2][quiet]{FearA}Lee ?  Ca va ?
 173)  LEE
-[pickup2][quiet] They've still got Duck and Katjaa in the house and I don't know where the fuck Kenny is!
+[pickup2][quiet] Ils retiennent Duck et Katjaa dans la maison et je ne sais pas où est passé Kenny !
 205)  LEE
-[pickup2][quiet] They've still got Duck and Katjaa in the house and I don't know where the fuck Kenny is!
+[pickup2][quiet] Ils retiennent Duck et Katjaa dans la maison et je ne sais pas où est passé Kenny !
 174)  DOUG
-[pickup2]	[quiet]{NormalB}Yeah, {SadA} It's Carley's, but... [trails off]
+[pickup2]	[quiet]{NormalB}Ouais, {SadA} C'est celle de Carley, mais... [trails off]
 175)  LEE
-[pickup2][quiet]{NormalC}Do you have a weapon?
+[pickup2][quiet]{NormalC}Vous avez une arme ?
 176)  LEE
-[pickup2][quiet]{NormalB}That's fine.  Ben, stay with Doug.
+[pickup2][quiet]{NormalB}Ca ira.  Ben, restez avec Doug.
 177)  DOUG
-[pickup2][quiet]{HappyA}You got it.
+[pickup2][quiet]{HappyA}Vous avez compris.
 178)  LEE
-[pickup2][quiet]These people are fucking cannibals!
+[pickup2][quiet]Ce sont des putains de canibales !
 179)  
-These people are fucking crazy!
+Ces gens sont tarés !
 180)  
-Get out of here!
+Barrez-vous !
 181)  
-We need your help!
+On a besoin d'aide !
 182)  LEE
-[pickup2][quiet]Doug!  Thank God you're here!
+[pickup2][quiet]Doug !  Dieu merci vous êtes là !
 183)  LEE
-[pickup2] [quiet]Larry's dead.  Mark is too. They were planning on killing and eating us all!
+[pickup2] [quiet]Larry est mort.  Mark aussi. Ils avaient prévu de nous tuer tous et de nous bouffer !
 202)  LEE
-[pickup2] [quiet]Larry's dead.  Mark is too. They were planning on killing and eating us all!
+[pickup2] [quiet]Larry est mort.  Mark aussi. Ils avaient prévu de tous tuer tous et de nous bouffer !
 184)  LEE
-[pickup2] [quiet]Larry's dead.  They chopped off Mark's legs and tried to feed them to us!
+[pickup2] [quiet]Larry est mort.  Ils ont coupé les jambes de Mark et ont essayé de nous les faire manger !
 203)  LEE
-[pickup2] [quiet]Larry's dead.  They chopped off Mark's legs and tried to feed them to us!
+[pickup2] [quiet]Larry est mort.  Ils ont coupé les jambes de Mark et ont essayé de nous les faire manger !
 185)  DOUG
-[pickup2][quiet - taking action]All right, we're coming in to help.
+[pickup2][quiet - taking action]Très bien, on vient vous aider.
 186)  LEE
-[pickup2]The main gate is too dangerous, go around the fence and see if there's a back way in. I'll keep looking for Kenny.
+[pickup2]C'est trop dangereux par devant, contournez la clôture et essayez par derrière. Je continue de chercher Kenny.
 204)  LEE
-[pickup2]The main gate is too dangerous, go around the fence and see if there's a back way in. I'll keep looking for Kenny.
+[pickup2]C'est trop dangereux par devant, contournez la clôture et essayez par derrière. Je continue de chercher Kenny.
 188)  LEE
-[pickup2][quiet]{NormalB}Two left
+[pickup2][quiet]{NormalB}Plus que deux
 189)  LEE
-[quiet]{NormalC}They attacked us.
+[quiet]{NormalC}Ils nous ont attaqué.
 190)  CARLEY
-[pickup2][quiet]{ThinkingA}Where?
+[pickup2][quiet]{ThinkingA}Où ça ?
 191)  CARLEY
-[pickup2][quiet]{AngryB}Shit.  How many of them are there?
+[pickup2][quiet]{AngryB}Merde.  Combien sont-ils ?
 192)  CARLEY
-[pickup2][quiet]{AngryA}Ben, quiet.  [to Lee]{ThinkingA} Tell me what's going on Lee. I can help.
+[pickup2][quiet]{AngryA}Ben, taisez-vous.  [to Lee]{ThinkingA} Que se passe-t-il, Lee ? Je peux vous aider.
 195)  CARLEY
-[pickup2][quiet]{FearA}Yeah, when you guys didn't come back I figured {ThinkingA}something was up.
+[pickup2][quiet]{FearA}Hé bien comme vous ne reveniez pas j'ai compris {ThinkingA}qu'il se passait un truc.
 196)  CARLEY
-[pickup2][quiet]{AngryA}What can we do?
+[pickup2][quiet]{AngryA}Qu'est-ce qu'on peut faire ?
 197)  LEE
-[quiet]{FearA}We need your help!
+[quiet]{FearA}On a besoin de votre aide !
 198)  CARLEY
-[quiet]{FearA}Lee, are you all right?
+[quiet]{FearA}Lee, tout va bien ?
 199)  CARLEY
-[pickup2][quiet]{AngryA}Ben, stick close.[To lee] {ThinkingA}And Lee, be careful.
+[pickup2][quiet]{AngryA}Ben, restez près de moi.[To lee] {ThinkingA}Et Lee, soyez prudent.
 200)  CARLEY
-[pickup2][quiet]{HappyC} I don't leave home without it.
+[pickup2][quiet]{HappyC} Je ne pars pas sans elle.
 206)  DOUG
-[pickup2[quiet]Lee, is that you?   We heard shots and ducked into the corn field.
+[pickup2[quiet]Lee, c'est vous ?   On a entendu tirer et on s'est caché dans les maïs.
 207)  DOUG
-[pickup2[quiet]Lee, is that you?   We heard screams as we were coming up to the house!
+[pickup2[quiet]Lee, c'est vous ?   On a entendu des cris quand on s'approchait de la maison !
 208)  CARLEY
-[pickup2[quiet]Lee, is that you?   I heard shots, what's going on?
+[pickup2[quiet]Lee, c'est vous ?   On a entendu tirer, qu'est-ce qu'il se passe ?
 209)  CARLEY
-[pickup2][quiet]Lee, is that you?
+[pickup2][quiet]Lee, c'est vous ?
 210)  LEE
-[quietly calling out, trying to find Kenny]Are you out there, Kenny?
+[quietly calling out, trying to find Kenny]Kenny, vous êtes là ?
 212)  BRENDA
-[Pickup 3] [calling out into the dark storm - Nevrous]Andy?  Danny, is that you? What's going on out there?
+[Pickup 3] [calling out into the dark storm - Nevrous]Andy ?  Danny, c'est toi ? Il se passe quoi là-bas ?
 213)  LEE
-[pickup 3][pretending to be Andy, calling out to his mom in the house] Yeah, it's me!
+[pickup 3][pretending to be Andy, calling out to his mom in the house] Ouais, c'est moi !
 214)  LEE
-[pickup3][calkling out to brenda as he approaches the house - threatening]I left Danny in the barn... He got what he deserved!
+[pickup3][calkling out to brenda as he approaches the house - threatening]J'ai laissé Danny dans la grange... Il a eu ce qu'il méritait !
 215)  BRENDA
-[pickup3] [threatening through the screen door] Get back, don't come in here!
+[pickup3] [threatening through the screen door] Reculez, n'entrez pas ici !
 216)  
-Yeah, it's me!
+Ouais, c'est moi !
 217)  
-I left Danny in the barn...
+J'ai laissé Danny dans la grange...
 218)  LEE
-[pickup3][calling out to brenda in theo house - threatening]Where are Katjaa and the kid?!
+[pickup3][calling out to brenda in theo house - threatening]Où est Katjaa et le gamin ?!
 219)  
-Where are Katjaa and the kid?!
+Où est Katjaa et le gamin ?!
 220)  BRENDA
-[pickup3][panicking, to herself as she realizes trouble is approaching!] Oh God...
+[pickup3][panicking, to herself as she realizes trouble is approaching!] Oh mon dieu...
 222)  LEE
-[pickup3][to himself - seeing a small red dot from a laser pointer moving along the hay pile]What the hell?  Where's that coming from?
+[pickup3][to himself - seeing a small red dot from a laser pointer moving along the hay pile]Qu'est-ce que ?  D'où ça vient ?
 223)  LEE
-[pickup3][quietly - meeting at the fence outside the house]You almost blinded me!
+[pickup3][quietly - meeting at the fence outside the house]Vous m'avez presque aveuglé !
 224)  DOUG
-[pickup3][quiet]Oh, sorry about that.  But I DID get your attention!
+[pickup3][quiet]Oh, désolé.  Mais j'ai VRAIMENT attiré votre attention !
 225)  DOUG
-[pickup3][quietly - Proud that he got Lee's attention][keep energy levels at this range: 310506031]Morse code!
+[pickup3][quietly - Proud that he got Lee's attention][keep energy levels at this range: 310506031]C'est du Morse !
 226)  LEE
-[pickup3][hushed calling out into the dark][keep energy levels at this range: 310506031] Doug!
+[pickup3][hushed calling out into the dark][keep energy levels at this range: 310506031] Doug !
 227)  LEE
-[pickup3][quietly - meeting at the fence outside the house]Doug?! What the hell was that?!
+[pickup3][quietly - meeting at the fence outside the house]Doug ?! C'était quoi, ça ?!
 228)  LEE
-[pickup3][to himself - peering into the dark he sees doug] Doug?
+[pickup3][to himself - peering into the dark he sees doug] Doug ?
 229)  LEE
-[pickup3][laser pointer hitting his eye] Ah!
+[pickup3][laser pointer hitting his eye] Ah !
 230)  BEN
-[pickup3][quiet, at the fence outside the house][keep energy levels at this range: 310506031]We heard screams from the barn!  What's going on?
+[pickup3][quiet, at the fence outside the house][keep energy levels at this range: 310506031]On a entendu des cris dans la grange !  Que se passe-t-il ?
 231)  LEE
-[pickup3][quietly calling out to Carley!] Carley!
+[pickup3][quietly calling out to Carley!] Carley !
 232)  DOUG
-[pickup3][hushed as Doug and Lee try to find their way to the back] Yes!  No.  ...Yes.
+[pickup3][hushed as Doug and Lee try to find their way to the back] Oui !  Non.  ...Oui.
 233)  DOUG
-[pickup3][hushed as Doug and Ben try to find their way to the back] Come on, this way...
+[pickup3][hushed as Doug and Ben try to find their way to the back] Par ici...
 234)  BEN
-[pickup3][hushed as Doug and Ben try to find their way to the back] Wait, are you sure?
+[pickup3][hushed as Doug and Ben try to find their way to the back] Attendez, vous êtes sûr ?
 235)  LEE
-[pickup3][quiet - Match 310506033]No, if we storm the house we'll cause a panic.  You two try to find a way around to the back.  I'll head to the front.
+[pickup3][quiet - Match 310506033]Non, ça va être la panique si on attaque la maison.  Vous deux, essayez de passer par derrière.  Je passe par devant.
 237)  BEN
-[pickup3][trying to quietly make his way through the corn field]Ow.
+[pickup3][trying to quietly make his way through the corn field]Ouille.
 242)  BEN
-[pickup3][trying to quietly make his way through the corn field]Ow.
+[pickup3][trying to quietly make his way through the corn field]Ouille.
 238)  CARLEY
-[pickup3][shushes Ben] Shhh!
+[pickup3][shushes Ben] Chut !
 241)  CARLEY
-[pickup3][shushes Ben] Shhh!
+[pickup3][shushes Ben] Chut !
 239)  CARLEY
-[line was split]Is everyone okay?  {ThinkingA}You guys have been gone WAY too long!
+[line was split]Tout le monde va bien ?  {ThinkingA}Vous êtes partis BEAUCOUP trop longtemps !
 240)  CARLEY
-We heard screams as we were coming up to the house!
+On a entendu des cris quand on s'approchait de la maison.
 243)  CARLEY
-[pickup3][projected whisper- taking action]All right, we're coming in to help.
+[pickup3][projected whisper- taking action]Très bien, on vient vous aider.
 244)  LEE
 [pickup3][breathing - not so worked up2]
 246)  ANDY
@@ -503,52 +503,52 @@ We heard screams as we were coming up to the house!
 247)  LEE
 [pickup3][breathing - not so worked up]
 248)  ANDY
-[pickup3][laser fropm laser pointer hits him in the eye] Ahh!
+[pickup3][laser fropm laser pointer hits him in the eye] Ahh !
 249)  
-Dot
+Point
 250)  
-Beam
+Rayon
 251)  
-Screen Door
+Porte grillagée
 252)  DOUG
-[pickup3] [quiet][learning that larry is dead and they tried to eat you!]Jesus!  That is sick!
+[pickup3] [quiet][learning that larry is dead and they tried to eat you!]Bon sang !  C'est des malades !
 253)  CARLEY
-[pickup3][quiet, learning that Larry is dead and they tried to eat you!]Shit!  Is everyone else okay?
+[pickup3][quiet, learning that Larry is dead and they tried to eat you!]Merde !  Les autres vont bien ?
 254)  KATJAA
 [pickup3][ambient][whimpering 3]
 255)  BRENDA
-[pickup3][ambient]Settle down.  I don't wanna hurt ya'll.
+[pickup3][ambient]Du calme.  Je ne vous veux pas de mal.
 256)  BRENDA
-[pickup3][ambient][realizing that Danny is NOT outside]oh God!
+[pickup3][ambient][realizing that Danny is NOT outside]oh Seigneur !
 257)  BRENDA
-[pickup3][ambient][grabbing Katjaa for protection] Come here...
+[pickup3][ambient][grabbing Katjaa for protection] Viens là...
 258)  KATJAA
-[pickup3][ambient]Let me go!
+[pickup3][ambient]Laissez-moi !
 259)  BRENDA
-[pickup3][Seeing Lee]Get back! Don't come in here!
+[pickup3][Seeing Lee]Reculez ! N'entrez pas !
 260)  KATJAA
-[pickup3][seeing Lee!]LEE!
+[pickup3][seeing Lee!]LEE !
 261)  KATJAA
 [pickup3][ambient][whimpering 1]
 262)  KATJAA
 [pickup3][ambient][whimpering 2]
 263)  ANDY
-[pickup3][ambient]Something's up. I'm gonna take the boy and check around back.
+[pickup3][ambient]Il se passe un truc. Je prends le gamin et je retourne vérifier.
 264)  KATJAA
-[pickup3][ambient]No, please, don't take my boy!!
+[pickup3][ambient]Non, pitié, prenez pas mon fils !!
 265)  ANDY
-[pickup3][ambient]Let go, woman!
+[pickup3][ambient]Lachez, femme !
 266)  
-Kick
+Coup de pied
 269)  
-Your mother's dead.
+Ta mère est morte.
 270)  
-They're both dead.
+Ils sont morts.
 271)  
-They're not coming.
+Ils ne viendront pas.
 272)  
-I said it's over!
+J'ai dit c'est terminé !
 273)  CARLEY
-Is everyone okay?
+Tout le monde va bien ?
 274)  
-Walk away
+S'éloigner
