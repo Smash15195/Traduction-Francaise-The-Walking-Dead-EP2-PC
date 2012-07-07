@@ -281,7 +281,7 @@ Restez a l'ecart.
 140)  LEE
 [pickup2] Nan, je crois que c'est cassé. Danny a paru très intéressé avant qu'on s'en aperçoive.
 141)  KENNY
-[pickup2][quietly]We may have bigger fish to fry here.
+[pickup2][quietly]On a mieux à faire ici.
 142)  LEE
 [pickup2]Vous vous disputiez à propos de quoi avec Lilly quand je suis revenu ?
 143)  LEE
@@ -297,84 +297,84 @@ Restez a l'ecart.
 148)  LEE
 [pickup_2]J'ai ramassé un truc qui pourrait nous aider pour la serrure.
 149)  KENNY
-Good.  Now we just gotta keep that guy busy.
+Bien.  On a plus qu'à tenir ce type occupé.
 150)  KENNY
-Yeah.  He's been... watching.
+Ouais.  Il était en train... de nous observer.
 151)  LEE
 Andy.
 152)  KENNY
-I wish that guy would just leave...
+J'aimerais bien que ce type s'en aille...
 153)  KENNY
-[pickup_2]Nothin' to stop you now.
+[pickup_2]Rien ne peut plus vous arrêter maintenant.
 154)  
-Show Camera To
+Montrer la camera
 155)  
-Show Hat To
+Montrer la casquette
 156)  
-Danny killed someone.
+Danny a tue quelqu'un.
 157)  
-I killed someone.
+J'ai tue quelqu'un.
 158)  
-Lilly doesn't want to be here.
+Lilly ne veut pas etre ici.
 159)  
-Your family made it here okay?
+Votre famille est bien arrivee ?
 160)  
-How you holding up?
+Comment tenez vous ?
 161)  KENNY
-[pickup3][follows # 310481005]You're with me on this, right?
+[pickup3][follows # 310481005]Vous êtes avec moi sur ce coup là, hein ?
 162)  LEE
-[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Yeah, of course.  Lilly's judgement is clouded, but you've got a pretty clear head about these things.
+[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Ouais, bien sûr.  Lilly n'a pas les idées claires, mais vous, vous avez plutôt une bonne vision des choses.
 163)  LEE
-[pickup3][disagreeing with Kenny about the motor inn]Lilly's been doing a good job of keeping the group together.  You need to back off a bit.
+[pickup3][disagreeing with Kenny about the motor inn]Lilly a fait du bon boulot pour tous nous garder unis.  Vous devriez prendre un peu de recul.
 164)  LEE
-[pickup3][not siding with anyone about the motor inn]You're not making me pick sides, Kenny.
+[pickup3][not siding with anyone about the motor inn]Vous ne me ferez pas choisir un camp, Kenny.
 165)  KENNY
-[pickup3][disapointed in Lee for siding with Lilly] Whatever.
+[pickup3][disapointed in Lee for siding with Lilly] Qu'importe.
 166)  KENNY
-[pickup3][in ernest]Well... you better think about it, because that time is coming.
+[pickup3][in ernest]Hé bien... vous devriez y réfléchir car on va y venir.
 167)  
-Yeah, of course.
+Oui, bien sur.
 168)  
-No. Lilly's been doing a good job.
+Non. Lilly a fait du bon boulot.
 169)  
-I'm not choosing sides.
+Je ne prends pas parti.
 170)  KENNY
-[pickup3][responding to Lee's silence and refusal to pick sides] Hmf.  Always the diplomat.
+[pickup3][responding to Lee's silence and refusal to pick sides] Pff.  Revoilà le diplomate.
 172)  KENNY
-[pickup3] Hey Lee, found anything interesting?
+[pickup3] Hé Lee, vous avez trouvé quelque chose d'intéressant ?
 173)  KENNY
-[pickup3] Good to know. Keep your ears open for anything else that might help us.
+[pickup3] C'est bon à savoir. Gardez les oreilles ouvertes sur ce qui pourrait nous aider.
 174)  LEE
-[pickup3] I'm just trying to make sure this place is secure, in case we decide to make this a more long term solution.  Except for those people in the woods, it seems pretty safe.
+[pickup3] J'essaye de voir si cet endroit est sûr, au cas où on décide d'en faire une solution à long terme.  A part les gens dans les bois, cela semble sécurisé.
 175)  KENNY
-[pickup3] That's true.  Well, it's good to know what we're working with here.
+[pickup3] C'est vrai.  C'est bien de savoir à quoi on a à faire ici.
 176)  KENNY
-[pickup3] Keep looking around and let me know if you find anything else.
+[pickup3] Continuez de chercher et dites moi quand vous aurez trouvé quelque chose.
 177)  LEE
-[pickup3] I was talking to Andy a bit earlier, it doesn't sound like they have too many guns around. They rely mostly on the fence to keep them safe.
+[pickup3] Je parlais à Andy un peu plus tôt, il semble qu'ils n'aient pas beaucoup d'armes. Ils dépendent surtout de la clôture pour se protéger.
 178)  LEE
-[pickup3] Well that's the problem, when there's no more gas, there's no more fence.
+[pickup3] Et bien, c'est ça le problème. Quand il y a plus d'essence, il y a plus de clôture.
 179)  KENNY
-[pickup3] Hey Lee, how's it going with the St. Johns?
+[pickup3] Hé Lee, comment ça se passe avec les St. John ?
 180)  LEE
-[pickup3] Good. I was talking to Andy earlier and offered our group's assistance on the dairy.
+[pickup3] Bien. Je parlais à Andy plus tôt et j'ai proposé que notre groupe les aide à la ferme.
 181)  KENNY
-[pickup3] Great. Sounds like they're starting to accept us.
+[pickup3] Génial. On dirait qu'ils commencent à nous accepter.
 182)  LEE
-[pickup3] Definitely.
+[pickup3] Tout à fait.
 183)  LEE
-[pickup3]I don't think they have much to protect them besides the fence so he seemed pretty appreciative.
+[pickup3]Je pense pas qu'ils aient bien plus que la clôture pour les protéger alors ils apprécient plutôt.
 184)  KENNY
-[pickup3] Yeah, this place is sure a step up from that shithole motor inn.
+[pickup3] Ouais, cet endroit c'est quand même un cran au-dessus que ce trou à rat de Motor Inn.
 185)  LEE
-[pickup3] They seem like good people. If we play our cards right, I still think it could work out for us here.
+[pickup3] Ils ont l'air gentils. Si on la joue fine ça pourrait être bon pour nous.
 186)  KENNY
-[pickup3] Don't wait too long to help scope out that bandit camp. It'd be a good opportunity to find a bit more out about the St. John's and their relationship with those... bandits or whatever.
+[pickup3] N'attendez pas trop pour aider à faire le tour de ce camp de brigands. Ca va être une bonne occasion d'en découvrir un peu plus sur les St. John et leur relation avec ces... brigands ou autres.
 187)  LEE
-[pickup3] Right. I'll see what I can find out.
+[pickup3] Oui. On verra bien ce qu'on trouvera.
 188)  LEE
-[pickup3] Good idea.
+[pickup3] Bonne idée.
 189)  KENNY
-[pickup3] Don't wait too long to help scope out that bandit camp.  Sounds like they're pretty amped up about it. This might be a good way to earn their trust.
+[pickup3] N'attendez pas trop pour aider à faire le tour de ce camp de brigands.  Ils ont l'air plutôt remonté sur le sujet. Ce serait un bon moyen de gagner leur confiance.
 190)  KENNY
-[pickup3]So as long as you're on THIS side, things are all right.  Provided the fence holds out.
+[pickup3]Tant que vous êtes de CE côté, tout va bien.  Pourvu que la clôture tienne bon.
