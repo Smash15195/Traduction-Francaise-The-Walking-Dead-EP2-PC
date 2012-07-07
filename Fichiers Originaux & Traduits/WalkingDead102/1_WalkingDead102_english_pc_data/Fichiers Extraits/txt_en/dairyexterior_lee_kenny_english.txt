@@ -1,380 +1,380 @@
 1)  KENNY
-{sadA}Hey, {normalB}they said Mark got attacked?
+{sadA}Salut ! {normalB}Il paraît que Mark a été attaqué ?
 2)  LEE
-{normalD}Don't worry, he's fine.
+{normalD}Vous en faîtes pas, il va bien.
 3)  KENNY
-{normalB}He'd better be. We need him.
+{normalB}Il a plutôt intérêt. On a besoin de lui.
 4)  LEE
-{angryA}Bandits attacked us.
+{angryA}Des brigands nous ont attaqués.
 5)  KENNY
-{angryA}God dammit. {thinkingA}Didn't think they'd come all the way out here.
+{angryA}Bon sang. {thinkingA}J'aurais jamais cru qu'ils viennent jusqu'ici.
 6)  KENNY
-{normalA}Least he didn't get bit, I guess.
+{normalA}C'est mieux que de se faire mordre, j'imagine.
 7)  LEE
-{thinkingA}I haven't seen him since.
+{thinkingA}Je l'ai pas revu depuis.
 8)  KENNY
-{normalA}Hmm, should I ask Kat {normalB}to look in on him when she's done with the cow?
+{normalA}Hmm, et si je demandais à Kat {normalB}de l'examiner quand elle aura terminé avec la vache ?
 9)  KENNY
-{normalB}Maybe, maybe not. Once we get our food, we can do a better job of defending it.
+{normalB}Peut-être, peut-être pas. Une fois qu'on aura mangé, on pourra mieux le défendre.
 10)  KENNY
-{thinkingA}Instead of just waitin' around at the motel for somebody to attack us or eat us.
+{thinkingA}Au lieu d'attendre au motel que quelqu'un nous attaque ou nous bouffe.
 11)  LEE
-{thinkingA}This place isn't safe.
+{thinkingA}Cet endroit n'est pas sûr.
 12)  LEE
-{happyA}I'm glad you decided to come out with us.
+{happyA}Je suis content que vous soyez venu avec nous.
 13)  KENNY
-{normalB}Yeah, well, we need the food.  {normalA}Helping this cow better be worth it.
+{normalB}Ouais, ben, on doit manger.  {normalA}Aider cette vache a intérêt à en valoir le coup.
 14)  KENNY
-[worried] {angryA}I noticed there weren't too many walkers around on the way up.
+[worried] {angryA}J'ai vu qu'il n'y avait pas trop de marcheurs sur le chemin.
 15)  LEE
-{normalD}That's good.
+{normalD}C'est bien.
 16)  KENNY
-{normalA}Is it? I got a bad feeling.
+{normalA}Vraiment ? J'ai un mauvais pressentiment.
 17)  KENNY
-{angryA}Whether it's from the walkers or the bandits, there's a shitstorm comin'.
+{angryA}Que ça vienne des marcheurs ou des brigands, il va y avoir une pluie d'emmerdes bientôt.
 18)  LEE
-{normalC}Something wrong with that?
+{normalC}Quelque chose ne va pas ?
 19)  KENNY
-{angryA}If we ain't seeing 'em, that means either there's a shitload of 'em waiting somewhere...
+{angryA}Si on les voit pas, ça peut aussi dire qu'ils nous préparent une sacré surprise...
 20)  KENNY
-...or else somebody with a lot more firepower than us is killin' 'em off.
+... à moins que quelqu'un de mieux armé que nous est en train de les liquider.
 21)  KENNY
-{normalA}Either way, I gotta bad feeling a shitstorm's brewin'.
+{normalA}Dans tous les cas, j'ai peur qu'une pluie d'emmerdes nous tombe dessus.
 22)  LEE
-{normalD}The walkers don't worry me as much as the bandits.
+{normalD}Les marcheurs ne m'inquiètent pas autant que les brigands.
 23)  KENNY
-{normalB}That's what I'm sayin'.
+{normalB}C'est ce que je dis.
 24)  KENNY
-{fearA}Somethin's coming, Lee. There's gonna be a war.
+{fearA}Il se passe un truc, Lee. Ca va être la guerre.
 25)  KENNY
-{sadA}On the way over here, I was gettin' dizzy, hands shakin', cold sweats. {normalA}Thought I was gonna pass out.
+{sadA}Sur le chemin, je commençais à avoir la tête qui tourne, les mains qui tremblent, suer à grosses goûttes. {normalA}J'ai cru que j'allais m'évanouir.
 26)  LEE
-{normalD}They've got food here.
+{normalD}Ils ont de la nourriture ici.
 27)  KENNY
-{angryA}I hope they feed us, Lee. Soon.
+{angryA}J'espère qu'ils vont bientôt nous donner à manger, Lee.
 28)  KENNY
-{thinkingA}Yeah, but I'm not just talking about one meal, ya know?
+{thinkingA}Ouais, mais je parle pas d'un seul repas, vous voyez ?
 29)  LEE
-{normalC}How you holding up?
+{normalC}Comment vous tenez le coup ?
 30)  KENNY
-[quietly] {angryA}If they got a supply of food somewhere, {normalA}we've gotta know where it is and how to get it.
+[quietly] {angryA}S'ils ont une réserve de bouffe quelque part, {normalA}il faudrait qu'on sache où et comment on peut la récupérer.
 31)  KENNY
-[quietly] {sadA}In case something happens.
+[quietly] {sadA}Au cas où.
 32)  KENNY
-{normalB}Katjaa knows what's up, talk to her and she'll show you where I'm talking about.
+{normalB}Katjaa est au courant, demandez lui de vous montrer l'endroit dont je parle.
 33)  KENNY
-{angryA}Find out what's in that room.
+{angryA}Découvrez ce qu'il y a dans cette pièce.
 34)  LEE
-[quietly] {thinkingA}I still don't like it.
+[quietly] {thinkingA}Je continue de ne pas aimer ça.
 35)  KENNY
-{sadA}Come on, Lee, it's not just us. We've gotta think of the kids.
+{sadA}Voyons, Lee, il n'y a pas que nous. Il faut aussi penser aux enfants.
 36)  KENNY
-[quietly] {normalB}You don't have to like it, just do it.
+[quietly] {normalB}Vous n'êtes pas obligé d'aimer ça, faîte-le c'est tout.
 37)  LEE
-[quietly] {thinkingA}You're right.
+[quietly] {thinkingA}Vous avez raison.
 38)  LEE
-[quietly] {normalB}It's probably nothing. {normalC}What could they be hiding at a dairy farm?
+[quietly] {normalB}C'est sans doute rien. {normalC}Qu'est-ce qu'ils pourraient cacher dans une ferme laitière ?
 39)  KENNY
-[quietly] {thinkingA}Food!
+[quietly] {thinkingA}De la bouffe !
 40)  LEE
-[quietly] {angryA}These folks deserve their privacy.
+[quietly] {angryA}Ces gens ont le droit d'avoir une vie privée.
 41)  KENNY
-[quietly] {normalB}We just want to look, Lee. We're not stealing anything.
+[quietly] {normalB}C'est juste pour savoir, Lee. On ne va rien voler.
 42)  LEE
-[quietly] {angryA}We can't piss these people off, Kenny. We need them to trust us.
+[quietly] {angryA}On ne peut pas les mettre en rogne, Kenny. Il faut qu'ils nous fassent confiance.
 43)  KENNY
-[quietly] {normalA}That goes both ways, Lee.
+[quietly] {normalA}Ca va dans les deux sens, Lee.
 44)  LEE
-[quietly] {angryA}You want ME to take a look?
+[quietly] {angryA}Vous voulez que JE jette un oeil ?
 45)  KENNY
-[quietly] {normalB}Exactly.
+[quietly] {normalB}Tout à fait.
 46)  LEE
-{normalA}Bye.
+{normalA}Salut.
 47)  KENNY
-{happyA}Hey, Lee. {normalA}Nice place, huh?
+{happyA}Hé, Lee. {normalA}Bel endroit, non ?
 48)  KENNY
-{normalA}So, uh... what's up?
+{normalA}Alors, heu... quoi de neuf ?
 49)  KENNY
-[after being ignored]{sadA}Well... just be careful, I guess.
+[after being ignored]{sadA}Ben... soyez prudent, j'imagine.
 50)  LEE
-{normalA}Hi, Kenny.
+{normalA}Salut, Kenny.
 51)  LEE
-[greeting]{normalB}Hey...
+[greeting]{normalB}Salut...
 171)  LEE
-[greeting]{normalB}Hey...
+[greeting]{normalB}Salut...
 52)  KENNY
-[noticing Lee's silence]{angryA}You sense it too, don't ya?   {fearA}Man, I've got a feeling something bad is on the horizon, Lee.
+[noticing Lee's silence]{angryA}Vous le sentez aussi, hein ?   {fearA}Je crois qu'un truc mauvais se profile à l'horizon, Lee.
 53)  KENNY
-[responding to Lee's silence; hushed][quietly]  {angryA}Well don't look at me!  {thinkingA}I'm no good at breaking and entering.  But somebody's gotta do it!
+[responding to Lee's silence; hushed][quietly]  {angryA}Me regardez pas comme ça !  {thinkingA}Je suis mauvais pour les effractions.  Mais quelqu'un doit bien le faire !
 54)  KENNY
-{normalB}What's up, Lee?
+{normalB}Quoi de neuf, Lee ?
 55)  KENNY
-[looks at Danny] {normalB}Mind if I talk to Lee for a minute?
+[looks at Danny] {normalB}Ca vous ennuie si je parle à Lee une minute ?
 56)  KENNY
-[looks at Danny] {normalB}Gimme a sec...
+[looks at Danny] {normalB}Une seconde...
 57)  DANNY
-{normalB}Yeah, go ahead.
+{normalB}Pas du tout, allez-y.
 58)  KENNY
-[pickup2] Man, what the fuck happened out there? You okay?
+[pickup2] Mec, qu'est-ce qu'il s'est passé là-bas ? Ca va ?
 59)  LEE
-[pickup2] I'm just a little shaken up. Could have just as easily been me that got killed out there.
+[pickup2] Je suis un peu abattu. Ca c'est joué de peu que je sois celui qui se fasse tuer.
 60)  KENNY
-[pickup2]Look man, Mark dying? Fucking awful... but now we know things are more dangerous out there than we even thought.
+[pickup2]Ecoutez, Mark est mort ? C'est vraiment terrible... mais maintenant on sait que c'est plus dangereux par ici que ce qu'on pensait.
 61)  
-I'm just shaken up.
+Je suis abattu.
 62)  
-It's nothing.
+C'est rien.
 63)  LEE
-[pickup2]It's nothing, don't worry about it.
+[pickup2]C'est rien, ne vous en faîte pas.
 64)  KENNY
-[pickup2]Hey, I get it. Mark dying... you need to deal with that in your own way. But we need to start thinking about what we came here for.
+[pickup2]Hé, j'ai compris. Mark est mort... vous devez surmonter ça à votre façon. Mais il faut se demander pourquoi on est venu ici.
 65)  KENNY
-[pickup2] Glad to see you two made it out of there in once piece.
+[pickup2] Heureux de voir que vous avez pu vous en sortir en un seul morceau.
 66)  LEE
-[pickup2] That's one way of looking at it.
+[pickup2] C'est une façon de voir les choses.
 67)  KENNY
-[pickup2]  Hey, it could've been worse. He could've ended up like that poor son of a bitch in the bear trap.
+[pickup2]  Hé, ça aurait pu être pire. Ca aurait pu se finir comme le pauvre gars dans le piège à ours.
 68)  LEE
-[pickup2] Not sure Mark's gonna be as upbeat as you about the whole thing.
+[pickup2] Pas sûr que Mark soit aussi optimiste que vous.
 69)  LEE
-[pickup2] [shrugging]Guess that's one way of looking at it.
+[pickup2] [shrugging]J'imagine que c'est une façon de voir les choses.
 70)  LEE
-[pickup2] I guess Lilly isn't too thrilled about being here.
+[pickup2] Je suppose que Lilly n'est pas ravie d'être ici.
 71)  KENNY
-[pickup2] I could give two shits about what Lilly wants. Duck and Katjaa need food, and I'm not about to sit around that Motor Inn and watch them go hungry.
+[pickup2] J'en ai rien à foutre de ce que Lilly veut. Duck et Katjaa doivent manger, et je ne vais pas rester assis au Motor Inn à les regarder crever de faim.
 72)  LEE
-[pickup2] If everything works out, maybe he and Katjaa can have an easier life here.
+[pickup2] Si tout se passe bien, lui et Katjaa pourraient avoir une vie meilleure ici.
 73)  KENNY
-[pickup2][bitter]Yeah, right.
+[pickup2][bitter]Ouais, c'est ça.
 74)  LEE
-[pickup2] That's in the past, Kenny. A lot's happened since then.
+[pickup2] C'est du passé, Kenny. Plein de choses sont arrivées depuis.
 75)  KENNY
-[pickup2] [bitter]That's funny, you didn't seem too worried about Duck when Larry wanted to throw him out into the street back in Macon.
+[pickup2] [bitter]C'est marrant, ça n'avait pas l'air de trop vous déranger que Larry veuille jeter Duck dans la rue à Macon.
 76)  KENNY
-[pickup2] [bitter] That's funny, considering you didn't seem too worried about Duck back at Hershel's Farm.
+[pickup2] [bitter] C'est marrant, vous n'aviez pas l'air trop inquiet pour Duck à la ferme Hershel.
 77)  KENNY
-[pickup2] I hope you're right. Duck and Clementine deserve a better life than starving to death at some crappy motel.
+[pickup2] J'espère que vous avez raison. Duck et Clémentine méritent mieux que de crever de faim dans un motel miteux.
 78)  LEE
-[pickup2] I'm gonna go have a look around.
+[pickup2] Je vais jeter un oeil aux environs.
 79)  KENNY
-[pickup2] I'll be here if you need me. Let me know if you find anything.
+[pickup2] Je serai là si vous avez besoin. Dites moi si vous trouvez quoi que ce soit.
 80)  KENNY
-[pickup2] Okay, well, I'll be here if you need me.
+[pickup2] Ok, ben, je serai là si vous avez besoin de moi.
 81)  KENNY
-[pickup2] Nothing? Mark's dead. That's not nothing. It's fucking dangerous out there, but you're right... we need to move on.  As soon as dinner's on the table, we're all gonna feel a lot better.
+[pickup2] Rien ? Mark est mort. Ce n'est pas rien. C'est putain de dangereux par ici, mais vous avez raison... on doit partir.  Aussitôt que le dîner sera servi on se sentira beaucoup mieux.
 82)  LEE
-[pickup2]Yeah, you're right.
+[pickup2]Ouais, c'est vrai.
 83)  KENNY
-[pickup2]Well, it wasn't easy. Duck didn't look so good on the walk over to this place.
+[pickup2]Et bien, c'était pas de la tarte. Duck n'avait pas l'air bien sur le trajet.
 84)  LEE
-[pickup2] Did Duck and Katjaa get here okay?
+[pickup2] Duck et Katjaa on fait bon voyage ?
 85)  KENNY
-[pickup2] We need to start thinking about what we came here for. Food. We're starvin', Lee.
+[pickup2] Il faut se demander pourquoi on est venu ici. Pour la bouffe. On meurt de faim, Lee.
 86)  KENNY
-[pickup2]And better it be a quick death than living in agony like that guy in the bear trap.
+[pickup2]Et c'est mieux d'avoir une mort rapide que de souffrir le martyr comme ce type dans le piège à ours.
 87)  
-It's okay. We're safe now.
+Ca va. On est en securite.
 88)  LEE
-[pickup2] It's okay. People die, it happens. But at least we're safe now.
+[pickup2] Ca va. Des gens qui meurent, ça arrive. Mais au moins on est en sécurité maintenant.
 89)  KENNY
-[pickup2] Maybe we'll all feel a lot better once dinner's on the table.
+[pickup2] On se sentira sans doute tous beaucoup mieux après que le dîner soit servi.
 90)  KENNY
-[pickup2]Lee, I'm glad you're back. Did you find anything out there?
+[pickup2]Lee, heureux de vous revoir. Vous avez trouvé quelque chose ?
 91)  KENNY
-[pickup2]Holy fuck! Glad you made it back in one piece. Did she at least have any supplies out there? Food?
+[pickup2]Putain de merde ! Content que vous soyez revenu entier. Elle avait des provisions au moins ? De la nourriture ?
 92)  LEE
-[pickup2] I killed someone out there. A woman. She had a crossbow pointed right at my head.
+[pickup2] J'ai tué quelqu'un là-bas. Une femme. Elle pointait une arbalète sur moi.
 93)  LEE
-[pickup2] We found a woman out there. She was all alone and talking crazy with a crossbow pointed right at us. Before I knew it, Danny shot and killed her.
+[pickup2] On a trouvé une femme là-bas. Elle était seule et délirait avec une arbalète pointée droit sur nous. En un clin d'oeil, Danny l'a tué.
 94)  LEE
-[pickup2] We didn't find anything useful out there, but that's not what I wanted to talk about.
+[pickup2] On a rien trouvé d'utile là-bas, mais je voulais pas parler de ça.
 95)  KENNY
-[pickup2][disappointed, then quitely]Figures. But hey, listen...
+[pickup2][disappointed, then quitely]Je comprends. Mais écoutez...
 96)  
-What did you say to Lilly?
+Qu'avez vous dit a Lilly ?
 97)  KENNY
-[pickup2] [impatient]So did you find food out there or not?!
+[pickup2] [impatient]Vous avez trouvé à manger ou pas alors ?!
 98)  LEE
-[pickup2] No. Nothing.
+[pickup2] Non. Rien.
 99)  
-We found nothing.
+On a rien trouve.
 100)  LEE
-[pickup2]There's nothing out there.
+[pickup2]Il n'y a rien là-bas.
 101)  KENNY
-[pickup2]You shitting me? Nothing at all?
+[pickup2]Vous déconnez ? Rien du tout ?
 102)  LEE
-[pickup2][forceful]I'm telling you. We didn't find anything.
+[pickup2][forceful]Je viens de vous le dire. On a rien trouvé.
 103)  KENNY
-[pickup2][suspicious]You wouldn't lie to me, would you, Lee?
+[pickup2][suspicious]Vous ne me mentiriez pas, hein, Lee ?
 104)  LEE
-[pickup2]Kenny?
+[pickup2]Kenny ?
 105)  
-What's so special about the barn?
+Qu'est-ce qu'il y a avec la grange ?
 106)  LEE
-[pickup2][clarifying][quietly]What's so special about the barn? Why would they hide something there?
+[pickup2][clarifying][quietly]Qu'est-ce qu'elle a de spécial cette grange ? Pourquoi ils cacheraient des trucs là-dedans ?
 107)  KENNY
-[pickup2][quietly]Who knows, but whatever it is, they're holding out on us. I need to find out what they got, Lee. For my family's sake. And for Clementine.
+[pickup2][quietly]Qui sait, mais peu importe, ils nous le cachent. Il faut que je sache, Lee. Pour ma famille. Et pour Clémentine.
 108)  
-What are they hiding?
+Que cachent-ils ?
 109)  LEE
-[pickup2][quietly] So what exactly do you think they've got back there?
+[pickup2][quietly] Et d'après vous, qu'est-ce qu'ils ont là-dedans ?
 110)  KENNY
-[pickup2][quietly]My guess? Food. And based on what I saw, they have more than enough to go around. Maybe you could find a way get in there, Lee.
+[pickup2][quietly]D'après moi ? A manger. Et de ce que j'en ai vu, ils en ont plus qu'assez dans le coin. Vous pourriez peut-être trouver un moyen d'entrer, Lee.
 111)  
-Stay out of it.
+Restez a l'ecart.
 112)  KENNY
-[pickup2] [quietly]Fuck that, man.
+[pickup2] [quietly]Rien à foutre, mec.
 113)  LEE
-[pickup2][quietly] Look, whatever they got back there? That's their business. We need to play it safe if we want to try to work out a deal here.
+[pickup2][quietly] Ecoutez, quoiqu'ils gardent à l'intérieur c'est leurs affaires. On doit faire profil bas si on veut conclure un marché ici.
 114)  KENNY
-[pickup2] [impatient][quietly]Don't stonewall me on this.
+[pickup2] [impatient][quietly]Ne me faites pas barrage là-dessus.
 115)  KENNY
-[pickup2] [quietly]You need to get into that barn. They're hiding something that could help all of us.
+[pickup2] [quietly]Vous devez entrer dans cette grange. Ils cachent un truc qui pourrait tous nous aider.
 116)  KENNY
-[pickup2] Lee, I really think it's time we go find out what's in that barn.
+[pickup2] Lee, je pense vraiment qu'il est temps de savoir ce qu'il y a dans cette grange.
 117)  KENNY
-[pickup2] Clementine's hat? Damn.
+[pickup2] La casquette de Clémentine ? Ben putain.
 118)  LEE
-[pickup2] Danny and I found this at the camp site.
+[pickup2] Danny et moi l'avons trouvé au campement.
 119)  KENNY
-[pickup2]Wait a minute, you told me you found nothing at the camp site. This don't look like nothing to me.
+[pickup2]Attendez, vous m'avez dit que vous n'avez rien trouvé à ce camp. C'est pas RIEN ça pour moi.
 120)  LEE
-[pickup2]Sorry. I guess I'm still trying to make sense of everything.
+[pickup2]Désolé. Je suis toujours en train de chercher une explication à tout ça.
 121)  LEE
-[pickup2]Maybe whoever it was had been following us for a while. Not sure.
+[pickup2]Qui qu'elle soit, elle devait nous suivre depuis un bon moment sans doute. Je suis pas sûr.
 122)  KENNY
-[pickup2] What do you think it means?
+[pickup2] Ca veut dire quoi selon vous ?
 123)  KENNY
-[pickup2] You did the right thing, Lee.
+[pickup2] Vous avez bien fait, Lee.
 124)  KENNY
-[pickup2] Guess it's a good thing Danny did what he did out there.
+[pickup2] J'imagine que Danny à agit pour le mieux, là-bas.
 125)  KENNY
-[pickup2] [frustrated]Lee, this is why you need to tell me things. If there was someone out there who would hurt Duck or Clementine, I need to know about it.
+[pickup2] [frustrated]C'est pour ça que vous devez me parler, Lee. S'il y avait quelqu'un qui pouvait faire du mal à Duck ou Clémentine là-bas, je dois le savoir.
 126)  KENNY
-[pickup2]You should just go ahead and give Clementine her hat back. Maybe it'll make her feel more at home.
+[pickup2]Vous devriez rendre à Clementine sa casquette. Ca lui rappelera chez elle, sans doute.
 127)  LEE
-[pickup2]I also found this at the campsite.
+[pickup2]J'ai aussi trouvé ça sur le camp.
 128)  LEE
-[pickup2] Not sure. Not sure about a lot of things right now.
+[pickup2] Je suis pas sûr. Comme pour beaucoup de choses en ce moment.
 129)  KENNY
-[pickup2] A video camera?
+[pickup2] Une caméra vidéo ?
 130)  KENNY
-[pickup2]Think it's useful?
+[pickup2]Vous pensez que c'est utile ?
 131)  LEE
-[pickup2] Doug said the batteries are dead, and Danny lost interest when he found out it wasn't working.
+[pickup2] Doug a dit que les piles étaient mortes, et ça n'intéressait plus Danny quand il a vu qu'elle marchait pas.
 132)  KENNY
-[pickup2] Weird. Why would a bunch of dairy farmers want a working camcorder?
+[pickup2] Bizarre. Pourquoi une bande de fermiers s'intéresseraient à une caméra ?
 133)  LEE
-[pickup2] That's kinda what I was thinking.
+[pickup2] C'est un peu ce que je me demandais.
 134)  KENNY
-[pickup2]You better just keep that to yourself. Even if it doesn't work.
+[pickup2]Vous devriez la garder pour vous. Même si elle ne marche pas.
 135)  KENNY
-[pickup2]I don't like this, Lee. Something's up.
+[pickup2]J'aime pas ça, Lee. Il se passe un truc.
 136)  KENNY
-[pickup2] If that woman had touched one hair on Duck's head, I would've killed her myself.
+[pickup2] Si cette femme avait touché un seul cheveux de Duck, je l'aurais tué moi-même.
 137)  LEE
-[pickup2]What exactly were you arguing about with Lilly when I came back?
+[pickup2]Pourquoi vous vous disputiez avec Lilly quand je suis revenu ?
 138)  KENNY
-[pickup2] I told her we needed to get into that barn and see what exactly they got back there. But she wants to up and leave before we even get our dinner. I don't get her, man. It's like she'd rather starve out there.
+[pickup2] Je lui ai dit qu'on devait jeter un oeil ce qu'ils gardent dans cette grange. Mais elle veut qu'on parte avant même de manger. Je la comprend pas, mec. On dirait qu'elle préfère rester affamée là-bas.
 139)  KENNY
-[pickup2]Besides, I think we're all gonna feel a lot better once dinner's on the table.
+[pickup2]En plus, à mon avis on se sentira tous beaucoup mieux une fois le dîner servi.
 140)  LEE
-[pickup2] Nah, I think it's broken. Danny seemed pretty interested in it until he found that out.
+[pickup2] Nan, je crois que c'est cassé. Danny a paru très intéressé avant qu'on s'en aperçoive.
 141)  KENNY
-[pickup2][quietly]We may have bigger fish to fry here.
+[pickup2][quietly]On a mieux à faire ici.
 142)  LEE
-[pickup2]What were you and Lilly arguing about when I came back?
+[pickup2]Vous vous disputiez à propos de quoi avec Lilly quand je suis revenu ?
 143)  LEE
-[pickup2][quietly]What's up?
+[pickup2][quietly]Ca va ?
 144)  KENNY
-[pickup2]Does it work?
+[pickup2]Elle marche ?
 145)  LEE
-[pickup2] I still can't get that lock off the door.
+[pickup2] J'arrive toujours pas à forcer la serrure de cette porte.
 146)  KENNY
-[pickup2][reminder] Hmmm.  You probably just need a screwdriver or something.
+[pickup2][reminder] Hmmm.  Vous allez probablement avoir besoin d'un tournevis ou un truc du genre.
 147)  KENNY
-[pickup_2]All right.  Good to hear.
+[pickup_2]Très bien.  Ca fait plaisir à entendre.
 148)  LEE
-[pickup_2]I picked up something I think could help with the lock.
+[pickup_2]J'ai ramassé un truc qui pourrait nous aider pour la serrure.
 149)  KENNY
-Good.  Now we just gotta keep that guy busy.
+Bien.  On a plus qu'à tenir ce type occupé.
 150)  KENNY
-Yeah.  He's been... watching.
+Ouais.  Il était en train... de nous observer.
 151)  LEE
 Andy.
 152)  KENNY
-I wish that guy would just leave...
+J'aimerais bien que ce type s'en aille...
 153)  KENNY
-[pickup_2]Nothin' to stop you now.
+[pickup_2]Rien ne peut plus vous arrêter maintenant.
 154)  
-Show Camera To
+Montrer la camera
 155)  
-Show Hat To
+Montrer la casquette
 156)  
-Danny killed someone.
+Danny a tue quelqu'un.
 157)  
-I killed someone.
+J'ai tue quelqu'un.
 158)  
-Lilly doesn't want to be here.
+Lilly ne veut pas etre ici.
 159)  
-Your family made it here okay?
+Votre famille est bien arrivee ?
 160)  
-How you holding up?
+Comment tenez vous ?
 161)  KENNY
-[pickup3][follows # 310481005]You're with me on this, right?
+[pickup3][follows # 310481005]Vous êtes avec moi sur ce coup là, hein ?
 162)  LEE
-[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Yeah, of course.  Lilly's judgement is clouded, but you've got a pretty clear head about these things.
+[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Ouais, bien sûr.  Lilly n'a pas les idées claires, mais vous, vous avez plutôt une bonne vision des choses.
 163)  LEE
-[pickup3][disagreeing with Kenny about the motor inn]Lilly's been doing a good job of keeping the group together.  You need to back off a bit.
+[pickup3][disagreeing with Kenny about the motor inn]Lilly a fait du bon boulot pour tous nous garder unis.  Vous devriez prendre un peu de recul.
 164)  LEE
-[pickup3][not siding with anyone about the motor inn]You're not making me pick sides, Kenny.
+[pickup3][not siding with anyone about the motor inn]Vous ne me ferez pas choisir un camp, Kenny.
 165)  KENNY
-[pickup3][disapointed in Lee for siding with Lilly] Whatever.
+[pickup3][disapointed in Lee for siding with Lilly] Qu'importe.
 166)  KENNY
-[pickup3][in ernest]Well... you better think about it, because that time is coming.
+[pickup3][in ernest]Hé bien... vous devriez y réfléchir car on va y venir un jour.
 167)  
-Yeah, of course.
+Oui, bien sur.
 168)  
-No. Lilly's been doing a good job.
+Non. Lilly a fait du bon boulot.
 169)  
-I'm not choosing sides.
+Je ne prends pas parti.
 170)  KENNY
-[pickup3][responding to Lee's silence and refusal to pick sides] Hmf.  Always the diplomat.
+[pickup3][responding to Lee's silence and refusal to pick sides] Pff.  Revoilà le diplomate.
 172)  KENNY
-[pickup3] Hey Lee, found anything interesting?
+[pickup3] Hé Lee, vous avez trouvé quelque chose d'intéressant ?
 173)  KENNY
-[pickup3] Good to know. Keep your ears open for anything else that might help us.
+[pickup3] C'est bon à savoir. Gardez les oreilles ouvertes sur ce qui pourrait nous aider.
 174)  LEE
-[pickup3] I'm just trying to make sure this place is secure, in case we decide to make this a more long term solution.  Except for those people in the woods, it seems pretty safe.
+[pickup3] J'essaye de voir si cet endroit est sûr, au cas où on décide d'en faire une solution à long terme.  A part les gens dans les bois, cela semble sécurisé.
 175)  KENNY
-[pickup3] That's true.  Well, it's good to know what we're working with here.
+[pickup3] C'est vrai.  C'est bien de savoir à quoi on a à faire ici.
 176)  KENNY
-[pickup3] Keep looking around and let me know if you find anything else.
+[pickup3] Continuez de chercher et dites moi quand vous aurez trouvé quelque chose.
 177)  LEE
-[pickup3] I was talking to Andy a bit earlier, it doesn't sound like they have too many guns around. They rely mostly on the fence to keep them safe.
+[pickup3] Je parlais à Andy un peu plus tôt, il semble qu'ils n'aient pas beaucoup d'armes. Ils dépendent surtout de la clôture pour se protéger.
 178)  LEE
-[pickup3] Well that's the problem, when there's no more gas, there's no more fence.
+[pickup3] Et bien, c'est ça le problème. Quand il n'y a plus d'essence, il y a plus de clôture.
 179)  KENNY
-[pickup3] Hey Lee, how's it going with the St. Johns?
+[pickup3] Hé Lee, comment ça se passe avec les St. John ?
 180)  LEE
-[pickup3] Good. I was talking to Andy earlier and offered our group's assistance on the dairy.
+[pickup3] Bien. Je parlais à Andy plus tôt et j'ai proposé que notre groupe les aide à la ferme.
 181)  KENNY
-[pickup3] Great. Sounds like they're starting to accept us.
+[pickup3] Génial. On dirait qu'ils commencent à nous accepter.
 182)  LEE
-[pickup3] Definitely.
+[pickup3] Tout à fait.
 183)  LEE
-[pickup3]I don't think they have much to protect them besides the fence so he seemed pretty appreciative.
+[pickup3]Je pense qu'ils ont pas bien plus que la clôture pour les protéger alors ils apprécient.
 184)  KENNY
-[pickup3] Yeah, this place is sure a step up from that shithole motor inn.
+[pickup3] Ouais, cet endroit c'est quand même un cran au-dessus que ce trou à rat de Motor Inn.
 185)  LEE
-[pickup3] They seem like good people. If we play our cards right, I still think it could work out for us here.
+[pickup3] Ils ont l'air gentils. Si on la joue fine ça pourrait être bon pour nous.
 186)  KENNY
-[pickup3] Don't wait too long to help scope out that bandit camp. It'd be a good opportunity to find a bit more out about the St. John's and their relationship with those... bandits or whatever.
+[pickup3] N'attendez pas trop pour les aider à faire le tour de ce camp de brigands... ou autres. Ca va être une bonne occasion d'en découvrir un peu plus sur les St. John et leur relation avec eux.
 187)  LEE
-[pickup3] Right. I'll see what I can find out.
+[pickup3] Oui. On verra bien ce qu'on trouvera.
 188)  LEE
-[pickup3] Good idea.
+[pickup3] Bonne idée.
 189)  KENNY
-[pickup3] Don't wait too long to help scope out that bandit camp.  Sounds like they're pretty amped up about it. This might be a good way to earn their trust.
+[pickup3] N'attendez pas trop pour les aider à faire le tour de ce camp de brigands.  Ils ont l'air plutôt remonté sur le sujet. Ce serait un bon moyen de gagner leur confiance.
 190)  KENNY
-[pickup3]So as long as you're on THIS side, things are all right.  Provided the fence holds out.
+[pickup3]Tant que vous êtes de CE côté, tout va bien.  Pourvu que la clôture tienne bon.
