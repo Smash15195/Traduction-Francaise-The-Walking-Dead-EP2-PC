@@ -1,5 +1,5 @@
 1)  KENNY
-{sadA}Salut ! {normalB}Il parraît que Mark a été attaqué ?
+{sadA}Salut ! {normalB}Il paraît que Mark a été attaqué ?
 2)  LEE
 {normalD}Vous en faîtes pas, il va bien.
 3)  KENNY
@@ -9,7 +9,7 @@
 5)  KENNY
 {angryA}Bon sang. {thinkingA}J'aurais jamais cru qu'ils viennent jusqu'ici.
 6)  KENNY
-{normalA}Least he didn't get bit, I guess.
+{normalA}C'est mieux que de se faire mordre, j'imagine.
 7)  LEE
 {thinkingA}Je l'ai pas revu depuis.
 8)  KENNY
@@ -31,11 +31,11 @@
 16)  KENNY
 {normalA}Vraiment ? J'ai un mauvais pressentiment.
 17)  KENNY
-{angryA}Que ça implique des marcheurs ou des brigands, il va y avoir une pluie d'emmerdes bientôt.
+{angryA}Que ça vienne des marcheurs ou des brigands, il va y avoir une pluie d'emmerdes bientôt.
 18)  LEE
 {normalC}Quelque chose ne va pas ?
 19)  KENNY
-{angryA}Si on les vois pas, ça peut aussi dire qu'ils nous préparent un joli paquet d'emmerdes...
+{angryA}Si on les voit pas, ça peut aussi dire qu'ils nous préparent une sacré surprise...
 20)  KENNY
 ... à moins que quelqu'un de mieux armé que nous est en train de les liquider.
 21)  KENNY
@@ -57,7 +57,7 @@
 29)  LEE
 {normalC}Comment vous tenez le coup ?
 30)  KENNY
-[quietly] {angryA}S'ils ont une réserve de bouffe quelque part, {normalA}il faudrait qu'on sache où et comment la récupérer.
+[quietly] {angryA}S'ils ont une réserve de bouffe quelque part, {normalA}il faudrait qu'on sache où et comment on peut la récupérer.
 31)  KENNY
 [quietly] {sadA}Au cas où.
 32)  KENNY
@@ -81,7 +81,7 @@
 41)  KENNY
 [quietly] {normalB}C'est juste pour savoir, Lee. On ne va rien voler.
 42)  LEE
-[quietly] {angryA}On ne peut pas les mettre en rogne, Kenny. Ils doivent nous faire confiance.
+[quietly] {angryA}On ne peut pas les mettre en rogne, Kenny. Il faut qu'ils nous fassent confiance.
 43)  KENNY
 [quietly] {normalA}Ca va dans les deux sens, Lee.
 44)  LEE
@@ -105,7 +105,7 @@
 52)  KENNY
 [noticing Lee's silence]{angryA}Vous le sentez aussi, hein ?   {fearA}Je crois qu'un truc mauvais se profile à l'horizon, Lee.
 53)  KENNY
-[responding to Lee's silence; hushed][quietly]  {angryA}Ben me regardez pas !  {thinkingA}Je suis mauvais pour les effractions.  Mais quelqu'un doit bien le faire !
+[responding to Lee's silence; hushed][quietly]  {angryA}Me regardez pas comme ça !  {thinkingA}Je suis mauvais pour les effractions.  Mais quelqu'un doit bien le faire !
 54)  KENNY
 {normalB}Quoi de neuf, Lee ?
 55)  KENNY
@@ -117,7 +117,7 @@
 58)  KENNY
 [pickup2] Mec, qu'est-ce qu'il s'est passé là-bas ? Ca va ?
 59)  LEE
-[pickup2] Je suis un peu secoué. Ca c'est joué de peu que ça soit moi qui me fasse tuer.
+[pickup2] Je suis un peu abattu. Ca c'est joué de peu que je sois celui qui se fasse tuer.
 60)  KENNY
 [pickup2]Ecoutez, Mark est mort ? C'est vraiment terrible... mais maintenant on sait que c'est plus dangereux par ici que ce qu'on pensait.
 61)  
@@ -127,7 +127,7 @@ C'est rien.
 63)  LEE
 [pickup2]C'est rien, ne vous en faîte pas.
 64)  KENNY
-[pickup2]Hé, j'ai compris. Mark est mort... vous devez surmonter ça à votre façon. Mais on doit commencer à se demander pourquoi on est venu ici.
+[pickup2]Hé, j'ai compris. Mark est mort... vous devez surmonter ça à votre façon. Mais il faut se demander pourquoi on est venu ici.
 65)  KENNY
 [pickup2] Heureux de voir que vous avez pu vous en sortir en un seul morceau.
 66)  LEE
@@ -135,7 +135,7 @@ C'est rien.
 67)  KENNY
 [pickup2]  Hé, ça aurait pu être pire. Ca aurait pu se finir comme le pauvre gars dans le piège à ours.
 68)  LEE
-[pickup2] Pas sûr que Mark soit aussi optimiste que vous sur tout ça.
+[pickup2] Pas sûr que Mark soit aussi optimiste que vous.
 69)  LEE
 [pickup2] [shrugging]J'imagine que c'est une façon de voir les choses.
 70)  LEE
@@ -143,15 +143,15 @@ C'est rien.
 71)  KENNY
 [pickup2] J'en ai rien à foutre de ce que Lilly veut. Duck et Katjaa doivent manger, et je ne vais pas rester assis au Motor Inn à les regarder crever de faim.
 72)  LEE
-[pickup2] Si tout se passe bien, lui et Katjaa pourraient avoir une vie plus douce ici.
+[pickup2] Si tout se passe bien, lui et Katjaa pourraient avoir une vie meilleure ici.
 73)  KENNY
 [pickup2][bitter]Ouais, c'est ça.
 74)  LEE
-[pickup2] C'est du passé, Kenny. Plein de choses se sont passées depuis.
+[pickup2] C'est du passé, Kenny. Plein de choses sont arrivées depuis.
 75)  KENNY
-[pickup2] [bitter]C'est marrant, ça n'avait pas l'air de trop vous déranger que Larry veuille balancer Duck dans la rue à Macon.
+[pickup2] [bitter]C'est marrant, ça n'avait pas l'air de trop vous déranger que Larry veuille jeter Duck dans la rue à Macon.
 76)  KENNY
-[pickup2] [bitter] C'est marrant, en considérant que vous n'aviez pas l'air trop inquiet pour Duck à la ferme Hershel.
+[pickup2] [bitter] C'est marrant, vous n'aviez pas l'air trop inquiet pour Duck à la ferme Hershel.
 77)  KENNY
 [pickup2] J'espère que vous avez raison. Duck et Clémentine méritent mieux que de crever de faim dans un motel miteux.
 78)  LEE
@@ -165,7 +165,7 @@ C'est rien.
 82)  LEE
 [pickup2]Ouais, c'est vrai.
 83)  KENNY
-[pickup2]Et bien, c'était pas de la tarte. Duck n'avait pas l'air bien sur le trajet jusqu'ici.
+[pickup2]Et bien, c'était pas de la tarte. Duck n'avait pas l'air bien sur le trajet.
 84)  LEE
 [pickup2] Duck et Katjaa on fait bon voyage ?
 85)  KENNY
@@ -233,13 +233,13 @@ Restez a l'ecart.
 116)  KENNY
 [pickup2] Lee, je pense vraiment qu'il est temps de savoir ce qu'il y a dans cette grange.
 117)  KENNY
-[pickup2] La caquette de Clémentine ? Bon sang.
+[pickup2] La casquette de Clémentine ? Ben putain.
 118)  LEE
 [pickup2] Danny et moi l'avons trouvé au campement.
 119)  KENNY
-[pickup2]Attendez, vous m'avez dit que vous n'avez rien trouvé à ce camp. C'est pas rien ça pour moi.
+[pickup2]Attendez, vous m'avez dit que vous n'avez rien trouvé à ce camp. C'est pas RIEN ça pour moi.
 120)  LEE
-[pickup2]Désolé. Je suppose que je suis toujours en train de trouver une explication pour tout ça.
+[pickup2]Désolé. Je suis toujours en train de chercher une explication à tout ça.
 121)  LEE
 [pickup2]Qui qu'elle soit, elle devait nous suivre depuis un bon moment sans doute. Je suis pas sûr.
 122)  KENNY
@@ -249,13 +249,13 @@ Restez a l'ecart.
 124)  KENNY
 [pickup2] J'imagine que Danny à agit pour le mieux, là-bas.
 125)  KENNY
-[pickup2] [frustrated]C'est pour ça que vous devez me parler, Lee. S'il y avait quelqu'un qui ferait du mal à Duck ou Clémentine là-bas, je dois le savoir.
+[pickup2] [frustrated]C'est pour ça que vous devez me parler, Lee. S'il y avait quelqu'un qui pouvait faire du mal à Duck ou Clémentine là-bas, je dois le savoir.
 126)  KENNY
 [pickup2]Vous devriez rendre à Clementine sa casquette. Ca lui rappelera chez elle, sans doute.
 127)  LEE
 [pickup2]J'ai aussi trouvé ça sur le camp.
 128)  LEE
-[pickup2] Pas sûr. Pas sûr de beaucoup de choses en ce moment.
+[pickup2] Je suis pas sûr. Comme pour beaucoup de choses en ce moment.
 129)  KENNY
 [pickup2] Une caméra vidéo ?
 130)  KENNY
@@ -275,7 +275,7 @@ Restez a l'ecart.
 137)  LEE
 [pickup2]Pourquoi vous vous disputiez avec Lilly quand je suis revenu ?
 138)  KENNY
-[pickup2] Je lui ai dit qu'on devait regarder ce qu'il gardait dans cette grange. Mais elle veut qu'on parte avant même de manger. Je la comprend pas, mec. C'est comme si elle préférait rester affamée là-bas.
+[pickup2] Je lui ai dit qu'on devait jeter un oeil ce qu'ils gardent dans cette grange. Mais elle veut qu'on parte avant même de manger. Je la comprend pas, mec. On dirait qu'elle préfère rester affamée là-bas.
 139)  KENNY
 [pickup2]En plus, à mon avis on se sentira tous beaucoup mieux une fois le dîner servi.
 140)  LEE
@@ -291,7 +291,7 @@ Restez a l'ecart.
 145)  LEE
 [pickup2] J'arrive toujours pas à forcer la serrure de cette porte.
 146)  KENNY
-[pickup2][reminder] Hmmm.  Tu vas probablement avoir besoin d'un tournevis ou un truc du genre.
+[pickup2][reminder] Hmmm.  Vous allez probablement avoir besoin d'un tournevis ou un truc du genre.
 147)  KENNY
 [pickup_2]Très bien.  Ca fait plaisir à entendre.
 148)  LEE
@@ -331,7 +331,7 @@ Comment tenez vous ?
 165)  KENNY
 [pickup3][disapointed in Lee for siding with Lilly] Qu'importe.
 166)  KENNY
-[pickup3][in ernest]Hé bien... vous devriez y réfléchir car on va y venir.
+[pickup3][in ernest]Hé bien... vous devriez y réfléchir car on va y venir un jour.
 167)  
 Oui, bien sur.
 168)  
@@ -353,7 +353,7 @@ Je ne prends pas parti.
 177)  LEE
 [pickup3] Je parlais à Andy un peu plus tôt, il semble qu'ils n'aient pas beaucoup d'armes. Ils dépendent surtout de la clôture pour se protéger.
 178)  LEE
-[pickup3] Et bien, c'est ça le problème. Quand il y a plus d'essence, il y a plus de clôture.
+[pickup3] Et bien, c'est ça le problème. Quand il n'y a plus d'essence, il y a plus de clôture.
 179)  KENNY
 [pickup3] Hé Lee, comment ça se passe avec les St. John ?
 180)  LEE
@@ -363,18 +363,18 @@ Je ne prends pas parti.
 182)  LEE
 [pickup3] Tout à fait.
 183)  LEE
-[pickup3]Je pense pas qu'ils aient bien plus que la clôture pour les protéger alors ils apprécient plutôt.
+[pickup3]Je pense qu'ils ont pas bien plus que la clôture pour les protéger alors ils apprécient.
 184)  KENNY
 [pickup3] Ouais, cet endroit c'est quand même un cran au-dessus que ce trou à rat de Motor Inn.
 185)  LEE
 [pickup3] Ils ont l'air gentils. Si on la joue fine ça pourrait être bon pour nous.
 186)  KENNY
-[pickup3] N'attendez pas trop pour aider à faire le tour de ce camp de brigands. Ca va être une bonne occasion d'en découvrir un peu plus sur les St. John et leur relation avec ces... brigands ou autres.
+[pickup3] N'attendez pas trop pour les aider à faire le tour de ce camp de brigands... ou autres. Ca va être une bonne occasion d'en découvrir un peu plus sur les St. John et leur relation avec eux.
 187)  LEE
 [pickup3] Oui. On verra bien ce qu'on trouvera.
 188)  LEE
 [pickup3] Bonne idée.
 189)  KENNY
-[pickup3] N'attendez pas trop pour aider à faire le tour de ce camp de brigands.  Ils ont l'air plutôt remonté sur le sujet. Ce serait un bon moyen de gagner leur confiance.
+[pickup3] N'attendez pas trop pour les aider à faire le tour de ce camp de brigands.  Ils ont l'air plutôt remonté sur le sujet. Ce serait un bon moyen de gagner leur confiance.
 190)  KENNY
 [pickup3]Tant que vous êtes de CE côté, tout va bien.  Pourvu que la clôture tienne bon.
