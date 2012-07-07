@@ -141,7 +141,7 @@ La vache !
 67)  KENNY
 [hurt/ panting/grunting (Shot in his side) 4]
 68)  ANDY
-[pickup1][taunting lee, beat to shit, barely able to stand]  [Spits out blood] C'est tout, Lee ? ...Vous valez rien !
+[pickup1][taunting lee, beat to shit, barely able to stand]  [Spits out blood] C'est tout, Lee ? ...Vous êtes minable !
 69)  LEE
 [pickup1][getting his face shoved into an Electric fence] Aahhhhhhhh !!!!!
 70)  ANDY
@@ -255,7 +255,7 @@ Marcheurs
 123)  LEE
 [pickup1][stern, tired having just beat the shit out of Andy, but Andy wont quit] C'est fini !
 124)  ANDY
-[pickup1] [taunting lee, beat to shit, barely able to stand] Je t'emmerde.  Dès que Dan et Maman seront ici vous serez baisés !!
+[pickup1] [taunting lee, beat to shit, barely able to stand] Je t'emmerde.  Dès que Dan et Maman sont là vous êtes foutus !!
 125)  LEE
 [pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Ils sont tous morts.
 126)  LEE
@@ -381,7 +381,7 @@ Tirer
 178)  LEE
 [pickup2][quiet]Ce sont des putains de canibales !
 179)  
-Ces gens sont tarés !
+Ces gens sont fous !
 180)  
 Barrez-vous !
 181)  
@@ -445,11 +445,11 @@ On a besoin d'aide !
 216)  
 Ouais, c'est moi !
 217)  
-J'ai laissé Danny dans la grange...
+Danny est dans la grange...
 218)  LEE
 [pickup3][calling out to brenda in theo house - threatening]Où est Katjaa et le gamin ?!
 219)  
-Où est Katjaa et le gamin ?!
+Ou est Katjaa et le gamin ?!
 220)  BRENDA
 [pickup3][panicking, to herself as she realizes trouble is approaching!] Oh mon dieu...
 222)  LEE
@@ -541,13 +541,13 @@ Porte grillagée
 266)  
 Coup de pied
 269)  
-Ta mère est morte.
+Ta mere est morte.
 270)  
 Ils sont morts.
 271)  
 Ils ne viendront pas.
 272)  
-J'ai dit c'est terminé !
+J'ai dit c'est fini !
 273)  CARLEY
 Tout le monde va bien ?
 274)  
