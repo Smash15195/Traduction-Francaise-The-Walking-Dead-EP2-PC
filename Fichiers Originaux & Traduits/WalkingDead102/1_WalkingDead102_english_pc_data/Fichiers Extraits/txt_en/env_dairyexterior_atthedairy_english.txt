@@ -1,347 +1,347 @@
 1)  LEE
-{ThinkingA}What's that?
+{ThinkingA}C'est quoi ça ?
 2)  ANDY
-{HappyA}Generator. You guys came along with gas just in time.
+{HappyA}Un générateur. Vous êtes venu avec votre carburant à point nommé.
 3)  LEE
-[to himself]{ThinkingA}Looks like a feeding station for the cow.
+[to himself]{ThinkingA}On dirait une mangeoire pour la vache.
 4)  LEE
-[to himself]{HappyA}Having a crop like that on hand must be great.
+[to himself]{HappyA}Ca doit être génial d'avoir du maïs à disposition comme ça.
 5)  LEE
-[to himself]Home made electric fence... good idea.
+[to himself]Une clôture électrique fait maison... une bonne idée.
 6)  LEE
-[to himself]{SadA}No mail coming in or out these days.
+[to himself]{SadA}Le courrier c'est terminé ces temps-ci.
 7)  DANNY
-Yeah, we don't really use that much any more.  We've only got the one cow left, and we've already moved most of her hay.
+Ouais, on ne s'en sert plus vraiment. On n'a plus qu'une seule vache, et on a déjà amené la plupart de son foin.
 8)  LEE
-Lots of hay.
+Beaucoup de foin.
 9)  DANNY
-Yeah. It's for our cow. People are always surprised at how much those things eat.
+Ouais. C'est pour notre vache. Les gens sont toujours surpris de voir tout ce que ça peut avaler ces bestioles.
 10)  LEE
-{ThinkingA}Anything I can do to help out?
+{ThinkingA}Je peux vous aider ?
 11)  DANNY
-{NormalB}Nah, nothing else to do over here.
+{NormalB}Nan, il y a plus rien à faire par ici.
 12)  ANDY
-{normalB}Uh, any weapons you got, {normalC}you got to leave outside. Can't have 'em in the house.
+{normalB}Heu, les armes que vous portez, {normalC}vous devez les laisser dehors. C'est interdit à l'intérieur.
 13)  ANDY
-{happyB}Smells good, don't it?
+{happyB}Ca sent bon, hein ?
 14)  LEE
-{happyA}Sure does.  {normalA}Must be one of those perks of living on a farm.  Especially these days.
+{happyA}C'est sûr.  {normalA}Ca doit être un des avantages de vivre dans une ferme. Surtout de nos jours.
 15)  ANDY
-{thinkingA}Now, Momma insists. {happyA}Don't worry, I haven't seen any dead walkin' around today. {normalC}Besides, Danny and I'll be ready if we run into any trouble.
+{thinkingA}Maintenant, Maman insiste. {happyA}Pas d'inquiétudes, je n'ai pas vu de morts se balader dans les environs aujourd'hui. {normalC}Et puis, Danny et moi sommes préparés à affronter les problèmes.
 16)  ANDY
-{happyB}Here it is.  St. John's family dairy.
+{happyB}Et voilà.  La ferme laitière de la famille St. John.
 592)  ANDY
-{happyB}Here it is.  St. John's family dairy.
+{happyB}Et voilà.  La ferme laitière de la famille St. John.
 17)  MARK
-{happyA}It's beautiful.
+{happyA}C'est magnifique.
 18)  LILLY
-{thinkingA}We have to. We need to eat.  {sadA}Especially you, dad. {normalC}You need to keep your strength up.
+{thinkingA}On en a besoin. On doit manger.  {sadA}Surtout toi, papa. {normalC}Tu dois garder tes forces.
 19)  LARRY
-{angryA}And you're sure we can trust them?
+{angryA}Et tu es sûre qu'on peut leur faire confiance ?
 20)  LARRY
-{angryA}Well, Lee could have brought food back for all of us, {normalC}not just the people staying behind.
+{angryA}Hé bien, Lee aurait pu ramener à manger à tout le monde, {normalC}pas juste à ceux restés en retrait.
 21)  LEE
-{normalC}Well, Ben was still too afraid of a Bandit attack to come with us.  {normalB}But he still needs to eat.
+{normalC}Ben avait trop peur qu'un brigand nous attaque.  {normalB}Mais il a quand même besoin de manger.
 22)  LARRY
-{normalC}If ya ask me, that kid needs to grow a pair.
+{normalC}Si vous voulez mon avis, ce gamin a besoin de s'en faire pousser une bonne paire.
 23)  LILLY
-{normalC}Well, Doug's got the place set up so if any walkers wander up, they'll know.  {normalA}Ben will get a quick lesson in defending himself.
+{normalC}Doug a aménagé l'endroit de façon à être au courant si des marcheurs errent dans le coin.  {normalA}Ben aura droit à un apprentissage accéléré d'autodéfense.
 24)  LILLY
-{normalA}I told Carley to look after him.  She knows how to handle herself.  {normalB}I'm sure she can whip him into shape if it comes to it.
+{normalA}J'ai demandé à Carley de le surveiller.  Elle sait se débrouiller toute seule.  {normalB}Je suis sûre qu'elle peut le former à la dure si besoin.
 25)  LARRY
-[offended]{angryA}Now you listen here-
+[offended]{angryA}Maintenant, écoutez moi-
 26)  KENNY
-{sadA}Hey, Lee... can I talk to you for a sec?
+{sadA}Hé, Lee... je peux vous parler une seconde ?
 27)  KENNY
-[quietly] {angryA}I don't know, it was locked.
+[quietly] {angryA}Je sais pas, c'était verrouillé.
 28)  LEE
-[quietly] {angryA}What's in it?
+[quietly] {angryA}Il y a quoi à l'intérieur ?
 29)  KENNY
-[quietly] {normalB}It's probably nothing, but... {normalA}I was in the barn helping to move some hay, {thinkingA}and it looks like they got a storage room in the back.
+[quietly] {normalB}C'est sûrement rien, mais... {normalA}J'étais dans la grange pour aider à charger du foin, {thinkingA}et on dirait qu'ils ont une réserve à l'arrière.
 30)  KENNY
-[quietly] {thinkingA}While no one was looking, I got a quick peek through the door . {angryA}They got a bunch of cardboard boxes in there, man. [acuseatory]{normalB}They're stockpiling something, {angryA}and someone's gotta find out what it is.
+[quietly] {thinkingA}Alors que personne ne faisait attention, j'ai jetté un coup d'oeil à travers la porte. {angryA}Ils ont tout un tas de boîtes en carton là-dedans. [acuseatory]{normalB}Ils stockent des trucs. {angryA}Il faut que quelqu'un sache ce que c'est.
 31)  LEE
-{normalC}What's up?
+{normalC}Quoi de neuf ?
 32)  LEE
-[alt. To Himself]{DisgustA}At least they don't have to worry about bill collectors anymore.
+[alt. To Himself]{DisgustA}Au moins ils n'ont plus à se soucier des factures.
 33)  
-Barn Door
+Porte de la grange
 34)  LEE
-[pickup1][looking at the barn doors]You keep the livestock in there?
+[pickup1][looking at the barn doors]Vous gardez vos vivres là-dedans ?
 35)  ANDY
-[pickup1][when asked about keeping livestock in the barn]Used to.  Now it's just the one cow, and she's not doing too good.
+[pickup1][when asked about keeping livestock in the barn]Avant oui.  Maintenant c'est juste pour une seule vache, et elle ne va pas très bien.
 36)  ANDY
-[pickup1][alt - depending on who is closer to the Barn Loft]Yeah, we dont really use that much any more.  We've only got the one cow left, and we've already moved most of her hay.
+[pickup1][alt - depending on who is closer to the Barn Loft]Ouais, on ne s'en sert plus vraiment.  On a plus qu'une vache vivante, et on a chargé la plupart de son foin.
 37)  ANDY
-[pickup1][alt - depending on who is closer to Hay]Yeah. It's for our cow. People are always surprised at how much those things eat.
+[pickup1][alt - depending on who is closer to Hay]Ouais. C'est pour notre vache. Les gens sont toujours surpris de voir tout ce que ça peut avaler ces bestioles.
 38)  
-Corn Field
+Champs de maïs
 39)  
-Electric Fence
+Clôture électrique
 40)  
-Generator
+Générateur
 41)  
-Hay Bales
+Bottes de foin
 42)  
-Hay Pile
+Pile de foin
 43)  
-Mailbox
+Boîte aux lettres
 44)  ANDY
-[pickup1][being hospitible] Well, we love having ya.
+[pickup1][being hospitible] Hé bien on est ravi de vous avoir.
 45)  ANDY
-[pickup1][friendly]Hurry up now, dinner's waitin'!
+[pickup1][friendly]Dépêchez-vous, le dîner vous attend !
 46)  LILLY
-[pickup1][thanking Andy for the food] We can't thank you enough for this.
+[pickup1][thanking Andy for the food] On ne vous remerciera jamais assez pour ça.
 47)  ANDY
-[pickup1][insistant that Lee leaves his weapons outside]Come on, Lee.  I said no weapons.
+[pickup1][insistant that Lee leaves his weapons outside]Voyons, Lee.  J'ai dit pas d'armes.
 48)  ANDY
-[pickup1][insistant that Lee leaves his weapons outside]I mean it.  Weapons stay out here.
+[pickup1][insistant that Lee leaves his weapons outside]J'étais sérieux.  Les armes restent dehors.
 49)  LARRY
-[pickup1][annoyed that Lee is delaying their meal by not leaving his weapons outside]You're startin' to get on my nerves, Lee.  Do what the man says.
+[pickup1][annoyed that Lee is delaying their meal by not leaving his weapons outside]Vous commencez à me courir sur les nerfs, Lee.  Faîtes ce qu'il vous dit.
 50)  
-Put Axe In
+Poser la hache.
 51)  
 Gate
 52)  LEE
-[pickup2] [To Himself]Looks like propane.
+[pickup2] [To Himself]On dirait du propane.
 53)  LEE
-[pickup2] [To Himself]Hope they're not gonna ask me to help clean that thing.
+[pickup2] [To Himself]J'espère qu'ils vont pas me demander de nettoyer ce truc.
 54)  LEE
-[pickup2] [To Himself] Must've been a nice place for kids to come and visit... before everything happened.
+[pickup2] [To Himself] Ca devait être un chouette endroit pour les enfants... avant que tout cela n'arrive.
 55)  LEE
-[pickup2] [To Himself] Probably hasn't been played with in months. Kinda creepy all by itself.
+[pickup2] [To Himself] Elle n'a sans doute pas servi depuis des mois. C'est un peu flippant de la voir comme ça.
 56)  LEE
-[pickup2] [To Himself] {DisgustA}"Free Tours?" I doubt these people give anything away for free now.
+[pickup2] [To Himself] {DisgustA}"Voyages gratuits" ? Je doute qu'ils offrent quoi que ce soit gratuitement maintenant.
 57)  LEE
-[pickup2] [To Himself] {DisgustA}You can definitely tell they built this thing themselves.
+[pickup2] [To Himself] {DisgustA}Ils ont bien construit ça eux-même. Aucun doute.
 58)  LEE
-[pickup2] [To Himself] {DisgustA}Doesn't look very safe, but I guess that's the point.
+[pickup2] [To Himself] {DisgustA}Ca l'air dangereux mais j'imagine que c'est le but.
 59)  LEE
-[pickup2] [To Himself] {DisgustA}Wonder how much food they've got in there. {ThinkingA}Hopefully we'll find out.
+[pickup2] [To Himself] {DisgustA}Je me demande quelle quantité de nourriture ils ont là-dedans. {ThinkingA}Heureusement on va le savoir.
 60)  LEE
-[pickup2] [To Himself] Brenda's been cooking a long time.
+[pickup2] [To Himself] Brenda fait à manger depuis un bon moment.
 61)  LEE
-[pickup2] [To Himself] {DisgustA}Quaint. Doesn't offer much in the way of protection, though.
+[pickup2] [To Himself] {DisgustA}Original mais un peu inutile en terme de protection cependant.
 62)  LEE
-[pickup2] {ThinkingA}They're storing gasoline all over the property.
+[pickup2] {ThinkingA}Ils stockent de l'essence un peu partout dans la propriété.
 63)  LEE
-[pickup2] {ThinkingA}Gas keeps the generators going and the generators keep the fence going.
+[pickup2] {ThinkingA}Le carburant permet d'alimenter le générateur qui alimente la clôture.
 64)  LEE
-[pickup2] I don't know about these folks. Better have a look around once we're inside.
+[pickup2] Je ne sais rien de ces types. Je ferais mieux de garder l'oeil ouvert une fois à l'intérieur.
 65)  ANDY
-[pickup2] Ya'll can see how we've kept this place so safe.
+[pickup2] Vous verrez comment on a gardé cet endroit si sûr.
 66)  MARK
-[pickup2] The fence keeps them out?
+[pickup2] La clôture les empêche de passer ?
 67)  DANNY
-[pickup2] You betcha. They fry like bugs in a zapper.
+[pickup2] Et comment ! Ils grillent comme des insectes dans un tue mouche électrique.
 68)  ANDY
-[pickup3] We're pushing 4000 volts through that thing, with generators and amps.
+[pickup3] On fait passer 4000 volts là-dedans, grâce aux générateurs et aux amplis.
 69)  CARLEY
-[pickup2] I'm going to assume that's a lot...
+[pickup2] On va supposer que ça fait beaucoup...
 70)  
-Ever have any accidents?
+Il n'y a jamais eu d'accident ?
 71)  
-This is a brilliant set up.
+C'est une brillante installation.
 72)  
-We can't have the kids around the fence.
+C'est dangereux pour les enfants.
 73)  DANNY
-[pickup2] Nothing accidental yet.
+[pickup2] Aucun accident pour le moment.
 74)  LEE
-[pickup2] Ever have any accidents?
+[pickup2] Il n'y a jamais eu d'accident ?
 75)  ANDY
-[pickup2] [happy as a clam] Suits us just fine.
+[pickup2] [happy as a clam] Ca nous convient très bien.
 393)  ANDY
-[pickup2] [happy as a clam] Suits us just fine.
+[pickup2] [happy as a clam] Ca nous convient très bien.
 76)  LEE
-[pickup2] [impressed] This is a really brilliant set up.
+[pickup2] [impressed] C'est vraiment une installation géniale.
 77)  LEE
-[pickup2] We've got kids in our group, doesn't seem safe to have them near a lethal fence.
+[pickup2] On a des enfants dans le groupe, ça me semble dangereux de les laisser à proximité d'une clôture mortelle.
 78)  DANNY
-[pickup2] Uh, what Andy means is we got plenty to keep them entertained AWAY from any danger.
+[pickup2] Heu, ce que veut dire Andy c'est qu'on a tout ce qu'il faut pour les distraire LOIN de tout danger.
 79)  ANDY
-[pickup2] Your kids got ears, right? Make sure they use 'em.
+[pickup2] Vos enfants ont des oreilles, non ? Assurez-vous qu'ils s'en servent.
 395)  DANNY
-[pickup2] Your kids got ears, right? Make sure they use 'em.
+[pickup2] Vos enfants ont des oreilles, non ? Assurez-vous qu'ils s'en servent.
 80)  DANNY
-[pickup2] And we're going to assume, that your friend here, uh, Lee here, is silently impressed.
+[pickup2] Et on va supposer que votre ami là, heu, Lee, reste sans voix.
 396)  ANDY
-[pickup2] And we're going to assume, that your friend here, uh, Lee here, is silently impressed.
+[pickup2] Et on va supposer que votre ami là, heu, Lee, reste sans voix.
 81)  CARLEY
-[pickup2][impressed] I'd say so.
+[pickup2][impressed] C'est ça.
 82)  ANDY
 [pickup3] It's worth protecting, hence all the juice.
 83)  BRENDA
-[pickup2] I thought I saw ya'll with company comin' down the drive!
+[pickup2] Je pensais bien avoir vu arriver toute la compagnie dans l'allée !
 84)  ANDY
-[pickup2] Guys, this is our mama.
+[pickup2] Les gars, voici notre maman.
 85)  BRENDA
-[pickup2] I'm Brenda St. John and welcome the St. John Dairy!
+[pickup2] Je suis Brenda St. John, bienvenue à la laiterie St. John !
 86)  
-There's more of us a few miles back.
+Il reste d'autres personnes a des kilometres d'ici.
 87)  
-We brought gasoline.
+On a apporte de l'essence.
 88)  
-We're awful hungry.
+On a sacrement faim.
 89)  BRENDA
-[pickup2] Well, you've come to the right place! And you brought the gift of gas! That will getcha somethin' to eat!
+[pickup2] Hé bien, vous êtes au bon endroit ! Et vous nous donnez de l'essence ! Ca vaut bien quelque chose à manger !
 90)  LEE
-[pickup2] We've got a whole crew at a motel, near central Macon.
+[pickup2] On a tout un groupe au motel, pas loin du centre de Macon.
 594)  LEE
-[pickup2] We've got a whole crew at a motel, near central Macon.
+[pickup2] n a tout un groupe au motel, pas loin du centre de Macon.
 91)  CARLEY
-[pickup2] [kinda blurted out] We're all incredibly hungry.
+[pickup2] [kinda blurted out] On a tous sacrément faim.
 92)  CARLEY
-[pickup2][nerve wracked] You guys have food? We're so hungry.
+[pickup2][nerve wracked] Vous avez de quoi manger ? On a tellement faim.
 143)  DOUG
-[pickup2][nerve wracked] You guys have food? We're so hungry.
+[pickup2][nerve wracked] Vous avez de quoi manger ? On a tellement faim.
 93)  LEE
-[pickup2] Thanks for having us. We brought some gasoline on good faith.
+[pickup2] Merci de nous recevoir. On vous apporte de l'essence de bon coeur.
 94)  LEE
-[pickup2] We're awful hungry.
+[pickup2] On a sacrément faim.
 95)  BRENDA
-[pickup2] These are for ya'll. Baked fresh this morning.
+[pickup2] Voici pour vous. Fraîchement cuits de ce matin.
 96)  BRENDA
-[pickup2] Andy, be a darlin' and take that gas back to generator four, near the kitchen. She's low.
+[pickup2] Andy, soit un amour et va porter l'essence au générateur quatre, à côté de la cuisine. Il est presque à sec.
 97)  DANNY
-[pickup2] [proud]Can't get stuff like that anymore, not without a cow for milk and butter, that's for sure.
+[pickup2] [proud]Sans vache pour le lait et le beurre on peut plus avoir ces trucs maintenant, c'est certain.
 98)  CARLEY
-[pickup2] Amazing!
+[pickup2] Incroyable !
 99)  BRENDA
-[pickup2] That's right. Hopefully Maybelle will make it through this bout of whatever she's got and be with us for a good-long while.
+[pickup2] C'est vrai. Heureusement Maybelle va se remettre de ce qu'elle a et sera avec nous encore longtemps.
 100)  BRENDA
-[pickup2][quiet, talking in a background convo]  I'm not so sure, it's not like last time, and back then we had help.
+[pickup2][quiet, talking in a background convo]  Je ne suis pas sûr, ce n'est pas comme la dernière fois et à l'époque on avait de l'aide.
 101)  MARK
-[pickup2] [outburst] We have a vet! We could bring her here! We can help you folks out.
+[pickup2] [outburst] On a un véto ! On pourrait l'amener ici ! On peut vous aider.
 626)  MARK
-[pickup2] [outburst] We have a vet! We could bring her here! We can help you folks out.
+[pickup2] [outburst] On a un véto ! On pourrait l'amener ici ! On peut vous aider.
 102)  BRENDA
-[pickup2][quiet, talking in a background convo] You're right, I just get so--
+[pickup2][quiet, talking in a background convo] Tu as raison, je deviens si--
 103)  DANNY
-[pickup2] [quiet, talking in a background convo] Don't worry, mama. She'll power through.
+[pickup2] [quiet, talking in a background convo]T'inquiète pas, maman. Elle s'en remettra.
 104)  
-We have a vet.
+On a un veterinaire.
 146)  
-We have a vet.
+On a un veterinaire.
 105)  
-Your cow is sick?
+Votre vache est malade ?
 147)  
-Your cow is sick?
+Votre vache est malade ?
 106)  
-Let's go guys, we've got what we came for.
+Partons les gars, on a ce qu'on est venu chercher.
 148)  
-Let's go guys, we've got what we came for.
+Partons les gars, on a ce qu'on est venu chercher.
 107)  
 Silence
 149)  
 Silence
 108)  LEE
-[pickup2] We have a vet in our group. She could help ya'll.
+[pickup2] On a un vétérinaire dans notre groupe. Elle pourrait vous aider.
 109)  MARK
-[pickup2][wishes it was forever] Maybe our whole GROUP could come...for the day...
+[pickup2][wishes it was forever] Peut-être que tout notre GROUPE pourrait venir... pour la journée...
 110)  DANNY
-[pickup2] We could use some more help here. It's just us three and Maybelle...
+[pickup2] Nous pourrions accepter un peu plus d'aide ici. Nous sommes que trois et Maybelle...
 111)  BRENDA
-[pickup2][excited] A vet! Oh, my! Our prayers have been answered!
+[pickup2][excited] Un vétérinaire ! Seigneur, vous avez exhaussé nos prières !
 112)  BRENDA
-[pickup2] Well how about this, ya'll go get your veterinary friend, and I prepare some dinner. A big feast for all you hungry souls.
+[pickup2] Bien, vous tous allez chercher votre amie et je prépare le dîner, que dîtes-vous de ça ? Un grand festin pour ces pauvres âmes affamées.
 113)  BRENDA
-[pickup2] What dy'all say?
+[pickup2] Qu'en pensez-vous ?
 114)  LEE
-[pickup2] Your cow is sick? What's she--
+[pickup2] Votre vache est malade ? Qu'est-ce qu'elle--
 115)  LEE
-[pickup2] Lets go guys. We've got what we came for and we've got our group to get back to.
+[pickup2] Partons les gars, on a ce qu'on est venu chercher et notre groupe nous attend.
 116)  BRENDA
-Oh, ya'll are leavin? Ah. Well that's just too bad, I was thinkin--
+Oh, vous partez ? Ah. C'est dommage, je pensais--
 117)  MARK
-[pickup2][in a huddle] Come on, guys! This is our chance. We help these guys out and we're OUTTA that dingy motor lodge.
+[pickup2][in a huddle] Allez, les gars ! C'est notre chance. Nous aidons ces gens et on peut QUITTER ce motel pourri.
 118)  CARLEY
-[pickup2][in a huddle] I don't know, Mark. We just met these people.
+[pickup2][in a huddle] Je sais pas, Mark. On vient juste de les rencontrer.
 119)  CARLEY
-[pickup2][in a huddle]It's not that cut and dry.
+[pickup2][in a huddle]Ce n'est pas si simple.
 120)  MARK
-[pickup2][in a huddle] BISCUITS, CARLEY. Biscuits.
+[pickup2][in a huddle] DES BISCUITS, CARLEY. Des biscuits.
 121)  MARK
-[pickup2][outburst] Deal! We'll get our vet friend and bring the crew back here!
+[pickup2][outburst] Vendu ! On vous amène notre véto et on ramène la troupe ici !
 122)  MARK
-[pickup2][in a huddle] She's a sweet southern lady who just gave you BISCUITS.
+[pickup2][in a huddle] C'est une gentille dame du sud qui vous a donné des BISCUITS.
 123)  CARLEY
-[pickup2][in a huddle] We let Lee decide.
+[pickup2][in a huddle] Laissons LEE décider.
 124)  MARK
-[pickup2][in a huddle] Come on, Lee.
+[pickup2][in a huddle] Allez, Lee.
 125)  CARLEY
-[pickup2] Why don't I head back with the food and round up everyone for the trip back here.
+[pickup2] Pourquoi je pourrais pas repartir avec la nourriture, rassembler tout le monde et revenir avec eux ?
 158)  DOUG
-[pickup2] Why don't I head back with the food and round up everyone for the trip back here.
+[pickup2] Pourquoi je pourrais pas repartir avec la nourriture, rassembler tout le monde et revenir avec eux ?
 126)  BRENDA
-[pickup2] Wonderful! Family dinner at seven! Til then, ya'll come and relax.
+[pickup2] Merveilleux ! On dîne à sept heures ! En attendant, venez tous et détendez vous.
 127)  
-We help them.
+On les aide.
 128)  
-I don't like like it. We go back.
+Je n'aime pas ca. On rentre.
 129)  CARLEY
-[pickup2]You sure?
+[pickup2]Vous êtes sûr ?
 130)  LEE
-[pickup2]Mark's right. We help them and they help us and we upgrade our living situation.
+[pickup2]Mark a raison. On les aide, ils nous aident et on améliore notre situation.
 131)  LEE
-[pickup2] The sons might be a little strange, but what other choice we got?
+[pickup2] Les fils sont un peu bizarres mais quel autre choix nous avons ?
 132)  LEE
-[pickup2] We're happy to help. Dinner sounds great.
+[pickup2] On est ravi de vous aider. Un dîner ce sera super.
 133)  MARK
-[pickup2] You betcha.
+[pickup2] Pour sûr.
 134)  BRENDA
-[pickup2] And I'll get to findin' something to put in your bellies.
+[pickup2] Et je vais vous trouver quelque chose pour vous remplir l'estomac.
 135)  ANDY
-[pickup2] Mark and Lee, you get settled in and find me when you're ready to help me re-secure the perimeter.
+[pickup2] Mark et Lee, installez vous et venez me voir quand vous serez prêt à m'aider pour re-sécuriser le périmètre.
 136)  CARLEY
-[pickup2] We should hedge our bets. We don't know if these folks want to host a whole group for the duration. I'll hang back at the motor inn with the new kid and give the rest of the group directions back here to the dairy. The inn is a shit-hole, but we should keep some defenses there until we know we're really leaving.
+[pickup2] On est sûr de rien. On ne sait pas s'ils veulent héberger tout un groupe sur la durée. Je resterai au Motor Inn avec le petit nouveau et donnerai la direction de la ferme aux autres. Le motel est un trou à rat mais on devrait y garder quelques défenses jusqu'à ce qu'on sache qu'on en part vraiment.
 137)  CARLEY
-[pickup2] Send Kenny to come relieve me after dinner, prefably with a doggie bag. And if it works out, then we'll ALL make the move.
+[pickup2] Envoyez Kenny me remplacer après le dîner, avec un doggie bag de préférence. Et si tout se passe bien, on fera TOUS le déplacement.
 138)  LEE
-[pickup2] That's a good plan, Carley. I'm sorry you're missing out.
+[pickup2] C'est un bon plan, Carley. Désolé que vous manquiez tout.
 139)  DOUG
-[pickup2] Oh, wow, you guys must know a thing or two about running wire.
+[pickup2] Oh, waouh, vous devez connaître un ou deux truc sur le câblage, vous.
 140)  DANNY
-[pickup2] Had a guy who did, yeah.
+[pickup2] On a eu un gars comme ça, ouais.
 391)  ANDY
-[pickup2] Had a guy who did, yeah.
+[pickup2] On a eu un gars comme ça, ouais.
 141)  DOUG
-[pickup2] Definitely.
+[pickup2] Vraiment.
 142)  DOUG
-[pickup2][blurts out] We're starved!
+[pickup2][blurts out] On crève de faim !
 144)  DOUG
-[pickup2][blurts out] We're all starving our butts off!
+[pickup2][blurts out] On a tous la méga-dalle !
 145)  DOUG
-[pickup2][seeing fresh food for the first time]Holy moly!
+[pickup2][seeing fresh food for the first time]Doux Jésus !
 150)  DOUG
-[pickup2] These guys are kinda weirdos, Lee. And that's coming from me.
+[pickup2] Ces gars sont space, Lee. Et c'est moi qui vous le dit.
 151)  LEE
-[pickup2] Nah, we got some food. I don't feel good about coming here. Let's go back.
+[pickup2] Nan, on a à manger. Je le sens pas de venir ici. Rentrons.
 152)  MARK
-[pickup2]LEE! That's crazy! LOOK at this place.
+[pickup2]LEE ! C'est dingue ! REGARDE cet endroit.
 153)  LEE
-[pickup2] Thanks, but no thanks.
+[pickup2] Merci mais non.
 154)  DOUG
-[pickup2][in a huddle] We should let Lee decide.
+[pickup2][in a huddle] On devrait laisser Lee décider.
 155)  DOUG
-[pickup2] [in a huddle]Yeah, but, you know. We can't think with our stomachs.
+[pickup2] [in a huddle]Ouais, mais vous comprenez. On peut pas réfléchir le ventre vide.
 156)  DOUG
-[pickup2] [wary][in a huddle]We should think this through.
+[pickup2] [wary][in a huddle]On devrait bien y réfléchir.
 157)  MARK
-[pickup2][in a huddle]BISCUITS, DOUG. Biscuits. You mean to tell me YOU of ALL PEOPLE don't like BISCUITS?
+[pickup2][in a huddle]DES BISCUITS, DOUG. Des biscuits. Vous allez me dire que d'entre TOUS ici VOUS n'aimez pas les BISCUITS ?
 159)  DOUG
-[pickup2] Send Kenny to come relieve me after dinner, maybe with a doggie bag? And if it works out, then we'll ALL make the move.
+[pickup2] Envoyez Kenny me remplacer après le dîner. Avec un doggie bag, peut-être ? Et si tout se passe bien, on fera TOUS le déplacement.
 160)  DOUG
-[pickup2] How about we hedge our bets. We don't want to just LEAVE our motor inn in case it doesn't work out here, right? I'll hang back there with the new kid, work on my warning system and give the group directions back here. We should keep someone at the inn until we know we're really leaving.
+[pickup2] Et si on ralentissait un peu ? On n'a pas intérêt à LAISSER le Motor Inn au cas où ça marche pas ici, pas vrai ? Je vais rester là-bas avec le petit nouveau, travailler sur mon système d'alarme et donner au groupe la direction pour venir ici. On devrait laisser quelqu'un au motel jusqu'à ce qu'on sache qu'on en parte vraiment.
 161)  LEE
-[pickup2] That's a good plan, Doug. Thanks for taking one for the group. I'm sorry you're missing out.
+[pickup2] C'est un bon plan, Doug. Merci de prendre sur toi. Désolé que tu doives tout rater.
 162)  CARLEY
-[pickup2] I see why you guys were driving such a hard bargain.
+[pickup2] Je vois pourquoi vous êtes si durs en affaire.
 163)  ANDY
-[pickup2] It's valuable stuff, I don't blame ya'll for wanting to hold onto it.
+[pickup2] C'est des biens de valeur, je ne vous en veux pas de vouloir les garder.
 164)  DOUG
-[pickup2] You must run through a LOT of fuel.
+[pickup2] Vous devez consommer une TONNE de fuel.
 165)  BRENDA
-[pickup2] Well you've come to the right place!
+[pickup2] Hé bien vous êtes au bon endroit !
 166)  
 We're empty handed.
 167)  CARLEY
