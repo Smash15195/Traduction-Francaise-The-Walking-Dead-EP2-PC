@@ -343,503 +343,503 @@ Je n'aime pas ca. On rentre.
 165)  BRENDA
 [pickup2] Hé bien vous êtes au bon endroit !
 166)  
-We're empty handed.
+On est venu les mains vides.
 167)  CARLEY
-[pickup2] But please, we are so hungry.
+[pickup2] S'il vous plaît, on a si faim.
 168)  LEE
-[pickup2] We're empty handed. Your boys wanted fuel for food but we said we had to see the place ourselves.
+[pickup2] On est venu les mains vides. Vos garçons voulaient du fuel contre de la nourriture mais on devait voir la ferme par nous même.
 169)  CARLEY
-[pickup2] Oh my goodness, thank you.
+[pickup2] Oh Seigneur, merci.
 170)  BRENDA
-[pickup2] Ya'll should take these fresh-baked biscuits, as a sign of our good faith. Ya'll can bring a couple tanks a fuel back here as payment.
+[pickup2] Prenez ces biscuits fraîchement sorti du four pour preuve de notre bonne foi. Vous pouvez nous amener deux bidons d'essence en paiement.
 171)  DANNY
-[pickup2] They brought no gas.
+[pickup2] Ils n'ont pas amené de carburant.
 398)  DANNY
-[pickup2] They brought no gas.
+[pickup2] Ils n'ont pas amené de carburant.
 172)  BRENDA
-[pickup2] That don't mean nothin'! We're St. Johns. And St. Johns help folks in need.
+[pickup2] Aucune importance ! On est des St. John et nous aidons les gens dans le besoin.
 173)  BRENDA
-[pickup2] Speaking of which, Andy, why don't you go check up on her?
+[pickup2] En parlant de ça, Andy, pourquoi tu n'irais pas voir comment elle va ?
 174)  BRENDA
-[pickup2] Pay no mind, darlin'!
+[pickup2] Ne fais pas attention, mon coeur !
 175)  CARLEY
-[pickup2] But we didn't bring any fuel, like your boys asked.
+[pickup2] Mais on a pas ramené de fuel comme nous l'ont demandé vos enfants.
 176)  DOUG
-[pickup2] But we're all real hungry.
+[pickup2] Mais on a tous vraiment faim.
 177)  DOUG
-[pickup2] But we didn't bring any fuel, like your sons wanted.
+[pickup2] Mais on a pas ramené de fuel comme nous l'ont demandé vos fils.
 178)  DOUG
-[pickup2] [seeing food for the first time in days]Really?! Thank you so much!
+[pickup2] [seeing food for the first time in days]Sérieux ?! Merci beaucoup !
 179)  BRENDA
-[pickup2] Well, if you change your mind...
+[pickup2] Bien, si vous changez d'avis...
 180)  BRENDA
-[pickup2]You'd be pretty valuable to an operation like this. Especially with a vet.
+[pickup2]Faire affaire avec vous serait plutôt une bonne opération. Surtout avec un vétérinaire.
 181)  BRENDA
-[pickup2] Aww my goodness, we are sorry to hear that. We could really use the help and would make it worth ya'lls while.
+[pickup2] Oh seigneur, nous sommes désolés. On pourrait vraiment accepter de l'aide ici et que ça soit intéressant pour tout le monde.
 182)  LEE
-[pickup2] We better get going.
+[pickup2] On ferait mieux d'y aller.
 183)  CARLEY
-[pickup2] Bye. Take care.
+[pickup2] Au revoir. Soyez prudent.
 184)  MARK
-[pickup2] [under his breath, grumpy] Worth our WHILE, Lee!
+[pickup2] [under his breath, grumpy] INTERESSANT pour tout le monde, Lee!
 185)  DOUG
-Bye, take care.
+Au revoir. Soyez prudent.
 186)  DANNY
-[pickup2]Oh, shit!
+[pickup2]Oh, merde !
 187)  LEE
-[pickup2][out of breath, frightened] It's Mark! They...there were people...in the woods. They shot Mark! He's dead!
+[pickup2][out of breath, frightened] C'est Mark ! Ils... ces types... dans les bois. Ils lui ont tiré dessus ! Il est mort !
 188)  BRENDA
-[pickup2][concerned] Boys? What's goin' on?
+[pickup2][concerned] Les garçons ? Que se passe-t-il ?
 189)  BRENDA
-[pickup2]{fearA}Oh, Lord, no...
+[pickup2]{fearA}Oh, mon Dieu, non...
 543)  BRENDA
-[pickup2]{fearA}Oh, Lord, no...
+[pickup2]{fearA}Oh, mon Dieu, non...
 190)  ANDY
-[pickup2]God dammit!
+[pickup2]Bon sang !
 191)  LEE
-[pickup2][frantic, confused] There are people out there! Other people! They shot Mark! Jesus!
+[pickup2][frantic, confused] Il y a d'autres gens là-bas ! Ils ont planté Mark ! Bon sang !
 192)  ANDY
-[pickup2][concerned]{fearC}Lee, what's wrong?
+[pickup2][concerned]{fearC}Lee, Qu'est-ce qui va pas ?
 537)  ANDY
-[pickup2][concerned]{fearC}Lee, what's wrong?
+[pickup2][concerned]{fearC}Lee, qu'est-ce qui va pas ?
 193)  LEE
-[pickup2]You turned the fucking fence on! We were trapped!
+[pickup2]Vous avez mis en marche la clôture, putain ! On était coincé !
 536)  LEE
-[pickup2]You turned the fucking fence on! We were trapped!
+[pickup2]Vous avez mis en marche la clôture, putain ! On était coincé !
 548)  LEE
-[pickup2]You turned the fucking fence on! We were trapped!
+[pickup2]Vous avez mis en marche la clôture, putain ! On était coincé !
 194)  ANDY
-[pickup2]{angryA}Lee's friend...{angryB}he's dead. {sadA}They got him, Mama! {sadB}Those bastards got him!
+[pickup2]{angryA}L'ami de Lee...{angryB} il est mort. {sadA}Ils l'ont eu, maman ! {sadB}Ces bâtards l'ont eu !
 542)  ANDY
-[pickup2]{angryA}Lee's friend...{angryB}he's dead. {sadA}They got him, Mama! {sadB}Those bastards got him!
+[pickup2]{angryA}L'ami de Lee...{angryB} il est mort. {sadA}Ils l'ont eu, maman ! {sadB}Ces bâtards l'ont eu !
 195)  ANDY
-{angryA}[pickup2]It was those bastards in the woods, Mama...
+{angryA}[pickup2]C'était ces bâtards dans les bois, maman...
 544)  ANDY
-{angryA}[pickup2]It was those bastards in the woods, Mama...
+{angryA}[pickup2]C'était ces bâtards dans les bois, maman...
 196)  BRENDA
-{fearB}[pickup2]Oh, my Lord! What happened to you, sweetheart!?
+{fearB}[pickup2]Oh, mon dieu ! Que s'est-il passé, mon grand !?
 545)  BRENDA
-{fearB}[pickup2]Oh, my Lord! What happened to you, sweetheart!?
+{fearB}[pickup2]Oh, mon dieu ! Que s'est-il passé, mon grand !?
 546)  BRENDA
-{fearB}[pickup2]Oh, my Lord! What happened to you, sweetheart!?
+{fearB}[pickup2]Oh, mon dieu ! Que s'est-il passé, mon grand !?
 197)  ANDY
-{happyb}[pickup2]Mama'll fix him up.
+{happyb}[pickup2]Maman va le soigner.
 541)  ANDY
-{happyb}[pickup2]Mama'll fix him up.
+{happyb}[pickup2]Maman va le soigner.
 198)  BRENDA
-{disgustA}[pickup2]Oh no, honey, c'mon, Brenda's got you. {happyB}C'mon inside now. We'll have you all sorted out.
+{disgustA}[pickup2]Oh non, venez, Brenda va s'occuper de vous. {happyB}Entrez. Nous allons régler ça.
 540)  BRENDA
-{disgustA}[pickup2]Oh no, honey, c'mon, Brenda's got you. {happyB}C'mon inside now. We'll have you all sorted out.
+{disgustA}[pickup2]Oh non, venez, Brenda va s'occuper de vous. {happyB}Entrez. Nous allons régler ça.
 199)  LEE
-[pickup2]{fearA}Wait a minute...
+[pickup2]{fearA}Attendez une minute...
 539)  LEE
-[pickup2]{fearA}Wait a minute...
+[pickup2]{fearA}Attendez une minute...
 200)  ANDY
-[pickup2]Holy shit!
+[pickup2]Oh putain !
 201)  MARK
-[pickup2][pained] {painA}I'm fine, really.
+[pickup2][pained] {painA}Je vais bien, vraiment.
 577)  MARK
-[pickup2][pained] {painA}I'm fine, really.
+[pickup2][pained] {painA}Je vais bien, vraiment.
 202)  DANNY
-[pickup2]What happened?!
+[pickup2]Qu'est-ce qu'il s'est passé ?!
 203)  LEE
-{fearA}[pickup2]There are people out there! {angryB}In the woods!
+{fearA}[pickup2]Il y'a des types là-bas ! {angryB}Dans les bois !
 204)  KENNY
-{happyc}[pickup2][happy] Hey, y'all!
+{happyc}[pickup2][happy] Salut, tout le monde !
 205)  KENNY
-[pickup2][concerned] {fearB}Lee? What's wrong?
+[pickup2][concerned] {fearB}Lee ? Ca va pas ?
 206)  LEE
-[pickup2]{fearA}It's Mark... {fearB}he's.... {sadC}Mark's dead...
+[pickup2]{fearA}C'est Mark... {fearB}il est... {sadC}Mark est mort...
 207)  LILLY
-{fearb}[pickup2]What!?
+{fearb}[pickup2]Quoi !?
 208)  
-He was shot.
+Il s'est fait tirer dessus.
 267)  
-He was shot.
+Il s'est fait tirer dessus.
 209)  LEE
-[pickup2]{feara}He was shot... {fearB}by someone in the woods.
+[pickup2]{feara}Il s'est fait tirer dessus... {fearB}par quelqu'un dans les bois.
 210)  LILLY
-{angryD}[pickup2]What the hell?
+{angryD}[pickup2]Quoi ?
 211)  LEE
-{angrya}[pickup2]We were out there [pointing to the fenceline] {FearB}then someone started shooting at us!
+{angrya}[pickup2]On était là-bas [pointing to the fenceline] {FearB}quand quelqu'un à commencé à nous tirer dessus !
 212)  KENNY
-{surprisedA}[pickup2]Who? {angryC}What?!
+{surprisedA}[pickup2]Qui ? {angryC}Quoi ?!
 213)  LARRY
-{angryC}[pickup2][aggressive]What kind of shit is this?
+{angryC}[pickup2][aggressive]C'est quoi ce merdier ?
 214)  
-We have to leave, it's not safe!
+On doit partir, on est pas en securite !
 215)  LEE
-[pickup2]We have to leave, it's not safe here!
+[pickup2]On doit partir, on est pas en sécurité ici !
 216)  KATJAA
-[pickup2]Oh God!
+[pickup2]Oh mon dieu !
 217)  KENNY
-[pickup2]What the hell happened!?
+[pickup2]Qu'est-ce qu'il s'est passé ?
 218)  LEE
-[pickup2]They just fucking shot him!
+[pickup2]Ils lui ont tiré dessus putain !
 219)  LARRY
-[pickup2]Fuck! We need to get the hell outta here!
+[pickup2]Putain ! Faut se barrer d'ici !
 220)  
-It was a fluke.
+C'est vraiment pas de bol.
 273)  
-It was a fluke.
+C'est vraiment pas de bol.
 528)  
-It was a fluke.
+C'est vraiment pas de bol.
 221)  KENNY
-{fearC}[pickup2]Jesus Christ!
+{fearC}[pickup2]Bon sang !
 222)  LARRY
-{angryC}[pickup2][to Lee]You sonofabitch!
+{angryC}[pickup2][to Lee]Espèce d'enfoiré !
 223)  LEE
-{angrya}[pickup2]It could have happened anywhere. {thinkingA}It could have happened to us in the motor inn.
+{angrya}[pickup2]Ca aurait pu arriver n'importe où. {thinkingA}Au Motor Inn par exemple.
 224)  LEE
-{fearb}[pickup2]It was just a fluke thing... {angryA}we can't stop assuming {feara}there aren't bad people out there.
+{fearb}[pickup2]C'était un coup de malchance... {angryA}On ne peut plus faire comme si {feara}il n'y avait pas des mauvaises personnes dehors.
 225)  LILLY
-{angryD}[pickup2][accusatory] What the hell do you mean "a fluke!?"
+{angryD}[pickup2][accusatory] Ca veut dire quoi "un coup de malchance" !?
 226)  LEE
-[pickup2]{thinkingB}Some people in the woods... {sada}they shot him...
+[pickup2]{thinkingB}Des gens dans les bois... {sada}lui ont tiré dessus...
 227)  KATJAA
-[pickup2]What happened!?
+[pickup2]Que s'est-il passé !?
 228)  LILLY
-[pickup2]What!? What "people!?"
+[pickup2]Quoi !? Qui ça !?
 229)  KENNY
-[pickup2]Jesus, Lee! Say something!
+[pickup2]Bon sang, Lee ! Dites quelque chose !
 230)  BRENDA
-[pickup2]It was them people in the woods.
+[pickup2]C'était ces gens dans les bois
 231)  ANDY
-{fearB}[pickup2]They gave us a lot of problems in the beginning, {fearA}killed a bunch of our farmhands. {fearB}We were able to get 'em to stop by makin' a deal.
+{fearB}[pickup2]Ils nous ont causé pas mal de problèmes au début, {fearA}ils ont tué pas mal d'ouvriers. {fearB}On les a calmé en passant un marché avec eux.
 232)  ANDY
-{normalB}[pickup2]Look, there's a bunch of folks out in the woods. {thinkingA}Marauders, bandits, {fearA}whatever you wanna call 'em. They're camping out back there.
+{normalB}[pickup2]Ecoutez, il y a tout un tas de types dans les bois. {thinkingA}Des maraudeurs, des brigands, {fearA}ou que sais-je encore. Ils campent dans le coin.
 233)  BRENDA
-[pickup2]Take it easy...
+[pickup2]Calmez vous...
 234)  KENNY
-[pickup2]You KNEW about these people?
+[pickup2]Vous étiez AU COURANT pour ces types ?
 661)  KENNY
-[pickup2]You KNEW about these people?
+[pickup2]Vous étiez AU COURANT pour ces types ?
 235)  BRENDA
-[pickup2]We've been givin' 'em food to leave us alone. We had an understanding... We'll keep sending them food and they don't hassle us.
+[pickup2]On leur donnait à manger pour qu'ils nous laissent tranquille. On avait un deal... On leur envoyait de la nourriture et ils venaient pas nous harceler.
 236)  
-You should have told us!
+Vous auriez du nous le dire !
 278)  
-You should have told us!
+Vous auriez du nous le dire !
 524)  
-You should have told us!
+Vous auriez du nous le dire !
 237)  ANDY
-[pickup2]We're sorry! We've never had them screw with us like this! Not since we started givin' 'em food!
+[pickup2]Désolé ! Ils ne nous ont jamais fait chier comme ça ! Pas depuis qu'on leur donne à bouffer !
 238)  LEE
-{angryb}[pickup2]You should have told us about these people!
+{angryb}[pickup2]Vous auriez du nous parler de ces gens !
 239)  BRENDA
-[pickup2]We're so sorry. If we thought there was ANY chance of something like this...We woulda said somethin'!
+[pickup2]On est désolé. Si on avait pensé qu'une chose pareille POUVAIT arriver... On vous aurait dit quelque chose!
 240)  LEE
-[pickup2] Mark might still be alive and our group sure as shit would've considered it before trekking out here.
+[pickup2] Mark serait encore en vie et notre groupe aurait sacrément réfléchi avant de voyager jusqu'ici.
 241)  
-Well they're hassling you now.
+Et bien ils vous harcelent maintenant.
 242)  LEE
-[pickup2]Well, they're hassling you now!
+[pickup2]Et bien, ils vous harcèlent maintenant !
 243)  ANDY
-[pickup2]Mama, they should know better.
+[pickup2]Maman, ils devraient en savoir plus (???).
 244)  
-So much for your "understanding!"
+Merci beaucoup de votre "comprehension" !
 245)  ANDY
-[pickup2]Those shitheads broke the arrangement!
+[pickup2]Ces connards ont rompu l'accord !
 246)  LEE
-{angryA}[pickup2]So much for your "deal."
+{angryA}[pickup2]Au temps pour votre "deal."
 247)  KENNY
-[pickup2][aggressive]Sorry ain't gonna do Mark much good!
+[pickup2][aggressive]Etre désolé ne va pas beaucoup aider Mark !
 248)  LILLY
-[pickup2]You shoulda told us there were a bunch of maniacs out there!
+[pickup2]Vous auriez du nous dire qu'il y avait une bande de malades de coin !
 249)  KATJAA
-{fearb}[pickup2]We were just out on that road...
+{fearb}[pickup2]On était encore sur la route il y a un instant...
 250)  ANDY
-[pickup2]Hey, calm down. It's safer here than out there.
+[pickup2]Hé, calmez vous. C'est plus sûr ici que là-bas.
 251)  LILLY
-[pickup2]He's right, Dad. And we took a huge risk just coming here.
+[pickup2]Il a raison, papa. On a pris un risque énorme rien qu'en venant ici.
 252)  BRENDA
-[pickup2]Then you saw what's out there. This place is the safest thing for miles.
+[pickup2]Alors vous avez vu ce qu'il y a dehors. Cet endroit est le plus sûr à des kilomètres à la ronde.
 253)  LARRY
-[pickup2]Are you shittin' me?
+[pickup2]Vous vous foutez de moi ?
 254)  BRENDA
-[pickup2]No one else needs to die.
+[pickup2]Personne ne va mourir.
 255)  DANNY
-[pickup2]Ain't no way we're gonna let those sons o' bitches get away with this!
+[pickup2]Y'a pas moyen qu'on laisse ces fils de putes s'en tirer comme ça !
 256)  DANNY
-[pickup2]All right, look, me and Lee will go out and have a look-see. If we find 'em, we'll come back and get y'all.
+[pickup2]Très bien, écoutez, moi et Lee on va faire un tour pour jeter un oeil. Si on les trouve on revient vous chercher.
 257)  LARRY
-[pickup2][to Danny, context: Let me give you a piece of advice] {thinkingA}Keep your eyes open, boy.
+[pickup2][to Danny, context: Let me give you a piece of advice] {thinkingA}Gardez bien les yeux ouverts, mon garçon.
 258)  DANNY
-[pickup2]Got a pretty good idea.
+[pickup2]C'est une bonne idée.
 523)  DANNY
-[pickup2]Got a pretty good idea.
+[pickup2]C'est une bonne idée.
 259)  KATJAA
-[pickup2]All right.
+[pickup2]Très bien.
 260)  ANDY
-{fearA}[pickup2]Listen, we may have had an agreement with those people, {angrya}but we will {angryB}NOT stand {angryA}for this shit.
+{fearA}[pickup2]Ecoutez, on avait un arrangement avec ces gens, {angrya}mais on ne va {angryB}PAS tolérer {angryA}ce coup là.
 261)  DANNY
-{fearA}[pickup2]Mama knows what she's doin'. {happya}She's done this plenty of times.
+{fearA}[pickup2]Maman sait ce qu'elle fait. {happya}Elle l'a déjà fait plein de fois.
 262)  ANDY
-{happyA}[pickup2]Take it easy.
+{happyA}[pickup2]Du calme.
 263)  LEE
-{fearA}[pickup2]It's Mark... {sada}he's hurt.
+{fearA}[pickup2]C'est Mark... {sada}il est blessé.
 264)  LILLY
-{angryB}[pickup2]We need to see him! {angryA}What the hell happened?
+{angryB}[pickup2]On doit le voir ! {angryA} Qu'est-ce qu'il s'est passé ?
 265)  LEE
-{fearB}[pickup2]I don't know. He said he was fine. {fearA}Brenda took him inside.
+{fearB}[pickup2]Je sais pas. Il a dit qu'il allait bien. {fearA}Brenda l'a emmené à l'intérieur.
 266)  LILLY
-{fearB}[pickup2]Christ... Is he gonna be okay?
+{fearB}[pickup2]Seigner... il va s'en sortir ?
 268)  LEE
-{fearA}[pickup2][ignoring Larry] There are people out there in the woods. {fearb}We were out there [points at fence], and they almost killed us both.
+{fearA}[pickup2][ignoring Larry] Il y a des types dans les bois. {fearb}On était là-bas [points at fence], et ils ont failli nous tuer tous les deux.
 269)  LEE
-{fearA}[pickup2]He got shot with an arrow.
+{fearA}[pickup2]Il s'est pris une flèche.
 270)  KENNY
-{fearb}[pickup2]Fuck sakes...
+{fearb}[pickup2]Bordel de merde...
 271)  LARRY
-[pickup2][incredulous] With an arrow!?
+[pickup2][incredulous] Une flèche !?
 658)  LARRY
-[pickup2][incredulous] With an arrow!?
+[pickup2][incredulous] Une flèche !?
 272)  
-We have to leave, it's not safe here.
+On doit partir, c'est pas sur ici.
 274)  LILLY
-[pickup2]{angryC}What!? What "people!?"
+[pickup2]{angryC}Quoi !? Quels "types" :?
 275)  DANNY
-{angryA}[pickup2]It was them people in the woods.
+{angryA}[pickup2]C'était ces types dans les bois.
 276)  KENNY
-{fearB}[pickup2]Jesus, Lee! Say something!
+{fearB}[pickup2]Bon sang, Lee ! Dites quelque chose !
 277)  KATJAA
-{fearB}[pickup2]What happened!?
+{fearB}[pickup2]Que s'est-il passé !?
 279)  
-Well they're hassling you now!
+Et bien ils vous harcelent maintenant.
 525)  
-Well they're hassling you now!
+Et bien ils vous harcelent maintenant.
 280)  
-So much for your "understanding."
+Merci beaucoup de votre "comprehension" !
 526)  
-So much for your "understanding."
+Merci beaucoup de votre "comprehension" !
 281)  LILLY
-{fearB}[pickup2]You shoulda told them there were a bunch of maniacs out there!
+{fearB}[pickup2]Vous auriez du nous dire qu'il y avait une bande de malades de coin !
 282)  KENNY
-{angryb}[pickup2]You need to go apologize to Mark!
+{angryb}[pickup2]Présentez vos excuses à Mark !
 283)  DANNY
-{fearA}[pickup2]Then you know there ain't much else out there. {angryA}You're safest here.
+{fearA}[pickup2]Alors vous savez qu'il n'y a rien de plus dehors. {angryA}Ici c'est plus sûr.
 284)  LILLY
-[pickup2]Hey! Is Mark okay?
+[pickup2]Hé! Mark va bien ?
 285)  BRENDA
-[pickup2][unsure] Uh... well... okay, sure. We'll go have a visit, but a short one.
+[pickup2][unsure] Heu... et bien... ça va. On lui fera une petite visite, pas très longtemps.
 286)  KATJAA
-[pickup2]Can we go see him?
+[pickup2]On peut le voir ?
 287)  BRENDA
-[pickup2]He's gonna be fine. He's resting.
+[pickup2]Il va se rétablir. Il se repose.
 288)  
-You turned the fence on!
+Vous avez mis en marche la cloture !
 547)  
-You turned the fence on!
+Vous avez mis en marche la cloture !
 289)  
-It was a goddamn ambush!
+C'etait une foutue ambuscade !
 550)  
-It was a goddamn ambush!
+C'etait une foutue ambuscade !
 290)  
-I thought this place was safe!
+Je croyais que cet endroit etait sur !
 553)  
-I thought this place was safe!
+Je croyais que cet endroit etait sur !
 291)  ANDY
-[pickup2] I thought you gave me the all clear!
+[pickup2] J'ai cru que aviez donné le feu vert !
 535)  ANDY
-[pickup2] I thought you gave me the all clear!
+[pickup2] J'ai cru que aviez donné le feu vert !
 549)  ANDY
-[pickup2] I thought you gave me the all clear!
+[pickup2] J'ai cru que aviez donné le feu vert !
 292)  LEE
-[pickup2] It was a goddamn ambush out there!
+[pickup2] C'était une foutue ambuscade la-bas !
 551)  LEE
-[pickup2] It was a goddamn ambush out there!
+[pickup2] C'était une foutue ambuscade la-bas !
 293)  DANNY
-[pickup2] It's not what you think.
+[pickup2] C'est pas ce que vous pensez.
 552)  DANNY
-[pickup2] It's not what you think.
+[pickup2] C'est pas ce que vous pensez.
 294)  LEE
-[pickup2] You almost killed us both!
+[pickup2] Vous avez failli nous faire tuer tous les deux !
 295)  DANNY
-[pickup2] Hey now, we had nothing to do with it!
+[pickup2] Hé, c'était pas notre faute !
 554)  DANNY
-[pickup2] Hey now, we had nothing to do with it!
+[pickup2] Hé, c'était pas notre faute !
 296)  DANNY
-[pickup2] Settle down and tell us what happened.
+[pickup2] Calmez-vous et racontez nous ce qu'il s'est passé.
 557)  DANNY
-[pickup2] Settle down and tell us what happened.
+[pickup2] Calmez-vous et racontez nous ce qu'il s'est passé.
 297)  LEE
-[pickup2] You almost killed us!
+[pickup2] Vous avez failli nous faire tuer !
 555)  LEE
-[pickup2] You almost killed us!
+[pickup2] Vous avez failli nous faire tuer !
 298)  DANNY
-[pickup2] We're sorry.
+[pickup2] Désolé.
 299)  DANNY
-[pickup2] It's true, sir. They coulda got you at your motel just the same.
+[pickup2] C'est vrai, monsieur. Ils auraient tout aussi bien pu vous avoir au motel.
 300)  BRENDA
-[pickup2] {happyc}Well! That sure does sound like a plan.{happyb} Now which of you is the vet?
+[pickup2] {happyc}Bien ! Ca ressemble à un plan.{happyb} Laquelle d'entre vous est vétérinaire ?
 301)  BRENDA
-[pickup2]{happyE} How about you come inside and we'll talk about Maybelle.
+[pickup2]{happyE} Entrez donc et nous parlerons de Maybelle.
 302)  KATJAA
-{thinkingA}[pickup2] Okay, {FearA}I suppose so.
+{thinkingA}[pickup2] Je suis d'accord, {FearA}j'imagine.
 303)  
-Go on, Clementine.
+Allez, Clementine.
 520)  
-Go on, Clementine.
+Allez, Clementine.
 304)  
-I'll be safe, okay?
+Ca va aller, d'accord ?
 521)  
-I'll be safe, okay?
+Ca va aller, d'accord ?
 305)  
-Stay with Duck, okay?
+Reste avec Duck, d'accord ?
 522)  
-Stay with Duck, okay?
+Reste avec Duck, d'accord ?
 306)  CLEMENTINE
-{sadA}[pickup2] Okay. {fearB}Be safe.
+{sadA}[pickup2] D'accord. {fearB}Sois prudent.
 307)  LEE
-[pickup2] {sada}Go on, Clem. It'll be fine.
+[pickup2] {sada}Allez, Clem. Tout ira bien.
 308)  LEE
-{happyb}[pickup2] [to clem]I will, sweetie.
+{happyb}[pickup2] [to clem]Promis, mon coeur.
 309)  DANNY
-[pickup2] {happyA}The rest of ya'll, {happyb}make yourselves comfortable.
+[pickup2] {happyA}Mettez vous à l'aise, {happyb}les autres.
 310)  DANNY
-[pickup2] {thinkingA}When you're ready to scope out their encampment, {angryA}you come find me. I'll be ready.
+[pickup2] {thinkingA}Quand vous êtes prêt à partir pour leur campement, {angryA}venez me voir. Je serai prêt.
 311)  LEE
-{thinkinga}[pickup2] I'll be safe, okay?
+{thinkinga}[pickup2] Je serai prudent, d'accord ?
 312)  CLEMENTINE
-{sadB}[pickup2] Okay. Come back soon.
+{sadB}[pickup2] D'accord. Reviens vite.
 313)  LEE
-{thinkingA}[pickup2] Stay with Duck, okay?
+{thinkingA}[pickup2] Reste avec Duck, d'accord ?
 314)  CLEMENTINE
-{sadB}[pickup2] Okay.
+{sadB}[pickup2] D'accord.
 315)  KENNY
-{angryB}[pickup2]You know where these assholes are?
+{angryB}[pickup2]Vous savez où sont ces fumiers ?
 316)  KATJAA
-{fearA}[pickup2] Kenny, {thinkingA}you don't know how many of them are out there...
+{fearA}[pickup2] Kenny, {thinkingA}tu ne sais pas combien ils sont là-bas...
 317)  LARRY
-{angryc}[pickup2][angry] God dammit! {angryB}Doug said this place was safe!
+{angryc}[pickup2][angry] Bon dieu ! {angryB}Doug a dit que c'était sûr ici !
 318)  LARRY
-{angryb}[pickup2][angry] God dammit!{angryC} Carley said this place was locked down tight!
+{angryb}[pickup2][angry] Bon dieu !{angryC} Carley a dit que c'était bien protégé ici !
 319)  LILLY
-[pickup2]Christ, maybe you were right about this place, Lee.
+[pickup2]Bon sang, peut-être que vous aviez raison, Lee.
 320)  DANNY
-{sadA}[pickup2]Calm down, y'all!
+{sadA}[pickup2]Calmez vous, tout le monde !
 321)  DANNY
-{angryA}[pickup2]Food for protection. {fearA} Not like we had much of a choice, but they stopped hasslin' us.
+{angryA}[pickup2]A manger contre notre protection. {fearA} On a pas vraiment eu le choix mais ils ont arrêté de nous harceler après ça.
 322)  LEE
-[pickup2] We sure as hell would've considered it before trekking out here.
+[pickup2] On aurait vraiment réfléchi à deux fois avant de faire le voyage.
 323)  DANNY
-{angryB}[pickup2]No shit!
+{angryB}[pickup2]Sans déconner !
 324)  ANDY
-{fearB}[pickup2]I'm sorry, Lee. If I had any inklin' they were gonna give you guys trouble, {fearC}we woulda gone out there with {happyD}you!
+{fearB}[pickup2]Je suis désolé, Lee. Si j'avais eu la moindre idée que ces types vous causerait des ennuis {fearC}on serait venu avec {happyD}vous !
 325)  KENNY
-{happyb}[pickup2][to Duck]Why don't you kids go and play on the swing, huh?
+{happyb}[pickup2][to Duck]Pourquoi vous iriez pas jouer sur la banlançoire les enfants ?
 326)  DUCK
-{happyc}[pickup2] Yeah!
+{happyc}[pickup2] Ouais !
 327)  DANNY
-[pickup2]You bet.
+[pickup2]C'est clair.
 328)  LARRY
-[pickup2][unsure] We still gettin' fed?
+[pickup2][unsure] On va quand même manger ?
 329)  BRENDA
-[pickup2]Of course!
+[pickup2]Bien sûr !
 330)  MARK
 [pickup2] This is the right call, Lee. Don't worry.
 331)  BRENDA
-[pickup2] Well, well, well! Look who's had a change o' heart!
+[pickup2] Bien, bien, bien ! Regardez qui a changé d'humeur !
 332)  ANDY
-[pickup2] Welcome back, boys!
+[pickup2] Bon retour chez nous, les gars !
 333)  
-The group appreciated your offer.
+Le groupe a apprecie votre offre.
 334)  
-People are hungry.
+Les gens ont faim.
 335)  
-Promise this place is safe.
+Cet endroit est sur, promis.
 336)  BRENDA
-[pickup2] Well we are happy to have you!
+[pickup2] On est content de vous voir !
 337)  LEE
-[pickup2] We hope this place is safe.
+[pickup2] On espère que cet endroit est sûr.
 338)  BRENDA
-[pickup2] Aww, that's cute. You must really love your friends. Don't worry!
+[pickup2] Oooh, c'est mignon. Vous aimez vraiment vos amis. Ne vous inquiétez pas !
 339)  BRENDA
-[pickup2] Well, we'll solve that, don't you worry.
+[pickup2] On va régler ça, ne vous inquiétez pas.
 340)  LEE
-[pickup2] People are hungry.
+[pickup2] Les gens ont faim.
 341)  LEE
-[pickup2] We decided to take you up on your offer.
+[pickup2] On a décidé d'accepter votre offre.
 342)  BRENDA
-[pickup2] Glad to hear it!
+[pickup2] Ravie de l'entendre !
 343)  BRENDA
-[pickup2] Wonderful! I can't wait. We could use the help.
+[pickup2] Merveilleux ! Je suis impatiente d'avoir votre aide.
 344)  MARK
-[pickup2] Happy to be back! Our friends are on the way.
+[pickup2] Heureux d'être de retour ! Nos amis sont en route.
 345)  BRENDA
-[pickup2][walking away, to herself] Ooohwee, guests!
+[pickup2][walking away, to herself] Hourra, des invités !
 346)  MARK
-[pickup2] This is gonna be great.
+[pickup2] Ca va être génial.
 347)  
-Sign
+Panneau
 348)  
-Outlet
+Sortie
 349)  
-House
+Maison
 350)  
-Gazebo
+Belvédère
 351)  
-Gas Cans
+Bouteilles de gaz
 352)  
-Propane Tank
+Cuve à propane
 353)  
-Swing
+Balançoire
 354)  LEE
-[pickup2]  [to himself]Looks like a bunch of medical waste in here. IV tubes, saline...
+[pickup2]  [to himself]Il y a un tas de récup' médicale là-dedans. Tubes IV, sérum...
 355)  LEE
-[pickup2] [to himself]What would dairy farmers need with this kind of stuff?
+[pickup2] [to himself]A quoi tout ça peut être utile pour des fermiers ?
 356)  LEE
-[pickup2][softly, to himself, concerned]The hell is that?
+[pickup2][softly, to himself, concerned]Qu'est-ce que c'est que ça ?
 357)  LEE
-[pickup2][to himself]Looks like a bunch of old, dirty clothes.
+[pickup2][to himself]On dirait un tas de vieilles fringues sales.
 358)  LEE
-[pickup2][to himself]{HappyA}Used to have these on the porch of my house growin' up.
+[pickup2][to himself]{HappyA}J'avais l'habitude d'en voir sous le porche de ma maison quand j'étais môme.
 359)  LEE
-[pickup2][to himself]{DisgustA}Hope the noise doesn't attract any unwanted guests.
+[pickup2][to himself]{DisgustA}J'espère que le bruit ne va pas attirer des invités imprévus.
 360)  LEE
-[pickup2][to himself]Damn. Guess there's no such thing as having too many guns in a house this big. Not while there are walkers walking around out there.
+[pickup2][to himself]Mon dieu. J'imagine qu'on a jamais assez d'armes dans une maison aussi grande. Surtout quand il y a des marcheurs qui trainent dehors.
 361)  LEE
-[pickup2][to himself, concerned]Empty? What happened to all the guns?
+[pickup2][to himself, concerned]Vide ? Où sont passées toutes les armes ?
 362)  LEE
-[pickup2][to himself]Still empty.
+[pickup2][to himself]Toujours vide.
 363)  LEE
-[pickup2][to himself]Better leave these alone. Don't want to stir up any trouble.
+[pickup2][to himself]Vaudrait mieux laisser ça tranquille. Je veux pas m'attirer d'ennuis.
 364)  LEE
-[pickup2][to himself]Smells pretty foul.
+[pickup2][to himself]Ca pue énormément.
 365)  LEE
-[pickup2][to himself]{ThinkingA}Just a bunch of old shoes. {ThinkingB}Where'd they get all these from?
+[pickup2][to himself]{ThinkingA}Un tas de vieilles godasses. {ThinkingB}Où est-ce qu'ils ont eu tout ça ?
 366)  LEE
-[pickup2][to himself]{ThinkingA}Just a pile of old shoes.
+[pickup2][to himself]{ThinkingA}Un tas de vieilles chaussures.
 367)  DANNY
-[pickup2]Yep, Momma said it was the best Mother's Day ever.
+[pickup2]Ouaip, Mamman a dit que c'était la meilleure fête des mères de sa vie.
 368)  LEE
-[pickup2][recovering from a scare, grossed out]Is that... a stuffed cat?
+[pickup2][recovering from a scare, grossed out]C'est... un chat empaillé ?
 369)  LEE
-[pickup2]I... see.
+[pickup2]Je... vois.
 370)  LEE
-[pickup2][leaning down to pet a cat]Hey, little guy...
+[pickup2][leaning down to pet a cat]Salut p'tit gars...
 371)  DANNY
-[pickup2]I see you've met Zoe.
+[pickup2]Vous avez fait connaissance avec Zoé.
 372)  DANNY
-[pickup2]Oh yeah, Momma's a bit of a cat lady. She was pretty devastated when she died, and I figured it would be a good chance to try some taxidermy. You know, as a gift.
+[pickup2]Oh ouais, maman adore les chats. Elle était sacrément triste quand elle est morte, alors j'ai pensé que ce serait l'occasion d'essayer la taxidermie. Pour en faire cadeu, vous voyez.
 373)  LEE
-[pickup2][caught off guard, grossed out]Whoa, what the fuck?!
+[pickup2][caught off guard, grossed out]Woaa, qu'est-ce que ?!
 374)  LEE
-[pickup2][to himself]Nasty.
+[pickup2][to himself]Méchant.
 375)  KENNY
-[pickup2][calling out]{SurprisedA}Everything's all right! No need for alarm. The fence got 'em.
+[pickup2][calling out]{SurprisedA}Tout va bien ! Pas besoin de s'alarmer. La clôture les a eu.
 376)  DUCK
-[pickup2]Eww, gross!
+[pickup2]Beeerk, c'est dégoûtant !
 377)  KENNY
-[pickup2]{HappyA}Pretty cool, huh? Kinda like that bug zapper we had back home.
+[pickup2]{HappyA}Sympa, hein ? Ca fait un peu comme le tue mouche électrique qu'on avait à la maison.
 378)  DANNY
-[pickup2][excited] {HappyB}You were a madman back there! Took that crazy bitch down!
+[pickup2][excited] {HappyB}Vous étiez fou là-bas ! Vous avez descendu cette salope !
 379)  DANNY
-[pickup2][excited] {HappyA}Man, that was a hell of a ride, huh?
+[pickup2][excited] {HappyA}C'était une sacrée sortie, hein ?
 380)  LEE
-[pickup2][context: are you serious?] {ThinkingB}What?
+[pickup2][context: are you serious?] {ThinkingB}Quoi ?
 381)  DANNY
-[pickup2] {ThinkingA}What? You ain't gettin' soft on them, are ya? {AngryA}Not after what they did to your friend!
+[pickup2] {ThinkingA}Quoi ? Vous n'allez pas être tendre avec eux, pas vrai ? {AngryA}Pas après ce qu'ils ont fait à votre ami !
 382)  BRENDA
 [pickup2] {FearA}You're back! What happened?
 383)  BRENDA
