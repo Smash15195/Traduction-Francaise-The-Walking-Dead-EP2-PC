@@ -1,15 +1,15 @@
 1)  LEE
 {ThinkingA}C'est quoi ça ?
 2)  ANDY
-{HappyA}Un générateur. Vous êtes venu avec votre carburant à point nommé.
+{HappyA}Un générateur. Vous êtes venu juste à temps avec votre carburant.
 3)  LEE
 [to himself]{ThinkingA}On dirait une mangeoire pour la vache.
 4)  LEE
-[to himself]{HappyA}Ca doit être génial d'avoir du maïs à disposition comme ça.
+[to himself]{HappyA}Ca doit être génial d'avoir du maïs à portée de main comme ça.
 5)  LEE
-[to himself]Une clôture électrique fait maison... une bonne idée.
+[to himself]Une clôture électrique fait maison... bonne idée.
 6)  LEE
-[to himself]{SadA}Le courrier c'est terminé ces temps-ci.
+[to himself]{SadA}C'est terminé le courrier ces temps-ci.
 7)  DANNY
 Ouais, on ne s'en sert plus vraiment. On n'a plus qu'une seule vache, et on a déjà amené la plupart de son foin.
 8)  LEE
@@ -57,7 +57,7 @@ Ouais. C'est pour notre vache. Les gens sont toujours surpris de voir tout ce qu
 28)  LEE
 [quietly] {angryA}Il y a quoi à l'intérieur ?
 29)  KENNY
-[quietly] {normalB}C'est sûrement rien, mais... {normalA}J'étais dans la grange pour aider à charger du foin, {thinkingA}et on dirait qu'ils ont une réserve à l'arrière.
+[quietly] {normalB}C'est sûrement rien, mais... {normalA}J'étais dans la grange pour aider à charger du foin, {thinkingA}et j'ai vu ce qui ressemblerait à une réserve à l'arrière.
 30)  KENNY
 [quietly] {thinkingA}Alors que personne ne faisait attention, j'ai jetté un coup d'oeil à travers la porte. {angryA}Ils ont tout un tas de boîtes en carton là-dedans. [acuseatory]{normalB}Ils stockent des trucs. {angryA}Il faut que quelqu'un sache ce que c'est.
 31)  LEE
@@ -69,9 +69,9 @@ Porte de la grange
 34)  LEE
 [pickup1][looking at the barn doors]Vous gardez vos vivres là-dedans ?
 35)  ANDY
-[pickup1][when asked about keeping livestock in the barn]Avant oui.  Maintenant c'est juste pour une seule vache, et elle ne va pas très bien.
+[pickup1][when asked about keeping livestock in the barn]Avant oui.  Maintenant ça sert juste pour garder notre seule vache, et elle ne va pas très bien.
 36)  ANDY
-[pickup1][alt - depending on who is closer to the Barn Loft]Ouais, on ne s'en sert plus vraiment.  On a plus qu'une vache vivante, et on a chargé la plupart de son foin.
+[pickup1][alt - depending on who is closer to the Barn Loft]Ouais, on ne s'en sert plus vraiment.  On y garde plus qu'une seule vache vivante, et on a chargé la plupart de son foin.
 37)  ANDY
 [pickup1][alt - depending on who is closer to Hay]Ouais. C'est pour notre vache. Les gens sont toujours surpris de voir tout ce que ça peut avaler ces bestioles.
 38)  
@@ -93,7 +93,7 @@ Boîte aux lettres
 46)  LILLY
 [pickup1][thanking Andy for the food] On ne vous remerciera jamais assez pour ça.
 47)  ANDY
-[pickup1][insistant that Lee leaves his weapons outside]Voyons, Lee.  J'ai dit pas d'armes.
+[pickup1][insistant that Lee leaves his weapons outside]Voyons, Lee.  J'ai dit : pas d'armes.
 48)  ANDY
 [pickup1][insistant that Lee leaves his weapons outside]J'étais sérieux.  Les armes restent dehors.
 49)  LARRY
@@ -111,17 +111,17 @@ Gate
 55)  LEE
 [pickup2] [To Himself] Elle n'a sans doute pas servi depuis des mois. C'est un peu flippant de la voir comme ça.
 56)  LEE
-[pickup2] [To Himself] {DisgustA}"Voyages gratuits" ? Je doute qu'ils offrent quoi que ce soit gratuitement maintenant.
+[pickup2] [To Himself] {DisgustA}"Visites gratuites" ? Je doute qu'ils offrent quoi que ce soit gratuitement maintenant.
 57)  LEE
 [pickup2] [To Himself] {DisgustA}Ils ont bien construit ça eux-même. Aucun doute.
 58)  LEE
-[pickup2] [To Himself] {DisgustA}Ca l'air dangereux mais j'imagine que c'est le but.
+[pickup2] [To Himself] {DisgustA}Ca a l'air dangereux mais j'imagine que c'est tout l'intérêt.
 59)  LEE
-[pickup2] [To Himself] {DisgustA}Je me demande quelle quantité de nourriture ils ont là-dedans. {ThinkingA}Heureusement on va le savoir.
+[pickup2] [To Himself] {DisgustA}Je me demande quelle quantité de nourriture ils ont là-dedans. {ThinkingA}Heureusement on va pas tarder à le savoir.
 60)  LEE
 [pickup2] [To Himself] Brenda fait à manger depuis un bon moment.
 61)  LEE
-[pickup2] [To Himself] {DisgustA}Original mais un peu inutile en terme de protection cependant.
+[pickup2] [To Himself] {DisgustA}Original mais un peu inutile en terme de protection.
 62)  LEE
 [pickup2] {ThinkingA}Ils stockent de l'essence un peu partout dans la propriété.
 63)  LEE
@@ -137,7 +137,7 @@ Gate
 68)  ANDY
 [pickup3] On fait passer 4000 volts là-dedans, grâce aux générateurs et aux amplis.
 69)  CARLEY
-[pickup2] On va supposer que ça fait beaucoup...
+[pickup2] On va imaginer que ça fait beaucoup...
 70)  
 Il n'y a jamais eu d'accident ?
 71)  
@@ -163,13 +163,13 @@ C'est dangereux pour les enfants.
 395)  DANNY
 [pickup2] Vos enfants ont des oreilles, non ? Assurez-vous qu'ils s'en servent.
 80)  DANNY
-[pickup2] Et on va supposer que votre ami là, heu, Lee, reste sans voix.
+[pickup2] Et on va supposer que votre ami là, heu, Lee, en reste sans voix.
 396)  ANDY
-[pickup2] Et on va supposer que votre ami là, heu, Lee, reste sans voix.
+[pickup2] Et on va supposer que votre ami là, heu, Lee, en reste sans voix.
 81)  CARLEY
 [pickup2][impressed] C'est ça.
 82)  ANDY
-[pickup3] It's worth protecting, hence all the juice.
+[pickup3] Une telle protection vaut bien de sucer tout ça.
 83)  BRENDA
 [pickup2] Je pensais bien avoir vu arriver toute la compagnie dans l'allée !
 84)  ANDY
@@ -187,7 +187,7 @@ On a sacrement faim.
 90)  LEE
 [pickup2] On a tout un groupe au motel, pas loin du centre de Macon.
 594)  LEE
-[pickup2] n a tout un groupe au motel, pas loin du centre de Macon.
+[pickup2] On a tout un groupe au motel, pas loin du centre de Macon.
 91)  CARLEY
 [pickup2] [kinda blurted out] On a tous sacrément faim.
 92)  CARLEY
@@ -207,7 +207,7 @@ On a sacrement faim.
 98)  CARLEY
 [pickup2] Incroyable !
 99)  BRENDA
-[pickup2] C'est vrai. Heureusement Maybelle va se remettre de ce qu'elle a et sera avec nous encore longtemps.
+[pickup2] C'est vrai. Heureusement Maybelle va se remettre sur pied et sera avec nous encore longtemps.
 100)  BRENDA
 [pickup2][quiet, talking in a background convo]  Je ne suis pas sûr, ce n'est pas comme la dernière fois et à l'époque on avait de l'aide.
 101)  MARK
@@ -243,7 +243,7 @@ Silence
 111)  BRENDA
 [pickup2][excited] Un vétérinaire ! Seigneur, vous avez exhaussé nos prières !
 112)  BRENDA
-[pickup2] Bien, vous tous allez chercher votre amie et je prépare le dîner, que dîtes-vous de ça ? Un grand festin pour ces pauvres âmes affamées.
+[pickup2] Bien, vous tous, allez chercher votre amie et je prépare le dîner, que dîtes-vous de ça ? Un grand festin pour ces pauvres âmes affamées.
 113)  BRENDA
 [pickup2] Qu'en pensez-vous ?
 114)  LEE
@@ -261,7 +261,7 @@ Oh, vous partez ? Ah. C'est dommage, je pensais--
 120)  MARK
 [pickup2][in a huddle] DES BISCUITS, CARLEY. Des biscuits.
 121)  MARK
-[pickup2][outburst] Vendu ! On vous amène notre véto et on ramène la troupe ici !
+[pickup2][outburst] Vendu ! On vous amène notre véto et on ramène toute la troupe ici !
 122)  MARK
 [pickup2][in a huddle] C'est une gentille dame du sud qui vous a donné des BISCUITS.
 123)  CARLEY
@@ -283,7 +283,7 @@ Je n'aime pas ca. On rentre.
 130)  LEE
 [pickup2]Mark a raison. On les aide, ils nous aident et on améliore notre situation.
 131)  LEE
-[pickup2] Les fils sont un peu bizarres mais quel autre choix nous avons ?
+[pickup2] Les fils sont un peu bizarres mais quel autre choix avons nous ?
 132)  LEE
 [pickup2] On est ravi de vous aider. Un dîner ce sera super.
 133)  MARK
@@ -297,7 +297,7 @@ Je n'aime pas ca. On rentre.
 137)  CARLEY
 [pickup2] Envoyez Kenny me remplacer après le dîner, avec un doggie bag de préférence. Et si tout se passe bien, on fera TOUS le déplacement.
 138)  LEE
-[pickup2] C'est un bon plan, Carley. Désolé que vous manquiez tout.
+[pickup2] C'est un bon plan, Carley. Désolé que vous ratiez ça.
 139)  DOUG
 [pickup2] Oh, waouh, vous devez connaître un ou deux truc sur le câblage, vous.
 140)  DANNY
@@ -313,7 +313,7 @@ Je n'aime pas ca. On rentre.
 145)  DOUG
 [pickup2][seeing fresh food for the first time]Doux Jésus !
 150)  DOUG
-[pickup2] Ces gars sont space, Lee. Et c'est moi qui vous le dit.
+[pickup2] Ces gars sont space, Lee. Et c'est moi qui le dit.
 151)  LEE
 [pickup2] Nan, on a à manger. Je le sens pas de venir ici. Rentrons.
 152)  MARK
@@ -323,11 +323,11 @@ Je n'aime pas ca. On rentre.
 154)  DOUG
 [pickup2][in a huddle] On devrait laisser Lee décider.
 155)  DOUG
-[pickup2] [in a huddle]Ouais, mais vous comprenez. On peut pas réfléchir le ventre vide.
+[pickup2] [in a huddle]Ouais, mais vous comprenez, on peut pas réfléchir le ventre vide.
 156)  DOUG
 [pickup2] [wary][in a huddle]On devrait bien y réfléchir.
 157)  MARK
-[pickup2][in a huddle]DES BISCUITS, DOUG. Des biscuits. Vous allez me dire que d'entre TOUS ici VOUS n'aimez pas les BISCUITS ?
+[pickup2][in a huddle]DES BISCUITS, DOUG. Des biscuits. Vous allez me dire que parmi nous TOUS ici VOUS n'aimez pas les BISCUITS ?
 159)  DOUG
 [pickup2] Envoyez Kenny me remplacer après le dîner. Avec un doggie bag, peut-être ? Et si tout se passe bien, on fera TOUS le déplacement.
 160)  DOUG
@@ -335,9 +335,9 @@ Je n'aime pas ca. On rentre.
 161)  LEE
 [pickup2] C'est un bon plan, Doug. Merci de prendre sur toi. Désolé que tu doives tout rater.
 162)  CARLEY
-[pickup2] Je vois pourquoi vous êtes si durs en affaire.
+[pickup2] Je vois pourquoi vous êtes si durs en affaires.
 163)  ANDY
-[pickup2] C'est des biens de valeur, je ne vous en veux pas de vouloir les garder.
+[pickup2] C'est des denrées de valeur, je ne vous en veux pas de vouloir les garder.
 164)  DOUG
 [pickup2] Vous devez consommer une TONNE de fuel.
 165)  BRENDA
@@ -375,7 +375,7 @@ On est venu les mains vides.
 180)  BRENDA
 [pickup2]Faire affaire avec vous serait plutôt une bonne opération. Surtout avec un vétérinaire.
 181)  BRENDA
-[pickup2] Oh seigneur, nous sommes désolés. On pourrait vraiment accepter de l'aide ici et que ça soit intéressant pour tout le monde.
+[pickup2] Oh seigneur, nous sommes désolés. On pourrait vraiment accepter de l'aide ici pour que ça soit intéressant pour tout le monde.
 182)  LEE
 [pickup2] On ferait mieux d'y aller.
 183)  CARLEY
@@ -397,7 +397,7 @@ Au revoir. Soyez prudent.
 190)  ANDY
 [pickup2]Bon sang !
 191)  LEE
-[pickup2][frantic, confused] Il y a d'autres gens là-bas ! Ils ont planté Mark ! Bon sang !
+[pickup2][frantic, confused] Il y a d'autres gens là-bas ! Ils ont tiré sur Mark ! Bon sang !
 192)  ANDY
 [pickup2][concerned]{fearC}Lee, Qu'est-ce qui va pas ?
 537)  ANDY
@@ -477,7 +477,7 @@ On doit partir, on est pas en securite !
 218)  LEE
 [pickup2]Ils lui ont tiré dessus putain !
 219)  LARRY
-[pickup2]Putain ! Faut se barrer d'ici !
+[pickup2]Fait chier ! Faut se barrer d'ici !
 220)  
 C'est vraiment pas de bol.
 273)  
@@ -487,11 +487,11 @@ C'est vraiment pas de bol.
 221)  KENNY
 {fearC}[pickup2]Bon sang !
 222)  LARRY
-{angryC}[pickup2][to Lee]Espèce d'enfoiré !
+{angryC}[pickup2][to Lee]Espèce d'enfoirés !
 223)  LEE
 {angrya}[pickup2]Ca aurait pu arriver n'importe où. {thinkingA}Au Motor Inn par exemple.
 224)  LEE
-{fearb}[pickup2]C'était un coup de malchance... {angryA}On ne peut plus faire comme si {feara}il n'y avait pas des mauvaises personnes dehors.
+{fearb}[pickup2]C'était un coup de malchance... {angryA}On ne peut plus faire comme si {feara}il n'y avait pas de mauvaises personnes dehors.
 225)  LILLY
 {angryD}[pickup2][accusatory] Ca veut dire quoi "un coup de malchance" !?
 226)  LEE
@@ -507,7 +507,7 @@ C'est vraiment pas de bol.
 231)  ANDY
 {fearB}[pickup2]Ils nous ont causé pas mal de problèmes au début, {fearA}ils ont tué pas mal d'ouvriers. {fearB}On les a calmé en passant un marché avec eux.
 232)  ANDY
-{normalB}[pickup2]Ecoutez, il y a tout un tas de types dans les bois. {thinkingA}Des maraudeurs, des brigands, {fearA}ou que sais-je encore. Ils campent dans le coin.
+{normalB}[pickup2]Ecoutez, il y a tout un tas de types dans les bois. {thinkingA}Des rôdeurs, des brigands, {fearA}ou que sais-je encore. Ils campent dans le coin.
 233)  BRENDA
 [pickup2]Calmez vous...
 234)  KENNY
@@ -529,13 +529,13 @@ Vous auriez du nous le dire !
 239)  BRENDA
 [pickup2]On est désolé. Si on avait pensé qu'une chose pareille POUVAIT arriver... On vous aurait dit quelque chose!
 240)  LEE
-[pickup2] Mark serait encore en vie et notre groupe aurait sacrément réfléchi avant de voyager jusqu'ici.
+[pickup2] Mark serait encore en vie et notre groupe aurait sacrément réfléchi avant de venir jusqu'ici.
 241)  
 Et bien ils vous harcelent maintenant.
 242)  LEE
 [pickup2]Et bien, ils vous harcèlent maintenant !
 243)  ANDY
-[pickup2]Maman, ils devraient en savoir plus (???).
+[pickup2]Maman, on devrait leur en dire plus.
 244)  
 Merci beaucoup de votre "comprehension" !
 245)  ANDY
@@ -571,7 +571,7 @@ Merci beaucoup de votre "comprehension" !
 259)  KATJAA
 [pickup2]Très bien.
 260)  ANDY
-{fearA}[pickup2]Ecoutez, on avait un arrangement avec ces gens, {angrya}mais on ne va {angryB}PAS tolérer {angryA}ce coup là.
+{fearA}[pickup2]Ecoutez, on avait un arrangement avec ces gens, {angrya}mais on ne va {angryB}PAS tolérer {angryA}un coup pareil.
 261)  DANNY
 {fearA}[pickup2]Maman sait ce qu'elle fait. {happya}Elle l'a déjà fait plein de fois.
 262)  ANDY
@@ -621,7 +621,7 @@ Merci beaucoup de votre "comprehension" !
 284)  LILLY
 [pickup2]Hé! Mark va bien ?
 285)  BRENDA
-[pickup2][unsure] Heu... et bien... ça va. On lui fera une petite visite, pas très longtemps.
+[pickup2][unsure] Heu... et bien... ça va. On lui pourra lui rendre une petite visite, dans un petit moment.
 286)  KATJAA
 [pickup2]On peut le voir ?
 287)  BRENDA
@@ -719,13 +719,13 @@ Reste avec Duck, d'accord ?
 320)  DANNY
 {sadA}[pickup2]Calmez vous, tout le monde !
 321)  DANNY
-{angryA}[pickup2]A manger contre notre protection. {fearA} On a pas vraiment eu le choix mais ils ont arrêté de nous harceler après ça.
+{angryA}[pickup2]De la nourriture contre leur protection. {fearA} On a pas vraiment eu le choix mais ils ont arrêté de nous harceler après ça.
 322)  LEE
 [pickup2] On aurait vraiment réfléchi à deux fois avant de faire le voyage.
 323)  DANNY
 {angryB}[pickup2]Sans déconner !
 324)  ANDY
-{fearB}[pickup2]Je suis désolé, Lee. Si j'avais eu la moindre idée que ces types vous causerait des ennuis {fearC}on serait venu avec {happyD}vous !
+{fearB}[pickup2]Je suis désolé, Lee. Si j'avais eu la moindre idée que ces types vous causeraient des ennuis {fearC}on serait venu avec {happyD}vous !
 325)  KENNY
 {happyb}[pickup2][to Duck]Pourquoi vous iriez pas jouer sur la banlançoire les enfants ?
 326)  DUCK
@@ -737,7 +737,7 @@ Reste avec Duck, d'accord ?
 329)  BRENDA
 [pickup2]Bien sûr !
 330)  MARK
-[pickup2] This is the right call, Lee. Don't worry.
+[pickup2] C'est le bon moment, Lee. Ne vous inquiétez pas.
 331)  BRENDA
 [pickup2] Bien, bien, bien ! Regardez qui a changé d'humeur !
 332)  ANDY
@@ -787,7 +787,7 @@ Balançoire
 354)  LEE
 [pickup2]  [to himself]Il y a un tas de récup' médicale là-dedans. Tubes IV, sérum...
 355)  LEE
-[pickup2] [to himself]A quoi tout ça peut être utile pour des fermiers ?
+[pickup2] [to himself]Qu'est-ce que des fermiers peuvent bien faire de tout ça ?
 356)  LEE
 [pickup2][softly, to himself, concerned]Qu'est-ce que c'est que ça ?
 357)  LEE
@@ -805,7 +805,7 @@ Balançoire
 363)  LEE
 [pickup2][to himself]Vaudrait mieux laisser ça tranquille. Je veux pas m'attirer d'ennuis.
 364)  LEE
-[pickup2][to himself]Ca pue énormément.
+[pickup2][to himself]Ca pue un max.
 365)  LEE
 [pickup2][to himself]{ThinkingA}Un tas de vieilles godasses. {ThinkingB}Où est-ce qu'ils ont eu tout ça ?
 366)  LEE
@@ -821,7 +821,7 @@ Balançoire
 371)  DANNY
 [pickup2]Vous avez fait connaissance avec Zoé.
 372)  DANNY
-[pickup2]Oh ouais, maman adore les chats. Elle était sacrément triste quand elle est morte, alors j'ai pensé que ce serait l'occasion d'essayer la taxidermie. Pour en faire cadeu, vous voyez.
+[pickup2]Oh ouais, maman adore les chats. Elle était sacrément triste quand elle est morte, alors je me suis dit que ce serait l'occasion d'essayer la taxidermie. Pour en faire cadeu, vous voyez.
 373)  LEE
 [pickup2][caught off guard, grossed out]Woaa, qu'est-ce que ?!
 374)  LEE
@@ -833,13 +833,13 @@ Balançoire
 377)  KENNY
 [pickup2]{HappyA}Sympa, hein ? Ca fait un peu comme le tue mouche électrique qu'on avait à la maison.
 378)  DANNY
-[pickup2][excited] {HappyB}Vous étiez fou là-bas ! Vous avez descendu cette salope !
+[pickup2][excited] {HappyB}Vous étiez comme fou là-bas ! Vous avez descendu cette salope !
 379)  DANNY
 [pickup2][excited] {HappyA}C'était une sacrée sortie, hein ?
 380)  LEE
 [pickup2][context: are you serious?] {ThinkingB}Quoi ?
 381)  DANNY
-[pickup2] {ThinkingA}Quoi ? Vous n'allez pas être tendre avec eux, pas vrai ? {AngryA}Pas après ce qu'ils ont fait à votre ami !
+[pickup2] {ThinkingA}Quoi ? Vous n'allez pas leur faire de cadeau, pas vrai ? {AngryA}Pas après ce qu'ils ont fait à votre ami !
 382)  BRENDA
 [pickup2] {FearA}Vous êtes de retour ! Comment ça s'est passé ?
 383)  BRENDA
@@ -863,7 +863,7 @@ Ils ne savent pas s'organiser.
 394)  ANDY
 [pickup2] Euh, Danny veut dire qu'on a plein de choses pour les occuper loin du danger.
 397)  ANDY
-[pickup2] It's worth protecting, hence all the juice.
+[pickup2] Une telle protection vaut bien de sucer tout ça.
 399)  ANDY
 [pickup2]Vous pouvez en apprendre un peu plus sur notre clôture. Je vais aller remplir les générateurs avant qu'ils soient vides. Venez me chercher quand vous serez prêt.
 400)  ANDY
@@ -879,7 +879,7 @@ Ils ne savent pas s'organiser.
 405)  BRENDA
 [pickup2] Mon mari. Il me manque tous les jours.
 406)  LILLY
-[pickup2] [angry, we cut to her in the middle of an argument with kenny]{AngryA}Then screw it up for everybody then, why don't you?
+[pickup2] [angry, we cut to her in the middle of an argument with kenny]{AngryA}Alors foutez les chances de tout le monde en l'air, hein, vous gênez pas !
 407)  KENNY
 [pickup2] [angry, in a fight] {AngryA}Oh du calme, princesse. Je vais le faire moi-même.
 408)  LEE
@@ -897,7 +897,7 @@ Ils ne savent pas s'organiser.
 414)  LEE
 [pickup2][resigned, guard down] Tout le monde se déteste dans le groupe.
 415)  BRENDA
-[pickup2] {HappyA}Nooon, les temps sont durs c'est tout. Tout le monde a faim et les gens deviennent agités quand ils ont le ventre vide.
+[pickup2] {HappyA}Nooon, les temps sont durs c'est tout. Tout le monde a faim et les gens deviennent nerveux quand ils ont le ventre vide.
 416)  BRENDA
 [pickup2][walking away] {ThinkingA}Et Lee, ne vous prenez pas la tête avec ces brigands. Je suis désolée que vous ayez vu plus de violence que je l'aurais cru en si peu de temps mais vous êtes tous sains et saufs. Ne vous en faîtes pas.
 417)  
@@ -915,7 +915,7 @@ Brouette
 423)  ANDY
 [pickup_2]Putain, c'est de la vraie MERDE.
 424)  ANDY
-[pickup_2]Something's always tripping the breaker.
+[pickup_2]Il y a toujours un truc qui fait sauter l'interrupteur.
 425)  ANDY
 [pickup_2][exasperated]ENCORE ?
 426)  ANDY
@@ -923,11 +923,11 @@ Brouette
 427)  ANDY
 [pickup_2][whining to himself] Ca va prendre des plombes...
 428)  ANDY
-[pickup_2]Fais chier, Danny.  Où est-ce que t'as déniché cette merde ?
+[pickup_2]Fais chier, Danny.  Où est-ce que t'es allé dénicher cette merde ?
 429)  ANDY
-[pickup_2]Putain de ... fils de...  chier.
+[pickup_2]Putain de ... fils de...  fait chier.
 430)  LEE
-[pickup2]{AngryA}Wow !  Bon sang !  {FearA}Ce truc va vite...
+[pickup2]{AngryA}Waou !  Bon sang !  {FearA}Ce truc va vite...
 431)  LEE
 [pickup2] Une courroie attachée à l'alternateur. Hmm...
 432)  LEE
@@ -945,7 +945,7 @@ Brouette
 438)  DUCK
 [pickup2][bummed out] Quelqu'un la cassé en deux. T'as vu ?
 439)  CLEMENTINE
-[pickup2]On a essayé de la réparer, mais elle est VRAIMENT cassée.
+[pickup2]On a essayé de la réparer, mais elle est cassée pour de VRAI.
 440)  CLEMENTINE
 [pickup2][hopeful] Lee, tu peux la réparer ?
 441)  LEE
@@ -1005,7 +1005,7 @@ Brouette
 465)  LEE
 [pickup2]Une vieille paire de lunettes. Bizarre.
 466)  LEE
-[pickup2][effort noise, reaching]Allez, viens là, petite m...
+[pickup2][effort noise, reaching]Allez, viens là, salo...
 467)  LEE
 [pickup2]Je te tiens !
 468)  LEE
@@ -1021,7 +1021,7 @@ Brouette
 473)  LEE
 [pickup2]J'ai 10/10 à chaque oeil.
 474)  LEE
-[pickup2]Au cas où j'ai besoin de crmaer quelques fourmis.
+[pickup2]Au cas où j'ai besoin de cramer quelques fourmis.
 475)  LEE
 [pickup2]Pas vraiment mon genre.
 476)  LEE
@@ -1107,7 +1107,7 @@ Bouton d'alimentation
 499)  LEE
 [pickup3] {ThinkingA}On dirait que la courroie entraîne le...euh...machintruc. Hmm...
 501)  
-Ouvrer
+Ouvrir
 502)  
 Pousser
 504)  
@@ -1133,9 +1133,9 @@ Utiliser le Bâton avec
 527)  
 Des gens dans les bois nous ont attaque
 529)  LEE
-[out of breath, frightened] {fearC}C'est Mark ! {fearB}Ils... il avait des types... dans les bois. {fearC}Ils ont tirés sur Mark !
+[out of breath, frightened] {fearC}C'est Mark ! {fearB}Ils... il y avait des types... dans les bois. {fearC}Ils ont tirés sur Mark !
 556)  LEE
-[out of breath, frightened] {fearC}C'est Mark ! {fearB}Ils... il avait des types... dans les bois. {fearC}Ils ont tirés sur Mark !
+[out of breath, frightened] {fearC}C'est Mark ! {fearB}Ils... il y avait des types... dans les bois. {fearC}Ils ont tirés sur Mark !
 530)  LEE
 [out of breath, frightened]{sadC} ... Il est mort !
 538)  LEE
@@ -1149,12 +1149,12 @@ Mark est mort.
 534)  BRENDA
 [Pickup3]{HappyA}Et remerciez encore votre amie Katjaa de ma part. Elle est dans la grange avec les enfants.  Cette femme est d'un vrai secours !
 558)  BRENDA
-[pickup3] [trying to calm everyone down after Mark was hurt or killed at the fence]Pour l'instant on ne pas EXACTEMENT qui sont ces gens, mais Danny a trouvé au moins UN de leurs camps...
+[pickup3] [trying to calm everyone down after Mark was hurt or killed at the fence]Pour l'instant on ne sait pas EXACTEMENT qui sont ces gens, mais Danny a trouvé au moins UN de leurs camps...
 is shit.
 559)  BRENDA
 [pickup3] [trying to calm everyone down after Mark was hurt or killed at the fence]Ecoutez-moi tous. JE VOUS PROMETS que vous êtes en sécurité dans cette ferme.
 560)  LEE
-[pickup3]Je ferais mieux de venir avec vous.  Je veux voir avec qui vous faîtes affaire.
+[pickup3]Je ferais mieux de venir avec vous.  Je veux voir avec qui vous faîtes affaires.
 561)  DANNY
 [pickup3]Et si j'allais parler un peu avec eux ?
 562)  DANNY
@@ -1162,9 +1162,9 @@ is shit.
 563)  ANDY
 [pickup3][nervous that Lee is messing with the generator] {FearA}Hé, heu, ne touchez pas à ça d'accord ?  {ThinkingA}Ce truc est un peu capricieux et j'ai pas envie de passer la journée à le réparer encore une fois.
 564)  LEE
-[pickup2] Alors Larry, on dirait que aimez passer du temps avec Brenda.
+[pickup2] Alors Larry, on dirait que vous aimez passer du temps avec Brenda.
 565)  LARRY
-[pickup2] Et si vous vous occupiez de vos putains d'affaires, pour changer ?
+[pickup2] Et si vous vous occupiez de votre cul, pour changer ?
 566)  MARK
 Je me vois bien rester ici un long moment.
 567)  LEE
@@ -1186,7 +1186,7 @@ Vous en pensez quoi, Lee ? On devrait rester par ici ?
 575)  MARK
 [pickup3][standing in pain - heavy]
 576)  MARK
-[pickup3][alt- in pain from an arrow wound, but trying to be a man about it]Ouais... Ca ira mieux sans mais, bon sang, ça fait mal !
+[pickup3][alt- in pain from an arrow wound, but trying to be a man about it]Ouais... Ca ira mieux sans, mais, bon sang, ça fait mal !
 578)  LEE
 [pickup3][explaining Lilly & Kenny Arguing.  follows #310498201] {ThinkingA}Ils ne s'entendent pas vraiment sur la façon de faire les choses.
 579)  LEE
@@ -1222,9 +1222,9 @@ Cette s'applique a tout le monde ?
 596)  ANDY
 [pickup3]Oh, ne vous inquiétez pas pour ça.  On a de quoi les amuser.
 597)  DOUG
-[pickup3][seeing the dairy for the first time]Oh, waou !  Vous avez d'électricité pour faire tourner toute la ferme !
+[pickup3][seeing the dairy for the first time]Oh, waou !  Vous avez assez d'électricité pour faire tourner toute la ferme !
 598)  CARLEY
-[pickup3][seeing the dairy for the first time]Cet endroit à l'air intact ! Vous ne pourriez pas deviner que le monde est en ruines.
+[pickup3][seeing the dairy for the first time]Cet endroit à l'air intact ! On ne pourrait pas deviner que le monde est en ruines.
 599)  ANDY
 [pickup3]Voici Lee.  Il est de Macon.
 600)  BRENDA
@@ -1240,7 +1240,7 @@ Cette s'applique a tout le monde ?
 605)  LEE
 [pickup3]C'est ça. Je suis un gars du coin.
 606)  DANNY
-[pickup3][normal]Ils ont encore quelques amis qui sont restés au vieu motel.
+[pickup3][normal]Ils ont encore quelques amis qui sont restés au vieux motel.
 607)  
 On travaille ensemble.
 608)  
@@ -1256,7 +1256,7 @@ Je garde les choses sous controle.
 613)  LEE
 [pickup3]Kenny nous cherche un endroit sûr... Pour lui le Motor Inn ne va pas le rester éternellement.
 614)  LEE
-[pickup3]Lilly.  C'est un roc mais elle nous garde concentré sur nos besoins de survie.
+[pickup3]Lilly.  Elle a un coeur de pierre mais elle nous garde concentré sur nos besoins de survie.
 615)  LEE
 [pickup3]On travaille tous ensemble. De plus, nous avons plein d'anciens militaires.
 616)  BRENDA
@@ -1270,13 +1270,13 @@ Je garde les choses sous controle.
 620)  ANDY
 [pickup3][catching Lee in a lie] Attendez. Vous avez pas dit que c'était quelqu'un d'autre qui s'occupait de tout ?
 621)  LEE
-[pickup3][caught in a lie]Oh, oui, je croyais qu'elle parlait de stratégies de survie...
+[pickup3][caught in a lie]Oh, oui, je croyais qu'elle parlait de stratégie de survie...
 622)  BRENDA
-[pickup3]Ce n'est pas grave. Vous êtes là maintenant. On va s'assurer que vous soyez sauf et à l'aise.
+[pickup3]Ce n'est pas grave. Vous êtes là maintenant. On va s'assurer que vous soyez sain et sauf.
 623)  BRENDA
-[pickup3]Maintenant que vous êtes là, on va s'assurer que vous soyez tous saufs et à l'aise.
+[pickup3]Maintenant que vous êtes là, on va s'assurer que vous soyez tous sains et saufs.
 624)  LEE
-[pickup3]L'offre s'applique aussi aux autres du groupe ?
+[pickup3]L'offre s'applique aussi aux autres gens du groupe ?
 625)  DOUG
 [pickup3][stuffing buscutis into his mouth]Désolé.
 627)  BRENDA
@@ -1292,13 +1292,13 @@ Je garde les choses sous controle.
 632)  MARK
 [pickup3]Partez devant et prenez Ben avec vous si vous voulez.
 633)  CARLEY
-[pickup3]Je m'occuper de moi.
+[pickup3]Je sais m'occuper de moi.
 634)  CARLEY
 [pickup3][heartfelt] Prenez soin de vous, Lee.  A plus tard.
 635)  DOUG
 [pickup3]Très bien !  A plus tard !
 636)  ANDY
-[pickup3] Mark, Lee, jetez un oeil aux environs.  Quand vous serez installé, j'aurais besoin d'aide pour sécuriser le périmètre.
+[pickup3] Mark, Lee, jetez un oeil aux environs.  Quand vous serez installé, j'aurais besoin d'aide pour sécuriser l'enceinte.
 637)  ANDY
 [pickup3]Parfois, les morts s'entortillent dans la clôture avant de griller et de s'accrocher à un poteau.  Ca me serait d'une grande aide si vous pouviez faire le tour de la propriété.
 638)  LEE
@@ -1310,7 +1310,7 @@ On devrait tout faire pour les aider !
 641)  
 Assurons-nous qu'on ne risque rien ici.
 642)  LEE
-[pickup3]Avant de penser à inviter tout le groupe à rester ici, soyons sûr que cet endroit est aussi sûr qu'ils le disent.
+[pickup3]Avant de penser à inviter tout le groupe à rester ici, soyons certains que cet endroit est aussi sûr qu'ils le disent.
 643)  LEE
 [pickup3] Ils nous donnent à manger, on devrait faire n'importe quoi pour qu'ils nous apprécient !
 644)  MARK
@@ -1318,17 +1318,17 @@ Assurons-nous qu'on ne risque rien ici.
 645)  LEE
 [pickup3]Et inspecter la clôture nous fait une bonne excuse pour évaluer leur défenses.
 646)  LEE
-[pickup3]C'est d'autant plus de raisons pour ne PAS tout faire foirer.  Si Andy veut qu'on l'aide à sécuriser le périmètre alors c'est ce qu'on doit faire.
+[pickup3]C'est d'autant plus de raisons pour ne PAS tout faire foirer.  Si Andy veut qu'on l'aide à sécuriser l'enceinte alors c'est ce qu'on doit faire.
 647)  MARK
 [pickup3]J'ai aussi remarqué une balançoire cassée tout à l'heure.  La réparer pourrait nous faire gagner des points. En plus je suis sûr que Duck et Clem vont l'adorer !
 648)  LEE
-[pickup3]Très bien.  Devenons les invités modèles !
+[pickup3]Très bien.  Devenons des invités modèles !
 649)  MARK
 [pickup3]A entendrer parler Brenda, j'ai eu l'impression qu'elle serait ravie de nous voir rester.
 650)  MARK
 [pickup3]Très bien, j'ouvre grand les yeux pendant que vous tirez les vers du nez d'Andy.
 651)  
-La clôture électrique s'est mise en route !
+La cloture electrique s'est mise en route !
 652)  LEE
 [pickup3]La clôture électrique s'est mise en route !  Des gens ont commencé à nous attaquer des bois et on s'est retrouvé coincé entre eux et la clôture !
 653)  ANDY
@@ -1348,7 +1348,7 @@ La clôture électrique s'est mise en route !
 662)  LEE
 [pickup3][calming down after the attack]On est tombé sur des types là-haut... des brigands sans doute.  Je crois qu'ils nous ont attaqués.
 663)  DANNY
-[pickup3][normal]A manger contre leur protection. {fearA} On n'a pas vraiment eu le choix, mais ils ont arrêté de nous harceler.
+[pickup3][normal]De la nourriture contre leur protection. {fearA} On n'a pas vraiment eu le choix, mais ils ont arrêté de nous harceler.
 664)  
 Ce n'est pas aussi securise qu'on le pensait.
 665)  LEE
@@ -1388,9 +1388,9 @@ Ce n'est pas aussi securise qu'on le pensait.
 682)  LEE
 [pickup3]Où sont Ben et Doug ?
 683)  LILLY
-[pickup3]Depuis que Doug à MANGE la moitié des biscuits sur le chemin du retour, je lui ai dit de rester.  Je ne crois toujours pas qu'on devrait traîner ici et quelqu'un doit surveiller le Motor Inn avant qu'on y retourne.
+[pickup3]Aprè que Doug ait MANGE la moitié des biscuits sur le chemin du retour, je lui ai dit de rester.  Je ne crois toujours pas qu'on devrait traîner ici et quelqu'un doit surveiller le Motor Inn avant qu'on y retourne.
 684)  LILLY
-[pickup3]Depuis que Carley et Ben ont mangé des biscuits sur le chemin du retour, elle s'est porté volontaire pour rester et surveiller le Motor Inn jusqu'à notre retour.
+[pickup3]Après que Carley et Ben aient mangé une partie des biscuits sur le chemin du retour, elle s'est porté volontaire pour rester et surveiller le Motor Inn jusqu'à notre retour.
 685)  LEE
 [pickup3]Où sont Ben et Carley?
 686)  LILLY
@@ -1398,7 +1398,7 @@ Ce n'est pas aussi securise qu'on le pensait.
 687)  LEE
 Je vais sortir et aider Dan à s'occuper de ces brigands.  Pendant ce temps, vous, essayez de faire ami-ami avec Andy et Brenda.
 688)  LARRY
-[pickup3]Et bien c'est facile.  J'ai du charme qui me sort du cul.
+[pickup3]Trop facile.  J'ai du charme qui me sort du cul.
 689)  LILLY
 [pickup3]Ca va aller pour eux.  On doit se focaliser sur ce qu'on doit faire ICI.
 690)  LEE
@@ -1408,7 +1408,7 @@ Je vais sortir et aider Dan à s'occuper de ces brigands.  Pendant ce temps, vous
 692)  LEE
 [pickup3]{HappyA}La clôture est incroyable.  On fera tout ce que vous voulez pour la maintenir en marche.
 693)  ANDY
-[pickup3]{HappyA}Hé bien, nettoyer le périmètre pourrait être bien utile.  Faîtes-moi savoir quand vous serez prêt.
+[pickup3]{HappyA}Hé bien, nettoyer l'enceinte pourrait être bien utile.  Faîtes-moi savoir quand vous serez prêt.
 694)  LEE
 [pickup3][to himself]{ThinkingB}J'imagine qu'on a eu de la chance avec Mark de ne pas toucher ce truc quand ça c'est mis en route.
 695)  ANDY
@@ -1422,7 +1422,7 @@ Je vais sortir et aider Dan à s'occuper de ces brigands.  Pendant ce temps, vous
 698)  LEE
 [pickup3][Calling out from across the yard]{SadA}Dommage, c'est cassé. {ThinkingA}Je parie que Clémentine et Duck adoreraient jouer avec.
 699)  ANDY
-[pickup3][Calling out from across the yard]{NormalA}Kids used to like that old swing even more than the tour sometimes!
+[pickup3][Calling out from across the yard]{NormalA}Les gamins aimaient cette vieilles balançoire plus que la visite parfois !
 700)  LEE
 [pickup3][Calling out from across the yard]{HappyA}J'en suis sûr.
 701)  
@@ -1456,7 +1456,7 @@ Comment ca s'est casse ?
 716)  LEE
 [pickup3]{DisgustA}Je vais avoir besoin d'une corde.
 717)  LEE
-[pickup3]{ThinkingA}... Et là j'ai peut-être une planche qui pourra servir de siège.
+[pickup3]{ThinkingA}... Et là j'ai peut-être une planche qui pourrait servir de siège.
 718)  LEE
 [pickup3]{DisgustA}... Mais la planche que j'ai trouvé est trop longue.
 719)  LEE
@@ -1464,7 +1464,7 @@ Comment ca s'est casse ?
 720)  LEE
 [pickup3][looking in the storage bench]{ThinkingA}Cette corde est parfaite pour la balançoire.
 721)  LEE
-[pickup3]{ThinkingA}Tout à l'air sans risque ici.  {ThinkingB}Et maintenant je sais où trouver une corde au cas où ils en auraient besoin.
+[pickup3]{ThinkingA}Tout à l'air sûr ici.  {ThinkingB}Et maintenant je sais où trouver une corde au cas où ils en auraient besoin.
 722)  LEE
 [pickup3][looking in the storage bench]{DisgustA}Il n'y a plus rien d'intéressant.
 723)  LEE
@@ -1474,7 +1474,7 @@ Comment ca s'est casse ?
 725)  LEE
 [pickup3]{ThinkingA}Cette corde fera très bien l'affaire dès que j'aurais une planche à la bonne taille.
 726)  LEE
-[pickup3][getting ready to fix he swing] Très bien, ça ne devrait être trop compliqué.
+[pickup3][getting ready to fix he swing] Très bien, ça ne devrait pas être trop compliqué.
 727)  LEE
 [pickup3]{ThinkingA}Je suis sûr qu'ils se servent de bois pour entretenir la clôture.
 728)  LEE
@@ -1484,7 +1484,7 @@ Comment ca s'est casse ?
 730)  ANDY
 [pickup3]{ThinkingA}Déjà en train de faire des réparations, hein ?  J'aime les gens qui prennent des initiatives !  {HappyA}Allez-y, bien sûr !
 731)  LEE
-[pickup3]{ThinkingA}If a couple of tools out in the open is unsafe as it gets, we'll be fine here.
+[pickup3]{ThinkingA}Si un ou deux outils dangereux sont à disposition, ça va être sympa ici.
 732)  LEE
 [pickup3]{DisgustA}Ce serait bien d'avoir un de ces trucs au Motor Inn.
 733)  LEE
@@ -1498,17 +1498,17 @@ Comment ca s'est casse ?
 737)  LEE
 [pickup3]J'essaye juste de me rendre un peu utile ici.
 738)  LEE
-[pickup3][calling out across the yard] Heureusement nos enfants vont aussi l'adorer.
+[pickup3][calling out across the yard] Heureusement nos enfants aussi vont l'adorer.
 739)  LEE
 [pickup3]Oui...
 740)  ANDY
 [pickup3][calling out across the yard]Beau travail, Lee. Les choses recommencent à être comme avant.
 741)  ANDY
-[pickup3][seeing that Lee fixed the swing - To himself]Hé bien, je me faire tuer.
+[pickup3][seeing that Lee fixed the swing - To himself]Hé bien, je vais me faire tuer.
 742)  ANDY
 [pickup3][calling out across the yard]Maman va être très heureuse de voir que vous avez réparé cette vieille balançoire.
 743)  ANDY
-[pickup3][genuinely curious as to what Lee is working on.  NOT suspicious.]{SurprisedA}Hé... {DisgustA}What are ya fixing to do around the barn?
+[pickup3][genuinely curious as to what Lee is working on.  NOT suspicious.]{SurprisedA}Hé... {DisgustA}Qu'est-ce que vous fabriquez autour de la grange ?
 744)  ANDY
 [pickup3][friendly]{ThinkingA}Ah, on aura le temps plus tard, après avoir réparé la clôture de l'enceinte.
 760)  ANDY
@@ -1540,7 +1540,7 @@ Comment ca s'est casse ?
 756)  ANDY
 [pickup3]{ThinkingA}Pas du tout, mais on pourrait voir ça après s'être occupé de l'enceinte ?
 753)  LEE
-[pickup3][responding to"What are ya fixing to do at the barn?"]{ThinkingA}Pour rien.
+[pickup3][responding to"What are ya fixing to do at the barn?"]{ThinkingA}Rien du tout.
 754)  ANDY
 [pickup3][friendly]{ThinkingA}Vous visitez, hein ?
 761)  
@@ -1548,7 +1548,7 @@ J'essaye d'aider.
 762)  
 Votre grange m'intringue.
 763)  
-Rien.
+Rien du tout.
 764)  LEE
 [pickup3][to himself - looking at the ribbons]{ThinkingA}Ces gens aiment beaucoup leur ferme.
 765)  ANDY
@@ -1556,11 +1556,11 @@ Rien.
 766)  LEE
 [pickup3][calling across the yard]{ThinkingA}Cette ferme a gagné beaucoup de prix, non ?
 767)  ANDY
-[pickup3]{DisgustA}Puis un jour le monde à changé... Cette ferme c'est tout ce qu'il nous reste de papa.  {ThinkingA}C'est pourquoi on en prend autant soin, et pourquoi on veut la paratager avec de braves gens comme vous.
+[pickup3]{DisgustA}Puis un jour le monde à changé... Cette ferme c'est tout ce qu'il nous reste de papa.  {ThinkingA}C'est pourquoi on en prend autant soin, et c'est pourquoi on veut en faire profiter à de braves gens comme vous.
 768)  LEE
 [pickup3]{HappyA}C'est vrai ?
 769)  LEE
-[pickup3]{NormalA}My folks stopped after two as well.
+[pickup3]{NormalA}Mes vieux se sont arrêtés à deux aussi.
 770)  ANDY
 [pickup3][heartfelt]{HappyA}Vous savez, quand on a acheté cet endroit au début, il n'y avait qu'une maison de plein pied.
 771)  ANDY
@@ -1584,134 +1584,134 @@ Rien.
 780)  CLEMENTINE
 [pickup3][playing on the swing][giggling2]
 784)  LEE
-[pickup3][Responding to mark asking"how do we play this"]We'll just play it by ear.
+[pickup3][Responding to mark asking"how do we play this"]On s'adapte.
 785)  BRENDA
-[pickup3]Well, you must be the veterinarian in the group!  Why don't you help me get your friend patched up, then we can talk about our poor cow.
+[pickup3]Bien, vous devez être la vétérinaire du groupe !  Que dites-vous de venir m'aider à soigner votre ami ? Ensuite on pourra parler de notre vache.
 786)  BRENDA
-[pickup3]I've been fixing wounds around here for years. I've got enough gauze and needles to last a lifetime!
+[pickup3]J'ai soigné des blessures dans le coin pendant des années. J'ai assez de gazes et d'aiguilles pour toute une vie !
 787)  KATJAA
-[pickup3]Well, if you need help, I can keep the wound clean while you apply the stitches.
+[pickup3]Hé bien, si vous avez besoin d'aide, je peux nettoyer les plaies pendant que vous faîtes les points.
 788)  KATJAA
-[pickup3][concerned about Mark's wound]Do you have any antibiotics or anything to stop infection?
+[pickup3][concerned about Mark's wound]Vous avez des antibiotiques ou autre chose contre les infections ?
 789)  DANNY
-[pickup3][folows  310497904] They're hard to pin down, but I think I know where at least ONE of their camps are.
+[pickup3][folows  310497904] Ils sont durs à dénicher mais je pense avoir trouvé au moins UN de leurs camps.
 790)  LEE
-[pickup3]{FearA}I hope Mark is okay in there.
+[pickup3]{FearA}J'espère que Mark va bien là-dedans.
 791)  LEE
-[pickup3]{DisgustA}If there's not enough room in the house for all of us, I guess a few of us could camp out in here in shifts.
+[pickup3]{DisgustA}S'il n'y a pas assez de place pour nous dans la maison, j'imagine que certains d'entre nous pourraient dormir dans ces boxes.
 792)  LARRY
-[pickup3][joking around/flirting]Well, we'll just see about that.
+[pickup3][joking around/flirting]Hé bien, on va s'en occuper.
 793)  BRENDA
-[pickup3][process in the distance][joking around/flirting]Oh, Larry, now you behave or you won't get your hands on my biscuits all night!
+[pickup3][process in the distance][joking around/flirting]Oh, Larry, comportez-vous bien ou vous ne toucherez pas à mes biscuits de toute la soirée !
 794)  LARRY
-[pickup3][process in the distance][joking around]...I haven't had biscuits like that since I was in the service!
+[pickup3][process in the distance][joking around]...Je n'ai pas vu de tels biscuits depuis que je ne suis plus en service !
 795)  LEE
-[pickup3][looking at gas cans][follows 310497452]{ThinkingB}We'll just have to make sure the kids don't get into it.
+[pickup3][looking at gas cans][follows 310497452]{ThinkingB}Il faudra faire attention à ce que les enfants ne les bousculent pas.
 796)  LEE
-[pickup3][follows 310497311]{ThinkingA}We're gonna need to learn how to maintain it if we end up staying here.
+[pickup3][follows 310497311]{ThinkingA}On va devoir apprendre à en faire la maintenance si on fini par rester ici.
 797)  LEE
-[pickup3][looking at bales of hay] {ThinkingA}Enough of these might work as adequate cover from arrows if that becomes a problem.
+[pickup3][looking at bales of hay] {ThinkingA}Il y en a assez pour nous protéger des flèches en cas d'attaque.
 798)  LARRY
-[pickup3][ambient][process muted or positional]I know what you mean.  My girl is what keep me going.  If it weren't for her, I dont know if I'd bother putting up with what this world's become.
+[pickup3][ambient][process muted or positional]Je vois ce que voulez dire.  C'est ma fille qui me permet d'avancer.  Sans elle, je ne sais pas si j'aurais la force de supporter ce que le monde est devenu.
 799)  BRENDA
-[pickup3][ambient][process muted or positional]Oh now don't say that, we all have to look forward to something better.  At least we got our health!
+[pickup3][ambient][process muted or positional]Oh ne dites pas ça, il faut aller de l'avant vers un monde meilleur. Au moins on a la santé !
 800)  BRENDA
-[pickup3][ambient]Oh I manage just fine.  Plus I have my boys to help out.  I couldn't do it without them.
+[pickup3][ambient]Oh je m'en sors bien.  Et puis j'ai mes garçons qui m'aident.  J'y arriverais pas sans eux.
 801)  LARRY
-[pickup3][ambient]So how does a woman like you self run this whole place?
+[pickup3][ambient]Alors, comment une femme telle que vous fait tourner un endroit pareil toute seule ?
 802)  BRENDA
 [pickup3][ambient][Laughs.]
 843)  BRENDA
 [pickup3][ambient][Laughs.]
 803)  LARRY
-[pickup3][ambient][process muted or positional]ah, ya better tell that to my ticker.
+[pickup3][ambient][process muted or positional]Ah, vous devriez en parler à mon palpitant.
 804)  MARK
-[pickup3]{ThinkingA}So what have ya found out?  Is this looking like a good place to stay?
+[pickup3]{ThinkingA}Alors, qu'avez-vous découvert ?  Ca vous semble un bon coin pour rester ?
 805)  LEE
-[pickup3]{NormalA}I'll keep looking around.
+[pickup3]{NormalA}Je vais encore fouiner un peu.
 806)  LEE
-[pickup3]{FearA}I didn't get a chance to check out the barn area yet.  {NormalA}I'll do that after after helping Andy get the perimeter secured.
+[pickup3]{FearA}J'ai pas encore eu l'opportunité de vérifier la grange.  {NormalA}Je le ferais après avoir aidé Andy à sécuriser l'enceinte.
 807)  LEE
-[pickup3]{ThinkingA}The fence is no joke, at least around the house.  I'm looking forward to seeing the rest of it.
+[pickup3]{ThinkingA}C'est pas une blague cette clôture. Elle fait tout le tour de la maison.  Je vais vérifier le reste.
 808)  LEE
-[pickup3]{ThinkingA}The generator might be a problem.  Andy said it's "tricky" and repairing it takes him a while.
+[pickup3]{ThinkingA}Le générateur peut poser problème.  Andy a dit qu'il était "capricieux" et long à réparer.
 809)  
-I can't check the barn yet.
+Je peux pas encore verifier la grange.
 810)  
-That fence is no joke!
+C'est pas une blague cette cloture !
 811)  
-The Generators might be a problem...
+Les generateurs peuvent poser probleme...
 812)  LEE
-[pickup3]{HappyA}Still, it's a hell of a lot more secure than the motor inn.
+[pickup3]{HappyA}C'est quand même bien plus sûr que le Motor Inn.
 813)  MARK
-[pickup3]{ThinkingB}All right.  Keep me posted.
+[pickup3]{ThinkingB}Très bien.  Tenez moi au courant.
 814)  MARK
-[pickup3]{ThinkingB}So what's your read on Andy so far?  Think they'd be open to letting us stay?
+[pickup3]{ThinkingB}Quel est votre avis sur Andy pour l'instant ?  Vous pensez qu'ils seront d'accord pour qu'on reste ?
 815)  MARK
-[pickup3]{HappyA}I knew that'd be a good idea!
+[pickup3]{HappyA}Je savais que c'était une bonne idée !
 816)  LEE
-[pickup3]{HappyA}He and Brenda both seemed real happy to have that swing fixed.
+[pickup3]{HappyA}Lui et Brenda semblent heureux que la balançoire soit réparée.
 817)  
-Securing the perimeter will help a lot!
+Securiser l'enceinte nous aidera beaucoup !
 818)  MARK
-[pickup3]{HappyA}We'll be getting in good AND making this place safer for us!
+[pickup3]{HappyA}On va avoir la cote ET on va rendre cet endroit plus sûr !
 819)  LEE
-[pickup3]{ThinkingA}Getting the perimeter secured is gonna help us a lot.
+[pickup3]{ThinkingA}Sécuriser l'enceinte va nous aider énormément.
 820)  LEE
-[pickup3]{HappyA}I'm gonna get back to it.
+[pickup3]{HappyA}J'y retourne.
 821)  LEE
-[pickup3][to himself - looking at the generatior]{FearA}I'm glad Andy knows how to fix this if something goes wrong.  {ThinkingA}I'm clueless about this stuff.
+[pickup3][to himself - looking at the generatior]{FearA}Heureux de savoir qu'Andy peut réparer ça si ça tourne mal.  {ThinkingA}Moi j'y connais rien.
 822)  MARK
-[pickup3]{SadA}Dammit.
+[pickup3]{SadA}Bon sang.
 823)  LEE
-[pickup3]{FearA}I may have pushed too hard asking Brenda about her house...
+[pickup3]{FearA}Je suis peut-être allé trop loin avec Brenda en lui posant des questions sur sa maison...
 824)  
-Andy seems open to guests.
+Andy semble ouvert aux invites.
 825)  LEE
-[pickup3]{HappyA}Andy tells me they've had guest stay here before.  That tells me they are open to the idea.
+[pickup3]{HappyA}Andy m'a dit qu'il avait déjà reçu des invités avant.  Ils sont donc ouvert à l'idée.
 826)  MARK
-[pickup3]{HappyB}Thats fantastic!
+[pickup3]{HappyB}Fantastique !
 827)  
-Andy might think we're dangerous.
+Andy peut penser qu'on est dangereux.
 828)  LEE
-[pickup3]{FearA}I may have turned Andy off when talking up our guns.
+[pickup3]{FearA}J'ai pu refroidir Andy quand j'ai parlé de nos armes.
 829)  MARK
-[pickup3]{AngryA}Shit, well ... do something to turn him on again!
+[pickup3]{AngryA}Merde, ben ... faites quelque chose et réchauffez-le !
 830)  MARK
-[pickup3]{SadA}You know what I mean.
+[pickup3]{SadA}Vous voyez ce que je veux dire.
 831)  LARRY
 [pickup3][ambient][Laughs]
 844)  LARRY
 [pickup3][ambient][Laughs]
 832)  LARRY
-[pickup3][reluctantly leaving Brenda as lee approaches]{normalB}We'll, uh... We'll finish talking later.
+[pickup3][reluctantly leaving Brenda as lee approaches]{normalB}Nous, heu... Nous finirons de parler plus tard.
 833)  
-Front Door
+Porte principale
 834)  
-Plants
+Plantes
 835)  
-Shoe Bucket
+Meuble à chaussures
 836)  
-Use Board & Rope On
+Utiliser Planche et Corde sur
 837)  
-Use Rope On
+Utiliser Corde sur
 839)  
-Awards
+Récompenses
 840)  
-Shoes
+Chaussures
 841)  LEE
-[pickup2]{normalA} Hey.
+[pickup2]{normalA} Salut.
 842)  LEE
-[pickup2]{normalA} Hey.
+[pickup2]{normalA} Salut.
 845)  
-I might have offended Brenda...
+J'ai sans doute offense Brenda...
 846)  ANDY
-It's safer here than out there.
+C'est plus sûr ici que dehors.
 847)  DANNY
-Nah.
+Nan.
 856)  
-Andy & Danny
+Andy et Danny
 857)  LEE
-[pickup2]Think I'll go have a look around.
+[pickup2]Je crois que je vais faire un tour.
 858)  BRENDA
-[pickup2]Don't wander too far. Dinner will be ready before you know it.
+[pickup2]Ne vous éloignez pas trop. Le dîner sera servi plus vite que vous ne le pensez.
