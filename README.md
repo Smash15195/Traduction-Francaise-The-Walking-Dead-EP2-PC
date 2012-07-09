@@ -15,7 +15,7 @@ Traduction Française The Walking Dead Episode 2 (Telltales)
 
 ### Note de Version
 ```
-Avancement de la traduction : Effective 40% / Prévisionnel : 46.67% (05/07/12)
+Avancement de la traduction : Effective 66.67% / Prévisionnel : 68.89% (09/07/12)
 V1 : Non Disponible.
 ```
 
