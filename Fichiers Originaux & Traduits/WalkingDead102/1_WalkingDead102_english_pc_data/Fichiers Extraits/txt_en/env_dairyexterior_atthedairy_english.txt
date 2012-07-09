@@ -841,338 +841,338 @@ Balançoire
 381)  DANNY
 [pickup2] {ThinkingA}Quoi ? Vous n'allez pas être tendre avec eux, pas vrai ? {AngryA}Pas après ce qu'ils ont fait à votre ami !
 382)  BRENDA
-[pickup2] {FearA}You're back! What happened?
+[pickup2] {FearA}Vous êtes de retour ! Comment ça s'est passé ?
 383)  BRENDA
-[pickup2][disappointed] {SadA}This isn't what Terry would've wanted...
+[pickup2][disappointed] {SadA}C'est pas ce que Terry aurait voulu...
 384)  
-Yeah, you could say that.
+Ca vous pouvez le dire.
 385)  
-Don't mind them, it's how they are.
+Leur en voulez pas, ils sont comme ça.
 386)  
-They can't agree on how to run things.
+Ils ne savent pas s'organiser.
 387)  DANNY
-[pickup2] {ThinkingA}Lee took care of it!
+[pickup2] {ThinkingA}Lee s'en est chargé !
 388)  DANNY
-[pickup2] {NormalA}Handled it, mama.
+[pickup2] {NormalA}C'est fait, maman.
 389)  DANNY
-[pickup2] We're pushing 4000 volts here, with generators and amps.
+[pickup2] On balance 4000 volts là-dedans grâce aux générateurs et aux amplis.
 390)  DOUG
-[pickup2] That's double the electric chair.
+[pickup2] C'est deux fois plus qu'une chaise électrique.
 392)  DANNY
-[pickup3][normal] Nothing accidental yet.
+[pickup3][normal] Il n'y a eu aucun accident pour le moment.
 394)  ANDY
-[pickup2] Uh, what Danny means is we got plenty to keep them entertained AWAY from any danger.
+[pickup2] Euh, Danny veut dire qu'on a plein de choses pour les occuper loin du danger.
 397)  ANDY
 [pickup2] It's worth protecting, hence all the juice.
 399)  ANDY
-[pickup2]You can learn a lil somethin' about our fence. I'm gonna go top off the generators before they run dry. Come get me when you're ready.
+[pickup2]Vous pouvez en apprendre un peu plus sur notre clôture. Je vais aller remplir les générateurs avant qu'ils soient vides. Venez me chercher quand vous serez prêt.
 400)  ANDY
-[pickup2]You can learn a lil somethin' about our fence. I'm gonna go top off the generators before they run dry. Come get me when you're ready
+[pickup2]Vous pouvez en apprendre un peu plus sur notre clôture. Je vais aller remplir les générateurs avant qu'ils soient vides. Venez me chercher quand vous serez prêt.
 401)  ANDY
-[pickup2] How about we don't fret in front of our guests?
+[pickup2] Et si on arrêtait de s'embrouiller devant nos invités ?
 402)  ANDY
-[pickup2] How about we don't fret in front of our guests?
+[pickup2] Et si on arrêtait de s'embrouiller devant nos invités ?
 403)  LEE
-[pickup2] {AngryA}Jesus, Danny.
+[pickup2] {AngryA}Danny.
 404)  LEE
-[pickup2]{FearA}Who's Terry?
+[pickup2]{FearA}Qui est Terry ?
 405)  BRENDA
-[pickup2] My husband. Miss him every day.
+[pickup2] Mon mari. Il me manque tous les jours.
 406)  LILLY
 [pickup2] [angry, we cut to her in the middle of an argument with kenny]{AngryA}Then screw it up for everybody then, why don't you?
 407)  KENNY
-[pickup2] [angry, in a fight] {AngryA}Oh calm down, princess. I'll do it myself.
+[pickup2] [angry, in a fight] {AngryA}Oh du calme, princesse. Je vais le faire moi-même.
 408)  LEE
-[pickup2] {DisgustA}Yeah, you could say that.
+[pickup2] {DisgustA}Ouais, on peut dire ça.
 409)  LEE
-[pickup2] {ThinkingA}What's going on with them?
+[pickup2] {ThinkingA}Il se passe quoi avec eux ?
 410)  BRENDA
-[pickup2] {HappyA}Well, it's probably just the hunger talkin'!
+[pickup2] {HappyA}C'est sans doute la faim qui parle !
 411)  BRENDA
-[pickup2] {ThinkingA}Dunno. Squabblin', looks like. A lotta tension with ya'll, huh?
+[pickup2] {ThinkingA}Chai pas. Ils se querellent, on dirait. Il y a beaucoup de tensions entre vous, non ?
 412)  BRENDA
-[pickup2] {HappyB}We all get a little testy. We'll fix that shortly!
+[pickup2] {HappyB}On devient tous un peu irritables. On va y remédier bientôt !
 413)  LEE
-[pickup2] {HappyA}Don't mind them. It's how they are.
+[pickup2] {HappyA}Ne faîtes pas attention. Ils sont comme ça tout le temps.
 414)  LEE
-[pickup2][resigned, guard down] Our group hates each other.
+[pickup2][resigned, guard down] Tout le monde se déteste dans le groupe.
 415)  BRENDA
-[pickup2] {HappyA}Nah, it's just tough times. Everyone's hungry and people get stir crazy when their tummy's empty.
+[pickup2] {HappyA}Nooon, les temps sont durs c'est tout. Tout le monde a faim et les gens deviennent agités quand ils ont le ventre vide.
 416)  BRENDA
-[pickup2][walking away] {ThinkingA}And Lee, don't worry your head about them bandits. I'm sorry you've seen more violence than I'da thought in your short time, but ya'll are safe here. Don't worry.
+[pickup2][walking away] {ThinkingA}Et Lee, ne vous prenez pas la tête avec ces brigands. Je suis désolée que vous ayez vu plus de violence que je l'aurais cru en si peu de temps mais vous êtes tous sains et saufs. Ne vous en faîtes pas.
 417)  
-Wind Chimes
+Carillon à vent
 418)  
-Wheelbarrow
+Brouette
 419)  LEE
-[pickup2]{DisgustA}That thing keeps the fence electrified.
+[pickup2]{DisgustA}Ce truc conduit le courant dans la clôture.
 420)  LEE
-[pickup2] {ThinkingA}Access panel.
+[pickup2] {ThinkingA}Un panneau d'accès.
 421)  LEE
-[pickup2]{ThinkingA}Guess I'm gonna need a screwdriver for this.
+[pickup2]{ThinkingA}Je pense qu'il faut un tournevis pour ça.
 422)  LEE
-[pickup2]{ThinkingA}Power switch.
+[pickup2]{ThinkingA}Bouton d'alimentation.
 423)  ANDY
-[pickup_2]God, this thing is the worst piece of CRAP.
+[pickup_2]Putain, c'est de la vraie MERDE.
 424)  ANDY
 [pickup_2]Something's always tripping the breaker.
 425)  ANDY
-[pickup_2][exasperated]AGAIN?
+[pickup_2][exasperated]ENCORE ?
 426)  ANDY
-[pickup_2]Awww, fucking thing threw a BELT!
+[pickup_2]Haaaa, ce putain de truc à viré la COURROIE!
 427)  ANDY
-[pickup_2][whining to himself] This'll take forever....
+[pickup_2][whining to himself] Ca va prendre des plombes...
 428)  ANDY
-[pickup_2]Fuckin' Danny.  Where did he find this piece of shit?
+[pickup_2]Fais chier, Danny.  Où est-ce que t'as déniché cette merde ?
 429)  ANDY
-[pickup_2]Damn it all to the ... son of a...  frak.
+[pickup_2]Putain de ... fils de...  chier.
 430)  LEE
-[pickup2]{AngryA}Ow!  Dammit!  {FearA}That thing is moving fast...
+[pickup2]{AngryA}Wow !  Bon sang !  {FearA}Ce truc va vite...
 431)  LEE
-[pickup2] Fanbelt.  Attached to the alternator.  Hmm...
+[pickup2] Une courroie attachée à l'alternateur. Hmm...
 432)  LEE
-[pickup2]Ehn![or other effort noise] {DisgustA}That thing is on there too tight for my bare hands.
+[pickup2]Hmmpff ![or other effort noise] {DisgustA}C'est trop serré pour le faire à main nue.
 433)  LEE
-[pickup2] {ThinkingA}There.  That should do it.
+[pickup2] {ThinkingA}Voilà. Ca devrait le faire.
 434)  LEE
-[pickup2]{ThinkingA}There ya go.
+[pickup2]{ThinkingA}Et voilà.
 435)  CLEMENTINE
-[pickup2][sad] Hi.
+[pickup2][sad] Salut.
 436)  DUCK
-[pickup2][bummed out] Hey.
+[pickup2][bummed out] Salut.
 437)  LEE
-[pickup2]Hey.   What's going on, guys?  That thing broken?
+[pickup2]Hé.   C'est quoi le soucis ? C'est cassé ?
 438)  DUCK
-[pickup2][bummed out] Someone busted it, right in half.  See?
+[pickup2][bummed out] Quelqu'un la cassé en deux. T'as vu ?
 439)  CLEMENTINE
-[pickup2]We tried to fix it ourselves, but it's really REALLY broken.
+[pickup2]On a essayé de la réparer, mais elle est VRAIMENT cassée.
 440)  CLEMENTINE
-[pickup2][hopeful] Lee, can you fix it?
+[pickup2][hopeful] Lee, tu peux la réparer ?
 441)  LEE
-[pickup2]Yeah.  I think I can.  Shouldn't be too hard.  It just needs a new seat.
+[pickup2]Ouais, je pense. Ca ne doit pas être trop dur, il faut juste une nouvelle assise.
 442)  LEE
-[pickup2]I'll be back when I find something.
+[pickup2]Je reviendrais quand j'aurais trouvé quelque chose.
 443)  LEE
-[pickup2]Yep, that thing is busted.
+[pickup2]Ouaip, ce truc est foutu.
 444)  LEE
-[pickup2][smiles]{HappyB}They look happy.
+[pickup2][smiles]{HappyB}Ils ont l'air content.
 445)  LEE
-[pickup2]Huh.  The other board had holes in it.  This one isn't quite gonna work.
+[pickup2]L'autre planche a des trous. Celle-ci peut faire l'affaire.
 446)  DUCK
-[pickup2]I'mma flip you over the top branch!  Get ready for super crazy jet mode!
+[pickup2]Je vais te faire tourner autour de la branche ! Prépare-toi à la turbo-giga-poussée !
 782)  DUCK
-[pickup2]I'mma flip you over the top branch!  Get ready for super crazy jet mode!
+[pickup2]Je vais te faire tourner autour de la branche ! Prépare-toi à la turbo-giga-poussée !
 447)  CLEMENTINE
-[pickup2]Thanks, Lee!
+[pickup2]Merci, Lee!
 448)  DUCK
-[pickup2]Yeah!  Can I help?
+[pickup2]Ouais !  Je peux t'aider ?
 449)  CLEMENTINE
-[pickup2]Higher, Duck!  Higher!
+[pickup2]Plus haut, Duck ! Plus haut !
 783)  CLEMENTINE
-[pickup2]Higher, Duck!  Higher!
+[pickup2]Plus haut, Duck ! Plus haut !
 450)  CLEMENTINE
-[pickup2]Awesome!
+[pickup2]Génial !
 781)  CLEMENTINE
-[pickup2]Awesome!
+[pickup2]Génial !
 451)  CLEMENTINE
-[pickup2]Cool!
+[pickup2]Cool !
 452)  LEE
-[pickup2]Okay, then.  Give it a try.
+[pickup2]Allez, d'accord. Essaye pour voir.
 453)  LEE
-[pickup2][Lee is imagining the worst, i.e. Duck nailing his own hand to a board.] Eh, not just right now, kiddo.
+[pickup2][Lee is imagining the worst, i.e. Duck nailing his own hand to a board.] Heuu, pas maintenant, bonhomme.
 454)  LEE
-[pickup2]Hey guys.  I think I got something that'll fix the swing.
+[pickup2]Les enfants, je crois que j'ai trouvé un truc pour réparer la balançoire.
 455)  LEE
-[pickup_2] That's not gonna work.
+[pickup_2] Ca marchera pas.
 456)  LEE
-[pickup_2]Nice plank of wood.  Got a knot in it, but other than that...
+[pickup_2]Une belle planche de bois.  Elle a un noeud, mais à part ça...
 457)  LEE
-[pickup2][effort]  {AngryA}Unh!
+[pickup2][effort]  {AngryA}Unh !
 458)  LEE
-[pickup2]{ThinkingA}That oughta do it.
+[pickup2]{ThinkingA}Ca devrait le faire.
 459)  LEE
-[pickup2] The seat needs holes in it, for the ropes to pass through.  How the hell am I gonna make a hole in this thing?
+[pickup2] L'assise doit avoir des trous pour passer les cordes à travers. Comment je vais bien pouvoir faire ça ?
 460)  LEE
-[pickup2] {HappyA}Heh.  That was fun.
+[pickup2] {HappyA}Pfiou.  C'était fun.
 461)  LEE
-[pickup2]What is that?
+[pickup2]C'est quoi ça ?
 462)  LEE
-[pickup2]Are those glasses?
+[pickup2]Ce sont des lunettes ?
 463)  LEE
-[pickup2][effort noise]Can't... reach....
+[pickup2][effort noise]J'y arrive... pas...
 464)  LEE
-[pickup2] Sure are a lot of spiders under here.   Eesh.
+[pickup2] Je parie qu'il y a une tonne d'araignées là-dessous. Beurk.
 465)  LEE
-[pickup2]An old pair of glasses.  Strange.
+[pickup2]Une vieille paire de lunettes. Bizarre.
 466)  LEE
-[pickup2][effort noise, reaching]Uh!  C'mere, you little....
+[pickup2][effort noise, reaching]Allez, viens là, petite m...
 467)  LEE
-[pickup2]Gotcha!
+[pickup2]Je te tiens !
 468)  LEE
-[pickup_2] Not workin'.
+[pickup_2] Ca marche pas.
 469)  LEE
-[pickup2]I don't like this...
+[pickup2]J'aime pas ça...
 470)  LEE
-[pickup2]And there's... maybe blood?  Cracked lenses?  How the hell did they get under the gazebo?
+[pickup2]Et là c'est... du sang ?  Des lunettes cassées ?  Comment sont-elles arrivées sous le belvédère ?
 471)  LEE
-[pickup2]Not Brenda's style.  These look like something an old woman would wear.
+[pickup2]Ce n'est pas le style de Brenda.  On dirait que ce sont celles d'une vieille dame.
 472)  LEE
-[pickup2] I don't wear prescriptions.
+[pickup2] J'en ai pas besoin.
 473)  LEE
-[pickup2]I got 20/20 vision.
+[pickup2]J'ai 10/10 à chaque oeil.
 474)  LEE
-[pickup2]Maybe if I see some ants that need burning.
+[pickup2]Au cas où j'ai besoin de crmaer quelques fourmis.
 475)  LEE
-[pickup2]Not really my style.
+[pickup2]Pas vraiment mon genre.
 476)  LEE
-[pickup2]Maybe Grandma Everett might wear these-- but not me.
+[pickup2]Peut-être que Mamie Everett pourrait les porter... mais pas moi.
 477)  LEE
-[pickup2]There may yet come a day when I need to impersonate a near-sighted 70 year old woman... but that day is not this day.
+[pickup2]Peut être qu'un jour je vais devoir me faire passer pour une vieille de 70 ans... mais pas aujourd'hui.
 478)  LEE
-[pickup2]If there is anything in all of creation that could reduce my chances of getting laid MORE than a worldwide zombie apocalypse... it is these glasses.
+[pickup2]S'il y a un truc dans l'univers qui peut réduire mes chances de tirer un coup encore PLUS qu'un invasion mondiale de zombies... c'est ces lunettes.
 479)  LEE
-[pickup2]It's a small tool box.
+[pickup2]C'est une caisse à outils.
 480)  LEE
-[pickup2]Brenda must use this thing for household repairs.
+[pickup2]Brenda doit s'en servir pour des réparations courantes.
 481)  LEE
-[pickup2]I wonder if they keep a screwdriver in there.
+[pickup2]Je me demande s'ils gardent un tournevis là-dedans.
 482)  LEE
-[pickup2]Multi-tool.  That should be handy.
+[pickup2]Une pince multi-fonctions.  Ca devrait être utile.
 483)  LEE
-[pickup_2]Just gonna borrow this for a second.
+[pickup_2]Je vais l'emprunter une minute.
 484)  LEE
-[pickup_2]It's not stealing if I put it back later... right?
+[pickup_2]Ce n'est pas du vol si je la remet après... pas vrai ?
 485)  
-Board
+Planche
 486)  
-Toolbox
+Caisse à outils
 487)  
-Look At
+Regarder
 489)  
-Look At
+Regarder
 493)  
-Look At
+Regarder
 497)  
-Look At
+Regarder
 500)  
-Look At
+Regarder
 503)  
-Look At
+Regarder
 506)  
-Look At
+Regarder
 508)  
-Look At
+Regarder
 510)  
-Look At
+Regarder
 515)  
-Look At
+Regarder
 848)  
-Look At
+Regarder
 850)  
-Look At
+Regarder
 851)  
-Look At
+Regarder
 853)  
-Look At
+Regarder
 854)  
-Look At
+Regarder
 488)  
-Use
+Utiliser
 498)  
-Use
+Utiliser
 505)  
-Use
+Utiliser
 507)  
-Use
+Utiliser
 514)  
-Use
+Utiliser
 849)  
-Use
+Utiliser
 852)  
-Use
+Utiliser
 855)  
-Use
+Utiliser
 490)  
-Picket Fence
+Piquet de clôture
 491)  LEE
-[pickup3]  {DisgustA}Hmm.  Pointy.
+[pickup3]  {DisgustA}Hmmm.  Pointu.
 492)  
 verb_board
 494)  
-Belt
+Courroie
 495)  
-Panel
+Panneau
 496)  
-Power Switch
+Bouton d'alimentation
 499)  LEE
-[pickup3] {ThinkingA}Looks like that belt's driving the...uh...whatchamacallit. Hmm...
+[pickup3] {ThinkingA}On dirait que la courroie entraîne le...euh...machintruc. Hmm...
 501)  
-Open
+Ouvrer
 502)  
-Push
+Pousser
 504)  
-Multi-Tool
+Pince multi-fonctions
 509)  
-Stick
+Bâton
 511)  
 verb_stick
 512)  
-Deck
+Plateau
 513)  
-Glasses
+Lunettes
 516)  
-Saw
+Scie
 517)  
-Use Multi-Tool On
+Utiliser la Pince sur
 518)  
-Use Board On
+Utiliser la Planche sur
 838)  
-Use Board On
+Utiliser le Plateau sur
 519)  
-Use Stick With
+Utiliser le Bâton avec
 527)  
-People in the woods attacked us!
+Des gens dans les bois nous ont attaque
 529)  LEE
-[out of breath, frightened] {fearC}It's Mark! {fearB}They...there were people...in the woods. {fearC}They shot Mark!
+[out of breath, frightened] {fearC}C'est Mark ! {fearB}Ils... il avait des types... dans les bois. {fearC}Ils ont tirés sur Mark !
 556)  LEE
-[out of breath, frightened] {fearC}It's Mark! {fearB}They...there were people...in the woods. {fearC}They shot Mark!
+[out of breath, frightened] {fearC}C'est Mark ! {fearB}Ils... il avait des types... dans les bois. {fearC}Ils ont tirés sur Mark !
 530)  LEE
-[out of breath, frightened]{sadC} ... He's dead!
+[out of breath, frightened]{sadC} ... Il est mort !
 538)  LEE
-[out of breath, frightened]{sadC} ... He's dead!
+[out of breath, frightened]{sadC} ... Il est mort !
 531)  
-Mark is hurt!
+Mark est blesse !
 532)  
-Mark is dead.
+Mark est mort.
 533)  LILLY
-[pickup3]Christ!  Are you gonna be okay?
+[pickup3]Seigneur ! Ca va aller ?
 534)  BRENDA
-[Pickup3]{HappyA}And thank your friend Katjaa again for me.  She and the kids are in the barn with the cow.  That woman is a life saver!
+[Pickup3]{HappyA}Et remerciez encore votre amie Katjaa de ma part. Elle est dans la grange avec les enfants.  Cette femme est d'un vrai secours !
 558)  BRENDA
-[pickup3] [trying to calm everyone down after Mark was hurt or killed at the fence]Now, we don't know EXACTLY where those people in the woods are, but Danny has found at least ONE of their camps...
+[pickup3] [trying to calm everyone down after Mark was hurt or killed at the fence]Pour l'instant on ne pas EXACTEMENT qui sont ces gens, mais Danny a trouvé au moins UN de leurs camps...
 is shit.
 559)  BRENDA
-[pickup3] [trying to calm everyone down after Mark was hurt or killed at the fence]Listen ya'll.  I PROMISE you that this dairy is safe.
+[pickup3] [trying to calm everyone down after Mark was hurt or killed at the fence]Ecoutez-moi tous. JE VOUS PROMETS que vous êtes en sécurité dans cette ferme.
 560)  LEE
-[pickup3]I better go with you.  I want to see who we're dealing with.
+[pickup3]Je ferais mieux de venir avec vous.  Je veux voir avec qui vous faîtes affaire.
 561)  DANNY
-[pickup3]How about I go have a little talk with them?
+[pickup3]Et si j'allais parler un peu avec eux ?
 562)  DANNY
-[pickup3][follows 310497904]When you're ready to go scope out that bandit camp, come find us.
+[pickup3][follows 310497904]Quand vous êtes prêt à partir pour le campement, venez nous voir.
 563)  ANDY
-[pickup3][nervous that Lee is messing with the generator] {FearA}Hey, uh, don't mess with that okay?  {ThinkingA}The things a litle tricky and I don't wanna spend half a day trying to fix it again.
+[pickup3][nervous that Lee is messing with the generator] {FearA}Hé, heu, ne touchez pas à ça d'accord ?  {ThinkingA}Ce truc est un peu capricieux et j'ai pas envie de passer la journée à le réparer encore une fois.
 564)  LEE
-[pickup2] So Larry, it looks like you're getting along with Brenda pretty well.
+[pickup2] Alors Larry, on dirait que aimez passer du temps avec Brenda.
 565)  LARRY
-[pickup2] You know, for a nice change of pace, how about you try minding your own fucking business?
+[pickup2] Et si vous vous occupiez de vos putains d'affaires, pour changer ?
 566)  MARK
-I could see myself staying here for a long time.
+Je me vois bien rester ici un long moment.
 567)  LEE
-You want to leave the motel?
+Vous voulez quitter le motel ?
 568)  MARK
-The motel's not going to hold up much longer.
+Le motel ne va pas tenir très longtemps.
 569)  MARK
-So what do you think, Lee? Should we stick around here?
+Vous en pensez quoi, Lee ? On devrait rester par ici ?
 570)  MARK
 [pickup3][standing in pain - medium]
 571)  MARK
