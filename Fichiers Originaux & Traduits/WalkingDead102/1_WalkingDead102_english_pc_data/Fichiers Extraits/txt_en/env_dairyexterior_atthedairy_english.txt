@@ -1186,401 +1186,401 @@ Vous en pensez quoi, Lee ? On devrait rester par ici ?
 575)  MARK
 [pickup3][standing in pain - heavy]
 576)  MARK
-[pickup3][alt- in pain from an arrow wound, but trying to be a man about it]Yeah... I'll be all right once it's out, but, goddamn it hurts!
+[pickup3][alt- in pain from an arrow wound, but trying to be a man about it]Ouais... Ca ira mieux sans mais, bon sang, ça fait mal !
 578)  LEE
-[pickup3][explaining Lilly & Kenny Arguing.  follows #310498201] {ThinkingA}They don't exactly see eye to eye on how we should be doing things.
+[pickup3][explaining Lilly & Kenny Arguing.  follows #310498201] {ThinkingA}Ils ne s'entendent pas vraiment sur la façon de faire les choses.
 579)  LEE
-[pickup3][explaining Lilly & Kenny's arguing] {HappyA}Each of them want to be in charge, you know?
+[pickup3][explaining Lilly & Kenny's arguing] {HappyA}Chacun veut commander, vous voyez ?
 580)  LEE
-[pickup3][explaining Lilly & Kenny fighting]{ThinkingA}They have different ideas about how we should run our group.  If they don't find any common ground, this whole thing's gonna fall apart.
+[pickup3][explaining Lilly & Kenny fighting]{ThinkingA}Ils ont une approche différente sur la façon de gérer le groupe.  S'ils ne trouvent pas un terrain d'entente, tout va s'écrouler.
 581)  KENNY
-[pickup3]All right, Duck, let's let Clementine have a try for a bit.
+[pickup3]Très bien, Duck, laissons Clémentine essayer un peu.
 582)  KENNY
-[pickup3]All right, Duck, time to take a break.
+[pickup3]Très bien, Duck, faisons une pause.
 583)  KENNY
-[pickup3][neutral greeting]What's up Lee?
+[pickup3][neutral greeting]Quoi de neuf, Lee?
 584)  KENNY
-[pickup3][Duck reallly want to get back on the swing]Okay, Duck, don't pop a gasket.
+[pickup3][Duck reallly want to get back on the swing]D'accord, Duck, t'excites pas trop.
 585)  KENNY
-[pickup3]Okay, Duck, ready to go again?
+[pickup3]T'es prêt à remettre ça, Duck ?
 586)  KENNY
-[pickup3][ambient]Not too high now.
+[pickup3][ambient]Pas trop haut.
 587)  KENNY
-[pickup3][ambient]Be careful .
+[pickup3][ambient]Fais attention.
 588)  KENNY
-[pickup3][ambient]Kick harder.
+[pickup3][ambient]Plus fort.
 589)  KENNY
-[pickup3][ambient]Nice air.
+[pickup3][ambient]Joli.
 590)  KENNY
-[pickup3][ambient]See if you can make it over the top.
+[pickup3][ambient]On va voir si tu peux aller tout en haut.
 591)  KENNY
-[pickup3][commenting on the repaired swing]Nice work, Lee.
+[pickup3][commenting on the repaired swing]Beau travail, Lee.
 593)  
-Does that offer apply to the rest of us?
+Cette s'applique a tout le monde ?
 595)  DANNY
-[pickup3][normal] Had a guy who did, yeah.
+[pickup3][normal] Un gars l'a fabriqué, ouais.
 596)  ANDY
-[pickup3]Oh, don't worry about that.  We've got plenty to keep 'em entertained.
+[pickup3]Oh, ne vous inquiétez pas pour ça.  On a de quoi les amuser.
 597)  DOUG
-[pickup3][seeing the dairy for the first time]Oh, wow!  You've got enough electricity to run the whole place!
+[pickup3][seeing the dairy for the first time]Oh, waou !  Vous avez d'électricité pour faire tourner toute la ferme !
 598)  CARLEY
-[pickup3][seeing the dairy for the first time]This place looks untouched!  You'd never know the rest of the world is in ruins.
+[pickup3][seeing the dairy for the first time]Cet endroit à l'air intact ! Vous ne pourriez pas deviner que le monde est en ruines.
 599)  ANDY
-[pickup3]This here's Lee.  He's from Macon.
+[pickup3]Voici Lee.  Il est de Macon.
 600)  BRENDA
-[pickup3]A couple of our old farm hands were from Macon. They grow 'em good there.
+[pickup3]Deux de nos ouvriers venaient de Macon. Ils ont grandi là-bas.
 601)  ANDY
-[pickup3]This here's Lee.  He been living down at that old Motel round the way.
+[pickup3]Voici Lee. Il vit au vieux Motel en bas du chemin.
 602)  BRENDA
-[pickup3]Oh my goodness, that place is pretty vulnerable.  Have you got someone with survival experience to lead your group?
+[pickup3]Oh mon dieu, cet endroit est plutôt vulnérable.  Avez-vous quelqu'un qui a de l'expérience dans la survie pour diriger votre groupe ?
 603)  ANDY
-[pickup3]This here's Lee.  He moves around a lot, but with things the way they are, maybe we can convince him to stick around for a while.
+[pickup3]Voici Lee.  Il bouge pas mal dans le coin, mais avec ce qu'il se passe, on peut sans doute le convaincre de rester ici un moment.
 604)  ANDY
-[pickup3]This here's Lee.  He's ah... ya never did say where you were from.
+[pickup3]Voici Lee.  Il est de euh... vous ne m'avez jamais dit d'où vous veniez.
 605)  LEE
-[pickup3]You were right.  I'm a local boy.
+[pickup3]C'est ça. Je suis un gars du coin.
 606)  DANNY
-[pickup3][normal]They've got a few more friends staying at the old motel.
+[pickup3][normal]Ils ont encore quelques amis qui sont restés au vieu motel.
 607)  
-We work together.
+On travaille ensemble.
 608)  
-Lilly keeps us focused on survival..
+Lilly nous garde concentré sur la survie...
 609)  
-Kenny's working on getting us somewhere safer.
+Kenny nous cherche un endroit sur.
 610)  
-I've got things under control.
+Je garde les choses sous controle.
 611)  LEE
-[pickup3] I've got things under control over there.
+[pickup3] Je garde les choses sous contrôle jusqu'à présent.
 612)  BRENDA
-[pickup3] Sounds like a smart man.
+[pickup3] On dirait que c'est un homme intelligent.
 613)  LEE
-[pickup3]Kenny's working on getting us somewhere safer... He doesn't think the motor inn will stay safe forever.
+[pickup3]Kenny nous cherche un endroit sûr... Pour lui le Motor Inn ne va pas le rester éternellement.
 614)  LEE
-[pickup3]Lilly.  She's tough as nails and keeps us focused on what it takes to survive.
+[pickup3]Lilly.  C'est un roc mais elle nous garde concentré sur nos besoins de survie.
 615)  LEE
-[pickup3]We all work together.  Plus, we've got plenty of people with military experience.
+[pickup3]On travaille tous ensemble. De plus, nous avons plein d'anciens militaires.
 616)  BRENDA
-[pickup3]Well, I hope you know what you're doing.  That place isn't safe like it is here.
+[pickup3]Bien, j'espère que vous savez ce que vous faîtes. Là-bas c'est moins sûr qu'ici.
 617)  MARK
-[pickup3]Lilly was in the military, like me.
+[pickup3]Lilly était dans l'armée, comme moi.
 618)  BRENDA
-[pickup3]Well, thats good to hear.  That motel ain't the safest place.
+[pickup3]Bien, je suis heureuse de l'apprendre. Ce motel n'est pas l'endroit le plus sûr.
 619)  BRENDA
-[pickup3]Well, thats good to hear.  That motel ain't the safest place.
+[pickup3]Bien, je suis heureuse de l'apprendre. Ce motel n'est pas l'endroit le plus sûr.
 620)  ANDY
-[pickup3][catching Lee in a lie] Hold on.  I thought you said someone else was running things?
+[pickup3][catching Lee in a lie] Attendez. Vous avez pas dit que c'était quelqu'un d'autre qui s'occupait de tout ?
 621)  LEE
-[pickup3][caught in a lie]Oh, yeah, I thought she was asking about survival tactics...
+[pickup3][caught in a lie]Oh, oui, je croyais qu'elle parlait de stratégies de survie...
 622)  BRENDA
-[pickup3]Well, it don't matter.  You're here now.  We'll make sure you're safe and comfortable.
+[pickup3]Ce n'est pas grave. Vous êtes là maintenant. On va s'assurer que vous soyez sauf et à l'aise.
 623)  BRENDA
-[pickup3]Now that y'all are here, we'll make sure you're safe and comfortable.
+[pickup3]Maintenant que vous êtes là, on va s'assurer que vous soyez tous saufs et à l'aise.
 624)  LEE
-[pickup3]Does that offer apply to the rest of us?
+[pickup3]L'offre s'applique aussi aux autres du groupe ?
 625)  DOUG
-[pickup3][stuffing buscutis into his mouth]Sorry.
+[pickup3][stuffing buscutis into his mouth]Désolé.
 627)  BRENDA
-[pickup3]It'll be nice to have some folks to help out around here again. Danny, why don't you come help me out in the kitchen.
+[pickup3]Ce serait bien d'avoir un peu d'aide par ici. Danny, viens donc m'aider à la cuisine.
 628)  DOUG
-[pickup3]No problem.  Ben can come with me.
+[pickup3]Pas de problème.  Ben peut venir avec moi.
 629)  ANDY
-[pickup3]You might wanna take someone with you. Remember, those roads can be dangerous.
+[pickup3]Vous ne devriez pas partir seul. Souvenez-vous que les routes sont dangereuses.
 630)  MARK
-[pickup3]Take this.
+[pickup3]Prenez ça.
 631)  BEN
-[pickup3]Thanks.
+[pickup3]Merci.
 632)  MARK
-[pickup3]Why don't you go ahead and take Ben along anyway.
+[pickup3]Partez devant et prenez Ben avec vous si vous voulez.
 633)  CARLEY
-[pickup3]I can handle myself.
+[pickup3]Je m'occuper de moi.
 634)  CARLEY
-[pickup3][heartfelt] Take care of yourself, Lee.  See ya in a while.
+[pickup3][heartfelt] Prenez soin de vous, Lee.  A plus tard.
 635)  DOUG
-[pickup3]All right!  See ya later!
+[pickup3]Très bien !  A plus tard !
 636)  ANDY
-[pickup3] Mark, Lee, why don't ya take a look around.  Once ya get settled in, I could use some help securin' the perimeter.
+[pickup3] Mark, Lee, jetez un oeil aux environs.  Quand vous serez installé, j'aurais besoin d'aide pour sécuriser le périmètre.
 637)  ANDY
-[pickup3]Sometimes, the dead get tangled up in the fence before they fry and end up knocking over a post.  It'd be a big help if you two could walk the perimeter.
+[pickup3]Parfois, les morts s'entortillent dans la clôture avant de griller et de s'accrocher à un poteau.  Ca me serait d'une grande aide si vous pouviez faire le tour de la propriété.
 638)  LEE
-[pickup3]Is there a problem? [with the fence?]
+[pickup3]Il y a un soucis ? [with the fence?]
 639)  MARK
-[pickup3]  [slightly hushed] This place is INCREDIBLE!!  It's got food!  And that fence... oh man that fence!! If we play our cards right, this might turn out to be a place we can stay. So how do you want to play this?
+[pickup3]  [slightly hushed] Cet endroit est INCROYABLE !!  Ils ont à manger !  Et cette clôture... c'est dingue !! Si on la joue fine, on pourrait en faire un endroit où rester. Alors comment vous voulez procéder ?
 640)  
-We should do whatever we can to help out!
+On devrait tout faire pour les aider !
 641)  
-Let's make sure the place is safe.
+Assurons-nous qu'on ne risque rien ici.
 642)  LEE
-[pickup3]Before we can think about bringing our whole group here to stay, we need to figure out if this place is as safe as they say.
+[pickup3]Avant de penser à inviter tout le groupe à rester ici, soyons sûr que cet endroit est aussi sûr qu'ils le disent.
 643)  LEE
-[pickup3] They are offering us food, we should do whatever we can to make these people like us!
+[pickup3] Ils nous donnent à manger, on devrait faire n'importe quoi pour qu'ils nous apprécient !
 644)  MARK
-[pickup3]Right.  Obviously THEY think it's safe, but is it safe enough for the kids?  I noticed a broken swing over there.  Not a big deal, but maybe there's other things not working that we just can't see yet.
+[pickup3]C'est vrai.  Evidemment ILS pensent que c'est sûr, mais est-ce suffisant avec les enfants ?  J'ai remarqué une balançoire cassée tout à l'heure. C'est rien mais il y a peut-être d'autres trucs qui ne marchent pas sans qu'on le sache encore.
 645)  LEE
-[pickup3]And checking the fence perimeter sounds like a decent way to get a good look at their defences.
+[pickup3]Et inspecter la clôture nous fait une bonne excuse pour évaluer leur défenses.
 646)  LEE
-[pickup3]All the more reason for us to NOT fuck this up.  If Andy need's some help securing the perimeter, then that's what we do.
+[pickup3]C'est d'autant plus de raisons pour ne PAS tout faire foirer.  Si Andy veut qu'on l'aide à sécuriser le périmètre alors c'est ce qu'on doit faire.
 647)  MARK
-[pickup3]I noticed a broken swing over there, too.  Fixing that up might earn us some brownie points.  Plus I'm sure Duck and Clem would love it!
+[pickup3]J'ai aussi remarqué une balançoire cassée tout à l'heure.  La réparer pourrait nous faire gagner des points. En plus je suis sûr que Duck et Clem vont l'adorer !
 648)  LEE
-[pickup3]All right.  Let's go be model house guests!
+[pickup3]Très bien.  Devenons les invités modèles !
 649)  MARK
-[pickup3]The way Brenda was talking, I get the feeling like she'd be happy to have us stay.
+[pickup3]A entendrer parler Brenda, j'ai eu l'impression qu'elle serait ravie de nous voir rester.
 650)  MARK
-[pickup3]All right, I'll keep my eyes open and you find out what you can from Andy.
+[pickup3]Très bien, j'ouvre grand les yeux pendant que vous tirez les vers du nez d'Andy.
 651)  
-The electric fence came on!
+La clôture électrique s'est mise en route !
 652)  LEE
-[pickup3]The electric fence came on!  Some people started attacking from the woods and we got trapped between them and the fence!
+[pickup3]La clôture électrique s'est mise en route !  Des gens ont commencé à nous attaquer des bois et on s'est retrouvé coincé entre eux et la clôture !
 653)  ANDY
-[pickup3][flustered]I... I heard Mark yell and thought y'all were giving me the all clear! [sincere]Man, I am real sorry.
+[pickup3][flustered]Je... J'ai entendu Mark crier et j'ai cru que vous m'aviez donné le feu vert ! [sincere]Je suis vraiment désolé.
 654)  ANDY
-[pickup3][suprised and concerned] Bandits!? Here?!  On our property?!
+[pickup3][suprised and concerned] Des brigands !? Ici ?!  Dans notre propriété ?!
 655)  LEE
-[pickup3][having been attacked by Bandits] I thought this place was safe!
+[pickup3][having been attacked by Bandits] Je croyais qu'on était en sécurité ici !
 656)  ANDY
-[pickup3]Fucking bandits!  They have no right being out here on our property!
+[pickup3]Enfoirés de brigands !  Ils ont pas le droit de venir sur notre propriété !
 657)  DANNY
-[pickup3][looking at the arrow in Marks shoulder]Holy shit!  Are you okay?
+[pickup3][looking at the arrow in Marks shoulder]Putain de merde !  Ca va ?
 659)  KATJAA
-[pickup3][seeing an arrow in Marks shoulder] Mark!  Oh my god, what happened?!
+[pickup3][seeing an arrow in Marks shoulder] Mark !  Oh mon dieu, qu'est-il arrivé ?!
 660)  MARK
-[pickup3][in pain from the arrow, but manning up]Yeah, I'm fine.  I should just... pull it out...
+[pickup3][in pain from the arrow, but manning up]Ouais, ça va.  J'aimerais juste... l'enlever...
 662)  LEE
-[pickup3][calming down after the attack]We ran into some people on the way up here... bandits I guess.  I think it was them that attacked us.
+[pickup3][calming down after the attack]On est tombé sur des types là-haut... des brigands sans doute.  Je crois qu'ils nous ont attaqués.
 663)  DANNY
-[pickup3][normal]Food for protection. {fearA} Not like we had much of a choice, but they did stop hasslin' us.
+[pickup3][normal]A manger contre leur protection. {fearA} On n'a pas vraiment eu le choix, mais ils ont arrêté de nous harceler.
 664)  
-It isn't as safe here as we thought.
+Ce n'est pas aussi securise qu'on le pensait.
 665)  LEE
-[pickup3]Maybe it isn't as safe here as we thought.
+[pickup3]Ce n'est peut-être pas aussi sécurisé qu'on le pensait.
 666)  ANDY
-[pickup3]Hey kids, look what Lee got working for ya!
+[pickup3]Hé les enfants, regardez ce que Lee a fait pour vous !
 667)  CLEMENTINE
-[pickup3]A swing!!  I love swings!  Just like at my treehouse!  Come on, Duck!
+[pickup3]Une balançoire, comme dans ma cabane !! J'adore ! Viens, Duck !
 668)  ANDY
-[pickup3][commending Lee for fixing the swing for the kids]You're a good guy, Lee.  Nice Job.
+[pickup3][commending Lee for fixing the swing for the kids]Vous êtes un brave type, Lee. Beau boulot.
 669)  ANDY
-[pickup3]No wonder you're the leader of your group!
+[pickup3]Pas étonnant que vous soyez le leader du groupe !
 670)  ANDY
-[pickup3]Hey, I remembered seeing kids in your group, so I went ahead and fixed that swing while you were out.  Hope you kids like swings!
+[pickup3]Hé, je me suis souvenu que vous aviez des enfants dans votre groupe alors j'ai réparé cette balançoire en votre absence.  J'espère que vous aimez, les enfants !
 671)  CLEMENTINE
-[pickup3][stops to thank lee before running off to play]Thanks Lee!  You're the best!
+[pickup3][stops to thank lee before running off to play]Merci Lee!  T'es le meilleur !
 672)  ANDY
-[pickup3]Anytime.  We're looking out for ya!
+[pickup3]Quand vous voulez.  Nous venons vous voir !
 673)  LEE
-[pickup3][for fixing the swing for the kids]Thanks.
+[pickup3][for fixing the swing for the kids]Merci.
 674)  KENNY
-[pickup4]What we need to do is find a way to get our whole group out here to stay.  Take this place over if we have to.
+[pickup4]On doit trouver un moyen de faire venir l'intégralité du groupe ici.  Quitte à prendre cet endroit par la force s'il le faut.
 675)  LARRY
-[pickup3]Cool your jets there, Rambo.  These are nice people. Let's not do anything to get us thrown out before we eat!
+[pickup3]Arrêtez de rêver, Rambo.  Ce sont des gens biens. Ne faisons rien qui leur donne une raison de nous virer avant d'avoir mangé !
 676)  KENNY
-[pickup4]Not safe?!  This place is a hell of a lot safer than that motor inn!  I think all of us and our guns can handle a couple of punks with bows and arrows!
+[pickup4]Pas sûr ?!  Cet endroit est bien plus sûr que le Motor Inn !  Je crois que nous tous avec nos armes, on peut s'occuper de deux glands avec des arcs et des flèches !
 677)  LILLY
-[pickup3][voicing her opinion but trying to keep it out of earshot]Bandits?  Are you serious?  This place isn't safe, we can't stay here.
+[pickup3][voicing her opinion but trying to keep it out of earshot]Des brigands ?  Vous êtes sérieux ?  Cet endroit n'est pas sûr, on ne peut pas rester.
 678)  LEE
-[pickup3]I'm gonna head out with Dan to find out more about these bandits.  Getting him off the property for a while should give you a chance to check out this place a little deeper.  See if there's a way to get them to let us stay for a while.
+[pickup3]Je vais sortir avec Dan pour en savoir un peu plus sur ces brigands.  Sans lui dans les parages vous aurez du temps pour inspecter la propriété plus en profondeur.  Voyez s'il y a un moyen pour qu'ils nous gardent un moment.
 679)  LEE
-[pickup3]Listen, Mark and I were scoping out the place before the bandits showed up.  Other than that, this place does seem pretty secure.
+[pickup3]Ecoutez, Mark et moi on explorait la ferme avant que les brigands se montrent.  A part eux, cet endroit est plutôt bien sécurisé.
 680)  LEE
-[pickup3]I think getting on these people's good side is gonna be important.  They've already said they have plenty of food. If we can get them thinking that having us here will benefit them, then we all win.
+[pickup3]C'est important qu'on soit du côté de ces gens. Ils ont déjà dit qu'il avait plein de nourriture. Si on leur fait croire que ça peut être bien pour eux de nous avoir ici, alors on a gagné.
 681)  LARRY
-[pickup3]We'll bring 'em a doggy bag or something.
+[pickup3]On leur apportera un doggy bag ou autre.
 682)  LEE
-[pickup3]Where's Ben and Doug?
+[pickup3]Où sont Ben et Doug ?
 683)  LILLY
-[pickup3]Since Doug ATE  half the biscuits on the way to get us, I had them stay back.  I still don't think we should be trying to stay here and someone's gotta watch the motor inn until we get back.
+[pickup3]Depuis que Doug à MANGE la moitié des biscuits sur le chemin du retour, je lui ai dit de rester.  Je ne crois toujours pas qu'on devrait traîner ici et quelqu'un doit surveiller le Motor Inn avant qu'on y retourne.
 684)  LILLY
-[pickup3]Since Carley and Ben ate some of the food on the way back to get us, she volunteered to stay behind and watch the motor inn until we get back.
+[pickup3]Depuis que Carley et Ben ont mangé des biscuits sur le chemin du retour, elle s'est porté volontaire pour rester et surveiller le Motor Inn jusqu'à notre retour.
 685)  LEE
-[pickup3]Where's Ben and Carley?
+[pickup3]Où sont Ben et Carley?
 686)  LILLY
-[pickup3][disgusted] Yeah, that's... real charming, dad.
+[pickup3][disgusted] Ouais, c'est... charmant, papa.
 687)  LEE
-I'm gonna head out and help Dan deal with these bandits.  You guys should try to make friends with Andy and Brenda while Im gone.
+Je vais sortir et aider Dan à s'occuper de ces brigands.  Pendant ce temps, vous, essayez de faire ami-ami avec Andy et Brenda.
 688)  LARRY
-[pickup3]Well that's easy.  I've got charm coming outta my ass.
+[pickup3]Et bien c'est facile.  J'ai du charme qui me sort du cul.
 689)  LILLY
-[pickup3]They'll be fine.  We need to focus on what we are doing HERE.
+[pickup3]Ca va aller pour eux.  On doit se focaliser sur ce qu'on doit faire ICI.
 690)  LEE
-[pickup3]{ThinkingA}Looks like the fence runs around the entire property, not just the house.
+[pickup3]{ThinkingA}On dirait que la clôture fait tout le tour de la propriété, pas juste de la maison.
 691)  ANDY
-[pickup3] {NormalA}Yep. Can't take any chances when it comes to safety.
+[pickup3] {NormalA}Ouaip. On ne prend pas de risque quand il s'agit de sécurité.
 692)  LEE
-[pickup3]{HappyA}The fence is fantasic.  We'll do whatever you want to help keep it running.
+[pickup3]{HappyA}La clôture est incroyable.  On fera tout ce que vous voulez pour la maintenir en marche.
 693)  ANDY
-[pickup3]{HappyA}Well, clearing that perimeter is gonna be a big help.  Just let me know when you're ready.
+[pickup3]{HappyA}Hé bien, nettoyer le périmètre pourrait être bien utile.  Faîtes-moi savoir quand vous serez prêt.
 694)  LEE
-[pickup3][to himself]{ThinkingB}I guess Mark and I were lucky we weren't touching this thing when it came on.
+[pickup3][to himself]{ThinkingB}J'imagine qu'on a eu de la chance avec Mark de ne pas toucher ce truc quand ça c'est mis en route.
 695)  ANDY
-[pickup3] You betcha. They fry like bugs in a zapper.
+[pickup3] Et comment. Ils grillent comme des insectes dans un tue mouche électrique.
 696)  LEE
-[pickup3] {ThinkingB}Make it safe for Clem and Duck, and let the St. John's know we can pull our weight around here.
+[pickup3] {ThinkingB}Faisons en sorte que cela soit sans risque pour Clem et Duck, et faisons la différence auprès des St. John.
 697)  LEE
-[pickup3][to himself looking at the broken swing] {ThinkingA}Looks like it just needs a new board for the seat and some rope.
+[pickup3][to himself looking at the broken swing] {ThinkingA}Il semblerait qu'il ne manque qu'une planche neuve pour l'assise et une corde.
 714)  LEE
-[pickup3][to himself looking at the broken swing] {ThinkingA}Looks like it just needs a new board for the seat and some rope.
+[pickup3][to himself looking at the broken swing] {ThinkingA}Il semblerait qu'il ne manque qu'une planche neuve pour l'assise et une corde.
 698)  LEE
-[pickup3][Calling out from across the yard]{SadA}Too bad it's broken. {ThinkingA}I'll bet Clementine and Duck would have loved something like this to play on.
+[pickup3][Calling out from across the yard]{SadA}Dommage, c'est cassé. {ThinkingA}Je parie que Clémentine et Duck adoreraient jouer avec.
 699)  ANDY
 [pickup3][Calling out from across the yard]{NormalA}Kids used to like that old swing even more than the tour sometimes!
 700)  LEE
-[pickup3][Calling out from across the yard]{HappyA}I'll bet.
+[pickup3][Calling out from across the yard]{HappyA}J'en suis sûr.
 701)  
-Mind if I try to fix it?
+Ca vous derange si je la repare ?
 702)  
-How long since it's been used?
+Ca fait combien de temps ?
 703)  
-How did it break?
+Comment ca s'est casse ?
 704)  ANDY
-[pickup3][Calling out from across the yard]{HappyB}Sure!  That'd be great!  Momma sure does appreciate you all helping out.
+[pickup3][Calling out from across the yard]{HappyB}Pas du tout !  Ce serait super !  Maman apprécie vraiment que vous nous aidiez.
 705)  LEE
-[pickup3][Calling out from across the yard]{HappyA}Mind if I fix it?
+[pickup3][Calling out from across the yard]{HappyA}Ca vous dérange si je la répare ?
 706)  ANDY
-[pickup3][Calling out from across the yard] {HappyC}Amen to that.
+[pickup3][Calling out from across the yard] {HappyC}Amen.
 707)  LEE
-[pickup3][Calling out from across the yard] {HappyA}I look forward to a day when kids can just be kids again.
+[pickup3][Calling out from across the yard] {HappyA}J'attends avec impatience le jour où les enfants pourront être des enfants à nouveau.
 708)  ANDY
-[pickup3][Calling out from across the yard]{ThinkingA}Been quite awhile. Don't exactly have a lot of kids visiting anymore.
+[pickup3][Calling out from across the yard]{ThinkingA}Ca fait un petit moment. Il y a plus beaucoup de gamins qui viennent nous voir.
 709)  LEE
-[pickup3][Calling out from across the yard]{DisgustA}When was the last time it got any use?
+[pickup3][Calling out from across the yard]{DisgustA}C'est quand la dernière fois que quelqu'un s'en ait servi ?
 710)  LEE
-[pickup3][Calling out from across the yard]{ThinkingA}How'd it break?
+[pickup3][Calling out from across the yard]{ThinkingA}Comment ça s'est cassé ?
 711)  ANDY
-[pickup3][Calling out from across the yard]{SadA}Got busted the first day those... things showed up.  Thank God no one was on it at the time.
+[pickup3][Calling out from across the yard]{SadA}Elle a été détruite le premier jour que... ces choses sont apparues.  Dieu merci, personne n'était dessus.
 712)  ANDY
-[pickup3][Calling out from across the yard]{ThinkingA}Looking for a place to relax before dealing with the outer fence?
+[pickup3][Calling out from across the yard]{ThinkingA}Vous cherchez un endroit où vous détendre avant d'affronter le monde extérieur ?
 713)  LEE
-[pickup3][Calling out from across the yard]{DisgustA}Nah. Just looking around.
+[pickup3][Calling out from across the yard]{DisgustA}Nan. Je regardais juste.
 715)  LEE
-[pickup3]{ThinkingA}I've got some rope that should work...
+[pickup3]{ThinkingA}J'ai une corde qui pourrait convenir...
 716)  LEE
-[pickup3]{DisgustA}I'm gonna need some rope.
+[pickup3]{DisgustA}Je vais avoir besoin d'une corde.
 717)  LEE
-[pickup3]{ThinkingA}...And there's got to be a board around here I can use as a seat.
+[pickup3]{ThinkingA}... Et là j'ai peut-être une planche qui pourra servir de siège.
 718)  LEE
-[pickup3]{DisgustA}...But that board I found is too long.
+[pickup3]{DisgustA}... Mais la planche que j'ai trouvé est trop longue.
 719)  LEE
-[pickup3]{ThinkingA}...And I've cut the board down to the right size.
+[pickup3]{ThinkingA}...Et j'ai découpé la planche à la bonne taille.
 720)  LEE
-[pickup3][looking in the storage bench]{ThinkingA}This rope is perfect for the swing.
+[pickup3][looking in the storage bench]{ThinkingA}Cette corde est parfaite pour la balançoire.
 721)  LEE
-[pickup3]{ThinkingA}Everything in here looks safe.  {ThinkingB}And now I know where to find some rope in case they need help tying anything down.
+[pickup3]{ThinkingA}Tout à l'air sans risque ici.  {ThinkingB}Et maintenant je sais où trouver une corde au cas où ils en auraient besoin.
 722)  LEE
-[pickup3][looking in the storage bench]{DisgustA}Nothing else I need in here.
+[pickup3][looking in the storage bench]{DisgustA}Il n'y a plus rien d'intéressant.
 723)  LEE
-[pickup3][looking at the fixed swing]{HappyA}All fixed.  That should make everyone happy!
+[pickup3][looking at the fixed swing]{HappyA}C'est réparé.  Ca devrait plaire à tout le monde !
 724)  LEE
-[pickup3]{ThinkingA}This board is good, but I need some rope.
+[pickup3]{ThinkingA}La planche est bien mais j'ai besoin de corde.
 725)  LEE
-[pickup3]{ThinkingA}This rope will work great as soon as I find a board the right length.
+[pickup3]{ThinkingA}Cette corde fera très bien l'affaire dès que j'aurais une planche à la bonne taille.
 726)  LEE
-[pickup3][getting ready to fix he swing] All right, this shouldn't be too tough.
+[pickup3][getting ready to fix he swing] Très bien, ça ne devrait être trop compliqué.
 727)  LEE
-[pickup3]{ThinkingA}I'll bet they go through a lot of wood keeping those fences repaired.
+[pickup3]{ThinkingA}Je suis sûr qu'ils se servent de bois pour entretenir la clôture.
 728)  LEE
-[pickup3]{ThinkingA}This is too big right now, but if I can find something to cut it down to size, this might make a good seat for the swing.
+[pickup3]{ThinkingA}Elle est trop grosse, mais si je trouve quelque chose pour la découper ça devrait faire un bon siège pour la balançoire.
 729)  LEE
-[pickup3]{HappyA}Mind if I use one of these boards?
+[pickup3]{HappyA}Ca vous ennuie si je me sers d'une de ses planches ?
 730)  ANDY
-[pickup3]{ThinkingA}Already making some repairs, huh?  I like a guy who takes some initiative!  {HappyA}Yeah, go right ahead!
+[pickup3]{ThinkingA}Déjà en train de faire des réparations, hein ?  J'aime les gens qui prennent des initiatives !  {HappyA}Allez-y, bien sûr !
 731)  LEE
 [pickup3]{ThinkingA}If a couple of tools out in the open is unsafe as it gets, we'll be fine here.
 732)  LEE
-[pickup3]{DisgustA}Would have been nice to have one of these back at the motor inn.
+[pickup3]{DisgustA}Ce serait bien d'avoir un de ces trucs au Motor Inn.
 733)  LEE
-[pickup3]{ThinkingA}Could be useful if I find some boards to cut.
+[pickup3]{ThinkingA}Ca peut être utile si je trouve une planche à couper.
 734)  LEE
 [pickup3][taking the saw in anticipation of cutting some boards.]  {ThinkingB}Hmm...
 735)  BRENDA
-[pickup3]You know, I used to push Andy and his brother out here on that swing every night when they were kids. [sighs] Seems like such a long time ago now.
+[pickup3]J'avais l'habitude de pousser Andy et son frère sur cette balançoire tous les soirs quand ils étaient enfants, vous savez. [sighs] Cela semble si lointain maintenant.
 736)  BRENDA
-[pickup3]Did you say something darlin'?  [Then notices the repaired swing - Happy!] Oh my goodness. Did you do that?
+[pickup3]Tu as dit quelque chose mon chéri ?  [Then notices the repaired swing - Happy!] Oh seigneur. C'est vous qui avez fait ça ?
 737)  LEE
-[pickup3]Just trying to help out a bit around here.
+[pickup3]J'essaye juste de me rendre un peu utile ici.
 738)  LEE
-[pickup3][calling out across the yard] Hopefully our kids will like it too.
+[pickup3][calling out across the yard] Heureusement nos enfants vont aussi l'adorer.
 739)  LEE
-[pickup3]Yeah...it does.
+[pickup3]Oui...
 740)  ANDY
-[pickup3][calling out across the yard]Nice work, Lee. Things are starting to feel like they used to again.
+[pickup3][calling out across the yard]Beau travail, Lee. Les choses recommencent à être comme avant.
 741)  ANDY
-[pickup3][seeing that Lee fixed the swing - To himself]Well I'll be damned.
+[pickup3][seeing that Lee fixed the swing - To himself]Hé bien, je me faire tuer.
 742)  ANDY
-[pickup3][calling out across the yard]Momma's gonna be thrilled to see that old swing all fixed up.
+[pickup3][calling out across the yard]Maman va être très heureuse de voir que vous avez réparé cette vieille balançoire.
 743)  ANDY
-[pickup3][genuinely curious as to what Lee is working on.  NOT suspicious.]{SurprisedA}Hey... {DisgustA}What are ya fixing to do around the barn?
+[pickup3][genuinely curious as to what Lee is working on.  NOT suspicious.]{SurprisedA}Hé... {DisgustA}What are ya fixing to do around the barn?
 744)  ANDY
-[pickup3][friendly]{ThinkingA}Ah, there'll be plenty of time for all that stuff later, after we go fix up the fence on the outer perimiter.
+[pickup3][friendly]{ThinkingA}Ah, on aura le temps plus tard, après avoir réparé la clôture de l'enceinte.
 760)  ANDY
-[pickup3][friendly]{ThinkingA}Ah, there'll be plenty of time for all that stuff later, after we go fix up the fence on the outer perimiter.
+[pickup3][friendly]{ThinkingA}Ah, on aura le temps plus tard, après avoir réparé la clôture de l'enceinte.
 745)  LEE
-[pickup3]{HappyA}Just trying to find more ways to help out!
+[pickup3]{HappyA}J'essaye de trouver d'autres moyens de vous aider !
 746)  ANDY
-[pickup3]{HappyA}Well, I appreciate that!
+[pickup3]{HappyA}J'apprécie !
 747)  ANDY
-[pickup3]Tell ya what, {HappyB}We'll find ya something to do over there after we get back from securing the perimeter.
+[pickup3]Vous savez quoi, {HappyB}on vous trouvera un truc à faire après qu'on ait sécurisé l'enceinte.
 748)  LEE
-[pickup3]{HappyB}Sounds good.
+[pickup3]{HappyB}Bonne idée.
 755)  LEE
-[pickup3]{HappyB}Sounds good.
+[pickup3]{HappyB}Bonne idée.
 757)  LEE
-[pickup3]{HappyB}Sounds good.
+[pickup3]{HappyB}Bonne idée.
 759)  LEE
-[pickup3]{HappyB}Sounds good.
+[pickup3]{HappyB}Bonne idée.
 749)  LEE
-[pickup3]{FearA}How secure is your barn?  Having a safe place for the cow is pretty important.
+[pickup3]{FearA}Votre grange est sécurisée ?  C'est très important d'avoir un endroit sûr pour votre vache.
 750)  ANDY
-[pickup3]{NormalA}Thanks to the fence, nothing gets in here anymore.  {SadA}Unfortunately the deadies took most of our cattle before we got it running.
+[pickup3]{NormalA}Grâce à la clôture, plus rien n'y entre.  {SadA}Malheureusement les morts ont pris la plupart de notre bétail avant qu'on ait réussi à la faire marcher.
 751)  LEE
-[pickup3]{ThinkingA}Mind if I take a look?
+[pickup3]{ThinkingA}Ca vous dérange si je regarde ?
 758)  LEE
-[pickup3]{ThinkingA}Mind if I take a look?
+[pickup3]{ThinkingA}Ca vous dérange si je regarde ?
 752)  ANDY
-[pickup3]{ThinkingA}Sure, but why don't we do that after we tend to the perimeter?
+[pickup3]{ThinkingA}Pas du tout, mais on pourrait voir ça après s'être occupé de l'enceinte ?
 756)  ANDY
-[pickup3]{ThinkingA}Sure, but why don't we do that after we tend to the perimeter?
+[pickup3]{ThinkingA}Pas du tout, mais on pourrait voir ça après s'être occupé de l'enceinte ?
 753)  LEE
-[pickup3][responding to"What are ya fixing to do at the barn?"]{ThinkingA}Nothing.
+[pickup3][responding to"What are ya fixing to do at the barn?"]{ThinkingA}Pour rien.
 754)  ANDY
-[pickup3][friendly]{ThinkingA}Just giving yourself the tour, huh?
+[pickup3][friendly]{ThinkingA}Vous visitez, hein ?
 761)  
-Just trying to help out.
+J'essaye d'aider.
 762)  
-I'm curious about your barn.
+Votre grange m'intringue.
 763)  
-Nothing.
+Rien.
 764)  LEE
-[pickup3][to himself - looking at the ribbons]{ThinkingA}These people put a lot of love into this dairy.
+[pickup3][to himself - looking at the ribbons]{ThinkingA}Ces gens aiment beaucoup leur ferme.
 765)  ANDY
-[pickup3][heartfelt]{SadA}This place was my daddy's life.  It meant everything to him.
+[pickup3][heartfelt]{SadA}Cette ferme, c'est toute la vie de mon père.  C'était tout pour lui.
 766)  LEE
-[pickup3][calling across the yard]{ThinkingA}This dairy won a lot of ribbons in it's day, huh?
+[pickup3][calling across the yard]{ThinkingA}Cette ferme a gagné beaucoup de prix, non ?
 767)  ANDY
-[pickup3]{DisgustA}Then one day the world changed...Now this place is all we have left of Daddy.  {ThinkingA}That's why we take such good care if it, and why we want to share it with good folks like yourselves.
+[pickup3]{DisgustA}Puis un jour le monde à changé... Cette ferme c'est tout ce qu'il nous reste de papa.  {ThinkingA}C'est pourquoi on en prend autant soin, et pourquoi on veut la paratager avec de braves gens comme vous.
 768)  LEE
-[pickup3]{HappyA}Is that right?
+[pickup3]{HappyA}C'est vrai ?
 769)  LEE
 [pickup3]{NormalA}My folks stopped after two as well.
 770)  ANDY
-[pickup3][heartfelt]{HappyA}You know, when he first bought this place, this was a single story house.
+[pickup3][heartfelt]{HappyA}Vous savez, quand on a acheté cet endroit au début, il n'y avait qu'une maison de plein pied.
 771)  ANDY
-[pickup3][heartfelt]{ThinkingA}After us kids were born, he insisted on adding a second floor.  Said they had to have room for as many babies as they could have. [with a smile]{SadA}...Momma was done after Dan.
+[pickup3][heartfelt]{ThinkingA}Après notre naissance, il a insisté pour ajouter un étage.  Ils disaient qu'ils voulaient de la place pour tous les bébés qu'ils pourraient avoir. [with a smile]{SadA}... Maman en a eu assez après Dan.
 772)  LEE
-[pickup3][taking in a deep sniff] {HappyA}Mmmm, fresh herbs!  I can hardly wait for dinner!
+[pickup3][taking in a deep sniff] {HappyA}Mmmm, des herbes fraîches ! Je suis impatient de manger !
 773)  CLEMENTINE
 [pickup3][playing on the swing][laughing]
 774)  CLEMENTINE
-[pickup3][playing on the swing]Push me higher!
+[pickup3][playing on the swing]Pousse moi plus fort !
 775)  CLEMENTINE
-[pickup3][playing on the swing]Wheee!
+[pickup3][playing on the swing]Ouiiiii !
 776)  CLEMENTINE
 [pickup3][playing on the swing][giggling]
 777)  CLEMENTINE
 [pickup3][playing on the swing][giggling3]
 778)  CLEMENTINE
-[pickup3][playing on the swing]This is fun!
+[pickup3][playing on the swing]C'est amusant !
 779)  CLEMENTINE
-[pickup3][playing on the swing]I have a swing at my house too!
+[pickup3][playing on the swing]Moi aussi j'avais une balançoire chez moi !
 780)  CLEMENTINE
 [pickup3][playing on the swing][giggling2]
 784)  LEE
