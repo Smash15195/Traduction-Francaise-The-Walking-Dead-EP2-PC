@@ -87,7 +87,7 @@
 44)  DANNY
 [conversation ambiante]On aurait été chanceux, on aurait rapporté un esturgeon ou deux, mais... On a jamais été en haute-mer.
 45)  DANNY
-[conversation ambiante]Hey, c'est une bonne idée! Papa avait l'habitude de nous emmener pêcher l'achigan à grande bouche quand nous étions gamins.
+[conversation ambiante]Hé, c'est une bonne idée! Papa avait l'habitude de nous emmener pêcher l'achigan à grande bouche quand nous étions gamins.
 46)  KENNY
 [conversation ambiante]Commercialement, surtout la nageoire du vivaneau jaune. Mais pendant l'été, j'emmenerais les touristes pêcher en bateau !
 47)  KENNY
@@ -121,11 +121,11 @@
 61)  DANNY
 [conversation ambiante]Ouais, Papa a toujours voulu que tu reprennes l'exploitation.
 62)  ANDY
-[conversation ambiante]Just worked out that way, Dan.
+[conversation ambiante]Ca s'est passé comme ça, Dan.
 63)  LARRY
 [conversation ambiante]Depuis combien de temps avez-vous cette exploitation laitière ?
 64)  ANDY
-[conversation ambiante]Aussi longtemps que je m'en souvienne.  On a grandi ici.  Dan et moi, on aidait où on pouvait, mais vraiment c'était l'affaire de Maman et Papa.
+[conversation ambiante]Aussi longtemps que je m'en souvienne. On a grandi ici.  Dan et moi, on aidait où on pouvait, mais vraiment c'était l'affaire de Maman et Papa.
 65)  LILLY
 [conversation ambiante]Alors, vous n'avez pas travaillé ici ?
 66)  ANDY
@@ -153,7 +153,7 @@
 77)  ANDY
 [conversation ambiante]Ouais. Malheureusement, on a perdu la majorité de notre bétail avant qu'on réussisse à installer ce truc.
 78)  KATJAA
-[conversation ambiante]Kenny Jr !  Ce n'est pas une conversation approprié à table.
+[conversation ambiante]Kenny Jr ! Ce n'est pas une conversation approprié à table.
 79)  DANNY
 [conversation ambiante][murmurant]Satanés rôdeurs.
 80)  KENNY
