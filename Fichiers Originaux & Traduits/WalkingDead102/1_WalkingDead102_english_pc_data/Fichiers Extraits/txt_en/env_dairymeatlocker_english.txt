@@ -1,233 +1,233 @@
 1)  LARRY
-[furious] OPEN THIS DOOR!
+[furious] OUVREZ CETTE PORTE !
 506)  LARRY
-[furious] OPEN THIS DOOR!
+[furious] OUVREZ CETTE PORTE !
 2)  LILLY
-[recovering, worried] Dad, stop!
+[recovering, worried] Papa, arrète !
 503)  LILLY
-[recovering, worried] Dad, stop!
+[recovering, worried] Papa, arrète !
 3)  LILLY
 [retching] Blurrggghh...
 505)  LILLY
 [retching] Blurrggghh...
 4)  LARRY
-[furious] OPEN UP! I WILL TEAR YOU FUCKERS APART WITH MY BARE HANDS!
+[furious] OUVREZ ! JE VAIS VOUS ARRACHER LES TRIPES AVEC LES MAINS !
 502)  LARRY
-[furious] OPEN UP! I WILL TEAR YOU FUCKERS APART WITH MY BARE HANDS!
+[furious] OUVREZ ! JE VAIS VOUS ARRACHER LES TRIPES AVEC LES MAINS !
 5)  LARRY
-[furious] OPEN THIS DOOR GOD DAMMIT!
+[furious] OUVREZ CETTE PORTE BON DIEU !
 500)  LARRY
-[furious] OPEN THIS DOOR GOD DAMMIT!
+[furious] OUVREZ CETTE PORTE BON DIEU !
 6)  LILLY
-Dad! Please, stop!
+Papa ! Arrète, s'il te plaît !
 14)  LILLY
-Dad! Please, stop!
+Papa ! Arrète, s'il te plaît !
 389)  LILLY
-Dad! Please, stop!
+Papa ! Arrète, s'il te plaît !
 7)  LEE
-[bleary] You okay, Clementine?
+[bleary] Ca va, Clémentine ?
 8)  LARRY
-[furious] OPEN UP!
+[furious] OUVREZ !
 386)  LARRY
-[furious] OPEN UP!
+[furious] OUVREZ !
 9)  LILLY
-[pickup2][panicked]They threw us in the meat locker!
+[pickup2][panicked]Ils nous ont jeté dans le frigo à viande !
 10)  LILLY
-[scolding] Dad!
+[scolding] Papa !
 18)  LILLY
-[scolding] Dad!
+[scolding] Papa !
 11)  LEE
-[bleary] What happened?
+[bleary] Que s'est-il passé ?
 12)  LARRY
-[furious] LET US OUT YOU SONS OF BITCHES!
+[furious] LAISSEZ-NOUS SORTIR FILS DE PUTE !
 13)  CLEMENTINE
-[pickup2]They locked us in here. I think it's a meat locker.
+[pickup2]Ils nous ont enfermé ici. On dirait un frigo à viande.
 387)  CLEMENTINE
-[pickup2]They locked us in here. I think it's a meat locker.
+[pickup2]Ils nous ont enfermé ici. On dirait un frigo à viande.
 15)  KENNY
-Those psychos have Katjaa and Duck!
+Ces tarés ont Katjaa et Duck !
 388)  KENNY
-Those psychos have Katjaa and Duck!
+Ces tarés ont Katjaa et Duck !
 16)  LARRY
-[furious] OPEN UP YOU SONS OF BITCHES!!
+[furious] OUVREZ CONNARDS !!
 17)  KENNY
-Both of you shut up!  We don't have time for this!
+Fermez-la tous les deux !  On a pas le temps pour ça !
 19)  LARRY
-[Having a heart attack!] Hrrrgggttt!!!   Oh God...
+[Having a heart attack!] Arrrggg !!   Oh seigneur...
 318)  LARRY
-[Having a heart attack!] Hrrrgggttt!!!   Oh God...
+[Having a heart attack!] Arrrggg !!!   Oh seigneur...
 20)  LILLY
-[panicked] DAD?!
+[panicked] PAPA ?!
 325)  LILLY
-[panicked] DAD?!
+[panicked] PAPA ?!
 21)  LILLY
-[worried] No! Dad, come on! DAD!
+[worried] Non ! Allez, papa ! PAPA !
 319)  LILLY
-[worried] No! Dad, come on! DAD!
+[worried] Non ! Allez, papa ! PAPA !
 22)  LILLY
-Oh God, he's stopped breathing. I think he's had a heart attack!
+Mon dieu, il ne respire plus. Il doit faire une crise cardiaque !
 322)  LILLY
-Oh God, he's stopped breathing. I think he's had a heart attack!
+Mon dieu, il ne respire plus. Il doit faire une crise cardiaque !
 23)  KENNY
-Shit!  Is he dead?
+Merde !  Il est mort ?
 324)  KENNY
-Shit!  Is he dead?
+Merde !  Il est mort ?
 24)  KENNY
-Think about it. You saw that poor bastard at the motel. How fast he turned.
+Réflechissez. Vous avez bien vu à quelle vitesse ce petit enfoiré s'est transformé au motel.
 25)  LILLY
-What are you saying?
+Qu'est-ce que vous dites ?
 26)  KENNY
-Lilly, I'm sorry. I truly, truly am.
+Lilly, je suis vraiment désolé. Vraiment.
 27)  KENNY
-But in a few minutes, we're gonna be stuck in a locked room with a 6-foot-four, 300 pound, SERIOUSLY pissed off dead guy!
+Mais dans cinq minutes, on sera coincé ici avec macchabée de 2 mètres, 150 kilos et SERIEUSEMENT en colère !
 28)  LILLY
-[Shocked and offended]Fuck you![stunned] You can't seriously be talking about this.
+[Shocked and offended]Allez vous faire foutre ![stunned] Vous n'êtes pas sérieux.
 29)  KENNY
-We'll mourn him later. But right now, we have to keep him from comin' back.
+On le pleurera plus tard mais pour l'instant on doit l'empêcher de revenir.
 30)  CLEMENTINE
-[scared] Noooo!
+[scared] Noooon !
 31)  LEE
-I'm sorry, Lilly. It's the only way.
+Désolé, Lilly. C'est le seul moyen.
 32)  LILLY
-[intensifying]No no no. Get off me!! Don't do this!!
+[intensifying]Non non non. Lâchez-moi !! Faîtes pas ça !!
 33)  KENNY
 [exertion] Grrraghh!
 34)  KENNY
 [exertion] Yeerggh!
 35)  CLEMENTINE
-[scared] I don't wanna see!
+[scared] Je veux pas voir ça !
 36)  KENNY
-[furious] You're USELESS, Lee!
+[furious] Vous servez à RIEN, Lee !
 37)  KENNY
-[slow realization]...You know what has to happen, Lee.
+[slow realization]... Vous savez ce qu'il va se passer, Lee.
 38)  
-We can't kill him if he's not dead!
+On peut pas le tuer s'il est pas mort !
 39)  KENNY
-You remember how hard it was for you to get that monster off of Katjaa? And Larry's twice his size.
+Vous vous rappelez le mal que vous avez eu à dégager ce monstre de Katjaa ? Larry fait deux fois sa taille.
 40)  KENNY
-It's him or us.
+C'est lui ou non.
 41)  KENNY
-But that man is dead. You BOTH know what happens next.
+Mais cet homme est mort. Vous savez TOUS LES DEUX ce qui vient après.
 42)  LEE
-Lilly can still save him.
+Lilly peut encore le ranimer.
 535)  
-Lilly can still save him.
+Lilly peut encore le ranimer.
 43)  KENNY
-I wish she could. Believe me, I do.
+J'aimerais. Croyez moi, j'aimerais.
 44)  LILLY
-NO! God Damnit! My dad's survived worse than this!!
+NON ! Bon dieu ! Mon père a déjà survécu à pire que ça !!
 45)  LEE
-Maybe you're right.
+Vous avez sans doute raison.
 536)  
-Maybe you're right.
+Vous avez sans doute raison.
 46)  LILLY
-You fucking monsters! Both of you!
+Vous êtes des putains de monstres ! Tous les deux !
 47)  LEE
-[pickup2][Lee decides that its important to back Kenny up in the decision to kill Larry Now.  But still feels like shit about it] You're right, Kenny.  Let's get this over with.
+[pickup2][Lee decides that its important to back Kenny up in the decision to kill Larry Now.  But still feels like shit about it] Vous avez raison, Kenny.  Finissons-en.
 48)  LEE
-You okay?
+Ca va ?
 49)  CLEMENTINE
-So he won't turn into one of those monsters?
+Pour qu'il ne se transforme pas en ces monstres ?
 50)  LEE
-That's right.
+C'est ça.
 51)  LEE
-You understand why we had to do this, Clementine?
+Tu comprends pourquoi on a fait ça, Clémentine ?
 52)  LEE
 Clem...
 53)  LEE
-Are you okay?
+Ca va ?
 54)  LEE
-Yes. For now.
+Oui. Pour l'instant.
 529)  
-Yes. For now.
+Oui. Pour l'instant.
 55)  CLEMENTINE
-[scared] Is it over?
+[scared] C'est fini ?
 56)  CLEMENTINE
-I can do it.
+Je peux le faire.
 57)  LEE
-It's too small for us to fit through.
+C'est trop petit pour qu'on passe.
 58)  LEE
-We don't know where it leads.
+On ne sait pas où ça mène.
 548)  
-We don't know where it leads.
+On ne sait pas où ça mène.
 59)  LEE
-Clementine can fit through.
+Clémentine peut passer.
 60)  KENNY
-Those monsters are coming for us whether we like it or not.
+Ces monstres viennent nous chercher, qu'on le veuille ou non.
 61)  LILLY
-[lethargic... still shellshocked over the death of her father] First you murder my father, now you want to send a little girl right out into the hands of those monsters...
+[lethargic... still shellshocked over the death of her father] D'abord vous tuez mon père, et ensuite vous envoyez une petite fille dans les griffes de ces monstres...
 62)  LEE
-You know you don't have to do this, right?
+Tu n'es pas obligé de le faire, d'accord ?
 63)  KENNY
-This'll help us get back home.
+Ca nous aider à rentrer à la maison.
 64)  CLEMENTINE
-I know. I just want to go home.
+Je sais. Je veux rentrer à la maison.
 65)  LEE
-It's okay to be scared.
+C'est normal d'avoir peur.
 66)  CLEMENTINE
-I'm scared.
+J'ai peur.
 72)  CLEMENTINE
-I'm scared.
+J'ai peur.
 74)  CLEMENTINE
-I'm scared.
+J'ai peur.
 67)  LEE
-You think you can do this?
+Tu crois que tu peux le faire ?
 551)  
-You think you can do this?
+Tu crois que tu peux le faire ?
 68)  KENNY
-We need you, Clementine.
+On a besoin de toi, Clémentine.
 69)  CLEMENTINE
-[proud] And I saved your life!
+[proud] Et je t'ai sauvé la vie !
 70)  LEE
-Remember the tree house? You held out for days.
+Tu te rappelles la cabane dans l'arbre ? Tu y es restée pendant des jours.
 71)  LEE
-I know you're brave enough.
+Je sais que tu es courageuse.
 552)  
-I know you're brave enough.
+Je sais que tu es courageuse.
 73)  LEE
-[chuckling] That's right!
+[chuckling] C'est vrai !
 75)  LEE
-Go, quickly!
+Va, vite !
 553)  
-Go, quickly!
+Va, vite !
 76)  LEE
-You'll be fine as long as you move fast enough.
+Ca ira bien tant que tu te dépêches.
 77)  CLEMENTINE
-[working up the courage & deciding to go through the vent]Okay.
+[working up the courage & deciding to go through the vent]D'accord.
 78)  LILLY
-[miserable] God.
+[miserable] Seigneur.
 79)  LEE
-You're gonna be fine.
+Ca va aller.
 80)  LILLY
-[anguished] Medicine? You had medicine?! You BASTARD!
+[anguished] Vous aviez des cachets ?! Sale bâtard !
 81)  LEE
-I...
+Je...
 82)  KENNY
-[responding to Lee's silence] Yeah, I know... It's a pretty small vent, but maybe Clementine can fit through?
+[responding to Lee's silence] Ouais, je sais... C'est plutôt étroit comme conduit, Clémentine pourrait passer ?
 83)  CLEMENTINE
-I can find out...
+Je peux essayer...
 84)  CLEMENTINE
-It's Ok. I'll go.  I just want to go home.
+C'est bon, j'y vais.  Je veux rentrer à la maison.
 85)  LEE
-I'll be right here if you change your mind and decide to come back.
+Si tu changes d'avis et que tu reviens, c'est pas grave.
 86)  CLEMENTINE
-What do I do when I get out?
+Je fais quoi quand je sors ?
 87)  LEE
-See if you can get to the other side of that door and open it.
+Regarde si tu peux atteindre l'autre côté de cette porte et ouvre-la.
 88)  KENNY
-[Responding to Lee's silence] Look, we're running out of time. If you don't wanna deal with this, I will.
+[Responding to Lee's silence] Ecoutez, on a plus le temps. Si vous voulez pas vous en occuper, je le ferais.
 89)  LARRY
-[Shouting and pounding]Open up!
+[Shouting and pounding]Ouvrez !
 90)  LARRY
-[Shouting and pounding]Open the god damned door!
+[Shouting and pounding]Ouvrez cette putain de porte !
 91)  LARRY
-[Shouting and pounding]You can't keep us in here!
+[Shouting and pounding]Vous n'avez pas le droit de nous garder ici !
 92)  LARRY
 [Shouting and pounding]Aaaarrrgggg!!!
 93)  LARRY
-[Shouting and pounding]You sick fucking bastards!
+[Shouting and pounding]Bande de connards dégénérés !
 94)  LARRY
-[Shouting and pounding]I will knock the God Damned door down!
+[Shouting and pounding]Je vais défoncer cette putain de porte !
 95)  LILLY
 [puking1]
 96)  LILLY
@@ -249,117 +249,117 @@ See if you can get to the other side of that door and open it.
 102)  CLEMENTINE
 [Sobbing softly3]
 103)  LILLY
-[stern/trying to calm her dad]That is NOT gonna help.
+[stern/trying to calm her dad]Ca ne sert à RIEN.
 104)  LILLY
-[stern/trying to calm her dad]Dad, please...
+[stern/trying to calm her dad]Papa, s'il te plaît...
 105)  LILLY
-[stern/trying to calm her dad]Dad, this isn't helping!
+[stern/trying to calm her dad]Papa, ça sert à rien !
 106)  LILLY
-[stern/trying to calm her dad]They're not gonna open the door.
+[stern/trying to calm her dad]Ils ne vont pas ouvrir.
 107)  LILLY
-[stern/trying to calm her dad]Please, settle down...
+[stern/trying to calm her dad]S'il te plaît, calme toi...
 108)  LILLY
-[stern/trying to calm her dad]Dad!
+[stern/trying to calm her dad]Papa !
 109)  CLEMENTINE
-The man hit you.
+Le monsieur t'a frappé.
 110)  KENNY
-[furious/panicked]Those psychos have Katjaa and Duck!
+[furious/panicked]Ces cinglés ont Katjaa et Duck !
 111)  KENNY
 [Gasping for breath after exertion]
 112)  LILLY
 [Crying]
 113)  LILLY
-[Screaming] Noooooo!!!!
+[Screaming] Noooooon !!!!
 114)  LILLY
-You asshole!!
+Connard !!
 115)  KENNY
-[Coldly]I'd move if I were you.
+[Coldly]Je me remuerais si j'étais vous.
 116)  KENNY
-[Still breathless]God help us.
+[Still breathless]Que Dieu nous aide.
 117)  LILLY
-[pickup2] [pissed] Don't talk to me, Lee. Don't fucking talk to me.
+[pickup2] [pissed] Me parlez pas, Lee. Ne me parlez pas, putain.
 257)  LILLY
-[pickup2] [pissed] Don't talk to me, Lee. Don't fucking talk to me.
+[pickup2] [pissed] Me parlez pas, Lee. Ne me parlez pas, putain.
 118)  LEE
-[pickup2] Lilly, I-I'm sorry...
+[pickup2] Lilly, J-je suis désolé...
 256)  LEE
-[pickup2] Lilly, I-I'm sorry...
+[pickup2] Lilly, J-je suis désolé...
 524)  LEE
-[pickup2] Lilly, I-I'm sorry...
+[pickup2] Lilly, J-je suis désolé...
 119)  LILLY
-[furious] You've NEVER liked my dad! Even back at the drug store when everyone thought Kenny's kid was bit, you went out of your way to side against him... But this?! You have no right!!
+[furious] Vous n'avez JAMAIS aimé mon père ! Même au drugstore quand tout le monde pensait que Duck avait été mordu, vous êtes sorti de vos gonds pour vous opposer à lui... Mais ça ?! Vous n'avez pas le droit !!
 120)  LEE
-Look, Kenny... Back at the drug store when we all thought Duck was bitten... I gave him the benefit of the doubt... Maybe we should do the same now.
+Ecoutez, Kenny... Au drugstore, quand tout le monde croyait que Duck avait été mordu... Je lui ait donné le bénéfice du doute... On pourrait lui accoder aussi, non ?
 121)  KENNY
-Don't think I forgot about what you said at the drug store... when you all thought Duck was bitten...
+Ne pensez pas que j'ai oublié ce que vous avez dit au drugstore... quand tout le monde croyait que Duck avait été mordu...
 122)  LEE
-Kenny, listen-
+Kenny, écoutez-
 123)  KENNY
-That was different.  Duck wasn't bitten. But, come on,  we KNOW this guy's not gonna make it.
+C'est différent.  Duck n'était mordu. Mais, allez, on SAIT que ce type ne va pas s'en tirer.
 124)  LILLY
-God dammit, Kenny!  He's not dead!!
+Mais putain, Kenny !  Il est pas mort !!
 125)  LILLY
-He's not dead.  Somebody help me!
+Il est pas mort. Aidez-moi !
 320)  LILLY
-He's not dead.  Somebody help me!
+Il est pas mort. Aidez-moi !
 126)  KENNY
-[realizing that Larry may turn zombie]Fuuuuuuck... if he's dead...
+[realizing that Larry may turn zombie]Meeeeerde... s'il est mort...
 321)  KENNY
-[realizing that Larry may turn zombie]Fuuuuuuck... if he's dead...
+[realizing that Larry may turn zombie]Meeeeerde... s'il est mort...
 127)  LILLY
-HE'S NOT DEAD!
+IL N'EST PAS MORT !
 323)  LILLY
-HE'S NOT DEAD!
+IL N'EST PAS MORT !
 128)  LILLY
-No... no no no!
+Non... non non non !
 129)  LILLY
-Let go of me!!!
+Laissez-moi !!!
 130)  LILLY
-No please!!
+Non pitié !!
 131)  LILLY
-Noooo!!!
+Noooon !!!
 132)  KENNY
-Well I'm just doing the same thing.  Except Duck wasn't bitten, and we KNOW this guy's not gonna make it.
+Hé bien je fais la même chose.  Sauf que Duck n'a pas été mordu, et on SAIT que ce type ne va pas s'en tirer.
 133)  LEE
-We can't kill him if he's not dead, Kenny!
+On ne peut pas le tuer s'il n'est pas mort, Kenny !
 134)  LEE
-We can't kill him if he's not dead, Kenny!
+On ne peut pas le tuer s'il n'est pas mort, Kenny !
 135)  KENNY
-Remember what Ben said.  Gotta destroy the brain...
+Rappelez-vous de ce que Ben a dit.  On doit détruire le cerveau...
 136)  KENNY
-Remember what Ben said.  Gotta destroy the brain...
+Rappelez-vous de ce que Ben a dit.  On doit détruire le cerveau...
 137)  KENNY
-[pickup2][panicking]Will you stop that banging! We've gotta find another way out of here!
+[pickup2][panicking]Vous allez arrêter de cogner ?! Il faut trouver une autre façon de sortir d'ici !
 499)  KENNY
-[pickup2][panicking]Will you stop that banging! We've gotta find another way out of here!
+[pickup2][panicking]Vous allez arrêter de cogner ?! Il faut trouver une autre façon de sortir d'ici !
 138)  CLEMENTINE
-[Scared!] Nooo!!
+[Scared!] Nooon !!
 139)  CLEMENTINE
-[Scared!] Nooo!!
+[Scared!] Nooon !!
 140)  LEE
-None of us did.
+Personne ne le voulait.
 141)  CLEMENTINE
-[sad] I didn't want Larry to die.
+[sad] Je voulais pas que Larry meurt.
 147)  CLEMENTINE
-[sad] I didn't want Larry to die.
+[sad] Je voulais pas que Larry meurt.
 142)  LEE
-Not yet.  We still have to find a way out of here.
+Pas encore.  On doit trouver un moyen de sortir d'ici.
 143)  LEE
-I don't know.  One of the brothers could come back any second...
+Je sais pas.  Un des frères pourrait revenir d'une minute à l'autre...
 144)  LEE
-But we still need to find a way out of here...
+On doit encore trouver un moyen de sortir d'ici....
 145)  LEE
-We need to find a way out of here.
+On doit trouver un moyen de sortir d'ici..
 146)  LEE
-[solemn] I know, baby.  I know.
+[solemn] Je sais, ma puce.  Je sais.
 148)  LILLY
-Don't you fucking touch me!
+Ne me touchez pas, putain !
 354)  LILLY
-Don't you fucking touch me!
+Ne me touchez pas, putain !
 149)  KENNY
-I'm sorry.  I know it-
+Je suis désolé.  Je sais que-
 355)  KENNY
-I'm sorry.  I know it-
+Je suis désolé.  Je sais que-
 150)  LEE
 [rembering] Clementine.
 151)  CLEMENTINE
@@ -369,149 +369,149 @@ I'm sorry.  I know it-
 523)  CLEMENTINE
 [sobs]
 152)  KENNY
-Looks like it'll probably lead right into that back room...
+On dirait que ça conduit directement dans cette pièce secrète...
 153)  KENNY
-Looks like it'll probably lead right into that back room...
+On dirait que ça conduit directement dans cette pièce secrète...
 154)  KENNY
-Looks like it'll probably lead right into that back room...
+On dirait que ça conduit directement dans cette pièce secrète...
 155)  KENNY
-Looks like it'll probably lead right into that back room...
+On dirait que ça conduit directement dans cette pièce secrète...
 156)  CLEMENTINE
-[ doing the pathetic post puking "peh, peh" ]...peh...peh...
+[ doing the pathetic post puking "peh, peh" ]...peuh...peuh...
 157)  KENNY
-[furious/panicked]If they so much as touch my family I'll kill those sons of bitches!
+[furious/panicked]Si jamais ils osent toucher à ma famille je vais les tuer ces connards !
 158)  KENNY
-[furious/panicked]If they so much as touch my family I'll kill those sons of bitches!
+[furious/panicked]Si jamais ils osent toucher à ma famille je vais les tuer ces connards !
 390)  KENNY
-[furious/panicked]If they so much as touch my family I'll kill those sons of bitches!
+[furious/panicked]Si jamais ils osent toucher à ma famille je vais les tuer ces connards !
 159)  LILLY
-[trying to revive her dad - a bit breathles While giving CPR]Come on, dad, Come on!
+[trying to revive her dad - a bit breathles While giving CPR]Allez, papa, allez !
 160)  LILLY
 [trying to revive her dad] [Heavy breathing during CPR 3]
 161)  LILLY
-[trying to revive her dad - a bit breathles While giving CPR] Come on!
+[trying to revive her dad - a bit breathles While giving CPR] Allez !
 162)  LILLY
 [trying to revive her dad] [Heavy breathing during CPR 2]
 163)  LILLY
-[trying to revive her dad - a bit breathles While giving CPR] Wake up, wake up!
+[trying to revive her dad - a bit breathles While giving CPR] Réveille-toi, debout !
 164)  LILLY
-[trying to revive her dad - a bit breathles While giving CPR]This has happened before... everything's fine....
+[trying to revive her dad - a bit breathles While giving CPR]C'est déjà arrivé avant... tout va bien....
 165)  LILLY
 [trying to revive her dad] [Heavy breathing during CPR 1]
 166)  LEE
-[pickup1][after Ken kills larry and tries to appologize to Clem] Not now, Kenny.
+[pickup1][after Ken kills larry and tries to appologize to Clem] Pas maintenant, Kenny.
 167)  KENNY
-[After Killing Larry,hushed to not seem insensitive] ... Look, I don't mean to sound like a prick, but we still gotta find a way out of here.  If those guys come back, we're all dead.
+[After Killing Larry,hushed to not seem insensitive] ... Ecoutez, je veux pas passer pour un salaud, mais on doit encore trouver un moyen de sortir d'ici.  Si ces types reviennent, on est mort.
 168)  KENNY
-[To Clem after Killing Larry]... I'm sorry Clem...
+[To Clem after Killing Larry]... Je suis désolé Clem...
 169)  KENNY
-[After Killing Larry,hushed to not seem insensitive] [pointing]Look, there's an AC unit right there.  I wanted to try to pull it off the wall but Larry thought... [looks over at Lilly and lowers his voice]
+[After Killing Larry,hushed to not seem insensitive] [pointing]Regardez, il y a une ventilation ici.  J'ai voulu la retirer du mur mais Larry pensait... [looks over at Lilly and lowers his voice]
 170)  LEE
-[pickup1][flat] Fine.
+[pickup1][flat] Bien.
 171)  KENNY
-[trying to remain quiet/stern]Look, I did what I had too. And you can't argue that we need to get the hell outta here, so suck it up and help me.
+[trying to remain quiet/stern]Ecoutez, j'ai fait ce qu'il fallait aussi. Et on est d'accord pour dire qu'il faut se barrer d'ici, alors remettez-vous et aidez-moi.
 172)  LEE
-[pickup1][to kenny afetr Kenny has fought with him/slightly hushed] You gonna knock me down again if I don't agree?
+[pickup1][to kenny afetr Kenny has fought with him/slightly hushed] Vous allez encore me frapper si je ne suis pas d'accord ?
 173)  LEE
-[pickup1][hushed, agreeing with Kenny about pulling down the AC] That's not a bad idea.
+[pickup1][hushed, agreeing with Kenny about pulling down the AC] C'est une bonne idée.
 174)  KENNY
 [successfully pulling the AC off the wall]
 278)  KENNY
 [successfully pulling the AC off the wall]
 175)  KENNY
-[A little brethless/ slightly hushed]Well there's our way out, Lee.
+[A little brethless/ slightly hushed]Voilà notre sortie, Lee.
 277)  KENNY
-[A little brethless/ slightly hushed]Well there's our way out, Lee.
+[A little brethless/ slightly hushed]Voilà notre sortie, Lee.
 177)  CLEMENTINE
-[pickup1][just stopping crying/Sad/Angry at lee for Kelping Kenny kill Larry][weakly hits Lee while also wanting to be comforted by him.]Why Lee?!  Lilly said he wasn't dead!
+[pickup1][just stopping crying/Sad/Angry at lee for Kelping Kenny kill Larry][weakly hits Lee while also wanting to be comforted by him.]Pourquoi Lee ?!  Lilly disait qu'il n'était pas mort !
 178)  LEE
-[pickup1][comforting Clem who is angry with him]I'm sorry. We couldn't take that chance. [That Lerry' would turn into a zombie]
+[pickup1][comforting Clem who is angry with him]Je suis désolé. On pouvait pas prendre ce risque. [That Lerry' would turn into a zombie]
 179)  LEE
-[pickup1][assuring Clem that Larry WAS dead before they smashed his head, but honsetly not so sure]He was dead, Clementine...
+[pickup1][assuring Clem that Larry WAS dead before they smashed his head, but honsetly not so sure]Il était mort, Clémentine...
 180)  CLEMENTINE
-[pickup1][Not convinced Larry was dead, hit of tears] But what if he wasn't?
+[pickup1][Not convinced Larry was dead, hit of tears] Mais s'il n'était pas mort ?
 181)  LEE
-[pickup1][assuring Clem that Larry WAS dead before they smashed his head, but honsetly not so sure]He was.  I- I promise.
+[pickup1][assuring Clem that Larry WAS dead before they smashed his head, but honsetly not so sure]Il l'était.  P- Promis.
 182)  
-Help
+Aider
 183)  
-Help
+Aider
 184)  LILLY
-[pickup2][alt][sean edit] FUCK YOU! We can bring him back! LEE!
+[pickup2][alt][sean edit] ALLEZ VOUS FAIRE FOUTRE ! On peut le ranimer ! LEE !
 185)  
-Air Conditioner
+Climatiseur
 186)  KENNY
-[cont]Look, if you give me a hand we can probably get that thing down.
+[cont]Si vous m'aidez on devrait pouvoir enlever ce truc.
 187)  LEE
-[pickup2] What now?
+[pickup2] Et maintenant ?
 208)  LEE
-[pickup2] What now?
+[pickup2] Et maintenant ?
 188)  KENNY
-[pickup2] You got any ideas...?
+[pickup2] Vous avez une idée... ?
 211)  KENNY
-[pickup2] You got any ideas...?
+[pickup2] Vous avez une idée... ?
 189)  LEE
-[pickup2]It's just you and me...Lilly's in no condition to help us rescue your family.
+[pickup2]On est que tous les deux... Lilly n'est pas en condition de nous aider à sauver votre famille.
 190)  KENNY
-[pickup2]Considering what just happened, she'd probably side with the St. Johns against us.
+[pickup2]Vu ce qu'il vient de se passer, elle s'allierait probablement aux St. John.
 191)  LEE
-[pickup2]Katjaa and Duck.
+[pickup2]Katjaa et Duck.
 192)  KENNY
-[pickup2]We've got to get to them!
+[pickup2]On doit les récupérer !
 193)  KENNY
-[pickup2] [interrupting, vehement]No! [Beat]They-They need Katjaa, remember? She's the whole reason they brought us here.
+[pickup2] [interrupting, vehement]Non ! [Beat]Ils-ils ont besoin de Katjaa, vous vous souvenez ? C'est grâce à elle si on est tous venu ici.
 217)  KENNY
-[pickup2] [interrupting, vehement]No! [Beat]They-They need Katjaa, remember? She's the whole reason they brought us here.
+[pickup2] [interrupting, vehement]Non ! [Beat]Ils-ils ont besoin de Katjaa, vous vous souvenez ? C'est grâce à elle si on est tous venu ici.
 194)  LEE
-[pickup2]You don't think the St. Johns...[killed them...?]
+[pickup2]Vous croyez que les St. John l'ont...[killed them...?]
 195)  LEE
-[pickup2]Sure.  And Duck is valuable as a bargaining chip.
+[pickup2]Bien sûr.  Et Duck est une bonne monnaie d'échange.
 196)  KENNY
-[pickup2][apprehensive] What about 'em?
+[pickup2][apprehensive] Et pour eux ?
 197)  LEE
-[pickup2]You think maybe we were too hasty?
+[pickup2]Vous pensez qu'on va un peu trop vite ?
 198)  KENNY
-[pickup2]Only one important thing right now... getting the fuck outta here.  We did what we had to.
+[pickup2]La seule chose qui compte maintenant... c'est de se tirer d'ici.  On a fait ce qu'il fallait.
 199)  LEE
-[pickup2]You wanna do the honors and search Larry's pockets?
+[pickup2]Vous voulez faire vos condoléances et fouiller les poches de Larry ?
 200)  KENNY
-[pickup2]I'm not going near Lilly, not now. If somebody's gotta search his pockets, it better be you.
+[pickup2]Je ne m'approche pas de Lilly, pas maintenant. Si quelqu'un doit fouiller ses poches, ça devrait être vous.
 201)  LEE
-[pickup2][confrontational] Look, if we're gonna survive this shit, we've got to work together.  How do you expect Lilly to work with us after what she just saw you do?
+[pickup2][confrontational] Ecoutez, si on veut survivre à ce merdier, il faut qu'on se batte ensemble.  Vous croyez que Lilly va se comporter comment après avoir ça devant elle ?
 202)  LEE
-[pickup2][confrontational]You talk a big game, but could you do the "hard thing" if it was Katjaa or Duck?
+[pickup2][confrontational]Vous êtes un beau parleur mais vous auriez pu faire le "nécessaire" si ça avait été Katjaa ou Duck ?
 203)  KENNY
-[pickup2]Make her tougher, that's what! I have the same worries, but then I tell myself...these kids are gonna grow up in a harsher world from the one we knew. [Beat. With a smile:] For a guy without any kids, you've got a pretty strong father instinct.
+[pickup2]Ca va la rendre plus forte, c'est tout ! J'étais comme vous, mais je me suis dit... que ces gosses allaient grandir dans un monde plus dur que celui qu'on a connu. [Beat. With a smile:] Pour un type sans enfants, vous avez un instinct paternel assez prononcé.
 204)  LEE
-[pickup2]I know it was necessary, but... I just wish Clem didn't have to witness shit like this.  I worry what it's gonna do to her.
+[pickup2]Je sais que c'était nécessaire, mais... Je voulais éviter à Clem de voir des horreurs pareilles.  Ca m'inquiète de ce que ça pourrait lui faire.
 205)  KENNY
-[pickup2]I don't want to hear it, Lee.
+[pickup2]Je veux pas entendre ça, Lee.
 206)  KENNY
-[pickup2][angry self-justification] You think I liked doing what I did? I'm the guy who couldn't bear to watch the family dog get put down. But if we wanna survive this shit, we gotta have the balls to do the hard thing. [under his breath] Or at least, one of us's got to.
+[pickup2][angry self-justification] Vous croyez que j'aime être comme ça ? Je suis incapable d'abandonner un chien. Mais si on veut survivre à ce merdier, on doit avoir des couilles. [under his breath] Ou au moins, l'un d'entre nous.
 207)  KENNY
-[pickup2]If she wants to live, she'll work with us.  If she doesn't, then the hell with her.
+[pickup2]Si elle veut vivre, elle se battra avec nous.  Sinon, qu'elle aille au diable.
 209)  KENNY
-[pickup2][defensive] What?  You don't want to hang me up on a meathook and leave me to rot?
+[pickup2][defensive] Quoi ?  Vous voulez quand même pas me pendre à un crochet de boucher pour me faire rôtir ?
 210)  LEE
-[pickup2]What I WANT isn't important. What I KNOW is: there's safety in numbers.
+[pickup2]ce que je VEUX n'a pas d'importe. Ce que je SAIS c'est que : l'union fait la force.
 212)  LEE
-[pickup2]For all we know, the St. John's might've--
+[pickup2]De ce que j'en sais, les St. John doivent avoir--
 213)  KENNY
 [pickup2][defiant] It's never gonna come to that, not if I have anything to do with it!
 214)  KENNY
-[pickup2]I know I'm right!  [half to himself]I just gotta get to 'em, that's all.
+[pickup2]Je sais que j'ai raison!  [half to himself]Il faut que je les récupère, c'est tout.
 215)  LEE
-[pickup2]I hope you're right...
+[pickup2]J'espère que vous avez raison...
 216)  KENNY
-[pickup2]And no doubt they're usin' Duck as a bargaining chip.
+[pickup2]Et il vont se servir de Duck comme monnaie d'échange, sans aucun doute.
 218)  LEE
-[pickup2]She's an impressionable little girl!  What's a thing like this gonna teach her?
+[pickup2]C'est une petite fille impressionnable !  Qu'est-ce qu'elle va retenir de ça ?
 219)  KENNY
-[pickup2]How to survive, that's what.  That's the best lesson she can learn.
+[pickup2]Elle va apprendre à suvivre, c'est tout.  C'est la meilleure leçon de sa vie.
 220)  LEE
-[pickup2]It's Clementine I'm worried about.  Her seein' what you did...
+[pickup2]Je suis inquiet pour Clémentine.  Elle a vu ce que vous avez fait...
 221)  KENNY
-[pickup2][resentful] He wasn't HER father.
+[pickup2][resentful] Ce n'était pas SON père.
 222)  KENNY
 [pickup2]That's the ONLY thing I'm thinkin' about.  And I still think the air-conditioner duct's our best bet.
 223)  LEE
