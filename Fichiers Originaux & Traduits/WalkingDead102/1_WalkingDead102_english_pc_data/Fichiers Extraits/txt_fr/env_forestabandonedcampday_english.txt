@@ -1,294 +1,294 @@
 1)  ANDY
-[pickup3][ambient]We've got a good system set up for that, but it runs on gas.  You folks are really helping us out.
+[pickup3][ambient]On a un bon système installé pour ça, mais ça marche à l'essence.  Vous nous aidez vraiment, les gars.
 2)  DANNY
-[pickup3]And with the vegetables we grow, we've got plenty of food.
+[pickup3]Et avec les légumes qu'on fait pousser, on a plein de nourriture.
 3)  MARK
-[pickup3]So, this dairy... you guys really have food?
+[pickup3]Alors, cette laiterie... vous avez vraiment de la nourriture, les gars ?
 4)  ANDY
-[pickup3]Sure do.  We've lost most of the cattle, but we still have lots of milk, butter and cheese stocked up.
+[pickup3]Bien sûr. On a perdu la majorité du bétail, mais on a encore beaucoup de lait, de beurre et de fromage stockés ici.
 5)  BEN
-[pickup3][ambient]And the dead things... they aren't destroying everything?
+[pickup3][ambient]Et les choses mortes... ils ne détruisent pas tout ?
 6)  DOUG
-[pickup3]Sure.  I'd like to get a look at that electric fence they talked about.  It might give me some ideas for something I can rig up at the motor inn.
+[pickup3]Bien sûr.  Je voudrais jeter un coup d'oeil à la barrière électrique dont ils parlaient.  Ca pourrait me donner des idées pour improviser quelque chose au motel.
 7)  LEE
-[pickup3][noticing doug is carrying something]What's that you've got there?
+[pickup3][noticing doug is carrying something]Qu'est-ce que vous avez là ?
 8)  DOUG
-[pickup3]Oh.  Nothing.  Just a laser pointer I picked up during our last trip to the drugstore.
+[pickup3]Oh. Rien. Juste un pointeur laser que j'ai ramassé lors de notre dernier voyage au drugstore.
 9)  LEE
-[pickup3][casual]Thanks for coming along, Doug.
+[pickup3][casual]Merci de venir, Doug.
 10)  CARLEY
-[pickup3][casual]It's nice to get away from that motel for a while.  This Lilly/Kenny thing is starting to get ridiculous.
+[pickup3][casual]Ca fait du bien de s'échapper du motel pendant un moment.  Ce truc Lilly/Kenny commence à devenir ridicule.
 11)  CARLEY
-[pickup3]Personally I'd be happier if you started to take charge more.
+[pickup3]Personnellement, je serais plus heureuse si vous commenciez à plus vous en charger.
 12)  LEE
-[pickup3]Kenny keeps us motivated.  He believes in hope and knows how important it is for us to not give that up.  I can't fault him for that.
+[pickup3]Kenny nous garde motivés.  Il a de l'espoir et sait que c'est important pour nous de ne pas abandonner.  Je ne peux pas lui reprocher.
 13)  LEE
-[pickup3]Lilly's way of running things is smart.  It's not easy, but it's keeping us alive.
+[pickup3]La façon de Lilly de faire tourner les choses est astucieuse.  Ce n'est pas facile, mais ça nous garde en vie.
 14)  LEE
-[pickup3][doubting himself]You think they'd want me for a leader?
+[pickup3][doubting himself]Vous pensez qu'il me voudrait comme leader ?
 15)  
-Kenny keeps us motivated.
+Kenny nous garde motivés.
 16)  
-Lilly is a smart leader.
+Lilly est une leader intelligente.
 17)  
-Me as a leader?
+Moi comme leader ?
 18)  CARLEY
-[pickup3] Sure. Everybody looks up to you.
+[pickup3] Bien sûr. Tout le monde a du respect pour vous.
 19)  CARLEY
-[pickup3]Or maybe you just don't want to be in charge?
+[pickup3]Ou peut-être vous ne voulez pas de moi comme responsable ?
 20)  CARLEY
-[pickup3]Or maybe you just don't want to be in charge?
+[pickup3]Ou peut-être vous ne voulez pas de moi comme responsable ?
 21)  LEE
-[pickup3]Well... not everyone thinks I'm so trustworthy.
+[pickup3]Et bien... tout le monde ne pense pas que je suis digne de confiance.
 22)  LEE
-[pickup3]Well... not everyone thinks I'm so trustworthy.
+[pickup3]Et bien... tout le monde ne pense pas que je suis digne de confiance.
 23)  LEE
-[pickup3]Well... not everyone thinks I'm so trustworthy.
+[pickup3]Et bien... tout le monde ne pense pas que je suis digne de confiance.
 25)  LEE
-[pickup3]Well... not everyone thinks I'm so trustworthy.
+[pickup3]Et bien... tout le monde ne pense pas que je suis digne de confiance.
 24)  CARLEY
-[pickup3]You don't agree with me?[that Lee would be a good leader]
+[pickup3]Vous n'êtes pas d'accord avec moi ?[que Lee serait un bon leader]
 26)  CARLEY
-[pickup3][earenstly]Because of your past?
+[pickup3][earenstly]A cause de votre passé ?
 27)  CARLEY
-[pickup3]What exactly DID happen with the senator?
+[pickup3]Qu'est-ce qu'il s'est EXACTEMENT passé avec le sénateur ?
 28)  LEE
-[pickup3]...It was an accident.  I mean, I pretty much knew about the affair...
+[pickup3]...C'était un accident.  Enfin je veux dire, je connaissais à peu près l'affaire.
 29)  
-It was an accident.
+C'était un accident.
 30)  CARLEY
-[pickup3][slightly hushed, dropping her voice] Does anyone else know?
+[pickup3][slightly hushed, dropping her voice] Quelqu'un d'autre est au courant ?
 31)  LEE
-[pickup3]["anyone else know about your past?" - Lying in an attempt to keep things simple. ]Just you.
+[pickup3]["anyone else know about your past?" - Lying in an attempt to keep things simple. ]Juste vous.
 32)  LEE
-[pickup3]Larry knows.
+[pickup3]Larry.
 33)  CARLEY
-[pickup3][understanding how bad it is that Larry knows lee's past]Great, that can't be easy.
+[pickup3][understanding how bad it is that Larry knows lee's past]Super, ça peut être simple.
 34)  LEE
-[pickup3] It doesn't matter.
+[pickup3] Ca ne fait rien.
 35)  LEE
-[pickup3][feeling guilty]Clementine knows.
+[pickup3][feeling guilty]Clémentine.
 36)  LEE
-[pickup3] She was there when we were talking in the drugstore and asked me about it.
+[pickup3] Elle était là quand on en a parlé au drugstore et m'a posé des questions là-dessus.
 44)  LEE
-[pickup3] She was there when we were talking in the drugstore and asked me about it.
+[pickup3] Elle était là quand on en a parlé au drugstore et m'a posé des questions là-dessus.
 37)  
-Just you.
+Juste vous.
 38)  
-Larry knows.
+Larry.
 39)  
-It doesn't matter.
+Ca ne fait rien.
 40)  LEE
-[pickup3]I couldn't lie to her.
+[pickup3]Je pouvais pas lui mentir.
 41)  CARLEY
-[pickup3] Well, I haven't told anyone.
+[pickup3] Et bien, je n'en ai parlé à personne.
 42)  CARLEY
-[pickup3]You've got to let go of that guilt. The Lee I know is a good man.
+[pickup3]Il faut que vous cessiez de culpabiliser. Le Lee que je connais est un homme bon.
 43)  CARLEY
-[pickup3]You've got to let go of that guilt. The Lee I know is a good man.
+[pickup3]Il faut que vous cessiez de culpabiliser. Le Lee que je connais est un homme bon.
 45)  LEE
-[pickup3][feeling guilty]Clementine ... might know.
+[pickup3][feeling guilty]Clémentine ... doit savoir.
 46)  LEE
-[pickup3]I lied to her, but... [She's not a stupid girl]
+[pickup3]Je lui ai menti, mais... [C'est pas une fille stupide ]
 47)  LEE
-[pickup3] Now is not the time...
+[pickup3] C'est pas le moment...
 48)  LEE
-[pickup3]You know what happened...
+[pickup3]Vous savez ce qui s'est passé...
 49)  
-Now is not the time...
+C'est pas le moment...
 50)  
-You know what happened...
+Vous savez ce qui s'est passé...
 51)  CARLEY
-[pickup3][trying to get lee to open up]Listen, over the years I've reported on some pretty messed up shit.  I've seen situations like yours a hundred times, it doesn't make you a bad man...
+[pickup3][trying to get lee to open up]Ecoutez, pendant toutes ces années, j'ai fait des reportages sur pas mal de merdes.  J'ai vu des situations comme la vôter des centaines de fois, ça ne fait pas de vous un homme mauvais...
 52)  CARLEY
-[pickup3]Well, I'm here whenever you want to talk...
+[pickup3]Et bien, je suis là si jamais vous voulez parler...
 124)  CARLEY
-[pickup3]Well, I'm here whenever you want to talk...
+[pickup3]Et bien, je suis là si jamais vous voulez parler...
 53)  CARLEY
-[pickup3]I only know what the press was told.  I don't know your story.
+[pickup3]Je sais seulement ce que la presse a dit.  Je ne connais pas votre histoire.
 54)  MARK
-[pickup3]I mean, thank God Lee showed up when he did!
+[pickup3]Je veux dire, merci mon Dieu que Lee se soit pointé quand il a fait!
 55)  ANDY
-[pickup3] Yeah, why don't you tell us a little more about yourself, Lee?
+[pickup3] Ouais, pourquoi vous ne nous en dites pas plus sur vous, Lee ?
 56)  DANNY
-[pickup3]Where are ya from?
+[pickup3]D'où êtes vous ?
 57)  LEE
-[pickup3]I grew up in Macon.
+[pickup3]J'ai grandi à Macon.
 58)  LEE
-[pickup3]The motor inn is my home now I guess.
+[pickup3]Je veux dire, le motel est ma maison maintenant.
 59)  LEE
-[pickup3]I move around a lot.  Hard to call any place home I guess.
+[pickup3]J'ai pas mal bougé.  Difficile d'appeler n'importe quel endroit ma maison.
 60)  ANDY
-[pickup3][responding to Lee's silence.] Something tells me you're a local boy. You can always just kinda tell, ya know?
+[pickup3][responding to Lee's silence.] Quelque chose me dit que vous êtes un gars du coin. Vous pouvez toujours le dire, vous savez.
 61)  ANDY
-[pickup3][friendly]Hm.  That place has seen better days, huh?
+[pickup3][friendly]Hm.  Cet endroit a vu des jours meilleurs, hein?
 62)  DANNY
-[pickup3] I used to move around a bit myself, but the dairy will always be home to me.
+[pickup3]Moi-même, je bougeais pas mal, mais la laiterie sera toujours ma maison.
 63)  
-I grew up in Macon.
+J'ai grandi à Macon.
 64)  
-The motor inn is my home now.
+le motel est ma maison maintenant.
 65)  
-I move around a lot.
+J'ai pas mal bougé.
 66)  ANDY
-[pickup3][admiring]Right in the Heart of Georgia, that's what I like to hear!
+[pickup3][admiring]Direct au coeur de la Georgie, c'est ça que j'aime entendre !
 67)  ANDY
-[pickup3]Y'all seem pretty settled in at that motor inn.  Who's running things over there?
+[pickup3]Vous semblez plutôt bien installé dans ce motel.  Qui dirige là-bas?
 68)  
 Lilly.
 69)  
 Kenny.
 70)  
-I am.
+Moi.
 71)  
-It's a democracy.
+C'est une démocratie.
 72)  LEE
-[pickup3]Lilly.  She runs a pretty tight ship.  Her and her dad are ex-military.
+[pickup3]Lilly.  Elle maintient la discipline.  Elle et son père sont d'anciens militaires.
 73)  DOUG
-[pickup3]We've actually made it pretty secure.
+[pickup3]En fait, on l'a fait rendu assez sûr.
 74)  BEN
-[pickup3]I like that alarm system you made.  That's pretty smart.
+[pickup3]J'aime bien ce système d'alarme que tu as fait.  C'est drôlement astucieux.
 75)  CARLEY
-[pickup3][commenting on the fact that the motel has seen better days]You can say that again.
+[pickup3][commenting on the fact that the motel has seen better days]Vous pouvez toujours le dire.
 76)  MARK
-[pickup3] Yeah, she knows her shit, but she needs to know when to back off sometimes.
+[pickup3] Ouais, elle sait ce qu'elle fait, mais elle aurait bien besoin de ralentir des fois.
 77)  LEE
-[pickup3] Kenny's the guy who really keeps the group together.
+[pickup3] Kenny est le gars qui maintient vraiment le groupe soudé.
 78)  MARK
-[pickup3]Heh, don't let Lilly hear you say that.
+[pickup3]Hé, que Lilly ne t'entende pas dire ça.
 79)  LEE
-[pickup3]I am.  If you guys have any questions, you come to me.
+[pickup3]Moi.  Si vous avez des questions, les gars, venez me voir.
 80)  LEE
-[pickup3]We work as a group, all of us looking out for each other.
+[pickup3]Nous formons un groupe, chacun de nous fait attention aux autres.
 81)  ANDY
-[pickup3]I hear that!  There are so many dumbasses out there fighting  each other these days...  it's just stupid.
+[pickup3]Je comprends ! Il y a tellement d'idiots qui se battent les uns contre les autres ces temps-ci...  c'est vraiment stupide.
 82)  DANNY
-[pickup3][friendly] How many people ya got over there anyway?
+[pickup3][friendly] Vous êtes combien là-bas?
 83)  LEE
-[pickup3]Nine. Including the kids.
+[pickup3]Neuf. Y compris les enfants.
 84)  DOUG
-[pickup3]Well, ten actually... if you count the new guy.
+[pickup3]Et bien, dix en fait... si vous comptez le nouveau.
 85)  CARLEY
-[pickup3]You forgot Ben.
+[pickup3]Vous avez oublié Ben.
 86)  BEN
-[pickup3]Me?
+[pickup3]Moi?
 87)  CARLEY
-[pickup3]That makes it ten.
+[pickup3]Ca fait dix.
 88)  LEE
-[pickup3]Enough to defend ourselves.
+[pickup3]Assez pour nous défendre.
 89)  ANDY
-[pickup3]Well that's good!  It's getting dangerous out there, well, you guys know.
+[pickup3]Bin c'est bien!  Ca devient dangereux par ici, vous savez les gars.
 90)  
-Nine. Including the kids.
+Neuf. Y compris les enfants.
 91)  
-Enough to defend ourselves.
+Assez pour nous défendre.
 92)  
 [Change the Subject]
 93)  LEE
-[pickup3] Well, the kid here is our newest arrival, but we're all looking forward to some food.  We really need it.
+[pickup3] Et bien, le gamin ici est notre nouvel arrivant, mais nous cherchons tous de la nourriture.  On en a vraiment besoin.
 94)  ANDY
-[pickup3]Well, here's to helping each other out!
+[pickup3]Et bien, on va pouvoir s'entraider !
 96)  ANDY
-[pickup3]Well, here's to helping each other out!
+[pickup3]Et bien, on va pouvoir s'entraider !
 95)  MARK
-[pickup3][chiming in after Lee remians silent] We've got a lot of hungry folks back there who really appreciate your food offer.
+[pickup3][chiming in after Lee remians silent] On a un paquet de gens affamés là-bas qui apprécient votre offre de nourriture.
 97)  ANDY
-[pickup3]Well, we'd love to get ya all out to the dairy.  Like I said, we've got plenty of food, and quite frankly, we could always use an extra helping hand.
+[pickup3]Et bien, on aimerait vous emmener tous à la laiterie.  Comme je disais, on a plein de nourriture, et franchement, on aurait bien besoin d'un peu d'aide supplémentaire.
 98)  BEN
-[pickup3]In the summers, I used to help out on a goat farm.
+[pickup3]L'été, je filais un coup de main dans un élevage de chèvres.
 99)  DANNY
-[pickup3]  Yeah, that's great. Everything helps!
+[pickup3]  Ouais, c'est cool. Tout le monde aide !
 100)  ANDY
-[pickup3]Momma's been running the dairy for as long as I can remember but now it's gettin- [hears a noise and cuts himself off]
+[pickup3]Maman fait tourner la laiterie depuis aussi longtemps que je m'en souvienne mais maintenant, ça devient- [hears a noise and cuts himself off]
 101)  BANDIT1
-[pickup3][process: in the distance]You think you're gonna cut me out of this?
+[pickup3][process: in the distance]Tu crois que tu vas me mettre à l'écart ?
 102)  ANDY
-[pickup3][paniced whisper]Shit!  Get down!
+[pickup3][paniced whisper]Merde !  Baissez-vous !
 103)  DANNY
-[pickup3][whispering] Fuckin' bandits.
+[pickup3][whispering] Putain de bandits.
 104)  MARK
-[pickup3][whispering] Who?
+[pickup3][whispering] Qui ?
 105)  BEN
-[pickup3] [whispering] Those look like the people who raided my camp!
+[pickup3] [whispering] Ils ressemblent à ceux qui ont pillé mon camp !
 106)  LEE
-[pickup3][whispering] Who are they?
+[pickup3][whispering] C'est qui?
 107)  ANDY
-[pickup3] [whispering]Shh. Fucking assholes is who they are.
+[pickup3] [whispering]Chut. Des putains de trous du cul.
 108)  DOUG
-[pickup3][whispering]What should we do?
+[pickup3][whispering]Qu'est qu'on va faire?
 109)  CARLEY
-[pickup3][whispering]There's only two of them.
+[pickup3][whispering]Il n'y en a que deux.
 110)  DANNY
-[pickup3][whispering]Oh no, there's a LOT more of em.
+[pickup3][whispering]Oh non, ils sont BEAUCOUP plus nombreux.
 111)  ANDY
-[pickup3][whispering]Don't worry.  Danny and I have ya covered if something happens, but let's just wait this out and hope they move on.
+[pickup3][whispering]Ne vous en faites pas.  Danny et moi, on vous couvre s'il se passe quelque chose, mais attendons et espérons qu'ils partent.
 112)  BANDIT1
-[pickup3][process: in the distance]You and Gary are always pulling this shit!  Don't think we haven't noticed.
+[pickup3][process: in the distance]Toi et Gary, vous tirez tout le temps cette merde !  Ne crois pas qu'on avait pas remarqué.
 113)  BANDIT2
-[pickup3][process: in the distance]No one is trying to cut you out of anything!
+[pickup3][process: in the distance]Personne n'essaie de te mettre à l'écart !
 114)  BANDIT1
-[pickup3][process: in the distance]Fuck you, you KNEW we were hungry!  And you guys were keeping it all for yourselves!
+[pickup3][process: in the distance]Va te faire fouter, tu savais qu'on avait faim !  Et vous, les gars, vous gardez tout pour vous !
 115)  BANDIT2
-[pickup3][process: in the distance]Calm down, your paranoia is pissing everyone off!
+[pickup3][process: in the distance]Calmes toi, ta paranoïa emmerde tout le monde !
 116)  BANDIT2
-[pickup3][process: in the distance]Yeah, and you know what, we ate it all!  What are you gonna fucking do about it?
+[pickup3][process: in the distance]Ouais, et tu sais quoi, on a tout bouffé !  Qu'est-ce que tu vas faire maintenant ?
 117)  BANDIT1
-[pickup3][process: in the distance] FUCK YOU!!
+[pickup3][process: in the distance] VA TE FAIRE FOUTRE !!
 118)  BEN
 [pickup3][whispering- seeing a guy shoot another guy in the head][frightened gasp]
 119)  DOUG
-[pickup3][whispering- seeing a guy shoot another guy in the head]Oh, shit!
+[pickup3][whispering- seeing a guy shoot another guy in the head]Oh, merde !
 120)  CARLEY
-[pickup3][whispering- seeing a guy shoot another guy in the head]Jesus!
+[pickup3][whispering- seeing a guy shoot another guy in the head]Jésus !
 121)  BANDIT1
-[pickup3][process: in the distance - Shooting a guy he's already killed] FUCK YOU! FUCK YOU!
+[pickup3][process: in the distance - Shooting a guy he's already killed] VA TE FAIRE FOUTRE ! VA TE FAIRE FOUTRE !
 122)  BANDIT1
-[pickup3][process: in the distance ] Asshole.
+[pickup3][process: in the distance ] Trou du cul.
 123)  ANDY
-[pickup3][serious.  Hushed but not whispered]The world out here has gone to shit. Come on, let's get to the dairy where it's safe.
+[pickup3][serious.  Hushed but not whispered]Le monde part en couille. Allez, allons à laiterie où ça sera sûr.
 125)  LEE
-[pickup3]Not sure everyone would see it that way.
+[pickup3]Pas sûr que tout le monde verrait ça comme ça.
 126)  CARLEY
-[pickup3]You don't have to. Whatever happened before things went to hell doesn't matter anymore.
+[pickup3]Vous n'avez pas à le faire. Peu importe ce qui s'est passé avant que
 127)  CARLEY
-[pickup3]Maybe you're right...
+[pickup3]Vous avez peut-être raison...
 128)  LEE
-[pickup3]Sometimes I wonder if I should talk to the group about it...
+[pickup3]Parfois, je me demande si je devrais parler au groupe de tout ça...
 129)  LEE
-[pickup3][genuine]I really appreciate that.
+[pickup3][genuine]J'apprécie vraiment.
 130)  MARK
-[pickup3] Right Lee?
+[pickup3] D'accord Lee ?
 131)  LEE
-[pickup3]Can an electric fence really stop walkers?
+[pickup3]Est-ce qu'une barrière électrique peut vraiment arrêter les rôdeurs ?
 132)  LEE
-[pickup3]I guess so...
+[pickup3]Je pense...
 133)  DOUG
-[pickup3]The electricity basically cooks you from the inside out, right?
+[pickup3]L'électricité vous fait principalement cuire de l'intérieur, pas vrai ?
 134)  DOUG
-[pickup3]So if a walker stays in contact with the fence, it'll eventually cook its brain. Probably takes a while though.
+[pickup3]Alors si un rôdeur reste en contact avec la barrière, ça peut finalement lui cuire le cerveau. Bien que ça puisse prendre un certain temps.
 135)  DOUG
-[pickup3]As long as the walkers aren't completely dehydrated, and the fence has enough juice, yeah, seems plausble.
+[pickup3]Tant que les rôdeurs sont complètement déshydratés, et que la barrière a assez de courant, ouais, ça semble plausible.
 136)  DOUG
-[pickup3][afterthought]...and that can't be a good smell.  ...Unless it smells like jerky... Man, I could go for some jerky.
+[pickup3][afterthought]...et ça doit puer.  ...A moins que ça sente la viande séchée... Mec, j'aimerais bien de la viande séchée.
 137)  DOUG
-[pickup3]I shouldn't have turned down that food you offered me earlier.
+[pickup3]J'aurais pas dû refuser la nourriture que vous m'avez offert tout à l'heure.
 138)  DOUG
-[pickup3][slightly embarased]Heh.  Sorry.
+[pickup3][slightly embarased]Hé. Désolé.
 139)  LEE
-[pickup3][chuckles slightly]Heh heh... that is one runaway train of thought.
+[pickup3][chuckles slightly]Hé hé... c'est une pensée incontrôlée.
 140)  MARK
-[pickup3][ambient]People were just grabbing food, guns, water... whatever they could get their hands on.
+[pickup3][ambient]Les gens récupéraient de la nourriture, ds armes, de l'eau... tout ce sur quoi ils pouvaient mettre la main.
 141)  BEN
-[pickup3][ambient]Well.. gas is free now, right?
+[pickup3][ambient]Et bien.. l'essence est gratuite maintenant, pas vrai?
 142)  ANDY
-[pickup3][ambient]It is IF you can get it.  I'd rather pull up to a gas station and pay five dollars at the pump than try to fight of some dead guy.
+[pickup3][ambient]Elle l'est si tu peux en prendre.  Je préferais pousser jsuqu'à une station essence et payer cinq dollars à la pompe qu'essayer de me battre contre quelques cadavres.
 143)  MARK
-[pickup3]Man, you shoulda seen how people went crazy back at the air force base.  When the place got overrun, it turned into chaos!
+[pickup3]Vous auriez dû voir comment les gens devenaient dingues à la base aérienne.  Quand l'endroit a été submergé, c'est devenu le chaos !
 144)  MARK
-[pickup3][ambient]Ya know, it seems like just yesterday I was complaining about the price of gas being so high.  I guess that's nothing compared to now.
+[pickup3][ambient]Vous savez, on dirait que c'était hier que je me plaignais du prix si élevé de l'essence.  Je pense que c'est rien comparé à maintenant.
 145)  BEN
-[pickup]That's just how it was on the bus.
+[pickup]C'était comme ça sur le bus.
 146)  MARK
-[pickup3][ambient]Somehow I ended up getting locked in one of the commissary storage closets.
+[pickup3][ambient]D'une façon ou d'une autre, j'ai fini enfermé dans un local de stockage du commissariat.
 147)  ANDY
-[pickup3][ambient]Or worse, a bunch of hoarders!
+[pickup3][ambient]Ou pire, un groupe de pilleurs !
