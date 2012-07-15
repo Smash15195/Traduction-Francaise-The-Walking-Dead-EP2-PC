@@ -1,103 +1,103 @@
 1)  KENNY
-{disgustA} Come on, Lee. {sadA} No way you're gonna be able to cut through that thing.
+{disgustA} Allez, Lee. {sadA} Vous arriverez jamais à couper ce truc.
 2)  MARK
-[pickup2] Lee, are you nuts?!!  Quick fucking around, try something else!!
+[pickup2] Lee, vous êtes taré?!!  Arrêtez vos conneries, essayez quelque chose d'autre!!
 3)  BEN
-{surprisedA} Bitten? No! I swear!
+{surprisedA} Mordu? Non! Je le jure!
 4)  KENNY
-{disgustA} How the hell did he lose this much blood? {fearB} Was he bitten?
+{disgustA} Bon Dieu comment a-t-il pu perdre autant de sang? {fearB} Il a été mordu?
 5)  KENNY
-[pickup2]{fearA} All that blood and screaming... {fearB} We're gonna be surrounded any minute.
+[pickup2]{fearA} Tout ce sang et ces cris... {fearB} On va se faire encercler d'une minute à l'autre.
 6)  BEN
-[freaking out] {fearB} Oh man, oh man....
+[freaking out] {fearB} Allez, allez....
 7)  BEN
-[freaking out] {fearB} This can't be happening!
+[freaking out] {fearB} C'est pas possible!
 8)  BEN
-[freaking out] {fearB} Come on, DO something!
+[freaking out] {fearB} Allez, FAITES quelque chose!
 9)  BEN
-[freaking out] {fearB} Why would somebody do this?!
+[freaking out] {fearB} Qui ferait ça?!
 10)  BEN
-[freaking out] {fearB} Oh, God, he can't die.
+[freaking out] {fearB} Oh, mon Dieu, il ne peut pas mourir.
 11)  BEN
-[nervous] {sadC} O...okay.
+[nervous] {sadC} D...D'accord.
 12)  LEE
-{sadA} Calm down, kid. We'll get him out of this.
+{sadA} Du calme, petit. On va le tirer de là.
 13)  BEN
-{sadC} Ah, crap. Okay.
+{sadC} Ah, merde. D'accord.
 14)  LEE
-[stern] {angryA} Kid, we need you to keep an eye on those zombies.
+[stern] {angryA} Petit, il faut que tu gardes un oeil sur ces zombies pour nous.
 15)  LEE
-{angryC} Shut up!
+{angryC} La ferme!
 16)  BEN
-{fearD} Screw you, man! Just help him!
+{fearD} Allez vous faire foutre, quoi! Aidez-le!
 17)  DAVID
 [extreme pain] AAAAAARRRRGGGHHH!
 18)  DAVID
-[in horror]Oh, God.
+[in horror]Oh, mon Dieu.
 19)  DAVID
 [extreme pain] FUUUUARRGGGGHHH!!!
 20)  KENNY
-{fearC} One more hit, Lee.
+{fearC} Encore une fois, Lee.
 21)  DAVID
-[in pain!] Get it off!!  Get it off, God Dammit, get it off me!!
+[in pain!] Enlevez-moi ça!!  Enlevez-moi ça, bon Dieu, enlevez-moi ça!!
 107)  DAVID
-[in pain!] Get it off!!  Get it off, God Dammit, get it off me!!
+[in pain!] Enlevez-moi ça!!  Enlevez-moi ça, bon Dieu, Enlevez-moi ça!!
 22)  DAVID
 [gruntingin pain2]Nnnnnnggggg...
 23)  DAVID
-[in pain]Hurry... please hurry...
+[in pain]Plus vite... je vous en supplie plus vite...
 24)  DAVID
 [grunting in pain1]Arrrrgg...
 25)  DAVID
-[in pain]This isn't happening...
+[in pain]J'y crois pas...
 26)  DAVID
 [in pain5]Ggnnnnrrrnnn!!
 27)  DAVID
-[in pain]Quit screwing around!  Get me out!
+[in pain]Arrêtez vos conneries!  Sortez-moi de là!
 28)  DAVID
-[in pain]You can't leave me like this.  Please get me out!
+[in pain]Vous pouvez pas me laisser là.  Sortez-moi de là!
 29)  DAVID
-[in pain]Just do something... anything, please!
+[in pain]Faites quelque chose... n'importe quoi je vous en supplie!
 30)  DAVID
 [gruntingin pain4]Nnnnnnggggg...
 31)  DAVID
 [grunting in pain3]Arrrrgg...
 32)  LEE
-[pickup2][examining Davids leg in the beartrap] {disgustB} Damnit, this is bad.  Really bad.
+[pickup2][examining Davids leg in the beartrap] {disgustB} Bon sang, c'est pas bon.  Pas bon du tout.
 33)  DAVID
-[Having is leg severed with an axe] Oh, God! Oh, God!!
+[Having is leg severed with an axe] Oh, mon Dieu! Oh, mon Dieu!!
 34)  DAVID
-[Having is leg severed with an axe] Please!!!  Just DO IT!!
+[Having is leg severed with an axe] Allez!!!  FAITES-LE!!
 35)  DAVID
 [Having is leg severed with an axe] Nnnrrrghhhghhh!!!!
 36)  DAVID
-[Having is leg severed with an axe: (Please get it over with)] Lee!  Please!!!
+[Having is leg severed with an axe: (Please get it over with)] Lee!  Je t'en prie!!!
 294)  DAVID
-[Having is leg severed with an axe: (Please get it over with)] Lee!  Please!!!
+[Having is leg severed with an axe: (Please get it over with)] Lee!  Je t'en prie!!!
 37)  DAVID
 [Having is leg severed with an axe] [crying in pain]
 295)  DAVID
 [Having is leg severed with an axe] [crying in pain]
 38)  DAVID
-[Having is leg severed with an axe] God!  My leg...
+[Having is leg severed with an axe] Mon Dieu!  Ma jambe...
 39)  DAVID
 [Having is leg severed with an axe] Rrrrrrrnnngghh!!!
 40)  DAVID
-[Having is leg severed with an axe] This isn't happening...
+[Having is leg severed with an axe] C'est un cauchemar...
 41)  LEE
-[pickup2][stressed, trying to cut the steel cable that secures the bear trap] {sadA} I had to try.
+[pickup2][stressed, trying to cut the steel cable that secures the bear trap] {sadA} Fallait que j'essaye.
 42)  MARK
-[Examining the leg in the bear trap] {fearB} Jesus Christ...
+[Examining the leg in the bear trap] {fearB} Bon Dieu...
 106)  MARK
-[Examining the leg in the bear trap] {fearB} Jesus Christ...
+[Examining the leg in the bear trap] {fearB} Bon Dieu...
 43)  DAVID
 [Having is leg severed with an axe][Impact hit - More Cry-y]
 44)  DAVID
-[Having is leg severed with an axe]No more!  Please!!! ...No more!  Please!!!
+[Having is leg severed with an axe]Assez!  Je vous en supplie!!! ...Assez!  S'il vous plait!!!
 45)  DAVID
-[Having is leg severed with an axe]STOP!  PLEASE STOP!!
+[Having is leg severed with an axe]STOP!  JE VOUS EN SUPPLIE ARRETEZ!!
 46)  DAVID
-[Having is leg severed with an axe] No!  Stop!!  I can't take it!!
+[Having is leg severed with an axe] Non!  Arrêtez!!  J'en peux plus!!
 47)  DAVID
 [Having is leg severed with an axe][Impact hit!]
 48)  DAVID
@@ -107,129 +107,129 @@
 50)  DAVID
 [painful heavy breathing 2]
 51)  
-Chain
+Chaine
 52)  
-Chop
+Couper
 241)  
-Chop
+Couper
 242)  
-Chop
+Couper
 276)  
-Chop
+Couper
 53)  
-Leg
+Jambe
 54)  
-Trap
+Piege
 55)  
-Tree
+Arbre
 56)  
-Use
+Utiliser
 244)  
-Use
+Utiliser
 57)  MARK
-[pickup2] [disapointed that the zombies got to their food] {painA} Dammit.  {thinkingA} What'd they get this time?
+[pickup2] [disapointed that the zombies got to their food] {painA} Dammit.  {thinkingA} Qu'est ce qu'ils ont attrapé cette fois?
 58)  MARK
-[pickup2] [disapointed that the zombies got to their food(a rabbit)] {sadA} Well, that's another meal lost.
+[pickup2] [disapointed that the zombies got to their food(a rabbit)] {sadA} Bon, encore un repas qui nous a échappé.
 59)  LEE
-[pickup2] [hunting with Mark in the woods, Wondering what a zombie was eating] {thinkingB} Looks like a rabbit.
+[pickup2] [hunting with Mark in the woods, Wondering what a zombie was eating] {thinkingB} On dirait un lapin.
 60)  LEE
-[pickup2] [hunting with Mark in the woods, after losing a rabbit] {disgustA} A rabbit's hardly a meal, Mark,  but... I'd take it. We're all hungry.
+[pickup2] [hunting with Mark in the woods, after losing a rabbit] {disgustA} Un lapin ça fait à peine un repas, Mark, mais...ça m'aurait convenu. On est tous affamés.
 61)  MARK
-[pickup2][Responding to "We need something that will feed all of us"] {thinkingA} No kidding.
+[pickup2][Responding to "We need something that will feed all of us"] {thinkingA} Sans blague.
 62)  MARK
-[pickup2] [cont] {disgustA} Last night I heard your friend Doug laying in bed just naming types of pie. It was driving me nuts. I think he's starting to lose it.
+[pickup2] [cont] {disgustA} Hier soir j'ai entendu votre ami Doug, il était dans son lit, en train d'énumérer des noms de tartes. Ca me rendait dingue. Je pense qu'il commence à perdre les pédales.
 63)  LEE
-[pickup2] {thinkingA} He's not the only one. Won't you cut him some slack.
+[pickup2] {thinkingA} C'est pas le seul. Faut pas le brusquer.
 64)  LEE
-[pickup2] {thinkingA} We're all on edge. Just cut her some slack.
+[pickup2] {thinkingA} On est tous à cran. Soyez indulgent.
 65)  MARK
-[pickup2] {disgustA} When I accidentally grabbed for Carley's rations the other night, I thought she was gonna take off my hand!
+[pickup2] {disgustA} L'autre nuit, quand j'ai pris la ration de Carley par accident, j'ai cru qu'elle allait m'arracher la main!
 66)  MARK
-[pickup2][agreeing that the lack of food is making everyone on egde] {normalB} Yeah, you're right.  [frustrated] {disgustB} I wish I knew for sure how much food we have left.
+[pickup2][agreeing that the lack of food is making everyone on egde] {normalB} Ouais, vous avez raison.  [frustrated] {disgustB} Si seulement je savais exactement ce qu'il nous reste de nourriture.
 67)  LEE
-[pickup2] {disgustA}{body-crouchAxe} You'll have to ask Lilly.  She's the one handling the rations.
+[pickup2] {disgustA}{body-crouchAxe} Demandez à Lilly.  C'est elle qui gère les rations.
 68)  LEE
-[pickup2] {sadA}{body-crouchAxe} Not enough.  According to Lilly we've just about hit the last of our food reserves. {thinkingA} Some people might have to go without tonight.
+[pickup2] {sadA}{body-crouchAxe} Pas assez.  D'après Lilly on est sur le point d'entamer nos dernières réserves. {thinkingA} Plusieurs d'entre nous n'auront rien ce soir.
 69)  LEE
-[pickup2] {thinkingA}{body-crouchAxe} We'll manage.
+[pickup2] {thinkingA}{body-crouchAxe} Ca ira.
 70)  
-We'll manage.
+Ca ira.
 71)  
-Not enough.
+Pas assez.
 72)  MARK
-[pickup2] {disgustA}{body-crouchRifle} Or mishandling it, if you ask Kenny.
+[pickup2] {disgustA}{body-crouchRifle} Ou alors on gère mal nos réserves. Demandez à Kenny.
 73)  LEE
-[pickup2] {sadA} He's just worried about his kid getting enough. I worry about Clementine, too.
+[pickup2] {sadA} Il craint que son fils n'en ait pas assez. Moi aussi je m'en fais pour Clémentine.
 74)  LEE
-[pickup2] {disgustB} She thinks everyone should have an equal chance of missing a meal.
+[pickup2] {disgustB} Elle croit qu'on devrait tous avoir la même chance de sauter un repas.
 75)  MARK
-[pickup2] {disgustB}{body-crouchRifle} You mean "Lilly's Lottery" again. {disgustA} Kenny's gonna be pissed.
+[pickup2] {disgustB}{body-crouchRifle} Encore cette "lotterie de Lilly". {disgustA} Kenny va se mettre en rogne.
 76)  
-You'll have to ask Lilly.
+Demandez a Lilly.
 77)  MARK
-[pickup2] {disgustA}{body-crouchRifle} Maybe. You know some people aren't too happy about the way Lilly is handling rations.
+[pickup2] {disgustA}{body-crouchRifle} Peut-être bien. Vous savez que certains ne sont pas très satisfaits de la manière dont Lilly gère les rations.
 78)  LEE
-[pickup2] {thinkingB} Lilly knows it's important to keep the adults fed and functioning. {disgustA} Sometimes that means someone's gotta miss a meal.
+[pickup2] {thinkingB} Lilly sait parfaitement qu'il faut que les adultes soient nourris et en bonne santé. {disgustA} Ca implique que parfois quelqu'un doive sauter un repas.
 79)  MARK
-[pickup2][responding to lee's silence when asked "How much food is left?"] {disgustA}{body-crouchRifle} ...That much, huh? {sadA} Does Kenny know?
+[pickup2][responding to lee's silence when asked "How much food is left?"] {disgustA}{body-crouchRifle} ...Tant que ça, hein? {sadA} Kenny est au courant?
 80)  LEE
-[pickup2] {disgustA}{body-crouchAxe} I don't know.[-if Kenny knows that we have no food left]
+[pickup2] {disgustA}{body-crouchAxe} Je ne sais pas.[-if Kenny knows that we have no food left]
 81)  MARK
-[pickup2] {angryA} Yeah, between the lack of food and Kenny & Lilly fighting all the time, {sadA} things are getting pretty tense back at the Motor Inn.
+[pickup2] {angryA} Ouais, entre le manque de nourriture et Kenny & Lilly qui s'engueulent tout le temps, {sadA} la situation va se corser au Motor Inn.
 82)  MARK
-[pickup2] {thinkingA} You know Kenny's been talking about taking off if he can get that RV running.
+[pickup2] {thinkingA} Vous savez que Kenny parle de mettre les voiles s'il parvient à démarrer son camping-car.
 83)  LEE
-[pickup2] {normalD}{body-crouchAxe} I sure hope so. [hoping kenny is having better luck hunting for food]
+[pickup2] {normalD}{body-crouchAxe} J'espère bien. [hoping kenny is having better luck hunting for food]
 84)  MARK
-[pickup2] {normalA}{body-crouchRifle} You think Kenny's having any more luck than we are out here?
+[pickup2] {normalA}{body-crouchRifle} Vous croyez que Kenny a été plus chanceux que nous? 
 85)  MARK
-[pickup2] {sadA}{body-crouchRifle} Can't blame him, though - {disgustA} did you hear Larry going off on him last night? {thinkingB} What's the old guy's deal, anyway? {normalB} Seems like he's got a problem with you in particular.
+[pickup2] {sadA}{body-crouchRifle} Je peux pas lui en vouloir pourtant - {disgustA} vous avez entendu Larry s'en prendre à lui l'autre soir? {thinkingB} C'est quoi son problème au vieux, au juste? {normalB} On dirait qu'il a un problème avec vous en particulier.
 86)  
-He thinks I'm dangerous.
+Il me croit dangereux.
 87)  
-He's an old racist asshole.
+C'est un vieux con de raciste.
 88)  
-He's just looking out for his daughter.
+Il veut juste proteger sa fille.
 89)  
-I have no idea.
+Aucune idee.
 90)  LEE
-[pickup2][Responding to "What's Larry's deal"?] {disgustA}{body-crouchAxe} He thinks I'm a danger to the group {thinkingB} and Clementine.
+[pickup2][Responding to "What's Larry's deal"?] {disgustA}{body-crouchAxe} Il pense que je suis dangereux pour le groupe. {thinkingB} et pour Clémentine.
 91)  MARK
-[pickup2] {thinkingB}{body-crouchRifle} I think he's the one putting us in danger. {angryA} The way Lilly worries about his health, I wouldn't be surprised if she's been skimming rations for him.
+[pickup2] {thinkingB}{body-crouchRifle} Je pense que c'est lui qui nous met en danger. {angryA} Vu comme Lilly se fait du souci pour sa santé, ça m'étonnerait pas qu'elle ait piqué des rations pour lui.
 92)  LEE
-[pickup2][Responding to "What's Larry's deal"?] {angryA}{body-crouchAxe} He's just an old racist asshole, that's his deal.
+[pickup2][Responding to "What's Larry's deal"?] {angryA}{body-crouchAxe} C'est qu'un vieux con de raciste, voilà son problème.
 93)  MARK
-[pickup2] {angryA}{body-crouchRifle} Well, he needs to get over that and start finding a way to pull his weight. {thinkingA} Heart problems or not, we should all be out here trying to find food.
+[pickup2] {angryA}{body-crouchRifle} Et bien il va falloir qu'il s'y fasse et qu'il commence trouver comment se rendre utile. {thinkingA} Cardiaque ou pas, on devrait tous être ici en train de chercher à manger.
 94)  MARK
-[pickup2] {thinkingA}{body-crouchRifle} Hey, I know Lilly. {angryA} She can take care of herself. {thinkingA} He needs to take that energy and put it towards finding us some more food.
+[pickup2] {thinkingA}{body-crouchRifle} Hé, je connais Lilly. {angryA} Elle peut s'occuper d'elle. {thinkingA} Il doit dépenser son énergie pour nous trouver de la nourriture.
 95)  LEE
-[pickup2][Responding to "What's Larry's deal?" with some reluctance & pride swallowing] {thinkingA}{body-crouchAxe} Larry's just{normalD} looking out for his daughter.
+[pickup2][Responding to "What's Larry's deal?" with some reluctance & pride swallowing] {thinkingA}{body-crouchAxe} Larry{normalD} il veut simplement protéger sa fille.
 96)  LEE
-[pickup2][Responding to "What's Larry's deal"? - Just totally tired of dealing with Larry] {angryA}{body-crouchAxe} Who knows what Larry's problem is.
+[pickup2][Responding to "What's Larry's deal"? - Just totally tired of dealing with Larry] {angryA}{body-crouchAxe} Qui peut bien savoir ce que c'est son problème?
 97)  MARK
-[pickup2] {thinkingA}{body-crouchRifle} Maybe that's just the way he is, {angryA}but that guy needs to chill out.
+[pickup2] {thinkingA}{body-crouchRifle} C'est peut-être sa façon d'être, {angryA}n'empêche que ce type doit se calmer.
 98)  LEE
-[pickup2][still weary from hunger] {normalC}{body-crouchAxe} Maybe you shouldn't have opened the door.
+[pickup2][still weary from hunger] {normalC}{body-crouchAxe} Vous n'auriez peut-être pas du ouvrir la porte.
 99)  MARK
-[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {thinkingB}{body-crouchRifle} Trust me.  If I don't think I can hit it, I won't shoot.
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {thinkingB}{body-crouchRifle} Faites-moi confiance.  Si je pense ne pas le toucher, je tirerai pas.
 100)  MARK
-[pickup2][still weary from hunger]  {sadA}{body-crouchRifle} I still can't believe we went through all that commissary food in 3 months! {painA} It seemed like so much at the time.
+[pickup2][still weary from hunger]  {sadA}{body-crouchRifle} J'en reviens toujours pas que nous ayons terminé toutes les provisions en 3 mois! {painA} Il y en avait tellement au début.
 101)  MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Merde!  C'était Kenny?!
 297)  MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Merde!  C'était Kenny?!
 299)  MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Merde!  C'était Kenny?!
 301)  MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Merde!  C'était Kenny?!
 303)  MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Merde!  C'était Kenny?!
 305)  MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Merde!  C'était Kenny?!
 102)  MARK
-[pickup2] {thinkingB} Yeah, except then I'd probably BE food by now. {disgustA} Trust me, I have no regrets!
+[pickup2] {thinkingB} Ouais, sauf que ce serait MOI la bouffe maintenant. {disgustA} Croyez-moi, je ne regrette rien!
 103)  LEE
-[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {disgustA}{body-crouchAxe} It's a long shot.  I'd hate to waste the bullets.
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {disgustA}{body-crouchAxe} Il est loin.  Je voudrais pas perdre de balles.
 104)  DAVID
 [pickup2][process; far in the distance - Open woods][NOTE:We probably dont need to record this, we have plenty of screaming lines to choose from] Aaaaahhhhhhhhh!!!!
 176)  DAVID
@@ -241,304 +241,304 @@ I have no idea.
 181)  DAVID
 [pickup2][process; far in the distance - Open woods][NOTE:We probably dont need to record this, we have plenty of screaming lines to choose from] Aaaaahhhhhhhhh!!!!
 105)  LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} J'en sais rien!  Venez!
 296)  LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} J'en sais rien!  Venez!
 298)  LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} J'en sais rien!  Venez!
 300)  LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} J'en sais rien!  Venez!
 302)  LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} J'en sais rien!  Venez!
 304)  LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} J'en sais rien!  Venez!
 108)  TRAVIS
-[pickup2][nervous!!  When strangers show up suddenly with gun, Travis panics] {fearC} Oh shit!!  No.  No... Please don't kill us! {fearD} We just want to help our teacher!!  We'll leave, I swear!
+[pickup2][nervous!!  When strangers show up suddenly with gun, Travis panics] {fearC} Oh merde!!  Non.  Non... S'il vous plait me tuez pas! {fearD} On veut juste aider notre prof!!  On partira, je vous le promets!
 109)  TRAVIS
-[pickup2][Wanting Ben to stop asking for help from strangers!] {surprisedA} These might be the same guys that raided our camp and... {fearB} We barely got away from that!
+[pickup2][Wanting Ben to stop asking for help from strangers!] {surprisedA} Ils sont peut-être avec les types qui ont attaqué notre camp et... {fearB} On a bien failli y rester!
 110)  BEN
-[pickup2][panicing- his teacher is caught in a bear trap!] {fearD} Travis, maybe they can help!
+[pickup2][panicing- his teacher is caught in a bear trap!] {fearD} Travis, ils peuvent peut-être nous aider!
 111)  MARK
-[pickup2][trying to help his teacher][in the background] {disgustA} What guys?
+[pickup2][trying to help his teacher][in the background] {disgustA} Quels types?
 112)  KENNY
-[pickup2] {disgustA} Why the fuck is there a bear trap out HERE?!
+[pickup2] {disgustA} Bordel qu'est-ce qu'il fout là ce piège à ours?!
 113)  LEE
-[pickup2][trying to quickly convince Travis they they arent murderers] {fearB} It's okay.  We're not gonna hurt you.
+[pickup2][trying to quickly convince Travis they they arent murderers] {fearB} Ca va.  On ne vous veut aucun mal.
 114)  TRAVIS
-[pickup2][still thinking he's got things covered- caling out] {thinkingB} Ben, shut up! {fearB} My dad was Special Forces, I know what I'm doing!
+[pickup2][still thinking he's got things covered- caling out] {thinkingB} Ben, shut up! {fearB} Mon père était des forces spéciales, je sais ce que je fais!
 115)  BEN
-[pickup2][desperate for help] {fearD} PLEASE!
+[pickup2][desperate for help] {fearD} S'IL VOUS PLAIT!
 116)  BEN
-[pickup2][still desperate for help - Pleading to Lee, (Starting at a quieter projection)] {fearC} Just see if you can get him out! {surprisedA} After that you can leave us or whatever, {fearD} I don't care! Please!
+[pickup2][still desperate for help - Pleading to Lee, (Starting at a quieter projection)] {fearC} Voyez si vous pouvez le sortir de là! {surprisedA} Après ça vous pourrez nous laisser partir, ou ce que vous voulez, {fearD} je m'en fous! S'il vous plait!
 117)  LEE
 [pickup2][Swinging the axe, trying to cut a cable]Arrgh!!
 118)  MARK
-[pickup2][inspecting the extremely thick cable that attaches the bear trap to a tree URGENT] {fearA} Forget it! We use chain like that at the Air Force base to lift ordinance. {disgustA} You're NOT cutting through that!
+[pickup2][inspecting the extremely thick cable that attaches the bear trap to a tree URGENT] {fearA} Laissez tomber! On a des chaines comme ça à la base militaire. {disgustA} Vous ne la couperez JAMAIS!
 119)  KENNY
-[pickup2][FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]We have to!  We're outta time! Come on!
+[pickup2][FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]On n'a pas le choix!  C'est trop tard! Venez!
 120)  KENNY
-[pickup2]  [FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]We don't have TIME for that! I'm sorry, but we have to go NOW!
+[pickup2]  [FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]On n'a PAS le temps pour ça! Je suis désolé, mais on doit y aller MAINTENANT!
 121)  MARK
-[pickup2][FRANTIC - Still trying to free a man in a bear trap WHILE zombies are comming!!]We can't leave him now!  Not with those things coming!
+[pickup2][FRANTIC - Still trying to free a man in a bear trap WHILE zombies are comming!!]On peut pas l'abandonner maintenant!  Pas avec ces trucs qui arrivent!
 122)  KENNY
-[pickup2] [calling out to Lee as lee tries to free the man from the bear trap] {fearC} Shit! Walkers! {angryA} It's now or never, Lee.
+[pickup2] [calling out to Lee as lee tries to free the man from the bear trap] {fearC} Shit! Walkers! {angryA} C'est maintenant ou jamais, Lee.
 123)  TRAVIS
-[pickup2][quiet horror as he sees zombies start approaching from the trees] {fearD} ...Oh, no.
+[pickup2][quiet horror as he sees zombies start approaching from the trees] {fearD} ...Oh, non.
 124)  MARK
-[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! ]Lee, It has to be NOW!
+[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! ]Lee, on y va MAINTENANT!
 125)  BEN
-[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! - ] {fearB} Oh, God!  Please save him!!
+[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! - ] {fearB} Oh, mon Dieu!  Je vous en supplie sauvez-le!!
 126)  DAVID
-[pickup2][in extreme pain, thinking he's done for]Get Travis and Ben out of here! Aahhggrr!!
+[pickup2][in extreme pain, thinking he's done for]Emmenez Travis et Ben loin d'ici! Aahhggrr!!
 127)  KENNY
-[pickup2][FRANTIC - trying to get lee to hurry up freeing man in a bear trap WHILE zombies are comming!! - ]Let's go, let's go!!
+[pickup2][FRANTIC - trying to get lee to hurry up freeing man in a bear trap WHILE zombies are comming!! - ]On y va, on y va!!
 128)  LEE
-[pickup2][barking orders as he prepares to cut off the leg] {fearC} Mark, get the boys back!
+[pickup2][barking orders as he prepares to cut off the leg] {fearC} Mark, rattrape les gamins!
 129)  LEE
-[pickup2][barking orders as he prepares to cut off the leg] {angryA} Kenny, keep those walkers off of me!
+[pickup2][barking orders as he prepares to cut off the leg] {angryA} Kenny, empêche ces zombies d'approcher!
 130)  KENNY
-[pickup2][with zombies quickly approaching, Kenny tries to Snap Lee out of his indecision and get him to realize there is nothing they can do] {fearC} Come on!  We gotta go! {surprisedA} Now!
+[pickup2][with zombies quickly approaching, Kenny tries to Snap Lee out of his indecision and get him to realize there is nothing they can do] {fearC} Allez!  On doit y aller! {surprisedA} Maintenant!
 131)  DAVID
-[pickup2][in extreme pain, realizing they are leaving him behind]No, no don't leave me!!
+[pickup2][in extreme pain, realizing they are leaving him behind]Non, non me laissez pas!!
 132)  MARK
-[pickup2][realizing that Lee's inaction means they no longer have any time to save David, now that zombies have arrived] {angryC} Damnit Lee!!
+[pickup2][realizing that Lee's inaction means they no longer have any time to save David, now that zombies have arrived] {angryC} Putain, Lee!!
 133)  LEE
-[pickup2][turns to David as they start to flee] {sadC} I'm sorry!
+[pickup2][turns to David as they start to flee] {sadC} Je suis désolé!
 134)  TRAVIS
-[pickup2][~frantic struggling!!~ During a shootout with zombies, Travis tries to take Mark's gun!]  Give it to me!
+[pickup2][~frantic struggling!!~ During a shootout with zombies, Travis tries to take Mark's gun!]  Donnez-le moi!
 135)  KENNY
-[pickup2][durring a shootout with zombies, Travis is accidentally shot!!] {disgustA} Shit! {fearC} What happened?!
+[pickup2][durring a shootout with zombies, Travis is accidentally shot!!] {disgustA} Shit! {fearC} Qu'est-ce qui s'est passé?!
 136)  MARK
-[pickup2][Durring a shootout with zombies, Travis tries to take Lee's gun!] {surpriseB} Get off!!
+[pickup2][Durring a shootout with zombies, Travis tries to take Lee's gun!] {surpriseB} Lâche ça!!
 137)  TRAVIS
-[pickup2][in the middle of a frantic shootout, Travis freaks out!] {fearC} No!   We can't leave Mr. Parker like that!
+[pickup2][in the middle of a frantic shootout, Travis freaks out!] {fearC} Non!   On ne peut pas laisser Mr Parker comme ça!
 138)  TRAVIS
-[pickup2][~frantic!!~ During a shootout with zombies, Travis tries to take Mark's gun!] {angryA} Give me the gun!
+[pickup2][~frantic!!~ During a shootout with zombies, Travis tries to take Mark's gun!] {angryA} Donnez-moi le fusil!
 139)  TRAVIS
-[pickup2][realizing that he's been shot in the stomach] {fearD} ...Oh, God.
+[pickup2][realizing that he's been shot in the stomach] {fearD} ...Oh, mon Dieu.
 140)  LEE
-[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} It was an accident!
+[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} C'était un accident!
 141)  BEN
 [pickup2][frantic!  Watching his friend Travis try to take a gun away from Mark] {fearC} Travis?!!
 142)  MARK
-[pickup2][Durring a shootout with zombies, Travis tries to takeMark's gun! ~~STRUGGLING~~] {angryC} God dammit, let go!
+[pickup2][Durring a shootout with zombies, Travis tries to takeMark's gun! ~~STRUGGLING~~] {angryC} Bordel lâche ça!
 143)  LEE
-[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} I don't know!
+[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} J'en sais rien!
 144)  LEE
-[pickup2][Durring the shootout with the zombies, he accidentally shots Travis!  ((They are STILL fleeing the zombies))] {fearC} He went for the gun!
+[pickup2][Durring the shootout with the zombies, he accidentally shots Travis!  ((They are STILL fleeing the zombies))] {fearC} Il a voulu prendre le fusil!
 145)  KENNY
-[pickup2][While fleeing zombies and shooting  them, Travis gets shot by Mark by accident  ~Frantic~] {surprisedA} Grab the kid and keep moving!
+[pickup2][While fleeing zombies and shooting  them, Travis gets shot by Mark by accident  ~Frantic~] {surprisedA} Portez le gamin et on se tire!
 146)  
-It was an accident!
+C etait un accident!
 147)  
-I don't know!
+Je ne sais pas!
 148)  
-He went for the gun!
+Il a voulu prendre le fusil!
 149)  BEN
-[pickup2][overcome with the horror of leaving his teacher and his friend just getting shot!] {sadD} Oh, God!!
+[pickup2][overcome with the horror of leaving his teacher and his friend just getting shot!] {sadD} Oh, mon Dieu!!
 150)  MARK
-[pickup2][frantically trying to get Ben and his injured friend to run away from the oncoming zombies!] {fearC} Come on!  Move!!
+[pickup2][frantically trying to get Ben and his injured friend to run away from the oncoming zombies!] {fearC} Allez!  Courez!!
 151)  TRAVIS
-[pickup2][Totally losing it, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Oh, God!  [starting to get sick over the sight of so much blood] Grrk... Grrk...
+[pickup2][Totally losing it, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Oh, mon Dieu!  [starting to get sick over the sight of so much blood] Grrk... Grrk...
 152)  KENNY
-[pickup2][Frantic- knowing they have run out of time and have to go!] {surprisedA} If he's alive, grab him and let's go!!
+[pickup2][Frantic- knowing they have run out of time and have to go!] {surprisedA} S'il est encore en vie, prennez-le et tirons-nous!!
 153)  BEN
 [pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!]TRAVIS!!
 154)  LEE
-[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} KID, STOP!!
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} ARRETE, PETIT!!
 155)  TRAVIS
-[pickup2][Totally losing it and getting SICK, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Oh, God... No...
+[pickup2][Totally losing it and getting SICK, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Oh, mon Dieu... Non...
 156)  BEN
-[pickup2] [seeing his friend attacked by a zombie!!] {fearD} NOOOO!!!!
+[pickup2] [seeing his friend attacked by a zombie!!] {fearD} NOOOON!!!!
 157)  MARK
-[pickup2][coming over to see David's unconcious body after Lee has chopped his leg off] {fearA} Shit.  Is he...?
+[pickup2][coming over to see David's unconcious body after Lee has chopped his leg off] {fearA} Merde.  Est-ce qu'il est...?
 158)  LEE
-[pickup2][confiring that David is NOT dead after the leg chop - A bit out of breath] {sadB} He passed out.
+[pickup2][confiring that David is NOT dead after the leg chop - A bit out of breath] {sadB} Il s'est évanoui.
 159)  LEE
-[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {surpriseB} DON'T MOVE!!
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {surpriseB} BOUGE PAS!!
 160)  LEE
-[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} BEHIND YOU!!
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} DERRIERE TOI!!
 161)  LEE
-[pickup2][rushed!! trying to get Ben to flee the oncoming zombies!] {fearB} Come on, come on!  We gotta move!!
+[pickup2][rushed!! trying to get Ben to flee the oncoming zombies!] {fearB} Allez, allez!  Faut qu'on se tire!!
 162)  
-We're not gonna hurt you.
+On ne vous veut aucun mal.
 163)  
-Who raided your camp?
+Qui a attaqué votre camp?
 164)  
-What happened?!
+Qu'est-ce qui s'est passé?!
 165)  
-Kenny won't abandon us.
+Kenny ne nous abandonnera pas.
 166)  MARK
-[pickup2][wondering if Kenny will leave the group or not] {thinkingA}{body-crouchRifle} I guess we'll see.
+[pickup2][wondering if Kenny will leave the group or not] {thinkingA}{body-crouchRifle} On va bien voir.
 167)  
-He's got a family to look out for.
+Il doit s occuper de sa famille.
 168)  MARK
-[pickup2] {thinkingB}{body-crouchRifle} And they're safest in a big group. {sadA} Going out on his own will get them ALL killed.
+[pickup2] {thinkingB}{body-crouchRifle} Et ils seront plus en sécurité dans un grand groupe. {sadA} Le laisser se débrouiller seul les fera TOUS tuer.
 169)  
-He's better off without us.
+Il s en sortira mieux sans nous.
 170)  MARK
-[pickup2][If Kenny leaves, that means-] {sadA}{body-crouchRifle} And one fewer gun hand. {thinkingA} One way or the other it's a bad situation.
+[pickup2][If Kenny leaves, that means-] {sadA}{body-crouchRifle} Et un flingue de moins. {thinkingA} Dans les deux cas c'est mauvais.
 171)  MARK
-[pickup2][after saying "You know Kenny's been talking about taking off if he can get that RV running." ] {thinkingA}{body-crouchRifle} I think we're stronger as a group. {sadA} I just don't know what'll happen if we start to break apart.
+[pickup2][after saying "You know Kenny's been talking about taking off if he can get that RV running." ] {thinkingA}{body-crouchRifle} Je pense que nous sommes plus forts tous ensemble. {sadA} J'ai aucune aidée de ce qui va se passer si on commence à se diviser.
 172)  LEE
-[pickup2]["You know Kenny's been talking about taking off if he can get that RV running."] {normalD}{body-crouchAxe} Kenny won't abandon us. {normalD} He's a good man.
+[pickup2]["You know Kenny's been talking about taking off if he can get that RV running."] {normalD}{body-crouchAxe} Kenny ne nous abandonnera pas. {normalD} C'est un mec bien.
 173)  LEE
-[pickup2]["You know Kenny's been talking about taking off if he can get that RV running." ] {sadA}{body-crouchAxe} He's got a wife and son to look out for.
+[pickup2]["You know Kenny's been talking about taking off if he can get that RV running." ] {sadA}{body-crouchAxe} Il a une femme et un fils.
 174)  LEE
 [pickup2]["You know Kenny's been talking about taking off if he can get that RV running.
-" ] {thinkingA}{body-crouchAxe} Maybe he'll be better off without us. {disgustA} And we'll have three fewer mouths to feed.
+" ] {thinkingA}{body-crouchAxe} Peut-être qu'il s'en sortira mieux sans nous. {disgustA} Et ça fera trois bouches de moins à nourrir.
 175)  LEE
-[pickup2][still weary from hunger - Mark is aiming hie rifle at a bird in a tree] {thinkingA}{body-crouchAxe} Take the shot! {disgustA} We need anything we can get at this point.
+[pickup2][still weary from hunger - Mark is aiming hie rifle at a bird in a tree] {thinkingA}{body-crouchAxe} Tirez! {disgustA} Tout ce qu'on peut attraper est bon à prendre pour maintenant.
 178)  MARK
-[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {painA}{body-crouchRifle} Yeah, I know... I'm just..  really frickin' hungry.
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {painA}{body-crouchRifle} Ouais, je sais... C'est juste que..  j'ai vraiment trop faim.
 179)  LEE
-[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {angryA}{body-crouchAxe} Don't. Gunshot'll bring walkers. {thinkingA} One bird's not worth it.
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {angryA}{body-crouchAxe} Tirez pas. Le coup de feu va attirer des zombies. {thinkingA} Un oiseau ça vaut pas le coup.
 182)  LEE
-[pickup2][ Lee is reminded that Larry punched him in the face and isnt too apreciative of that] {thinkingA}{body-crouchAxe} Knocked me flat.
+[pickup2][ Lee is reminded that Larry punched him in the face and isnt too apreciative of that] {thinkingA}{body-crouchAxe} Il m'a mis KO.
 183)  MARK
-[pickup2][Alt - ][talking about how menacing Larry is.] {thinkingA} I know I wouldn't want to be stuck in a room with him!
+[pickup2][Alt - ][talking about how menacing Larry is.] {thinkingA} Je peux vous dire que j'aimerais pas me retrouver coincé seul dans une pièce avec lui!
 184)  MARK
-[pickup2][talking about how menacing Larry is. ] {thinkingB}{body-crouchRifle} And I know Lilly thinks he's getting weaker, {disgustA} but the guy's all muscle!
+[pickup2][talking about how menacing Larry is. ] {thinkingB}{body-crouchRifle} Et je sais que Lilly pense qu'il s'affaiblit, {disgustA} mais ce type c'est une montagne de muscles!
 185)  KENNY
-[pickup2][a bit out of breath from running to the scene in panic]Lee! You guys okay?
+[pickup2][a bit out of breath from running to the scene in panic]Lee! Ca va les gars?
 186)  BEN
-[pickup2][scared & confused... trust the strangers or risk getting slaughtered!] {fearD} I don't know, man...
+[pickup2][scared & confused... trust the strangers or risk getting slaughtered!] {fearD} Putain j'en sais rien...
 187)  LEE
-[pickup2][having just heard that theye may be other survivors nearby... violent ones] {fearB} Who raided your camp?!
+[pickup2][having just heard that theye may be other survivors nearby... violent ones] {fearB} Qui a attaqué votre camp?!
 188)  LEE
-[pickup2][just coming on the scene seeing a man trapped in a bear trap!] {fearC} What the hell happened?
+[pickup2][just coming on the scene seeing a man trapped in a bear trap!] {fearC} Mais qu'est-ce qui s'est passé?
 189)  KENNY
-[pickup2][forceful! trying to calm down the scared teen and the guy screaming in the beartrap] {angryA} Kid, chill out! {fearB} We'll try to help you, {disgustA} but you've got to shut the fuck up!
+[pickup2][forceful! trying to calm down the scared teen and the guy screaming in the beartrap] {angryA} Du calme petit! {fearB} On va essayer de t'aider, {disgustA} mais tu dois la fermer!
 190)  TRAVIS
-[pickup2][Scared!] {thinkingA} Don't listen to them, Ben! {fearC} Please, just let us go!  We're not a threat to you!!
+[pickup2][Scared!] {thinkingA} Les écoute pas, Ben! {fearC} S'il vous plait, laissez-nous partir!  On représente aucun danger!!
 191)  TRAVIS
-[pickup2] {fearC} Please!  We won't bother you, I swear!
+[pickup2] {fearC} S'il vous plait!  Je vous jure qu'on vous dérangera pas!
 192)  BEN
-[pickup2][scared- "Who raided your camp?" ] {fearC} I- I don't know! {fearD} Guys with guns!!
+[pickup2][scared- "Who raided your camp?" ] {fearC} Je- J'en sais rien! {fearD} Des types avec des armes!!
 193)  BEN
-[pickup2][scared, explaining why they are in the woods and what happened] {fearC} Mr. Parker said we should stay off the streets! {surprisedA} We were trying to be careful but-
+[pickup2][scared, explaining why they are in the woods and what happened] {fearC} Mr. Parker disait qu'on devait éviter les routes! {surprisedA} On faisait gaffe, mais-
 194)  DAVID
 [pickup2][In extreme pain - through the teeth] Rrrrrrrgghhh!!
 195)  MARK
-[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, this trap's been altered.  It needs some kind of custom tool to open it.
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, ce piège a été modifié.  Il faut un outil spécifique pour l'ouvrir.
 196)  MARK
-[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, this trap's been altered.  It can't be opened until after it's completely shut.
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, ce piège a été modifié.  On peut pas l'ouvrir tant qu'il s'est pas complètement refermé.
 197)  MARK
-[pickup2][seeing the desperate situation of two clueless kids and a man caught in a bear trap] {disgustB} Lee, this is fucked up.  We've gotta help 'em.
+[pickup2][seeing the desperate situation of two clueless kids and a man caught in a bear trap] {disgustB} Lee, c'est foutu.  Faut qu'on les aide.
 198)  MARK
-[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, this trap's been altered.  There's no release latch.
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, ce piège a été modifié.  Y a pas de loquet d'ouverture.
 199)  LEE
-[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} This isn't our problem.  We should go.
+[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} C'est pas notre problème. On devrait partir.
 200)  LEE
-[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} We've gotta get him out of there.
+[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} Faut qu'on le sorte de là.
 201)  BEN
-[pickup2][panicing] {disgustA} Bitten? {fearB} No! I swear!
+[pickup2][panicing] {disgustA} Bitten? {fearB} Non! Je vous le jure!
 202)  LEE
-[pickup2] [trying to get as much information as possible before making a decision about the man in the bear trap] {fearA} Was he bitten?
+[pickup2] [trying to get as much information as possible before making a decision about the man in the bear trap] {fearA} Est-ce qu'il a été mordu?
 203)  BEN
-[pickup2][panicing as Lee tries to leave them] {fearD} No, no please!  At least just LOOK at the trap! {sadD} Just look at it and maybe you can TELL us how to get it off!
+[pickup2][panicing as Lee tries to leave them] {fearD} S'il vous plait non, non!  Venez au moins voir le piège! {sadD} Venez jeter un oeil et peut-être que vous pourrez nous DIRE comment l'enlever!
 204)  DAVID
-[pickup2][in PAIN, Lee & Crew have agreed to help and are starting to kneel down.] Please, help me!
+[pickup2][in PAIN, Lee & Crew have agreed to help and are starting to kneel down.] S'il vous plait, aidez-moi!
 205)  DAVID
-[pickup2][in lots of pain] Oh God, thank you!
+[pickup2][in lots of pain] Oh mon Dieu, merci!
 206)  KENNY
-[pickup2][after Lee decided they should help the guy in the bear trap] {disgustA} Fine, {fearB} but you've gotta hurry!
+[pickup2][after Lee decided they should help the guy in the bear trap] {disgustA} D'accord, {fearB} mais vous devez faire vite!
 207)  MARK
-[pickup2][Mark responds to Lee's inability to make a quick decision in an Urgent situation] {fearB} Lee, come on... what is there to think about? {angryA} We gotta try!
+[pickup2][Mark responds to Lee's inability to make a quick decision in an Urgent situation] {fearB} Allez Lee... pourquoi vous réfléchissez? {angryA} Faut qu'on essaye!
 208)  MARK
-[pickup2][directing the boys away from the David so Lee can try to free him] {disgustB} Come on.. .over here.
+[pickup2][directing the boys away from the David so Lee can try to free him] {disgustB} Venez.. .par ici.
 209)  DAVID
-[pickup2][Screaming in pain as Lee tries to remove the trap] AARRGGGGGGGHHH!!!!!  STOP!  STOP!! STOP!!!
+[pickup2][Screaming in pain as Lee tries to remove the trap] AARRGGGGGGGHHH!!!!!  ARRETEZ!  ARRETEZ!! ARRETEZ!!!
 210)  DAVID
-[pickup2][Screaming in pain as Lee tries to remove the trap] Aaahhhggg!!!   No no no!!!  Stop!
+[pickup2][Screaming in pain as Lee tries to remove the trap] Aaahhhggg!!!   Non non non!!!  Arrêtez!
 211)  LEE
-[pickup2][frustrated that the trap wont open] {fearB} Fuck!
+[pickup2][frustrated that the trap wont open] {fearB} Merde!
 212)  MARK
-[pickup2][making a last effort call to save the man in the bear trap] Dammit, Lee!  Just cut off his fucking leg!!
+[pickup2][making a last effort call to save the man in the bear trap] Putain, Lee!  Coupez-lui sa putain de jambe!!
 213)  BEN
-[pickup2][Hearing Kenny say we have to leave David] Noooo!!!!
+[pickup2][Hearing Kenny say we have to leave David] Noooon!!!!
 214)  TRAVIS
-[pickup2][panicing at the thought of leaving their teacher to the zombies]We can't leave him!  We can't!
+[pickup2][panicing at the thought of leaving their teacher to the zombies]On peut pas le laisser là!  On peut pas!
 215)  KENNY
-[pickup2][getting frustrated with Lee not acting quickly enough] Fuck, I'm just wasting ammo now! We gotta go!
+[pickup2][getting frustrated with Lee not acting quickly enough] Putain, je fais que gaspiller mes munitions! Faut partir!
 216)  KENNY
-[pickup2] Lee, I can't keep 'em back forever!
+[pickup2] Lee, je pourrai pas les retenir éternellement!
 217)  MARK
-[pickup2][urging Lee to hurry up and do anything!] Lee, do SOMETHING!
+[pickup2][urging Lee to hurry up and do anything!] Lee, faites QUELQUE CHOSE!
 218)  TRAVIS
-[pickup2][panicing!!]Try to cut the chain!
+[pickup2][panicing!!]Essayez de couper la chaîne!
 219)  TRAVIS
-[pickup2][seeing the zombies approach] Oh, God!  There's so many of them!
+[pickup2][seeing the zombies approach] Oh, mon Dieu!  Ils sont tellement nombreux!
 220)  DAVID
-[pickup2][in extreme pain - talking to lee who is right over him]Just get me out!  Please!!
+[pickup2][in extreme pain - talking to lee who is right over him]Tirez-moi de là!  S'il vous plait!!
 221)  LEE
-[pickup2][deciding to chop off the leg] {fearB} I'm gonna have to cut you out!!
+[pickup2][deciding to chop off the leg] {fearB} Je vais devoir vous amputer!!
 222)  DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painC} No no no!!! Try the trap again!!  Anything, please!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painC} Non non non!!! Réessayez le piège!!  Anything, please!!
 223)  DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Please... get me out of this!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Je vous en prie... sortez-moi de là!!
 224)  DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Hurry!!  Aaarrgghhh!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Plus vite!!  Aaarrgghhh!!
 225)  DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Come on!!  Try something!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Allez!!  Tentez quelque chose!
 226)  DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} There's gotta be another way...
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Il doit y avoir un autre moyen...
 227)  DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} I want my leg, I want my leg!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Je veux ma jambe, je veux ma jambe!!
 228)  DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Jesus, I need to walk!!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Oh nom de Dieu, il faut que je marche!!!
 229)  DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Please please please...
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} S'il vous plait...
 230)  DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Come on, get it off!!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Allez, coupez-la!!!
 231)  LEE
-[pickup2][deciding to chop off the leg] {sadC} I'm sorry, there's no other choice!
+[pickup2][deciding to chop off the leg] {sadC} Désolé, c'est la seule solution!
 232)  MARK
-[pickup2][talking about how menacing Larry is.] {thinkingB} And didn't he punch you in the face one time?
+[pickup2][talking about how menacing Larry is.] {thinkingB} Et il vous a pas déjà frappé, une fois?
 233)  MARK
-[pickup2][talking about how menacing Larry is.] {disgustA} He's a walking piledriver!
+[pickup2][talking about how menacing Larry is.] {disgustA} C'est un poids lourd ambulant!
 234)  
-Don't risk the noise.
+Le jeu n'en vaut pas la chandelle.
 235)  
-Can you make that shot?
+Vous pouvez l'avoir?
 236)  
-Shoot it!
+Descendez-le!
 237)  
-Was he bitten?
+Est-ce qu'il a été mordu?
 238)  
-We'll try!
+On va essayer!
 239)  
-Not our problem.
+C'est pas notre problème.
 240)  
-Look At
+Regarder
 243)  
-Look At
+Regarder
 249)  
-Look At
+Regarder
 245)  DAVID
-[pickup2] OH FUCK OH GOD HURRY!
+[pickup2] OH PUTAIN OH MON DIEU DEPECHEZ-VOUS!
 246)  LEE
-[pickup2][super duper urgent] {thinkingB} Maybe we can smash it!
+[pickup2][super duper urgent] {thinkingB} Peut-être qu'on peut l'écraser!
 247)  LEE
 [pickup2][exertion] {fearB} RAH!
 248)  DAVID
 [pickup2] AHHHH!!!
 250)  DAVID
-[pickup2] WE DON'T KNOW!! AHHH! GODDD!
+[pickup2] ON N'EN SAIT RIEN!! AHHH! OH!
 251)  LEE
-[pickup2] {fearB} How the fuck do you get these things open?!
+[pickup2] {fearB} Putain mais comment on ouvre ces trucs?!
 252)  BEN
-[pickup2] {fearC} It's impossible! It locks or something! HURRY!
+[pickup2] {fearC} C'est impossible! C'est verrouillé ou je sais pas quoi! VITE!
 253)  LEE
-[pickup2] [panicked] {fearB} It's not gonna open!
+[pickup2] [panicked] {fearB} Ca s'ouvrira pas!
 254)  LEE
-[pickup2] [pickup2] {fearB} Maybe I can pry it open with this branch.
+[pickup2] [pickup2] {fearB} Peut-être que je peux l'ouvrir avec cette branche.
 255)  LEE
-[pickup2] {disgustB} God dammit!!
+[pickup2] {disgustB} Nom de Dieu!!
 256)  MARK
-[pickup2] {fearA} This one doesn't have a release!
+[pickup2] {fearA} Ce piège n'a pas de loquet d'ouverture!
 257)  MARK
-[pickup2] [urgent. a big wtf moment] {fearA} Lee, this trap's been altered. These should be easy to open.
+[pickup2] [urgent. a big wtf moment] {fearA} Lee, ce piège a été modifié. Ils devraient s'ouvrir facilement.
 258)  DAVID
 [pickup2 ][Weak screams to passing out]AARRGGgguuuhhh.....[passes out]
 259)  TRAVIS
@@ -566,43 +566,43 @@ Look At
 270)  DAVID
 [extreme pain -= Getting Leg Chopped off] ARRGGGGHHH!!!
 271)  
-Stick
+Baton
 272)  
-Rock
+Pierre
 273)  
-KID, STOP!!
+Petit, arrete!!
 274)  
-DON'T MOVE!!
+BOUGE PAS!!
 275)  
-BEHIND YOU!!
+DERRIERE TOI!!
 277)  TRAVIS
 [pickup3][puking]
 278)  BEN
-[pickup3][ambient panicking]Please hurry!
+[pickup3][ambient panicking]Je vous en prie, plus vite!
 279)  BEN
-[pickup3][ambient panicking]You have to get him out...you HAVE to!!
+[pickup3][ambient panicking]Vous devez le tirer de là...vous DEVEZ le tirer de là!!
 280)  BEN
-[pickup3][ambient panicking]Oh God, oh God, oh God...
+[pickup3][ambient panicking]Oh mon Dieu, oh mon Dieu, oh mon Dieu...
 281)  BEN
-[pickup3][ambient panicking]So much blood...
+[pickup3][ambient panicking]Tout ce sang...
 282)  BEN
-[pickup3][ambient panicking]Do you think you can get it open?
+[pickup3][ambient panicking]Vous pensez pouvoir l'ouvrir?
 283)  BEN
-[pickup3][ambient panicking]Why is this happening to us?
+[pickup3][ambient panicking]Pourquoi ça tombe sur nous?
 284)  BEN
-[pickup3][ambient panicking]There's got to be something we can do!
+[pickup3][ambient panicking]On doit bien pouvoir faire quelque chose!
 285)  BEN
-[pickup3][ambient panicking]Oh, Jesus, those things are going to be here soon!
+[pickup3][ambient panicking]Oh, mon Dieu, ces monstres vont bientôt être sur nous!
 286)  BEN
-[pickup3][ambient panicking]Is he... is he gonna make it?
+[pickup3][ambient panicking]Est-ce qu'il... est-ce qu'il va s'en sortir?
 287)  BEN
-[pickup3][ambient panicking]This is bad, this is so bad.
+[pickup3][ambient panicking]C'est terrible. C'est vraiment terrible.
 288)  BEN
-[pickup3][ambient panicking]There has to be a way out of this...
+[pickup3][ambient panicking]Il y a bien un moyen de s'en tirer...
 289)  BEN
-[pickup3][ambient panicking]Oh please! we can't just leave him like this!
+[pickup3][ambient panicking]Oh s'il vous plait! on peut pas le laisser comme ça!
 290)  BEN
-[pickup3][ambient panicking]He's lost so much blood already...please hurry up!
+[pickup3][ambient panicking]Il a déjà perdu tellement de sang...plus vite!
 291)  TRAVIS
 [pickup3][first getting attacked by a zombie]AHH!!!!
 292)  TRAVIS
