@@ -35,7 +35,7 @@
 18)  LEE
 {normalC}Quelque chose ne va pas ?
 19)  KENNY
-{angryA}Si on les voit pas, ça peut aussi dire qu'ils nous préparent une sacré surprise...
+{angryA}Si on les voit pas, ça peut aussi dire qu'ils nous préparent une sacrée surprise...
 20)  KENNY
 ... à moins que quelqu'un de mieux armé que nous est en train de les liquider.
 21)  KENNY
@@ -233,7 +233,7 @@ Restez a l'ecart.
 116)  KENNY
 [pickup2] Lee, je pense vraiment qu'il est temps de savoir ce qu'il y a dans cette grange.
 117)  KENNY
-[pickup2] La casquette de Clémentine ? Ben putain.
+[pickup2] La casquette de Clémentine ? Merde alors.
 118)  LEE
 [pickup2] Danny et moi l'avons trouvé au campement.
 119)  KENNY
@@ -279,7 +279,7 @@ Restez a l'ecart.
 139)  KENNY
 [pickup2]En plus, à mon avis on se sentira tous beaucoup mieux une fois le dîner servi.
 140)  LEE
-[pickup2] Nan, je crois que c'est cassé. Danny a paru très intéressé avant qu'on s'en aperçoive.
+[pickup2] Nan, je crois que c'est cassé. Danny avait l'air très intéressé avant qu'on s'en aperçoive.
 141)  KENNY
 [pickup2][quietly]On a mieux à faire ici.
 142)  LEE
@@ -307,9 +307,9 @@ J'aimerais bien que ce type s'en aille...
 153)  KENNY
 [pickup_2]Rien ne peut plus vous arrêter maintenant.
 154)  
-Montrer la camera
+Montrer Camera a
 155)  
-Montrer la casquette
+Montrer Casquette a
 156)  
 Danny a tue quelqu'un.
 157)  

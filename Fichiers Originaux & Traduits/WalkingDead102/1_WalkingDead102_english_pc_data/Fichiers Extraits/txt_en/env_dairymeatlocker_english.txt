@@ -31,7 +31,7 @@ Papa ! Arrête, s'il te plaît !
 386)  LARRY
 [furious] OUVREZ !
 9)  LILLY
-[pickup2][panicked]Ils nous ont jeté dans le frigo à viande !
+[pickup2][panicked]Ils nous ont jeté dans la chambre froide !
 10)  LILLY
 [scolding] Papa !
 18)  LILLY
@@ -41,9 +41,9 @@ Papa ! Arrête, s'il te plaît !
 12)  LARRY
 [furious] LAISSEZ-NOUS SORTIR FILS DE PUTE !
 13)  CLEMENTINE
-[pickup2]Ils nous ont enfermé ici. On dirait un frigo à viande.
+[pickup2]Ils nous ont enfermé ici. On dirait une chambre froide.
 387)  CLEMENTINE
-[pickup2]Ils nous ont enfermé ici. On dirait un frigo à viande.
+[pickup2]Ils nous ont enfermé ici. On dirait une chambre froide.
 15)  KENNY
 Ces tarés ont Katjaa et Duck !
 388)  KENNY
@@ -133,7 +133,7 @@ C'est ça.
 51)  LEE
 Tu comprends pourquoi on a fait ça, Clémentine ?
 52)  LEE
-Clem...
+Clém...
 53)  LEE
 Ca va ?
 54)  LEE
@@ -209,7 +209,7 @@ Je peux essayer...
 84)  CLEMENTINE
 C'est bon, j'y vais.  Je veux rentrer à la maison.
 85)  LEE
-Si tu changes d'avis et que tu reviens, c'est pas grave.
+Je serais ici si tu changes d'avis et décides de revenir.
 86)  CLEMENTINE
 Je fais quoi quand je sors ?
 87)  LEE
@@ -403,7 +403,7 @@ On dirait que ça conduit directement dans cette pièce secrète...
 167)  KENNY
 [After Killing Larry,hushed to not seem insensitive] ... Ecoutez, je veux pas passer pour un salaud, mais on doit encore trouver un moyen de sortir d'ici.  Si ces types reviennent, on est mort.
 168)  KENNY
-[To Clem after Killing Larry]... Je suis désolé Clem...
+[To Clem after Killing Larry]... Je suis désolé Clém...
 169)  KENNY
 [After Killing Larry,hushed to not seem insensitive] [pointing]Regardez, il y a une ventilation ici.  J'ai voulu la retirer du mur mais Larry pensait... [looks over at Lilly and lowers his voice]
 170)  LEE
@@ -483,7 +483,7 @@ Climatiseur
 203)  KENNY
 [pickup2]Ca va la rendre plus forte, c'est tout ! J'étais comme vous, mais je me suis dit... que ces gosses allaient grandir dans un monde plus dur que celui qu'on a connu. [Beat. With a smile:] Pour un type sans enfants, vous avez un instinct paternel assez prononcé.
 204)  LEE
-[pickup2]Je sais que c'était nécessaire, mais... Je voulais éviter à Clem de voir des horreurs pareilles.  Ca m'inquiète de ce que ça pourrait lui faire.
+[pickup2]Je sais que c'était nécessaire, mais... Je voulais éviter à Clém de voir des horreurs pareilles.  Ca m'inquiète de ce que ça pourrait lui faire.
 205)  KENNY
 [pickup2]Je veux pas entendre ça, Lee.
 206)  KENNY
@@ -713,7 +713,7 @@ Climatiseur
 327)  LILLY
 [pickup2][sean edit] Oh MON DIEU ! Il a arrêté de respiré... oh mon dieu...
 328)  KENNY
-[pickup2] [furious/panicked]Lee, ces psychopates tiennent ma famille et on est enfermé dans un foutu frigo à viande !  Il faut qu'on se barre d'ici !!!
+[pickup2] [furious/panicked]Lee, ces psychopates tiennent ma famille et on est enfermé dans une putain de chambre froide !  Il faut qu'on se barre d'ici !!!
 329)  KENNY
 [pickup2][furious/panicked - Seeing that Lee has woken up]Lee !  Il faut qu'on parte d'ici !!
 330)  KENNY
@@ -845,7 +845,7 @@ Papa... Tiens.  Prends ça...  Allez papa, voilà...
 504)  CLEMENTINE
 [pickup2]Lee !
 392)  LEE
-[pickup2][still coming out of his daze, attempting to console]Non, Clem. Ca ne marche pas comme ça...
+[pickup2][still coming out of his daze, attempting to console]Non, Clém. Ca ne marche pas comme ça...
 393)  CLEMENTINE
 [pickup2][wretched] C'était Mark !  J'ai mangé un morceau de Mark !  Est-ce que je vais me transformer en... ?
 394)  LARRY
@@ -1089,7 +1089,7 @@ Poche
 571)  
 Poche
 520)  
-Porte de la grange
+Porte de la Grange
 527)  
 Il etait mort.
 528)  
@@ -1145,7 +1145,7 @@ Quatre !
 570)  
 Cinq !
 573)  
-Parler
+Parler a
 575)  LARRY
 [pickup3][low and menacing - Follows #310420268 or # 310420266] N'oubliez pas... Je sais qui vous êtes.
 576)  LARRY
