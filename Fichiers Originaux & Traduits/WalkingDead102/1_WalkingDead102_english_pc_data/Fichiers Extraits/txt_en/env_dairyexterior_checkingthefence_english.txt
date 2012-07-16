@@ -69,7 +69,7 @@ On ne nous a pas invité à rester.
 32)  LEE
 On ne connait pas ces gens.
 33)  LEE
-[teasing] Who says that worked out?
+[teasing] Qui a dit que ça irait ?
 34)  MARK
 Vous ne ME connaissiez pas avant de vous montrer à la base.
 35)  MARK
@@ -819,13 +819,13 @@ Livre
 406)  LEE
 [pickup3][to himself. slightly panicked and under fire] Merde ! Avec la clôture je suis coincé ! A moins que... [sees the gate and recognizes his way out!] le portail !
 410)  
-Frapper avec la hache
+Frapper avec Hache
 411)  LEE
 [pickup3][to himself, but under fire!] Merde, il y a quelque chose qui bloque !
 412)  
-Levier de charrue
+Levier Charrue
 413)  
-Hurler
+Crier a
 414)  
 Brigands
 415)  LEE
