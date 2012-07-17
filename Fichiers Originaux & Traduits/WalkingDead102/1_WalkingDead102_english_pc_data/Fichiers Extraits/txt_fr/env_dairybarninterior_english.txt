@@ -193,7 +193,7 @@ Ca me fait mal de le dire, mais il a raison.  {ThinkingA}Il faut qu'on sache ce 
 95)  CLEMENTINE
 [ambient]{ThinkingB}Comment ça se fait qu'elle est allongée ?
 96)  CLEMENTINE
-[ambient]{HappyA}Meuuuuuhh!
+[ambient]{HappyA}Meuuuuuhh !
 97)  DUCK
 [Ambient]{HappyB}Je peux lui monter dessus ?
 98)  DUCK
@@ -237,7 +237,7 @@ S'il arrivait quoi que ce soit et que vous ayez à  choisir entre eux et les enfa
 116)  KATJAA
 [cont.]{ThinkingA}Choisissez les enfants cette fois-ci.[Recorded during 101 pickups]
 117)  LEE
-[pickup1][friendly, greeting Clementine in the barn] {body-B}{HappyA}Salut, Clémentine!
+[pickup1][friendly, greeting Clementine in the barn] {body-B}{HappyA}Salut, Clémentine !
 118)  CLEMENTINE
 [pickup1][friendly, but concerned that Lee might disturb the cow]  {HappyA}Katjaa dit {SadA}de marcher doucement sur le foin parce que ça fait du bruit et que ça peut faire déranger la vache.
 119)  LEE
@@ -323,7 +323,7 @@ Lee regarde dans les cartons.  Ils sont vides.
 158)  KATJAA
 [pickup2][referring to the cow] Andy !  Faut que tu tiennes bien sa patte !
 159)  ANDY
-[pickup2] Désolé, doc!  Vraiment désolé !  Bon, d'accord.
+[pickup2] Désolé, doc !  Vraiment désolé !  Bon, d'accord.
 160)  ANDY
 [pickup2] Vous cherchez quelque chose ?
 161)  KENNY
@@ -415,9 +415,9 @@ Lee regarde dans les cartons.  Ils sont vides.
 204)  ANDY
 [pickup2]Hé, euh...  rendez-moi un service.  Faites pas le con avec cette porte.  C'est juste que, vous savez, ça va énerver M'man.
 205)  ANDY
-[pickup2]{NormalC}Pas de problème !  {HappyB}A toute, doc!
+[pickup2]{NormalC}Pas de problème !  {HappyB}A toute, doc !
 206)  KATJAA
-[pickup2][calling across the barn] {Body-Sit}{FearA}Andrew!  J'ai encore besoin d'aide.
+[pickup2][calling across the barn] {Body-Sit}{FearA}Andrew !  J'ai encore besoin d'aide.
 207)  ANDY
 [pickup2] {Body-A}{NormalC}Ouais ?
 208)  LEE
@@ -499,13 +499,13 @@ Lee regarde dans les cartons.  Ils sont vides.
 246)  ANDY
 [pickup_2]{Body-A}{NormalB}Fausse alerte.  {HappyA}Me revoilà .
 247)  DUCK
-[pickup_2]{Body-A}{HappyA}M'man!  P'pa!  {HappyB}A table !   {SurprisedA}A table !!!
+[pickup_2]{Body-A}{HappyA}M'man !  P'pa !  {HappyB}A table !   {SurprisedA}A table !!!
 248)  KATJAA
 [pickup_2]{Body-Sit}{HappyC}D'accord, chéri.  {Body-A}Va chercher Papa.
 249)  DUCK
-[pickup_2]{HappyA}Papa!  Papa!  {SadB}Allez, {HappyB}on va MANGEEEEEEER !!!
+[pickup_2]{HappyA}Papa !  Papa !  {SadB}Allez, {HappyB}on va MANGEEEEEEER !!!
 250)  KATJAA
-[pickup_2]{ThinkingA}Kenny?  Viens {HappyA}avec nous, chéri.
+[pickup_2]{ThinkingA}Kenny ?  Viens {HappyA}avec nous, chéri.
 251)  KATJAA
 [pickup_2]Kenny, allez, {NormalA}fais pas attendre les enfants.
 252)  KENNY
@@ -597,7 +597,7 @@ Non, non pas vraiment.
 293)  CLEMENTINE
 [pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn][proud that she learned a new word]...ça sent le fumier !
 294)  CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]Ca sent... la merde, hein Lee?
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]Ca sent... la merde, hein Lee ?
 295)  CLEMENTINE
 [pickup1][sad and embarased after being scolded about using swear words]D'accord.
 296)  LEE
@@ -667,9 +667,9 @@ J'ai trouve une pince multifonctions.
 330)  
 Andy revient tout le temps.
 331)  
-Comment detourner l'attention d'Andy?
+Comment detourner l'attention d'Andy ?
 332)  LEE
-[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Une idée pour détourner l'attention Andy?
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Une idée pour détourner l'attention Andy ?
 333)  KENNY
 [pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]J'en sais rien.  Vous avez qu'à  cherche dehors, faut qu'il sorte d'ici.
 334)  LEE
@@ -741,7 +741,7 @@ Ca fait longtemps que je n'y ai pas pense.
 370)  CLEMENTINE
 [pickup3]{body-Stand}{HappyC}Tu veux caresser la vache avec moi ?
 371)  LEE
-[pickup3]Exploitation laitière de l'année hein?
+[pickup3]Exploitation laitière de l'année hein ?
 372)  ANDY
 [pickup3]Oui monsieur. Quatre fois de suite. C'est surtout qu'on s'adapte bien au changement, et qu'on sait en tirer le meilleur. C'est ce qui nous maintient au sommet.
 373)  LEE
@@ -749,7 +749,7 @@ Ca fait longtemps que je n'y ai pas pense.
 374)  KENNY
 [pickup3]Ah, non.  Ca va.  Je fais que regarder...
 375)  ANDY
-[pickup3]Hein?  Oh... euh, elle respire pas très fort, mais c'est normal à  ce stade...
+[pickup3]Hein ?  Oh... euh, elle respire pas très fort, mais c'est normal à  ce stade...
 376)  KATJAA
 [pickup3]Est-ce que...c'est normal qu'elle respire comme ça ?
 377)  
