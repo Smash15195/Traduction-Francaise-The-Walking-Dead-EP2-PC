@@ -255,7 +255,7 @@ S'il arrivait quoi que ce soit et que vous ayez à  choisir entre eux et les enfa
 125)  KATJAA
 [pickup1][Lee offers help with the Barn, but regrets that his help earlier didnt save david]{body-Sit}{SadA}Lee... {SadB}vous avez fait de votre mieux pour David.  Moi aussi.  {ThinkingA}Mais si vous voulez nous aider, {NormalC}alors détournez l'attention d'Andrew et allez voir ce qu'il y a dans cette salle au fond.
 126)  
-Carton de la ferme St John
+Carton
 127)  
 Vache
 128)  
@@ -271,13 +271,13 @@ Serrure
 133)  
 Piquets de cloture
 134)  
-Donner un coup de hache sur
+Utiliser Hache sur
 135)  
 Regarder
 281)  
 Regarder
 136)  
-Pierre a lecher
+Pierre a lécher
 137)  
 Porte du box
 138)  
@@ -297,11 +297,11 @@ Evier
 144)  
 Fournitures
 145)  
-Piege a ours
+Piège à Ours
 146)  
 Conduit de ventilation
 148)  
-Fenetre
+Fenêtre
 149)  TEMP
 Lee regarde dans les cartons.  Ils sont vides.
 150)  LEE
@@ -321,7 +321,7 @@ Lee regarde dans les cartons.  Ils sont vides.
 157)  LEE
 [pickup2][authoritative lie] Son fils a perdu quelque chose ici.
 158)  KATJAA
-[pickup2][referring to the cow] Andy !  Faut que tu tiennes bien sa jambe !
+[pickup2][referring to the cow] Andy !  Faut que tu tiennes bien sa patte !
 159)  ANDY
 [pickup2] Désolé, doc!  Vraiment désolé !  Bon, d'accord.
 160)  ANDY
@@ -567,11 +567,11 @@ Lee regarde dans les cartons.  Ils sont vides.
 280)  KENNY
 [pickup_2]{Body-D}{ThinkingA}Plus rien t'en empêche maintenant.
 282)  
-Utiliser la pince multifonctions
+Utiliser Pince Multifonction sur
 283)  
-Montrer la camera
+Montrer Caméscope à
 284)  
-Montrer la casquette
+Montrer Casquette à
 285)  DUCK
 [sniffs the air] Tu sens bizarre.
 286)  LEE
@@ -693,9 +693,9 @@ Comment detourner l'attention d'Andy?
 345)  
 Danny a dit avoir besoin de quelque chose.
 347)  
-Parler
+Parler a
 348)  
-Donner la casquette
+Donner casquette a
 349)  LEE
 [pickup3][explaining why he stinks]Et bien, on est dans une grange.  Tu vas t'y habituer.
 350)  ANDY
