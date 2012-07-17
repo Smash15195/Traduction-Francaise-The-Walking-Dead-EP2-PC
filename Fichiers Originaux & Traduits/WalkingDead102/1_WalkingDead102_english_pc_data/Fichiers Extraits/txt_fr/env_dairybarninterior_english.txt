@@ -647,7 +647,7 @@ Danny a encore besoin de quelque chose.
 346)  
 Danny a encore besoin de quelque chose.
 321)  
-Pourquoi fermez vous cette porte ?
+Pourquoi c'est ferme a clef ?
 322)  LEE
 [pickup2][to himself]On dirait un vieux tas de linge sale.
 323)  LEE
