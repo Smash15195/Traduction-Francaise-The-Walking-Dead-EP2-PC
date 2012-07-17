@@ -173,7 +173,7 @@ Ca me fait mal de le dire, mais il a raison.  {ThinkingA}Il faut qu'on sache ce 
 86)  ANDY
 [with undertones of accusation]{body-A}{ThinkingA}Content de voir que votre poignet va mieux.
 87)  ANDY
-[with undertones of accusation]{body-A}{AngryA}M'man dit que les enfants peuvent aller{ThinkingA} boire un coup à  la maison.
+[with undertones of accusation]{body-A}{AngryA}M'man dit que les enfants peuvent aller{ThinkingA} boire un coup à la maison.
 88)  KATJAA
 {body-A}{HappyA}Ca va, Clémentine, tu peux la caresser.
 89)  LEE
