@@ -1,171 +1,171 @@
 1)  LEE
-{NormalD}Nitro pills?
+{NormalD}Des pillules de Nitro ?
 2)  MARK
 [weakly] Lee...
 3)  LARRY
-{ThinkingA}How on {HappyB}earth did y'all {HappyC}get barbecue meat?
+{ThinkingA}Comment {HappyB}vous avez eu toute {HappyC}cette viande à griller ?
 4)  DUCK
-[excited] {HappyB}Barbecue! Wow...
+[excited] {HappyB}Un barbecue ! Waou...
 5)  ANDY
-{HappyA}Excuse the mess. {DisgustA}We had to {ThinkingA}block the back door after {AngryA}a walker got upstairs.
+{HappyA}Désolé pour le désordre. {DisgustA}On a dû {ThinkingA}bloquer la porte de derrière après {AngryA}qu'un marcheur soit monté à l'étage.
 400)  ANDY
-{HappyA}Excuse the mess. {DisgustA}We had to {ThinkingA}block the back door after {AngryA}a walker got upstairs.
+{HappyA}Désolé pour le désordre. {DisgustA}On a dû {ThinkingA}bloquer la porte de derrière après {AngryA}qu'un marcheur soit monté à l'étage.
 6)  ANDY
-{HappyB}Don't worry, {NormalB}that was a while ago and {ThinkingA}they ain't been back inside since.
+{HappyB}Ne vous inquiétez pas, {NormalB}c'était il y a longtemps et {ThinkingA}ils ne sont jamais plus entrés depuis.
 401)  ANDY
-{HappyB}Don't worry, {NormalB}that was a while ago and {ThinkingA}they ain't been back inside since.
+{HappyB}Ne vous inquiétez pas, {NormalB}c'était il y a longtemps et {ThinkingA}ils ne sont jamais plus entrés depuis.
 7)  LEE
-[to himself]{ThinkingA}Looks unused.  {ThinkingB}Maybe a guest bed.
+[to himself]{ThinkingA}Il à l'air de ne pas avoir servi.  {ThinkingB}C'est peut-être un lit d'ami.
 8)  LEE
-[to himself]{NormalC}Getting late.  {HappyB}No sign of bandits, though.
+[to himself]{NormalC}Il se fait tard.  {HappyB}Pas de signe de brigands.
 9)  LEE
-[to himself]{ThinkingB}I guess someone needed {SadA}some first aid recently.
+[to himself]{ThinkingB}J'imagine que quelqu'un a eu besoin {SadA}de premiers secours récemment.
 10)  LEE
-[to himself: Seeing bloody tools and bandages in a trash can]{DisgustA}Yuck.  {DisgustB}What is this stuff?
+[to himself: Seeing bloody tools and bandages in a trash can]{DisgustA}Eurk.  {DisgustB}C'est quoi tout ça ?
 11)  LEE
-[to himself]{FearA}Is that blood?
+[to himself]{FearA}Du sang ?
 12)  LEE
-[to himself: this blood is fresh.] {DisgustB}It's fresh.
+[to himself: this blood is fresh.] {DisgustB}Il est frais.
 13)  LEE
-[to himself; following a blood trail]{ThinkingA}...blood stops here.
+[to himself; following a blood trail]{ThinkingA}... le sang s'arrête ici.
 14)  LEE
 [to himself: Observing a the extensioncord in the hallway ]{ThinkingB}Hmmm.
 15)  ANDY
-[ambient conversation]What do you do for a living, Ken?
+[ambient conversation]Vous faîtes quoi dans la vie, Ken ?
 16)  KENNY
-[ambient conversation]I.. uh... I was a fisherman down in Fort Lauderdale.
+[ambient conversation]Je.. heu... J'étais pêcheur vers Fort Lauderdale.
 17)  DANNY
-[ambient conversation]If we were lucky we'd bring in a Sturgeon or two, but man... Never been out in the deep sea.
+[ambient conversation]Avec du bol on pouvait ramener un esturgeon ou deux, mais... On n'est jamais allé en pleine mer.
 18)  DANNY
-[ambient conversation]Man, that sounds nice! Daddy used to take us out for largemouth bass when we were kids.
+[ambient conversation]Wow, ça à l'air sympa ! Papa nous emmenait à la pêche au gros quand on était gosses.
 19)  KENNY
-[ambient conversation]Commercially, Snapper and Yellowfin mostly. But in the summers I'd take tourists out for some sailfish!
+[ambient conversation]Commerciallement, on faisait essentiellement du rouget et du thon à nageoires jaunes. Et en été j'emmenais des touristes faire des virés pour pêcher !
 20)  KENNY
-[ambient conversation]I tell ya, there ain't nothing like fresh tuna straight from the sea - to the grill - to the plate!!  Especially the way Kat cooks it up!
+[ambient conversation]Il y a rien de meilleur que du thon frais sorti de l'eau, posé sur le grill et directement dans votre assiette, je vous le dit !!  Surtout comme Kat le cuisine !
 21)  KATJAA
-[ambient conversation]I met Ken after I opened my Veterinary office. He came in with a sick octopus!
+[ambient conversation]J'ai rencontré Ken après avoir ouvert mon cabinet vétérinaire. Il était venu avec une pieuvre malade !
 22)  KENNY
-[ambient conversation]What?  Where else was i gonna take it?
+[ambient conversation]Quoi ?  Tu aurais voulu que je l'emmène où sinon ?
 23)  DANNY
-[ambient conversation]Where ya from Katjaa?  That accent sure ain't from Georgia!
+[ambient conversation]Vous êtes d'où Katjaa ?  Votre accent n'est certainement pas de Georgie !
 24)  KATJAA
-[ambient conversation][friendly]No, definitely not!  My family is from Latvia, but we moved to Florida when I was in my teens.
+[ambient conversation][friendly]Non, indéniablement !  Ma famille est de Lettonie, mais on a déménagé en Floride à mon adolescence.
 25)  KENNY
-[ambient conversation]Dan, did you always work here at the dairy?
+[ambient conversation]Dan, vous avez toujours travaillé ici, à la ferme ?
 26)  DANNY
-[ambient conversation]Me?  No, that was Daddy's business.  I ran an insurance company over in Decatur.
+[ambient conversation]Moi ?  Non, c'était le business de mon père.  Je dirigeais une compagnie d'assurance vers Decatur.
 27)  KENNY
-[ambient conversation]I hear that.
+[ambient conversation]Je comprends.
 28)  DANNY
-[ambient conversation]Yeah, anyway, it was good business.  But then all this shit went down, and I had to come home.  Family's more important, ya know?
+[ambient conversation]Bref, c'était une bonne affaire.  Et quand toute cette merde est arrivée, j'ai dû rentrer chez moi.  La famille c'est le plus important, vous voyez ?
 29)  ANDY
-[ambient conversation]Yeah, well Dan felt it would be best to get away from Macon for a while. Had some... trouble.
+[ambient conversation]Hé bien, Dan a pensé que ce serait mieux de partir de Macon pour quelque temps. Il a eu quelques... ennuis.
 30)  LILLY
-[ambient conversation]Decatur?
+[ambient conversation]Decatur ?
 31)  ANDY
-[ambient conversation]Well, I took over as business manager eventually. Put that college degree to work.
+[ambient conversation]Et bien, finalement j'ai repris ce boulot de directeur commercial. Histoire que ce diplôme universitaire serve à quelque chose.
 32)  KATJAA
-[ambient conversation]What did you do before that?
+[ambient conversation]Vous faisiez quoi avant ?
 33)  ANDY
-[ambient conversation]	I had a real estate business, but, you know... in this economy...
+[ambient conversation]	J'avais une agence immobilière, mais, vous voyez... dans cette conjoncture...
 34)  DANNY
-[ambient conversation]Yeah, Daddy always wanted you to take over anyway.
+[ambient conversation]Ouais, papa voulait toujours que tu reprennes de toute façon.
 35)  ANDY
-[ambient conversation]Just worked out that way, Dan.
+[ambient conversation]C'est ce que j'ai fait, Dan.
 36)  LARRY
-[ambient conversation]How long ya had this Dairy?
+[ambient conversation]Ca fait combien de temps que vous avez cette ferme ?
 37)  ANDY
-[ambient conversation]Long as I can remember.  We grew up here.  Dan and I helped out where we could, but really this was a Mom and Pop business.
+[ambient conversation]On a grandit ici, d'aussi loin que je m'en souvienne.  Dan et moi on donnait un coup de main quand on pouvait, mais c'était l'affaire de nos parents.
 38)  LILLY
-[ambient conversation]So you two didn't work here?
+[ambient conversation]Donc vous deux, vous ne travailliez pas ici ?
 39)  ANDY
-[ambient conversation]	So how long you been a vet?
+[ambient conversation]Vous êtes resté vétérinaire combien de temps, alors ?
 40)  DANNY
-[ambient conversation]You work with many farm animals?
+[ambient conversation]Vous travaillez avec beaucoup d'animaux de ferme ?
 41)  KATJAA
-[ambient conversation][trying to think back] Ooh... well... a long time now.
+[ambient conversation][trying to think back] Ooh... et bien... un long moment.
 42)  KATJAA
-[ambient conversation]Early in my training I did, but then mostly it was household pets.
+[ambient conversation]Au début de mon apprentissage, oui, mais ensuite c'était surtout avec des animaux domestiques.
 43)  KATJAA
-[ambient conversation]I started working in a vet's office in my twenties, then got my license a few years later.
+[ambient conversation]J'ai commencé à travaillé dans un cabinet après mes 20 ans, puis j'ai eu mon doctorat quelques années après.
 44)  KATJAA
-[ambient conversation]Oh, yes. Wildlife Rescue Center was always bringing their injured alligators to me to get patched up before releasing them.
+[ambient conversation]Oh, oui. Le Wildlife Rescue Center me ramenait toujours leurs alligators blessés pour que je les soigne avant de les relâcher.
 45)  DUCK
-[ambient conversation]And alligators!
+[ambient conversation]Et des alligators !
 46)  CLEMENTINE
-[ambient conversation]Nu uh!
+[ambient conversation]Nan !
 47)  LILLY
-[ambient conversation]So that fence does a good job of keeping the walkers out?
+[ambient conversation]Alors cette clôture est efficace contre les marcheurs ?
 48)  DUCK
-[ambient conversation]Once, my dad smashed one in the face with a TV!
+[ambient conversation]Une fois, mon père en a fracassé un en lui jetant une télé sur la tête !
 49)  DUCK
-[ambient conversation]Sorry.
+[ambient conversation]Pardon.
 50)  ANDY
-[ambient conversation]Yeah. Unfortunately we lost most of our livestock before we managed to get the thing rigged up.
+[ambient conversation]Ouais. Malheureusement on a perdu la plupart de notre bétail avant d'avoir réussi à installer ce truc.
 51)  KATJAA
-[ambient conversation]Kenny Jr!  That is not appropriate talk at the dinner table.
+[ambient conversation]Kenny Jr !  On ne doit pas parler de ça à table.
 52)  DANNY
-[ambient conversation][mumbled]Damned walkers.
+[ambient conversation][mumbled]Satanés marcheurs.
 53)  KENNY
-[ambient conversation]Our hunting trips have turned up nothing. The walkers are eating anything living they can get their teeth into.
+[ambient conversation]Nos parties de chasse n'ont rien données. Les marcheurs avalent tout ce qui est vivant et qui leur tombe sous la main.
 54)  DANNY
-[ambient conversation]	Well, ya just have to know what to hunt.  There's meat out there that'll keep you alive if ya know what to look for.
+[ambient conversation]	Hé bien, il suffit de savoir quoi chasser.  Il y a de la viande dehors qui vous garderait en vie si vous saviez ce qu'il faut chercher.
 55)  KATJAA
-[ambient conversation]Thanks again for this meal.  You have no idea how long it's been!
+[ambient conversation]Encore merci pour ce repas.  Vous ne savez pas comment ça pu être long !
 56)  KENNY
-[ambient conversation]How've you folks managed to find food?
+[ambient conversation]Comment êtes-vous arrivé à trouver de la nourriture ?
 57)  ANDY
-[ambient conversation]And what do you do Miss Lilly?
+[ambient conversation]Et que faîtes-vous Melle Lilly ?
 58)  LARRY
-[ambient conversation]	Lilly's a military woman.  Takes after her old man.
+[ambient conversation]	Lilly est un soldat.  Elle a pris du service après son vieux père.
 59)  DANNY
-[ambient conversation]That right?  Ever see any action?
+[ambient conversation]C'est vrai ?  Vous avez eu de l'action ?
 60)  LILLY
-[ambient conversation][blunt, emotionless]I have.
+[ambient conversation][blunt, emotionless]Oui.
 61)  LARRY
-[ambient conversation]	Son, you don't ever ask a soldier that question, ya got it?
+[ambient conversation]	Ne posez jamais cette question à un soldat, compris mon garçon ?
 62)  LARRY
-[ambient conversation]All you need to know is that you don't wanna fuck with her. Period.
+[ambient conversation]Tout ce que vous devez savoir c'est qu'il faut pas la faire chier. Point.
 63)  LILLY
-[ambient conversation]Dad...
+[ambient conversation]Papa...
 64)  DANNY
-[ambient conversation]Yeah, I'm sorry.
+[ambient conversation]Ouais, désolé.
 65)  ANDY
-[ambient conversation]	Don't pay my brother no mind.  I swear he makes a hobby of chewing his own foot.
+[ambient conversation]	N'en voulez pas à mon frère.  Il est bête à manger du foin.
 66)  ANDY
-[ambient conversation]So did ya'all know each other before the outbreak?
+[ambient conversation]Donc vous vous connaissiez tous avant la catastrophe ?
 67)  LILLY
-[ambient conversation]No. We just sort of found ourselves thrown together.
+[ambient conversation]Non. On s'est un peu retrouvé ensemble par la force des choses.
 68)  LILLY
-[ambient conversation]But now we've gotta stick together if we're gonna survive.
+[ambient conversation]Et maintenant on doit rester groupé si on veut survivre.
 69)  ANDY
-[ambient conversation]	I hear ya.  Ya gotta know when to make sacrifices for the greater good, ya know.
+[ambient conversation]	Je comprends.  Il faut savoir faire des sacrifices pour le bien commun, vous voyez.
 70)  KENNY
-[ambient conversation]It ain't right, though.  No kid should have to see the things they've seen.
+[ambient conversation]Quoique ce n'est pas juste.  Aucun môme ne devrait voir ce qu'ils ont vu.
 71)  KATJAA
-[ambient conversation]Kids are resilient, you know?  I hate that this is the way they have to grow up, but under the circumstances, I think they're doing well.
+[ambient conversation]Les enfants sont flexibles, vous voyez ?  Je déteste la façon dont ils vont devoir grandir, mais vu les circonstances, je pense qu'ils vont bien.
 72)  DANNY
-[ambient conversation]How the kids been dealing with... everything?
+[ambient conversation]Comment les enfants vivent... tout ça ?
 73)  DANNY
-[ambient conversation]Maybe I should check on him?
+[ambient conversation]Je devrais peut-être aller vérifier ?
 74)  KATJAA
-[ambient conversation]Let the man clean up. He'll be done in a minute.
+[ambient conversation]Laissez cet homme se laver. Il aura fini dans une minute.
 75)  DUCK
-[ambient conversation]Are we gonna eat soon, momma?
+[ambient conversation]On va manger bientôt, maman ?
 76)  LARRY
-[ambient conversation]How long does it take to wash your damn hands?
+[ambient conversation]Combien de temps ça vous prend pour laver vos saletés de mains ?
 77)  KATJAA
-[ambient conversation]As soon as Lee gets back.
+[ambient conversation]Aussitôt que Lee sera revenu.
 78)  ANDY
-[ambient conversation]Yeah, Maybelle is the only one we have left.
+[ambient conversation]Ouais, Maybelle c'est la toute dernière qu'il nous reste.
 79)  DANNY
-[ambient conversation][cont.] She provides the milk.
+[ambient conversation][cont.] Elle produit le lait.
 80)  CLEMENTINE
-[ambient conversation]I like your cow.  She's pretty.
+[ambient conversation]J'aime bien votre vache.  Elle est jolie.
 81)  DANNY
-[ambient conversation]That's why we need Katjaa's help.
+[ambient conversation]C'est pour ça qu'on a besoin de l'aide de Katjaa.
 82)  DANNY
-[ambient conversation]We'd love to have another healthy calf, but we mostly want to make sure Maybelle's okay.
+[ambient conversation]On adorerait avoir un autre veau en bonne santé, mais nous voulons avant tout que Maybelle aille bien.
 83)  KATJAA
 [ambient heavy  breathing/scared/ whimpering 4]
 84)  KATJAA
@@ -203,151 +203,151 @@
 100)  MARK
 [falling down the stairs]
 101)  LEE
-[pickup1][to himself looking at a St. John family portrait]{ThinkingB}This must be Terry.
+[pickup1][to himself looking at a St. John family portrait]{ThinkingB}Ca doit être Terry.
 102)  LEE
-[pickup1][to himself - Look at]{HappyA}I could use a shave... [but not right now]
+[pickup1][to himself - Look at]{HappyA}Je pourrais me raser... [but not right now]
 103)  LEE
-[pickup1][to himself - Look at]Looks old.  The label's worn off.
+[pickup1][to himself - Look at]Ca à l'air vieux.  L'étiquette s'est effacée.
 104)  LEE
-[pickup1][to himself - Look at]No idea what that is.
+[pickup1][to himself - Look at]Aucune idée de ce que c'est.
 105)  LEE
-[pickup1][to himself - Look at]Some kind of lotion.
+[pickup1][to himself - Look at]Une espèce de lotion.
 106)  LEE
-[pickup1][to himself - Look at]Gauze pads.
+[pickup1][to himself - Look at]Des compresses de gaze.
 107)  LEE
-[pickup1][to himself - Look at]Empty.
+[pickup1][to himself - Look at]Vide.
 108)  DANNY
-[pickup1][casual but creepy as Lee snoops through the medicine cabinet]{NormalB}What are ya looking for?
+[pickup1][casual but creepy as Lee snoops through the medicine cabinet]{NormalB}Qu'est-ce que vous cherchez ?
 109)  LEE
-[pickup1] [after caught looking through the medicine cabinet] {FearA}Nothing.  {AngryA}Can I get a little privacy?
+[pickup1] [after caught looking through the medicine cabinet] {FearA}Rien.  {AngryA}Je peux avoir un peu d'intimité ?
 110)  BRENDA
-[pickup1][calling out to danny from off screen]Danny, where'd ya go?  I could use a hand.
+[pickup1][calling out to danny from off screen]Danny, où-es tu ?  J'ai besoin de ton aide.
 111)  DANNY
-[pickup1][calling into the next room] {ThinkingA}Coming, Momma.
+[pickup1][calling into the next room] {ThinkingA}J'arrive, maman.
 112)  LEE
-[pickup1][hushed but shocked!] {FearC}Mark?!  {FearB}What the hell happened?!!
+[pickup1][hushed but shocked!] {FearC}Mark ?!  {FearB}Qu'est-ce qu'il s'est passé, putain ?!!
 113)  MARK
-[pickup1][weakly..drugged, trying to tell Lee what happened] {SadA}... brothers...
+[pickup1][weakly..drugged, trying to tell Lee what happened] {SadA}... les frères...
 114)  DANNY
-[Pickup1]Maybe I should check up on him?
+[Pickup1]Je devrais peut-être aller voir ?
 115)  ANDY
-[pickup1][annoyed - offscreen]How long's it take to wash his hands?
+[pickup1][annoyed - offscreen]Combien de temps il lui faut pour se laver les mains ?
 116)  LEE
-[pickup1][calling back - having found the bathroom]{AngryA}Yep. Can't miss it.
+[pickup1][calling back - having found the bathroom]{AngryA}Ouaip. On peut pas la louper.
 117)  DANNY
-[pickup1][calling out from offscreen]You find the bathroom okay, Lee?
+[pickup1][calling out from offscreen]Vous avez trouvé la salle de bain, Lee ?
 118)  LEE
-[pickup1][looking with minimal interest at portraits of the Brothers] {thinkingB}Hm.
+[pickup1][looking with minimal interest at portraits of the Brothers] {thinkingB}Hmm.
 119)  LEE
-[pickup1][to himself, looking at a large cabinet blocking the hallway]{ThinkingB}Walkers aren't getting through that thing.
+[pickup1][to himself, looking at a large cabinet blocking the hallway]{ThinkingB}Les marcheurs ne risquent pas de passer à travers ce machin.
 120)  
-Photo of Andy
+Photo d'Andy
 121)  
-Photo of Brenda
+Photo de Brenda
 122)  
-Photo of Danny
+Photo de Danny
 123)  
-Nitroglycerine
+Nitroglycérine
 124)  
-Bottle
+Bouteille
 125)  
-Box
+Boîte
 126)  
-Scratches
+Griffures
 127)  
-Sink
+Evier
 128)  
-Medicine Cabinet
+Armoire à pharmacie
 129)  
-Shaving Cream
+Crême à raser
 130)  
-Look At
+Regarder
 344)  
-Look At
+Regarder
 131)  
-Push
+Pousser
 132)  
-Bed
+Lit
 133)  
-Bathroom Door
+Porte de la salle de bain
 134)  
-Door
+Porte
 139)  
-Door
+Porte
 135)  
-Closet Door
+Porte des toilettes
 136)  
-Bedroom Door
+Porte de la chambre
 137)  
-Stains
+Colorants
 138)  
-Bookshelf
+Etagère à livres
 140)  
-Nightstand
+Table de nuit
 141)  
-Window
+Fenêtre
 142)  BRENDA
-[pickup1]Give him one more minute.
+[pickup1]Laissez-lui encore une minute.
 143)  MARK
-[pickup1][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can] Help!
+[pickup1][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can] A l'aide !
 144)  MARK
-[pickup1][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can]Somebody...
+[pickup1][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can]Quelqu'un...
 145)  ANDY
-[pickup1][callout to lee in the hallway]That's just the closet. Try the door on your right.
+[pickup1][callout to lee in the hallway]Ce sont les toilettes. Prenez la porte sur votre droite.
 146)  KATJAA
-[pickup1][ambient pleading with Brenda] Listen to him, Brenda...
+[pickup1][ambient pleading with Brenda] Ecoutez-le, Brenda...
 147)  KATJAA
-[pickup1][ambient pleading with Brenda] Please...
+[pickup1][ambient pleading with Brenda] Pitié...
 148)  KATJAA
-[pickup1][ambient pleading with Brenda] Just let me go...
+[pickup1][ambient pleading with Brenda] Laissez-moi partir...
 149)  KATJAA
-[pickup1][ambient pleading with Brenda] Don't do this...
+[pickup1][ambient pleading with Brenda] Ne faîtes pas ça...
 150)  KATJAA
-[pickup1][ambient pleading with Brenda] Brenda, please...
+[pickup1][ambient pleading with Brenda] Brenda, pitié...
 151)  BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] I mean it!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop ![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] Je suis sérieuse !
 152)  BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] Get back!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Reculez !
 153)  BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll kill her, Lee!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Je vais la tuer, Lee!
 154)  BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] Just stop!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Arrêtez-vous !
 155)  BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll do it!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Je vais le faire !
 156)  LEE
-[pickup1][quiet, searching the house, having heard a noise?  -1- ] Hello?
+[pickup1][quiet, searching the house, having heard a noise?  -1- ] Salut ?
 157)  LEE
-[pickup1][quiet, searching the house, having heard a noise?  -2- ] Hello?
+[pickup1][quiet, searching the house, having heard a noise?  -2- ] Salut ?
 158)  LEE
-[pickup1][quiet, searching the house, having heard a noise?  -3- ] Hello?
+[pickup1][quiet, searching the house, having heard a noise?  -3- ] Salut ?
 424)  LEE
-[pickup1][quiet, searching the house, having heard a noise?  -3- ] Hello?
+[pickup1][quiet, searching the house, having heard a noise?  -3- ] Salut ?
 425)  LEE
-[pickup1][quiet, searching the house, having heard a noise?  -3- ] Hello?
+[pickup1][quiet, searching the house, having heard a noise?  -3- ] Salut ?
 159)  LEE
-[pickup1][quiet - to himself, searching the house, having heard a noise?   ] Huh?
+[pickup1][quiet - to himself, searching the house, having heard a noise?   ] Hein ?
 160)  LEE
-[pickup1][quiet- to himself, searching the house, having heard a noise?  ] What the hell?
+[pickup1][quiet- to himself, searching the house, having heard a noise?  ] Qu'est-ce que c'est ?
 422)  LEE
-[pickup1][quiet- to himself, searching the house, having heard a noise?  ] What the hell?
+[pickup1][quiet- to himself, searching the house, having heard a noise?  ] Qu'est-ce que c'est ?
 423)  LEE
-[pickup1][quiet- to himself, searching the house, having heard a noise?  ] What the hell?
+[pickup1][quiet- to himself, searching the house, having heard a noise?  ] Qu'est-ce que c'est ?
 161)  LEE
-[pickup1][quiet- to himself, searching the house, having heard a noise?  ] What is that? [(Whats that sound?)]
+[pickup1][quiet- to himself, searching the house, having heard a noise?  ] C'était quoi ça ? [(Whats that sound?)]
 162)  LEE
 [pickup1][quiet- to himself, searching the house, having heard a noise?  ] Hmm.
 163)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Help...
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]A l'aide...
 164)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Help me...
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Aidez-moi...
 418)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Help me...
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Aidez-moi...
 165)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Someone....
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Quelqu'un....
 166)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Please....
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Pitié....
 419)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Please....
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Pitié....
 167)  MARK
 [pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Unnghh...
 168)  MARK
@@ -355,269 +355,269 @@ Window
 416)  MARK
 [pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Unnggh...
 169)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Help!
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]A l'aide !
 170)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Oh God...
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Oh Seigneur...
 437)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Oh God...
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Oh Seigneur...
 171)  MARK
-[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Someone help...
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Aidez-moi, quelqu'un...
 172)  MARK
-[pickup2] {SadB}Don't... eat.... dinner...
+[pickup2] {SadB}Ne... mangez.... pas le dîner...
 173)  BRENDA
-[pickup2] Lee, did ya fall in?! Dinner's on the table an everyone's havin' at!
+[pickup2] Lee, vous êtes tombé dans le trou ?! Le dîner est sur la table ! Tout le monde est prêt !
 174)  LEE
-[pickup2] [to himself, hushed, super urgent] Clementine!
+[pickup2] [to himself, hushed, super urgent] Clémentine !
 175)  LEE
-[pickup2][hushed, super urgent, wtf] {SadA}What the hell {SadB}happened to your legs, man?!
+[pickup2][hushed, super urgent, wtf] {SadA}Putain mais qu'est-ce qui {SadB}est arrivé à vos jambes, mec ?!
 176)  DAVID
-[pickup2][weakly, drugged, out of it] Who...who's there...stay away... don't take any more of me...
+[pickup2][weakly, drugged, out of it] Qui... qui est là... restez loin de moi... ne me prennez pas d'autres morceaux...
 177)  DAVID
-[pickup2][out of it, drugged]...trap....
+[pickup2][out of it, drugged]... piège....
 178)  LEE
-[pickup2][hushed, super panicked]How did you lose both of your legs?
+[pickup2][hushed, super panicked]Comment vous avez perdu vos jambes ?
 179)  DAVID
-[pickup2] Don't... eat.... dinner...
+[pickup2] Ne... mangez.... pas le dîner...
 180)  LEE
-[pickup2][hushed but totally in shock]{FearC}Holy shit! {SadA}What happened to you? {FearA}We left you with...
+[pickup2][hushed but totally in shock]{FearC}Putain de merde ! {SadA}Qu'est-ce qui vous est arrivé ? {FearA}On vous avait laissé avec...
 181)  
-DON'T EAT THAT!
+NE MANGEZ PAS CA !
 182)  
-IT'S PEOPLE!
+C'EST UNE PERSONNE !
 183)  
-CLEMENTINE, NO!
+CLEMENTINE, NON !
 184)  LEE
-[pickup2] {FearC}Don't eat that!
+[pickup2] {FearC}Ne mangez pas ça !
 185)  BRENDA
-[pickup2] {HappyB}Sit down, {FearA}your supper's getting cold.
+[pickup2] {HappyB}Assis, {FearA}votre souper va refroidir.
 186)  LEE
-[pickup2] {FearB}It's... {FearC}people!
+[pickup2] {FearB}C'est... {FearC}une personne !
 187)  BRENDA
-[pickup2] {NormalB}Yes, Lee {HappyE}it's all people in here.
+[pickup2] {NormalB}Oui, Lee {HappyE}il y a plein de personnes ici.
 188)  LEE
-[pickup2] {FearB}Clementine, {FearC}NO!
+[pickup2] {FearB}Clémentine, {FearC}NON !
 189)  BRENDA
-[pickup2] {SadB}Lee, what's wrong? {FearB}You look pale.
+[pickup2] {SadB}Lee, qu'est-ce qui va pas ? {FearB}Vous êtes tout pâle.
 190)  
-Spit that out!
+Crachez !
 191)  
-It's people!
+C'est une personne !
 192)  
-Clementine, NO!
+Clementine, NON !
 193)  LEE
-[pickup2][horrified, urgent] {FearC}Spit that out!
+[pickup2][horrified, urgent] {FearC}Crachez-ça !
 194)  KENNY
-[pickup2] {SadA}Lee, {HappyC}calm down, man. The hunger's gone to your head. {HappyD}This is delicious.
+[pickup2] {SadA}Lee, {HappyC}calmez-vous, mon pote. La faim vous monte à la tête. {HappyD}C'est délicieux.
 195)  
-Mark is upstairs, LEGLESS!
+Mark est en haut, SANS SES JAMBES !
 429)  
-Mark is upstairs, LEGLESS!
+Mark est en haut, SANS SES JAMBES !
 196)  
-The guy from the woods is upstairs, LEGLESS.
+Le type des bois est en haut, SANS SES JAMBES.
 197)  
-You are eating HUMAN meat.
+Vous mangez de la chair HUMAINE.
 198)  
-This woman is fucking INSANE!
+Cette femme est totalement CINGLEE !
 199)  LARRY
-[pickup2] {HappyB}Sit your ass down, Lee. {AngryB}This[with revelry for her] lady has made you a meal.
+[pickup2] {HappyB}Posez votre cul, Lee. {AngryB}Cette[with revelry for her] dame vous a fait à manger.
 200)  DANNY
-[pickup2] {NormalC}It didn't have to be this way.
+[pickup2] {NormalC}Ca ne devait pas se passer comme ça.
 201)  LARRY
-[pickup2] {AngryB}He could use {AngryC}some goddamn manners.
+[pickup2] {AngryB}Il pourrait faire preuve {AngryC}d'un peu de manières.
 202)  BRENDA
-[pickup2] {HappyC}He just had a start.
+[pickup2] {HappyC}Il n'en a qu'un début.
 203)  LILLY
-[pickup2] {NormalB}Yeah, Lee, {HappyC}what's gotten into you?
+[pickup2] {NormalB}Ouais, Lee, {HappyC}qu'est-ce qui vous prend ?
 204)  LILLY
-[pickup2] {AngryA}That's {HappyD}crazy!
+[pickup2] {AngryA}C'est {HappyD}dingue !
 205)  BRENDA
-[pickup2] [trying to settle folks down]{NormalB}Now, now...
+[pickup2] [trying to settle folks down]{NormalB}Maintenant, maintenant...
 206)  LEE
-[pickup2] {AngryC}Mark is upstairs with his fucking legs cut off! {AngryD}You're EATING him.
+[pickup2] {AngryC}Mark est en haut avec ses putains de jambes coupées ! {AngryD}Vous êtes en train de le MANGER.
 207)  KENNY
-[pickup2] {AngryA}You're scaring the kids, Lee.
+[pickup2] {AngryA}Vous faîtes peur aux enfants, Lee.
 208)  LEE
-[pickup2] [panicked]{FearA}That guy from the woods, {SadB}Kenny, you remember him. {FearB}The guy we left in the trap! {AngryB}He's upstairs {AngryC}with his fucking legs cut off! {AngryD}You're EATING him.
+[pickup2] [panicked]{FearA}Ce type dans les bois, {SadB}Kenny, vous vous en souvenez. {FearB}Le mec qu'on a laissé dans le piège à ours ! {AngryB}Il est en haut {AngryC}avec ses putains de jambes coupées ! {AngryD}Vous êtes en train de le MANGER.
 209)  LEE
-[pickup2] {FearA}You're {FearB}eating {FearC}HUMAN {FearD}meat!
+[pickup2] {FearA}Vous êtes en train {FearB}de manger {FearC}de la chair {FearD}HUMAINE !
 210)  LARRY
-[pickup2] {AngryB}This woman made you a homecooked meal, {AngryD}you ungrateful shit! {AngryC}Show some respect!
+[pickup2] {AngryB}Cette femme vous a cuisiné un repas maison, {AngryD}petit con ingrat ! {AngryC}Un peu de respect !
 211)  BRENDA
-[pickup2] {AngryB}Thank you, Larry.
+[pickup2] {AngryB}Merci, Larry.
 212)  LILLY
-[pickup2] [suspicious]{AngryA}Lee... {ThinkingA}what's wrong?
+[pickup2] [suspicious]{AngryA}Lee... {ThinkingA}qu'est-ce qui va pas ?
 213)  KENNY
-[pickup2] {ThinkingA}What the hell {DisgustA}are you getting at?
+[pickup2] {ThinkingA}Où voulez-vous {DisgustA}en venir, bon sang ?
 214)  DUCK
-[picku2] Mom, I was eating that!
+[picku2] Maman, j'étais en train de manger ça !
 215)  KATJAA
-[pickup2] [grave]{FearB}Quiet, honey.
+[pickup2] [grave]{FearB}Du calme, chéri.
 216)  LILLY
-[pickup2] {AngryC}What is going on?!
+[pickup2] {AngryC}Qu'est-ce qu'il se passe ?!
 217)  LARRY
-[pickup2] {HappyA}Don't indulge him, Lilly. {AngryA}It's always something {AngryB}with this guy.
+[pickup2] {HappyA}Ne rentre pas dans son jeu, Lilly. {AngryA}Il y a toujours un truc de travers {AngryB}avec ce type.
 218)  DANNY
-[pickup2] {DisgustA}Everything coulda turned out okay for you folks.
+[pickup2] {DisgustA}Tout pourrait bien se terminer pour vous, les amis.
 219)  
-The bear traps were for people.
+Les pieges a ours sont pour les gens.
 220)  
-They're picking us off to trade as meat.
+Ils se servent de nous pour vendre notre chair.
 221)  
-Go upstairs and have a look!
+Montez a l'etage et jetez un oeil !
 222)  
-We need to get the kids out of here!
+Il faut faire partir les enfants d'ici !
 223)  LARRY
-[pickup2] {HappyC}You're out of {AngryA}your skull!
+[pickup2] {HappyC}Vous pétez {AngryA}les plombs !
 224)  LEE
-[pickup2][huge] {AngryC}MARK is UPSTAIRS right now with {AngryD}NO LEGS.
+[pickup2][huge] {AngryC}MARK est en HAUT en ce moment {AngryD}SANS ses JAMBES.
 225)  LEE
-[pickup2] {AngryB}They're picking us off {AngryC}to trade as meat.
+[pickup2] {AngryB}Ils se servent de nous {AngryC}pour vendre notre chair.
 226)  BRENDA
-[pickup2] {AngryB}It's true.
+[pickup2] {AngryB}C'est vrai.
 227)  LEE
-[pickup2][super angry] {AngryC}This woman, right here, is {AngryD}fucking INSANE.
+[pickup2][super angry] {AngryC}Cette femme, là, est {AngryD}complètement MALADE.
 228)  
-That woman is running a slaughterhouse.
+Cette femme dirige un abattoir.
 229)  
-That woman just fed you a man's legs!
+Cette femme vous donne les jambes d'un homme a manger !
 230)  
-Fuck you, Larry. Eat up.
+Allez vous faire foutre, Larry. Mangez donc.
 231)  LARRY
-[pickup2] {AngryB}I will, {HappyB}and I'll enjoy {DisgustA}every last bite!
+[pickup2] {AngryB}Et comment ! {HappyB}Je vais savourer jusqu'à {DisgustA}la dernière bouchée !
 232)  LEE
-[pickup2] {DisgustA}You know what? {AngryC}Fuck you, Larry. Eat up.
+[pickup2] {DisgustA}Vous savez quoi ? {AngryC}Allez vous faire foutre, Larry. Mangez donc.
 233)  KATJAA
-[pickup2] [After a long silence..] {SadA}Lee, is there {SadB}something going on?
+[pickup2] [After a long silence..] {SadA}Lee, il y a {SadB}quelque chose de grave ?
 234)  LEE
-[pickup2] {AngryB}She's running {AngryC}a slaughterhouse. {ThinkingB}They kill people {AngryB}and pass it off as meat for gas {AngryC}to keep this place running.
+[pickup2] {AngryB}Elle dirige {AngryC}un abattoir. {ThinkingB}Ils tuent des gens {AngryB}et échangent leur viande contre du carburant {AngryC}pour faire tourner cet endroit.
 235)  LARRY
-[pickup2] {AngryB}You don't even have the {AngryD}DECENCY {AngryC}to take a handout when you're offered one.
+[pickup2] {AngryB}Vous n'avez même pas la {AngryD}DECENCE {AngryC}d'accepter l'aumône quand on vous l'offre.
 236)  LARRY
-[pickup2] {AngryB}It just makes me sick, {AngryA}it really does. [his perception of lee's disrespect]
+[pickup2] {AngryB}Ca me rend malade, {AngryA}vraiment. [his perception of lee's disrespect]
 237)  LILLY
-[pickup2] {AngryC}Dad, that's not necessary. [reacting to her dad's racism at a dinner table argument]
+[pickup2] {AngryC}Papa, ce n'est pas nécessaire. [reacting to her dad's racism at a dinner table argument]
 238)  LARRY
-[pickup2] {DisgustA}You'd probably {AngryB}bitch about the FREE meal they use to give {AngryC}people like you in the joint.
+[pickup2] {DisgustA}A tous les coups {AngryB}vous crachiez sur le repas GRATUIT qu'ils servaient {AngryC}aux gars de ton espèce à la soupe populaire.
 239)  BRENDA
-[pickup2] [appreciates him standing up for her, but tries to calmly cool him down]{HappyC}That's enough, Larry.
+[pickup2] [appreciates him standing up for her, but tries to calmly cool him down]{HappyC}Ca suffit, Larry.
 240)  LEE
-[pickup2] {AngryB}That woman {AngryC}just fed you a man's legs!
+[pickup2] {AngryB}Cette femme {AngryC}vient de vous donner des jambes humaines à manger !
 241)  LARRY
-[pickup2] {HappyA}And {HappyC}SHE'S the insane one? {AngryB}Ha!
+[pickup2] {HappyA}Et {HappyC}c'est ELLE la cinglée ? {AngryB}Ha !
 242)  LEE
-[pickup2] [big and angry]{AngryA}BRENDA, {AngryC}tell me he's {DisgustA}NOT being eaten right now.
+[pickup2] [big and angry]{AngryA}BRENDA, {AngryC}dites-moi qu'on n'est {DisgustA}PAS en train de le manger maintenant.
 243)  LEE
-[pickup2][big] {AngryC}The man Kenny and I found trapped in the woods is upstairs, right now, {AngryD}with NO LEGS.
+[pickup2][big] {AngryC}L'homme que Kenny et moi avons trouvé piégé dans les bois est en haut, en ce moment, {AngryD}SANS ses JAMBES.
 244)  LEE
-[pickup2] {DisgustB}The bear traps {DisgustA}we found in the woods? {AngryB}Well, they match the ones in the barn. {AngryA}And they're using them to trap {AngryC}PEOPLE.
+[pickup2] {DisgustB}Les pièges à ours {DisgustA}qu'on a trouvé dans les bois ? {AngryB}Ils correspondent à ceux de la grange. {AngryA}Et ils s'en servent pour attraper des {AngryC}GENS.
 245)  LEE
-[pickup2] {AngryB}This is a dairy, {SadA}not a ranch. {AngryD}Think about it.
+[pickup2] {AngryB}Cette une ferme laitière, {SadA}pas un ranch. {AngryD}Réflechissez.
 246)  LEE
-[pickup2] {AngryB}Go upstairs and look! {AngryC}You'll find a guy with {AngryD}both of his legs hacked off!
+[pickup2] {AngryB}Montez et regardez ! {AngryC}Vous trouvez un type avec {AngryD}ses deux jambes coupées !
 247)  LARRY
-[pickup2] {AngryB}Lee, sit down and eat {AngryA}your goddamn dinner.
+[pickup2] {AngryB}Lee, asseyez-vous et mangez {AngryA}votre putain de dîner.
 248)  LEE
-[pickup2] {AngryB}We need to get the kids, {FearA}everyone, {AngryC}out of here. {AngryB}We need to go. {AngryC}NOW.
+[pickup2] {AngryB}Il faut sortir les enfants, {FearA}tout le monde, {AngryC}d'ici. {AngryB}On doit partir. {AngryC}TOUT DE SUITE.
 249)  ANDY
-[pickup2] {SadA}He woulda' died anyway! {NormalB}We gotta think about {AngryA}LIVIN'!
+[pickup2] {SadA}Il allait mourir de toute façon ! {NormalB}Il faut penser à notre {AngryA}SURVIE !
 250)  BRENDA
-[pickup2] {FearB}Settle down, honey.
+[pickup2] {FearB}Calmez-vous, trésor.
 251)  BRENDA
-[pickup2] {NormalB}By the shock on your face, Lee,{DisgustB} it looks as if {AngryC}you've been upstairs.
+[pickup2] {NormalB}Si j'en crois le dégoût sur votre visage, Lee,{DisgustB} on dirait que {AngryC}vous êtes allé en haut.
 252)  BRENDA
-[pickup2] {AngryA}Andy is right; {FearA}we go after folks who were gonna die anyways, {DisgustA}one way or another.
+[pickup2] {AngryA}Andy a raison; {FearA}on chasse les gens qui allaient mourir quoiqu'il arrive, {DisgustA}d'une façon ou d'une autre.
 253)  DANNY
-[pickup2] [the big ultra creepy punctuation of the scene. previous "these were people who were gonna die ANYWAY]{NormalA}Like ya'll.
+[pickup2] [the big ultra creepy punctuation of the scene. previous "these were people who were gonna die ANYWAY]{NormalA}Comme vous tous.
 254)  LILLY
-[pickup2] {SadB}Uh... I'm gonna puke.
+[pickup2] {SadB}Heuu... je vais vomir.
 255)  BRENDA
-[pickup2] {AngryC}Now, {AngryB}you got monsters roamin' around {AngryD}that do nothin' but eat people. {DisgustB}And for what? {AngryB}To continue to rot til' they {AngryD}eat some more.
+[pickup2] {AngryC}Maintenant, {AngryB}il y a des monstres qui grouillent et {AngryD}qui ne font que manger les gens. {DisgustB}Tout ça pour quoi ? {AngryB}Pour continuer à pourrir jusqu'à {AngryD}en manger encore.
 256)  BRENDA
-[pickup2] {ThinkingA}We think we can put that meat {DisgustB}to better use.
+[pickup2] {ThinkingA}Nous pensons qu'on peut utiliser cette viande {DisgustB}d'une meilleure façon.
 257)  BRENDA
-[pickup2] {AngryC}It's how I was raised and {AngryB}how I raised my boys.
+[pickup2] {AngryC}C'est comme ça que j'ai été élevée et {AngryB}que j'ai élevé mes garçons.
 258)  BRENDA
-[pickup2] {NormalC}Growin' up in rural Georgia, {AngryB}you're taught not to waste.
+[pickup2] {NormalC}Quand on grandit dans la campagne géorgienne, {AngryB}on nous apprend à ne pas gaspiller.
 259)  
-You're all sick.
+Vous etes tous malades.
 260)  
-Just let us go.
+Laissez-nous partir.
 261)  
-We outnumber you.
+Nous sommes plus nombreux.
 262)  LEE
-[pickup2] {AngryB}You're all sick...{SadA}sick in the head.
+[pickup2] {AngryB}Vous êtes tous malades...{SadA} grillés du cerveau.
 263)  BRENDA
-[pickup2] {AngryB}Lee, {FearA}that's not a very nice thing to imply.
+[pickup2] {AngryB}Lee, {FearA}ce n'est pas très gentil ce que vous insinuez.
 264)  LEE
-[pickup2] {FearA}Just let us go.
+[pickup2] {FearA}Laissez-nous partir.
 265)  LEE
-[pickup2] {AngryB}We outnumber you.
+[pickup2] {AngryB}Nous sommes plus nombreux que vous.
 266)  
-Kenny, get your gun!
+Kenny, sortez votre arme !
 267)  
-Clementine, run!
+Clementine, cours !
 268)  
-Lilly, grab a knife!
+Lilly, prenez un couteau !
 269)  LEE
-[pickup2] {FearB}Kenny, get your gun!
+[pickup2] {FearB}Kenny, sortez votre arme!
 270)  LEE
-[pickup2] {FearA}Clementine, {FearB}run!
+[pickup2] {FearA}Clémentine, {FearB}cours !
 271)  LEE
-[pickup2] {FearB}Lilly, grab a knife!
+[pickup2] {FearB}Lilly, prenez un couteau !
 272)  ANDY
-[pickup2]{angryD}Nobody's going anywhere!
+[pickup2]{angryD}Personne ne va nulle part !
 430)  ANDY
-[pickup2]{angryD}Nobody's going anywhere!
+[pickup2]{angryD}Personne ne va nulle part !
 432)  ANDY
-[pickup2]{angryD}Nobody's going anywhere!
+[pickup2]{angryD}Personne ne va nulle part !
 273)  DANNY
-[pickup2] {HappyB}We got lots of use for ya'll {AngryB}right here.
+[pickup2] {HappyB}On a encore bien besoin de vous tous {AngryB}par ici.
 431)  DANNY
-[pickup2] {HappyB}We got lots of use for ya'll {AngryB}right here.
+[pickup2] {HappyB}On a encore bien besoin de vous tous {AngryB}par ici.
 433)  DANNY
-[pickup2] {HappyB}We got lots of use for ya'll {AngryB}right here.
+[pickup2] {HappyB}On a encore bien besoin de vous tous {AngryB}par ici.
 274)  KENNY
-[pickup2] {AngryC}You don't go near {AngryD}my fucking family!
+[pickup2] {AngryC}Ne vous approchez pas de {AngryD}ma putain de famille !
 275)  CLEMENTINE
 [pickup2][yelp of pain]
 276)  LILLY
-[pickup2] {AngryD}Put your guns down! We're walking out of here!
+[pickup2] {AngryD}Baissez vos armes ! On va s'en aller tranquillement !
 277)  DUCK
-[pickup2] [crying] I don't wanna die...mommy what did I eat...
+[pickup2] [crying] Je veux pas mourir... maman, qu'est-ce que j'ai mangé...
 278)  DANNY
-[pickup2] I GOT PLANS FOR THIS ONE!
+[pickup2] J'AI DES PROJETS POUR CELLE-LA !
 279)  LARRY
-[pickup2] {SurprisedA}What..the..{ThinkingA}what...{AngryB}the fucking...{FearA}what...{AngryD}fuck!
+[pickup2] {SurprisedA}Qu'est-ce que... le..{ThinkingA} que...{AngryB} le putain...{FearA} que...{AngryD} putain !
 280)  
-I'LL KILL YOU!!!
+JE VAIS VOUS TUER !!!
 281)  
-LET GO OF HER!!!
+LACHEZ-LA !!!
 282)  
-YOU FUCKER!!!
+ENFOIRE !!!
 283)  LEE
 [pickup2] {AngryD}[rage growl of uncontrolled anger, villain grabs clementine by the hair]
 284)  LEE
-[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}I'll kill you!!!
+[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}Je vais vous tuer !!!
 285)  LEE
-[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}Let go of her, you son of a bitch!!!
+[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}Lâchez-là, fils de pute !!!
 286)  LEE
-[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}You fucker!!! I'll tear you apart!
+[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}Enfoiré !!! Je vais te mettre en pièce !
 287)  
-Everything will be okay!
+Tout ira bien !
 288)  
-Somebody do something!
+Faites quelque chose, quelqu'un !
 289)  
-We're screwed!
+On est foutu !
 290)  CLEMENTINE
-[pickup2] [in a horrific argument scene]{FearB}Lee! {CryingB}Lee...![half crying half in shock]
+[pickup2] [in a horrific argument scene]{FearB}Lee ! {CryingB}Lee... ![half crying half in shock]
 291)  LEE
-[pickup2] [trying to calm the group]{NormalC}Everyone! {SadA}Everything will be okay!
+[pickup2] [trying to calm the group]{NormalC}Ecoutez-moi tous ! {SadA}Tout ira bien !
 292)  LEE
-[pickup2][panicked, in an argument] {FearC}Somebody do something!
+[pickup2][panicked, in an argument] {FearC}Faîtes quelque chose, quelqu'un !
 293)  ANDY
-[pickup2][hyper aggressive snarl, about to deal with a guy] Fucking hell...
+[pickup2][hyper aggressive snarl, about to deal with a guy] Bordel...
 305)  ANDY
-[pickup2][hyper aggressive snarl, about to deal with a guy] Fucking hell...
+[pickup2][hyper aggressive snarl, about to deal with a guy] Bordel...
 294)  KATJAA
 [pickup2] [horrified gasp]
 295)  LILLY
@@ -639,47 +639,47 @@ We're screwed!
 304)  DUCK
 [pickup2] [horrified gasp]
 296)  MARK
-[pickup2] PLLLEEEASE...SOMEONE...!
+[pickup2] PIIIIITIEEEEE... QUELQU'UN... !
 306)  DAVID
-[pickup2] PLLLEEEASE...SOMEONE...Helll...!
+[pickup2] PIIIIITIEEEEE... QUELQU'UN... A l'aiii...!
 307)  DAVID
-[pickup2][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can] Hello?
+[pickup2][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can] Salut ?
 308)  DAVID
-[pickup2][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can] Upstairs!
+[pickup2][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can] En haut !
 309)  LEE
-[pickup2] {AngryA}We're screwed.
+[pickup2] {AngryA}On est foutu.
 310)  BRENDA
-[pickup2] {HappyD}Everybody sit down and {HappyA}I'll go get the meal! {HappyB}Ooh, this is a delight!
+[pickup2] {HappyD}Allez, assis tout le monde, {HappyA}je vais chercher le repas ! {HappyB}Ooh, quel bonheur !
 402)  BRENDA
-[pickup2] {HappyD}Everybody sit down and {HappyA}I'll go get the meal! {HappyB}Ooh, this is a delight!
+[pickup2] {HappyD}Allez, assis tout le monde, {HappyA}je vais chercher le repas ! {HappyB}Ooh, quel bonheur !
 311)  DUCK
-[pickup2] Oh boy!
+[pickup2] Génial !
 403)  DUCK
-[pickup2] Oh boy!
+[pickup2] Génial !
 312)  KENNY
-[pickup2] {HappyB}I could eat a horse.
+[pickup2] {HappyB}Je pourrais manger un cheval.
 405)  KENNY
-[pickup2] {HappyB}I could eat a horse.
+[pickup2] {HappyB}Je pourrais manger un cheval.
 313)  LARRY
-[pickup2] {HappyC}Brenda, you are an angel.
+[pickup2] {HappyC}Brenda, vous êtes un ange.
 406)  LARRY
-[pickup2] {HappyC}Brenda, you are an angel.
+[pickup2] {HappyC}Brenda, vous êtes un ange.
 314)  BRENDA
-[pickup2] {HappyE}Ah! {HappyD}No boy eats at my table {AngryA}with messy paws like that. {HappyD}Wash up and join us,{HappyC} won't you?
+[pickup2] {HappyE}Ah ! {HappyD}Aucun garçon ne mange à ma table {AngryA}avec des paluches aussi sales. {HappyD}Allez vous laver et rejoignez-nous,{HappyC} d'accord ?
 315)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Help...
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]A l'aide...
 426)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Help...
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]A l'aide...
 316)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Help me...
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Aidez-moi...
 317)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Someone....
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Quelqu'un....
 420)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Someone....
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Quelqu'un....
 318)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Please....
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Pitié....
 421)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Please....
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Pitié....
 319)  DAVID
 [pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Unnghh...
 320)  DAVID
@@ -687,11 +687,11 @@ We're screwed!
 417)  DAVID
 [pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Unnggh...
 321)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Help!
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]A l'aide !
 322)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Oh, God...
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Oh, Seigneur...
 323)  DAVID
-[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Someone help...
+[pickup2][process- Muffled, behind closed doors][heavily drugged, barely concious]Aidez-moi, quelqu'un...
 324)  DAVID
 [pickup2]ambient zombie groan 1]
 325)  DAVID
@@ -711,166 +711,166 @@ We're screwed!
 332)  DAVID
 [pickup2]	[ambient zombie attck growl4]
 333)  LILLY
-[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Huh?
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Hein ?
 334)  LARRY
-[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Hupf![whatever!]
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Hmmpf ![whatever!]
 335)  KENNY
-[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]..ehh??
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]...héé ??
 336)  KATJAA
-[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Ugh?
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Ugh ?
 337)  CLEMENTINE
-[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Eeww.
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Beeuuhaa.
 338)  DANNY
 [pickup2][ambient-mumbleld grunt When Lee shouts about eating people]Hrmm.
 339)  ANDY
 [pickup2][ambient-mumbleld grunt  When Lee shouts about eating people]Pfft.
 340)  DUCK
-[pickup2] Biscuits, wow!
+[pickup2] Des biscuits, waou !
 404)  DUCK
-[pickup2] Biscuits, wow!
+[pickup2] Des biscuits, waou !
 341)  
-Baseball Trophy
+Trophée de Baseball
 342)  
-#1 Most Appealing Cow Spots, 1978 Ribbon
+Endroit n°1 où les vaches sont les plus attirantes, Echarpe 1978
 343)  LEE
-[pickup 2b] [discovering an odd room] [to himself] {DisgustB}What the hell?
+[pickup 2b] [discovering an odd room] [to himself] {DisgustB}Qu'est-ce que c'est ?
 345)  LEE
-[pickup2b] [curious, confused] {ThinkingB}Where's that cord going?
+[pickup2b] [curious, confused] {ThinkingB}Où va cette corde ?
 346)  
-Use
+Utiliser
 347)  LEE
-[pickup 2b] {DisgustA}Man, {DisgustB}it's the rough stuff.
+[pickup 2b] {DisgustA}Houla, {DisgustB}quel bazar.
 348)  LEE
-[pickup 2b] {DisgustA}Musty as hell.
+[pickup 2b] {DisgustA}C'est tout moisi.
 349)  LEE
-[pickup 2b] {NormalD}That is a {HappyB}lot of tampons.
+[pickup 2b] {NormalD}Un paquet {HappyB} de tampons.
 350)  LEE
-[pickup 2b] {AngryA}Candles. Smart.
+[pickup 2b] {AngryA}Des bougies. Malin.
 351)  LEE
-[pickup 2b] [seeing hemorrhoid cream] [to himself]{DisgustA}Hemorrhoid cream.
+[pickup 2b] [seeing hemorrhoid cream] [to himself]{DisgustA}Crême hémorrhoïdaire.
 352)  BRENDA
-[long prayer] Bless us, O Lord...for these, Thy gifts, which we are about to receive from Thy bounty. Help us to be mindful of all our blessings, and the needs of those who have less. Especially in these desperate, trying times when we need you most.  Amen.
+[long prayer] Soyez béni, Notre Seigneur... pour ces Présents que nous recevons par Votre bienveillance. Aidez-nous à percevoir tous Vos signes ainsi que les besoins de ceux qui sont les plus dépourvus. Surtout en cette période desespérée et en cette épreuve où nous avons le plus besoin de vous.  Amen.
 353)  LEE
-[pickup 2b][alt] That's a lot of gauze.
+[pickup 2b][alt] Il y a beaucoup de gaze.
 354)  
-Box of Candles
+Boîte de bougies
 355)  
-Box of Tampons
+Boîte de tampons
 356)  
-Hemorrhoid Cream
+Crême hémorrhoïdaire
 357)  
-Power Cord
+Cordon d'alimentation
 358)  
-Toilet Paper
+Papier toilette
 359)  
-Towel
+Serviette
 360)  LILLY
-[pickup3][reacting to lee freaking out at dinner]Lee? [As in "come on, you're not serious"]
+[pickup3][reacting to lee freaking out at dinner]Lee ? [As in "come on, you're not serious"]
 361)  LILLY
-[pickup3][reacting to lee freaking out at dinner]What's going on?
+[pickup3][reacting to lee freaking out at dinner]Qu'est-ce qu'il se passe ?
 362)  LILLY
-[pickup3][reacting to lee freaking out at dinner]What are you talking about?
+[pickup3][reacting to lee freaking out at dinner]De quoi vous parlez ?
 363)  LILLY
-[pickup3][reacting to lee  freaking out at dinner]That's nuts!
+[pickup3][reacting to lee  freaking out at dinner]C'est des conneries !
 364)  KENNY
-[pickup3][reacting to lee  freaking out at dinner]What the hell?
+[pickup3][reacting to lee  freaking out at dinner]Qu'est-ce que... ?
 365)  KENNY
-[pickup3][reacting to lee  freaking out at dinner]Lee, that's crazy!
+[pickup3][reacting to lee  freaking out at dinner]Lee, c'est n'importe quoi !
 366)  KENNY
-[pickup3][reacting to lee freaking out at dinner]Are you fucking serious?!
+[pickup3][reacting to lee freaking out at dinner]Vous êtes sérieux, putain ?!
 367)  KENNY
-[pickup3][reacting to lee  freaking out at dinner][in horror]Oh my god!
+[pickup3][reacting to lee  freaking out at dinner][in horror]Oh mon dieu !
 368)  KATJAA
-[pickup3][reacting to lee  freaking out at dinner]That's ridiculous!
+[pickup3][reacting to lee  freaking out at dinner]C'est ridicule !
 369)  KATJAA
-[pickup3][reacting to lee  freaking out at dinner]You're scaring the kids!
+[pickup3][reacting to lee  freaking out at dinner]Vous faîtes peur aux enfants !
 370)  KATJAA
-[pickup3][reacting to lee  freaking out at dinner]What's going on?
+[pickup3][reacting to lee  freaking out at dinner]Qu'est-ce qu'il se passe ?
 371)  KATJAA
-[pickup3][reacting to lee  freaking out at dinner]That can't be!
+[pickup3][reacting to lee  freaking out at dinner]C'est impossible !
 372)  LILLY
-[pickup3][PANIC -reacting to brothers getting their guns]Dad, get up!
+[pickup3][PANIC -reacting to brothers getting their guns]Papa, debout !
 373)  LILLY
-[pickup3][PANIC -reacting to brothers getting their guns]RUN!
+[pickup3][PANIC -reacting to brothers getting their guns]COURREZ !
 374)  LILLY
-[pickup3][PANIC -reacting to brothers getting their guns]SHIT!
+[pickup3][PANIC -reacting to brothers getting their guns]MERDE !
 375)  KENNY
-[pickup3][PANIC -reacting to brothers getting their guns]KAT!!
+[pickup3][PANIC -reacting to brothers getting their guns]KAT !!
 376)  KENNY
-[pickup3][PANIC -reacting to brothers getting their guns]Grab your knives!!
+[pickup3][PANIC -reacting to brothers getting their guns]Prenez vos couteaux !!
 377)  KENNY
-[pickup3][PANIC -reacting to brothers getting their guns]Where are the guns?!
+[pickup3][PANIC -reacting to brothers getting their guns]Où sont les armes ?!
 378)  KENNY
-[pickup3][PANIC -reacting to brothers getting their guns]RUN!!
+[pickup3][PANIC -reacting to brothers getting their guns]COURREZ !!
 379)  KATJAA
-[pickup3][PANIC -reacting to brothers getting their guns][to duck]Come here sweetie!
+[pickup3][PANIC -reacting to brothers getting their guns][to duck]Viens là mon coeur !
 380)  KATJAA
-[pickup3][PANIC -reacting to brothers getting their guns][to duck]It's gonna be okay!
+[pickup3][PANIC -reacting to brothers getting their guns][to duck]Ca va aller !
 381)  KATJAA
-[pickup3][PANIC -reacting to brothers getting their guns]Get the children!
+[pickup3][PANIC -reacting to brothers getting their guns]Prenez les enfants !
 382)  KATJAA
-[pickup3][PANIC -reacting to brothers getting their guns]Kenny, no!!
+[pickup3][PANIC -reacting to brothers getting their guns]Kenny, non !!
 383)  LEE
-[pickup3][to himself - looking at objects while snooping around the house]High school diploma.
+[pickup3][to himself - looking at objects while snooping around the house]Diplôme de fin d'études secondaires.
 384)  LEE
-[pickup3][to himself - looking at objects while snooping around the house]Andy's college degree.  These boys aren't stupid.
+[pickup3][to himself - looking at objects while snooping around the house]Diplôme universitaire d'Andy.  Ces gamins n'étaient pas idiots.
 385)  LEE
-[pickup3][to himself - looking at a portrait of Danny while snooping around the house]Brenda is proud of her kids but, I'm starting to get a bad feeling about this.
+[pickup3][to himself - looking at a portrait of Danny while snooping around the house]Brenda est fière de ses fils mais j'ai un mauvais présentiment à ce sujet.
 386)  LEE
-[pickup3][to himself - looking at objects (Dairly Blue Ribbon) while snooping around the house]This dairy must've meant a lot to em, before the walkers destroyed everything.
+[pickup3][to himself - looking at objects (Dairly Blue Ribbon) while snooping around the house]Cette ferme devait être tout ce qu'ils avaient avant que les marcheurs ne détruisent tout.
 387)  LEE
-[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Hmf. Seems like it's been years since kids were playing sports for fun...
+[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Hmm. On dirait que ça fait des années que les gamins ne font plus de sport pour le plaisir...
 388)  LEE
-[pickup3][Lee, VERY SUSPICIOUS of the family, excuses himself so he can get a moment to snoop around.]Mind if I wash my hands first?
+[pickup3][Lee, VERY SUSPICIOUS of the family, excuses himself so he can get a moment to snoop around.]Ca vous ennuie si je me lave les mains avant ?
 407)  LEE
-[pickup3][Lee, VERY SUSPICIOUS of the family, excuses himself so he can get a moment to snoop around.]Mind if I wash my hands first?
+[pickup3][Lee, VERY SUSPICIOUS of the family, excuses himself so he can get a moment to snoop around.]Ca vous ennuie si je me lave les mains avant ?
 389)  LEE
-[dupliacte of line 310415796]{DisgustA}Where's Mark?
+[dupliacte of line 310415796]{DisgustA}Où est Mark ?
 390)  BRENDA
-[dupliacte of line 310415797]{HappyB}Now don't you {HappyA}worry about him.  {HappyC}I've already brought some food up. {AngryA}You just let him rest.
+[dupliacte of line 310415797]{HappyB}Ne vous {HappyA}inquiétez pas pour lui.  {HappyC}Je lui ai déjà monté de quoi manger. {AngryA}Laissez-le se reposer.
 391)  LEE
-[pickup3][to himself while snooping around the house][alt]Where does this go?
+[pickup3][to himself while snooping around the house][alt]Où est-ce que ça mène ?
 392)  LEE
-[pickup3][to himself while snooping around the house.  Looking at the window]Feels like theres a storm coming.
+[pickup3][to himself while snooping around the house.  Looking at the window]On dirait qu'il va y avoir de l'orage.
 393)  LEE
-[pickup3][to himself while snooping around the house]Where the hell is Mark?  I thought Brenda said he was up here resting?
+[pickup3][to himself while snooping around the house]Bon sang, où est Mark ?  Brenda m'avait pas dit qu'il se reposait ici, à l'étage ?
 394)  LEE
-[pickup3][to himself while snooping around the house]Farm books. Cookbooks. Nothing out of the ordinary here.
+[pickup3][to himself while snooping around the house]Des livres de ferme. Des livres de cuisine. Rien d'extraordinaire là-dedans.
 395)  LEE
-[pickup3][to himself while snooping around the house]What do they need so much morphine for?
+[pickup3][to himself while snooping around the house]A quoi peut bien leur servir toute cette morphine ?
 396)  LEE
-[pickup2]  [to himself]Looks like a bunch of medical waste in here. IV tubes, saline...
+[pickup2]  [to himself]On dirait un tas de récup' de matériel médical. Tubes IV, sérum...
 397)  LEE
-[pickup2] [to himself]What would dairy farmers need with this kind of stuff?
+[pickup2] [to himself]Pourquoi des fermiers ont besoin de tout ces trucs ?
 398)  KENNY
-[pickup3][springing into action at the dinner tabe when everyone else fails to react]All right, screw this!  We're getting the hell outta here!
+[pickup3][springing into action at the dinner tabe when everyone else fails to react]Très bien, allez vous faire foutre !  On se casse d'ici !
 399)  BRENDA
-[pickup3][allowing Lee to excuse himself to wash up before dinner]Bathroom's right outside in the hall.  And be sure to get under your nails, you've been muckin' around in the dirt all day.
+[pickup3][allowing Lee to excuse himself to wash up before dinner]La salle de bain est tout de suite à droite dans le couloir.  Et nettoyez bien sous les ongles. Vous avez traîné dans la saleté toute la journée.
 408)  BRENDA
-[pickup3][allowing Lee to excuse himself to wash up before dinner]Bathroom's right outside in the hall.  And be sure to get under your nails, you've been muckin' around in the dirt all day.
+[pickup3][allowing Lee to excuse himself to wash up before dinner]La salle de bain est tout de suite à droite dans le couloir.  Et nettoyez bien sous les ongles. Vous avez traîné dans la saleté toute la journée.
 409)  LILLY
-[pickup3][responding to Lee freaking out and claiming everyone is eating people] Lee, what the hell is wrong with you?!
+[pickup3][responding to Lee freaking out and claiming everyone is eating people] Lee, mais qu'est-ce qui va pas chez vous ?!
 410)  KENNY
-[pickup3][Reacting to Lee screaming at Clementine to spit out her food]Lee, Jesus, man! Did you find something?
+[pickup3][Reacting to Lee screaming at Clementine to spit out her food]Bon sang, Lee ! Vous avez trouvé quelque chose ?
 411)  ANDY
-[pickup3]][Reacting to Lee screaming at Clementine to spit out her food]Hey, why don't you settle down,man.
+[pickup3]][Reacting to Lee screaming at Clementine to spit out her food]Hé, vous voulez bien vous calmer ?
 412)  KENNY
-[pickup3][Quiet but firm- trying to keep Kat & Duck from panicinking while Lee shouts about eating people]Hang on Kat.  just keep Duck close.
+[pickup3][Quiet but firm- trying to keep Kat & Duck from panicinking while Lee shouts about eating people]Attends Kat.  Reste près de Duck.
 413)  KATJAA
-[pickup3][at the dinner table whit Lee trying to warn people]...Ken, maybe we should-
+[pickup3][at the dinner table whit Lee trying to warn people]...Ken, on devrait peut-être-
 414)  LEE
-[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Danny's baseball trophy...
+[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Un trophée de baseball de Danny...
 415)  DAVID
 [Drugged & falling down the stairs]
 427)  
-College Diploma
+Diplôme de fin d'études secondaires
 428)  
-High School Diploma
+Diplôme universitaire
 434)  
 Morphine
 435)  
-Medical Supplies
+Médicaments
 436)  
-Trashcan
+Poubelle
 438)  LEE
-Clementi--
+Clémenti--
