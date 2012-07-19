@@ -403,7 +403,7 @@ Crachez !
 191)  
 C'est une personne !
 192)  
-Clementine, NON !
+Clémentine, NON !
 193)  LEE
 [pickup2][horrified, urgent] {FearC}Crachez-ça !
 194)  KENNY
@@ -459,11 +459,11 @@ Cette femme est totalement CINGLEE !
 218)  DANNY
 [pickup2] {DisgustA}Tout pourrait bien se terminer pour vous, les amis.
 219)  
-Les pieges a ours sont pour les gens.
+Les pièges à ours sont pour les gens.
 220)  
 Ils se servent de nous pour vendre notre chair.
 221)  
-Montez a l'etage et jetez un oeil !
+Montez a l'étage et jetez un oeil !
 222)  
 Il faut faire partir les enfants d'ici !
 223)  LARRY
@@ -479,7 +479,7 @@ Il faut faire partir les enfants d'ici !
 228)  
 Cette femme dirige un abattoir.
 229)  
-Cette femme vous donne les jambes d'un homme a manger !
+Cette femme vous donne les jambes d'un homme à manger !
 230)  
 Allez vous faire foutre, Larry. Mangez donc.
 231)  LARRY
@@ -555,7 +555,7 @@ Nous sommes plus nombreux.
 266)  
 Kenny, sortez votre arme !
 267)  
-Clementine, cours !
+Clémentine, cours !
 268)  
 Lilly, prenez un couteau !
 269)  LEE

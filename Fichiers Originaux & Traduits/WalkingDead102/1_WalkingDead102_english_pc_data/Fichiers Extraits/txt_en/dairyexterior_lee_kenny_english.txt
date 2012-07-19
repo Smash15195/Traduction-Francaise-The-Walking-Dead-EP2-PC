@@ -173,7 +173,7 @@ C'est rien.
 86)  KENNY
 [pickup2]Et c'est mieux d'avoir une mort rapide que de souffrir le martyr comme ce type dans le piège à ours.
 87)  
-Ca va. On est en securite.
+Ca va. On est en sécurité.
 88)  LEE
 [pickup2] Ca va. Des gens qui meurent, ça arrive. Mais au moins on est en sécurité maintenant.
 89)  KENNY
@@ -191,13 +191,13 @@ Ca va. On est en securite.
 95)  KENNY
 [pickup2][disappointed, then quitely]Je comprends. Mais écoutez...
 96)  
-Qu'avez vous dit a Lilly ?
+Qu'avez vous dit à Lilly ?
 97)  KENNY
 [pickup2] [impatient]Vous avez trouvé à manger ou pas alors ?!
 98)  LEE
 [pickup2] Non. Rien.
 99)  
-On a rien trouve.
+On a rien trouvé.
 100)  LEE
 [pickup2]Il n'y a rien là-bas.
 101)  KENNY
@@ -221,7 +221,7 @@ Que cachent-ils ?
 110)  KENNY
 [pickup2][quietly]D'après moi ? A manger. Et de ce que j'en ai vu, ils en ont plus qu'assez dans le coin. Vous pourriez peut-être trouver un moyen d'entrer, Lee.
 111)  
-Restez a l'ecart.
+Restez a l'écart.
 112)  KENNY
 [pickup2] [quietly]Rien à foutre, mec.
 113)  LEE
@@ -307,17 +307,17 @@ J'aimerais bien que ce type s'en aille...
 153)  KENNY
 [pickup_2]Rien ne peut plus vous arrêter maintenant.
 154)  
-Montrer Camera a
+Montrer Caméra à
 155)  
-Montrer Casquette a
+Montrer Casquette à
 156)  
-Danny a tue quelqu'un.
+Danny a tué quelqu'un.
 157)  
-J'ai tue quelqu'un.
+J'ai tué quelqu'un.
 158)  
-Lilly ne veut pas etre ici.
+Lilly ne veut pas être ici.
 159)  
-Votre famille est bien arrivee ?
+Votre famille est bien arrivée ?
 160)  
 Comment tenez vous ?
 161)  KENNY
@@ -333,7 +333,7 @@ Comment tenez vous ?
 166)  KENNY
 [pickup3][in ernest]Hé bien... vous devriez y réfléchir car on va y venir un jour.
 167)  
-Oui, bien sur.
+Oui, bien sûr.
 168)  
 Non. Lilly a fait du bon boulot.
 169)  

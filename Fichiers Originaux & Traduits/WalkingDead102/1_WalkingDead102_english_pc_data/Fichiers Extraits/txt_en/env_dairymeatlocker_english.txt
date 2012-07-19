@@ -1049,7 +1049,7 @@ Et maintenant ?
 492)  LEE
 [pickup2][half to himself]Le climatiseur !
 493)  
-j'ai besoin d'une piece...
+j'ai besoin d'une pièce...
 494)  LEE
 [pickup2][insistent]Ecoutez, j'ai besoin d'une pièce ou d'un truc équivalent.
 495)  LEE
@@ -1065,13 +1065,13 @@ Regarder
 574)  
 Regarder
 508)  
-Devisser
+Dévisser
 509)  
-Devisser
+Dévisser
 511)  
-Devisser
+Dévisser
 512)  
-Devisser
+Dévisser
 513)  
 Palettes
 514)  
@@ -1091,7 +1091,7 @@ Poche
 520)  
 Porte de la Grange
 527)  
-Il etait mort.
+Il était mort.
 528)  
 On ne peut pas prendre ce risque.
 530)  
@@ -1099,15 +1099,15 @@ Pas encore.
 531)  
 Je sais pas.
 532)  
-Vous devez penser a vous.
+Vous devez penser à vous.
 533)  
-Larry etait un bon pere.
+Larry était un bon père.
 534)  
-Kenny essayait de nous proteger.
+Kenny essayait de nous protéger.
 537)  
 Sortir d'ici.
 538)  
-En endroit sur.
+En endroit sûr.
 539)  
 Ton talkie-walkie.
 540)  
@@ -1123,13 +1123,13 @@ Vous devez vous ressaisir.
 545)  
 Larry aurait voulu que vous alliez de l'avant.
 546)  
-Je sais que vous haissez Kenny...
+Je sais que vous haïssez Kenny...
 547)  
 C'est trop petit pour passer.
 549)  
-Clementine peut passer.
+Clémentine peut passer.
 550)  
-Tu n'es pas obligee de le faire.
+Tu n'es pas obligée de le faire.
 554)  
 Vous n'en valez pas la peine.
 555)  
@@ -1145,7 +1145,7 @@ Quatre !
 570)  
 Cinq !
 573)  
-Parler a
+Parler à
 575)  LARRY
 [pickup3][low and menacing - Follows #310420268 or # 310420266] N'oubliez pas... Je sais qui vous êtes.
 576)  LARRY

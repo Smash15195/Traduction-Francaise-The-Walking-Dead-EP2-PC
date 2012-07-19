@@ -1023,71 +1023,71 @@ I did the right thing.
 466)  
 It's what your husband wanted.
 503)  LILLY
-[pickup2] {thinkingA} Lee, why don't you and Mark and check the place out, see if it's legit.
+[pickup2] {thinkingA} Lee, pourquoi vous iriez pas avec Mark pour vérifier les lieux, histoire de voir si c'est réglo ?
 504)  LEE
-[pickup2]Need any help with the wall?
+[pickup2]Vous avez besoin d'aide avec le mur ?
 505)  LARRY
-[pickup2][flat] Nope.
+[pickup2][flat] Nan.
 506)  MARK
-Actually, we could use your axe.  You mind if we take it?
+En fait, on pourrait se servir de votre hache.  Ca vous dérange si on la prend ?
 507)  
-Talk To
+Parler à
 508)  
-Give Food To
+Donner nourriture à
 509)  LEE
-[pickup 2]  Here, eat something.
+[pickup 2]  Tenez, mangez quelque chose.
 510)  KATJAA
-[pickup3][flustered while operating on the injured man, and a bit annoyed at Lee]Why don't you give it to Duck.  I'm a little busy with your mess right now.
+[pickup3][flustered while operating on the injured man, and a bit annoyed at Lee]Pourquoi vous donnez pas ça à Duck.  Je suis un peu occupée à nettoyer derrière vous là.
 511)  
-Shove
+Pousser
 512)  
-Kick
+Donner un coup de pied
 513)  DOUG
-[pickup3][shouting ambient]LEE! MOVE!!
+[pickup3][shouting ambient]LEE ! DEGAGEZ !!
 514)  DOUG
-[pickup3][shouting ambient]WATCH OUT!!
+[pickup3][shouting ambient]ATTENTION !!
 515)  DOUG
-[pickup3][shouting ambient]GET AWAY FROM IT!!
+[pickup3][shouting ambient]ELOIGNEZ VOUS DE LUI !!
 516)  DOUG
-[pickup3][shouting ambient]DON'T LET IT BITE YOU!!
+[pickup3][shouting ambient]NE LE LAISSEZ PAS VOUS MORDRE !!
 517)  DOUG
-[pickup3][shouting ambient]PUSH IT OFF!!
+[pickup3][shouting ambient]REPOUSSEZ LE !!
 518)  LEE
-[pickup3][casual, looking as some stuff doug is messing with]What's that for?
+[pickup3][casual, looking as some stuff doug is messing with]C'est pour quoi faire, tout ça ?
 519)  DOUG
-[pickup3][explaining the cans hanging from the sign, embarased]Oh, that was my first attempt at making an alarm system.  The new version is much more sophisticated!
+[pickup3][explaining the cans hanging from the sign, embarased]Oh, c'était mon prototype de système d'alarme.  La nouvelle version est beaucoup plus élaborée !
 520)  CLEMENTINE
-[pickup3][ambient]Don't press so hard, you'll break 'em.
+[pickup3][ambient]N'appuie pas si fort, tu vas les casser.
 523)  LEE
-[pickup3][giving the axe to mark to fix the fence]Here Mark.  This should help.
+[pickup3][giving the axe to mark to fix the fence]Tenez Mark.  Ca devrait vous aider.
 524)  LARRY
-[pickup3][annoyed at lee]Hey, I'm the one doing all the work over here.  You didn't think to give me the axe?
+[pickup3][annoyed at lee]Hé, c'est moi qui fait tout le boulot ici. Et vous pensez même pas à me donner la hache ?
 525)  MARK
-[pickup3][taki9ng the axe from lee to fix the fence] Thanks.
+[pickup3][taki9ng the axe from lee to fix the fence] Merci.
 526)  LEE
-[Shouting] The Axe!  Hurry!!
+[Shouting] La hache !  Vite !!
 527)  LEE
-[Shouting] The Axe!  Hurry!!
+[Shouting] La hache !  Vite !!
 528)  LARRY
 [pickup3][frantic!  Swinging an axe at a zombie!][exertion]
 531)  MARK
 [pickup3][frantic!  Swinging an axe at a zombie!][exertion]
 529)  LARRY
-[pickup3][frantic!  Swinging an axe at a zombie and missing!  Now the axe is stuck]Dammit!  I had it!!
+[pickup3][frantic!  Swinging an axe at a zombie and missing!  Now the axe is stuck]Bon dieu !  Je l'avais !!
 530)  MARK
-[pickup3][frantic!  Swinging an axe at a zombie and missing!  Now the axe is stuck]SHIT!!  It's stuck!!
+[pickup3][frantic!  Swinging an axe at a zombie and missing!  Now the axe is stuck]MERDE !!  Elle est coincée !!
 532)  LARRY
-[pickup3][frantic!  Swinging an axe at a zombie!]GET OUT OF THE DAMN WAY!!
+[pickup3][frantic!  Swinging an axe at a zombie!]BARREZ VOUS DE LA !!
 533)  MARK
-[pickup3][frantic!  Swinging an axe at a zombie!]MOVE!! MOVE!!
+[pickup3][frantic!  Swinging an axe at a zombie!]POUSSEZ-VOUS !! POUSSEZ-VOUS !!
 534)  LEE
-[a bit out of breath]{normalD} Thanks.
+[a bit out of breath]{normalD} Merci.
 535)  MARK
-[pickup3][a bit out of breath having just chopped a combie to save Lee]No problem.  We gotta watch each others backs, right?
+[pickup3][a bit out of breath having just chopped a combie to save Lee]Pas de soucis.  On doit garder un oeil les uns sur les autres, pas vrai ?
 536)  MARK
-[pickup3][Shouting at Lee to get clear of the zombie so he can chop it!] Push it off!! I don't want to hit you!!
+[pickup3][Shouting at Lee to get clear of the zombie so he can chop it!] Repoussez-le !! Je veux pas vous frapper !!
 537)  MARK
-[pickup3][Shouting at Lee to get clear of the zombie so he can chop it!] Push it off!! I don't want to hit you!!
+[pickup3][Shouting at Lee to get clear of the zombie so he can chop it!] Repoussez-le !! Je veux pas vous frapper !!
 538)  MARK
 [pickup3][exertion, axing a zombie in the head!]
 539)  MARK
@@ -1097,266 +1097,266 @@ Kick
 541)  LARRY
 [pickup3][exertion, axing a zombie in the head!]
 542)  KENNY
-[pickup3][waliking over and scolding Lee for giving the limited amount of food to the new stranger (Keeping the conversatin between Lee & Kenny)]{angryb}Are you out of your mind?  We needed that food for us!  For our kids!
+[pickup3][waliking over and scolding Lee for giving the limited amount of food to the new stranger (Keeping the conversatin between Lee & Kenny)]{angryb}Où avez-vous la tête ?  On avait besoin de cette nourriture pour nous !  Pour nos enfants !
 543)  KENNY
-[pickup3]{angrya}That little girl is counting on you. Just keep that in mind.
+[pickup3]{angrya}Cette petite fille compte sur vous. Gardez ça en tête.
 544)  KENNY
-[pickup3][scolding Lee]{disgusta}Jesus Lee, I didn't think you were that stupid.
+[pickup3][scolding Lee]{disgusta}Bon sang, Lee, je pensais pas que vous étiez si bête.
 545)  CARLEY
-[pickup3] [Lee has given food to the New guy over his established friends]{thinkingA}Lee, I think that's... sweet... but, we don't have food to spare like that.  You need to be thinking about us first.
+[pickup3] [Lee has given food to the New guy over his established friends]{thinkingA}Lee, c'est... gentil... mais, on a pas autant de nourriture à partager comme ça.  Vous devez penser à nous en priorité.
 546)  KENNY
-[pickup3][kenny walks over when he sees that Lee is handing out the food]{thinkinga}Oh, I see Lilly couldn't handle her own job.
+[pickup3][kenny walks over when he sees that Lee is handing out the food]{thinkinga}Oh, je vois que Lilly n'a pas pu s'occuper de son job.
 547)  BEN
-[pickup3][seeing how little food there is to go around]At least you guys still HAVE  food.
+[pickup3][seeing how little food there is to go around]Au moins vous AVEZ encore à manger, les gars.
 548)  LEE
-[pickup3][bummed abount amount of food to go around.]Yeah.  This is it.
+[pickup3][bummed abount amount of food to go around.]Ouais.  C'est terminé.
 549)  CLEMENTINE
-[pickup3][about giving out the food]Lee will be fair about it, right Lee?
+[pickup3][about giving out the food]Lee va le faire équitablement, pas vrai ?
 550)  KENNY
-[pickup3][convering the little amount of food to go around]Well, I'm sure you'll be smarter about giving it out than Lilly has.
+[pickup3][convering the little amount of food to go around]Bien, je suis sûr que vous serez plus malin que Lilly sur le partage.
 551)  LEE
-[pickup3]Not yet.  I'll just play it by ear and see how it goes.
+[pickup3]Pas encore.  J'improviserai sur le moment et j'aviserai.
 552)  CARLEY
-[pickup3]You got a plan Lee?
+[pickup3]Vous avez un plan, Lee?
 553)  LEE
-[pickup3][hopeful]I'll do my best.
+[pickup3][hopeful]Je vais faire de mon mieux.
 554)  CARLEY
-[pickup3][seeing that Lee is handing out the food]{feara}Oh man.  Is that all the food to go around today?
+[pickup3][seeing that Lee is handing out the food]{feara}Oh non.  C'est tout ce qu'il y a à manger aujourd'hui ?
 555)  CLEMENTINE
-[pickup3][seeing how little food lee has to give out] {sada}Is that food for everyone to share?
+[pickup3][seeing how little food lee has to give out] {sada}C'est ce qu'on doit partager entre nous tous aujourd'hui ?
 556)  LARRY
-[pickup3][pissed that he didnt get food]You keep treating people like this and your days in this group are numbered!
+[pickup3][pissed that he didnt get food]Continuez à traiter les gens comme ça et vos jours dans ce groupe sont comptés !
 681)  LARRY
-[pickup3][pissed that he didnt get food]You keep treating people like this and your days in this group are numbered!
+[pickup3][pissed that he didnt get food]Continuez à traiter les gens comme ça et vos jours dans ce groupe sont comptés !
 557)  DOUG
-[pickup3][disapointed that he didnt get food - To himself] Dude, that's bullshit.  I was ON the food list for today!
+[pickup3][disapointed that he didnt get food - To himself] C'est des conneries, Mec.  Il y avait MON nom sur la liste aujourd'hui !
 558)  CLEMENTINE
-[pickup3][having not been fed]I hope I get to eat next time.
+[pickup3][having not been fed]J'espère que je pourrais manger la prochaine fois.
 559)  CARLEY
-[pickup3][if didnt get fed]It's okay.  I know you're still watching out for me.
+[pickup3][if didnt get fed]Ca va.  Je sais que vous gardez toujours un oeil sur moi.
 560)  KENNY
-[pickup3][disapointed that Lee didnt give food to the kids]What exactly is your problem?!
+[pickup3][disapointed that Lee didnt give food to the kids]C'est quoi votre problème au juste ?!
 561)  KENNY
-[pickup3][gettin pissed off] You had the food in your hands and you didn't offer any of it to me OR the kids?  What kind of man are you?
+[pickup3][gettin pissed off] Vous aviez de la nourriture dans les mains et vous n'en avez donné ni à moi, ni aux enfants ?  Quel genre d'homme êtes-vous ?
 562)  LEE
-[pickup3][Kenny is berating him] Excuse me?
+[pickup3][Kenny is berating him] Pardon ?
 563)  LEE
-[pickup3][defending himself] It's not like that...
+[pickup3][defending himself] Ce n'est pas comme ça...
 564)  KENNY
-[pickup3][angry that lee didnt give him food]So, me and my family don't matter you you anymore?
+[pickup3][angry that lee didnt give him food]Moi et ma famille, on ne compte plus pour vous, alors ?
 565)  KENNY
-[pickup3][Assuring Lee it's okay that he didnt get food]Hey, it was a tough choice, but you took care of the kids.  That's what a real man does.
+[pickup3][Assuring Lee it's okay that he didnt get food]Hé, c'était un choix cornélien, mais vous vous êtes occupés des enfants.  C'est ce que fait un homme, un vrai.
 566)  LEE
-[pickup3][pre-emptively defending himself] Kenny, I know I ran out of food before-
+[pickup3][pre-emptively defending himself] Kenny, je sais qu'il restait plus rien avant-
 667)  LEE
-[pickup3][pre-emptively defending himself] Kenny, I know I ran out of food before-
+[pickup3][pre-emptively defending himself] Kenny, je sais qu'il restait plus rien avant-
 567)  KENNY
 [pickup3][Lee fed both kids, but not Kenny] Lee-
 666)  KENNY
 [pickup3][Lee fed both kids, but not Kenny] Lee-
 568)  KENNY
-[pickup3][hearing that the food is all gone]Still,  I guess some people aren't gonna be happy with your choices.
+[pickup3][hearing that the food is all gone]Quand bien même,  j'imagine que certaines personnes ne vont pas être content de vos choix.
 590)  KENNY
-[pickup3][hearing that the food is all gone]Still,  I guess some people aren't gonna be happy with your choices.
+[pickup3][hearing that the food is all gone]Quand bien même,  j'imagine que certaines personnes ne vont pas être content de vos choix.
 569)  LARRY
-[pickup3]He knows I get food!  [This line can be ambiguous meaning Larry already got food or Lee BETTER know!]
+[pickup3]Il sait que j'ai ma part !  [This line can be ambiguous meaning Larry already got food or Lee BETTER know!]
 570)  MARK
-[pickup3][defending lee]Hey, the guy was a college professor, I think he can figure this out.
+[pickup3][defending lee]Hé, ce mec était un professeur de lycée, je pense qu'il peut s'en sortir.
 571)  DOUG
-[pickup3][skeptical]Well, Lilly's system was tough, but at least it made sense.
+[pickup3][skeptical]Et bien, le système de Lilly était dur, mais au moins il était logique.
 572)  LEE
-[pickup3][exaperated sigh, knowing the job of handing out food isnt gonna be easy]This is gonna be tough.
+[pickup3][exaperated sigh, knowing the job of handing out food isnt gonna be easy]Ca va être corsé.
 573)  DOUG
-[pickup3]Then how do you know who gets food?
+[pickup3]Alors comment vous allez déterminer à qui donner de la nourriture ?
 574)  LEE
-[pickup3][giving out the food]{normalb}I'm not working from Lilly's list.
+[pickup3][giving out the food]{normalb}Je ne me sers pas de la liste de Lilly.
 575)  MARK
-[pickup3][seeing Lee give food to Larry] {normalA}Trying to be the bigger man, huh?
+[pickup3][seeing Lee give food to Larry] {normalA}Vous essayez d'être le mâle dominant, hein ?
 576)  DOUG
-[pickup3][walking over after seeing Lee with the food]{normalA}So you're giving out  the food today?  What about Lilly's list?
+[pickup3][walking over after seeing Lee with the food]{normalA}Alors comme ça vous avez distribué toute la nourriture du jour ?  Et la liste de Lilly, alors ?
 577)  LARRY
-[pickup3][seeing that Lee is handing out food] {angrya}Hey, I saw Lilly's food list for today and I know I'm on it.  Just dont go trying to pawn off the junk food on me.
+[pickup3][seeing that Lee is handing out food] {angrya}Hé, j'ai vu la liste de Lilly pour aujourd'hui et je sais que je suis dessus.  N'essayez même pas de me refiler les petites merdes qui traînent.
 578)  LEE
-[pickup3][to himself, bummed that he's out of food]Well, that's it.
+[pickup3][to himself, bummed that he's out of food]Voilà, c'est fini.
 624)  LEE
-[pickup3][to himself, bummed that he's out of food]Well, that's it.
+[pickup3][to himself, bummed that he's out of food]Voilà, c'est fini.
 670)  LEE
-[pickup3][to himself, bummed that he's out of food]Well, that's it.
+[pickup3][to himself, bummed that he's out of food]Voilà, c'est fini.
 579)  LEE
-[pickup3][annoyed, seeing Kenny walking up to him] Great, now what?
+[pickup3][annoyed, seeing Kenny walking up to him] Génial, c'est quoi la suite ?
 580)  LEE
-[pickup3][bummed, to himself] God I hope we find food soon.
+[pickup3][bummed, to himself] Seigneur, j'espère qu'on va trouver à manger bientôt.
 581)  CLEMENTINE
-[pickup3][seeing that lee is out of food] Is the food all gone now?
+[pickup3][seeing that lee is out of food] Il y a plus rien à manger ?
 582)  LEE
-[pickup3][bummed that the food is all gone]Yeah.
+[pickup3][bummed that the food is all gone]Nan.
 583)  KENNY
-[pickup3][Pulling Lee aside ambigously] Hey, Let's talk for a second...
+[pickup3][Pulling Lee aside ambigously] Hé, il faut qu'on parle une minute...
 584)  LEE
-[pickup3][seeing Kenny marching over] Great. [What does HE want?]
+[pickup3][seeing Kenny marching over] Génial. [What does HE want?]
 623)  LEE
-[pickup3][seeing Kenny marching over] Great. [What does HE want?]
+[pickup3][seeing Kenny marching over] Génial. [What does HE want?]
 585)  KENNY
-[pickup3]This is exactly why I don't want you on the RV.
+[pickup3]C'est la raison précise pour laquelle je ne veux pas de vous dans le van.
 586)  KENNY
-[pickup3]Don't make me regret asking you to come along on the RV.
+[pickup3]Ne me faîtes pas regretter de vous avoir invité à venir avec nous dans le van.
 587)  KENNY
-[pickup3]You might earn yourself a place on the RV after all.
+[pickup3]Vous pourriez bien avoir gagné votre place dans le van après tout.
 588)  KENNY
-[pickup3]Hey, thanks for looking out for me and my family...
+[pickup3]Hé, merci de vous être occupé de moi et de ma famille...
 589)  KENNY
-[pickup3]I'm serious about that offer to come with us.  You've more than earned a ride on the RV with me.
+[pickup3]Je suis sérieux sur ma proposition de venir avec nous.  Vous avez plus que gagné votre place dans mon van.
 591)  LEE
-[pickup3][a bit out of breath after being attacked by a zombie]Yeah.  Thanks.
+[pickup3][a bit out of breath after being attacked by a zombie]Ouais.  Merci.
 592)  CARLEY
-[pickup3][a bit out of breath after saving Lee from a zombie in a truck]You okay?
+[pickup3][a bit out of breath after saving Lee from a zombie in a truck]Ca va ?
 593)  DOUG
 [pickup3][exertion, smashing a zombie with a board]
 595)  DOUG
 [pickup3][exertion, smashing a zombie with a board]
 594)  DOUG
-[pickup3][attacking a zombie & helping Lee]I GOT 'EM!!
+[pickup3][attacking a zombie & helping Lee]JE L'AI !!
 596)  DOUG
-[pickup3][attacking a zombie & helping Lee]I GOT 'EM!!
+[pickup3][attacking a zombie & helping Lee]JE L'AI !!
 597)  LEE
-[pickup3][panicking!  Being attacekd by a zombie and seeing Carley run over with her gun] SHOOT IT!!
+[pickup3][panicking!  Being attacekd by a zombie and seeing Carley run over with her gun] TUEZ LE !!
 598)  LEE
-[pickup3][panicking!  Being attacekd by a zombie and seeing Carley run over with her gun] SHOOT IT!!
+[pickup3][panicking!  Being attacekd by a zombie and seeing Carley run over with her gun] TUEZ LE !!
 599)  CARLEY
-[pickup3][chiming in on the argument about bringing new poeple.  It's pretty heated]Well, hang on!  We haven't even talked to these people yet!  Maybe they CAN be helpful!
+[pickup3][chiming in on the argument about bringing new poeple.  It's pretty heated]Holà, doucement !  On ne leur a encore jamais parlé avant !  Peut-être qu'ils PEUVENT nous aider !
 600)  CARLEY
-[pickup3][in the middle of an argument follows Kenny saying "This isn't your own personal dictatorship!"]Oh come on.  You're being dramatic!
+[pickup3][in the middle of an argument follows Kenny saying "This isn't your own personal dictatorship!"]Oh allez.  Arrêtez votre cinéma !
 601)  CARLEY
-[pickup3][bowing out of the arguement]Everything always turns into a power struggle between you two. I'm not gonna be a part of that.
+[pickup3][bowing out of the arguement]Tout tourne toujours à la lutte de pouvoir entre vous deux. Je ne veux pas entrer dans votre jeu.
 602)  LARRY
-[pickup3]{after Lee gives Larry food] He knows who he needs to keep happy.
+[pickup3]{after Lee gives Larry food] Il sait qui il doit contenter.
 603)  MARK
-[pickup3]Well, I'd be careful not to seem like I'm playing favorites.  I wouldn't want to be in your shoes right now.
+[pickup3]Ben, je ferais attention à ne pas faire de favoritisme.  Je ne voudrais pas être à votre place en ce moment.
 604)  LARRY
-[pickup3]Well, now you know what she's dealing with.
+[pickup3]Hé bien, maintenant vous savez ce qu'elle doit endurer.
 605)  MARK
-[pickup3]Wow.  It's getting bad.
+[pickup3]Waou.  Ca s'annonce mal.
 606)  LEE
-[pickup3][on the task of haning out food] Lilly only gave me food enough for four people.
+[pickup3][on the task of haning out food] Lilly ne m'a donné de la nourriture que pour quatre personnes.
 608)  LEE
-[pickup3][preceeds - 310522451]You've got a deal.
+[pickup3][preceeds - 310522451]C'est d'accord.
 609)  LEE
-[pickup3][slightly projected - talking over the fence]I think we'll stay here.
+[pickup3][slightly projected - talking over the fence]Je crois qu'on va rester là.
 610)  
-Okay, we'll go to the dairy.
+D'accord, on va à la ferme.
 611)  
-No deal, we'll just stay here.
+Pas d'accord, on va rester ici.
 612)  LEE
-[pickup3][justifying to the group]We're starting to develop a good vibe here at the motel.
+[pickup3][justifying to the group]On commence à bien se débrouiller ici au motel.
 613)  LILLY
-[pickup3] [preceeds #310522558]{angryA}Then we vote. If everyone agrees then we'll send you guys with some gas to check the place out.
+[pickup3] [preceeds #310522558]{angryA}Alors on vote. Si tout le monde est d'accord on vous enverra des hommes avec de l'essence pour vérifier votre ferme.
 614)  DOUG
-[pickup3] I say we do it.
+[pickup3] Je dit qu'on doit le faire.
 615)  CARLEY
-[pickup3] I say we go.
+[pickup3] Je dit qu'on doit y aller.
 616)  MARK
-[pickup3][voting on whether to stay or go]I'm in. If they are offering food, we gotta at least check it out.
+[pickup3][voting on whether to stay or go]J'en suis. S'ils nous offrent à manger, on doit au moins aller vérifier.
 617)  LEE
-[pickup3][being outvoted] Clementine, what do you think?
+[pickup3][being outvoted] Clémentine, tu en penses quoi ?
 618)  LEE
-[pickup3]All right.  Looks like we're going to a dairy.
+[pickup3]Très bien.  On dirait qu'on va à la ferme.
 619)  KENNY
-[pickup4]You're one to talk, old man.
+[pickup4]Vous êtes le dernier à parler, vieil homme.
 678)  KENNY
-[pickup4]You're one to talk, old man.
+[pickup4]Vous êtes le dernier à parler, vieil homme.
 620)  LARRY
-[pickup3]Yeah, well I don't see you working on that wall!
+[pickup3]Ouais, ben je vous ai pas vu travailler sur ce mur !
 680)  LARRY
-[pickup3]Yeah, well I don't see you working on that wall!
+[pickup3]Ouais, ben je vous ai pas vu travailler sur ce mur !
 621)  LARRY
-[pickup3]You're out?! What happened to my food?!
+[pickup3]Plus rien ?! Où est passé ma bouffe ?!
 679)  LARRY
-[pickup3]You're out?! What happened to my food?!
+[pickup3]Plus rien ?! Où est passé ma bouffe ?!
 622)  LEE
-[pickup3][defensive] There's none left.
+[pickup3][defensive] Il reste plus rien.
 677)  LEE
-[pickup3][defensive] There's none left.
+[pickup3][defensive] Il reste plus rien.
 625)  KATJAA
-[pickup3][comforting]Ot's okay, Ducky.
+[pickup3][comforting]Ca va, Ducky.
 626)  KATJAA
-[pickup3][comforting]it's all right.
+[pickup3][comforting]Tout va bien.
 627)  KATJAA
-[pickup3][comforting]Everything's all right.
+[pickup3][comforting]Tout va bien.
 628)  MARK
-[pickup3][urgent, ariving with a wounded man]Where should I put him?
+[pickup3][urgent, ariving with a wounded man]Je le pose où ?
 629)  KENNY
-[pickup3][urgent, ariving with a wounded man]	Come on, move it!
+[pickup3][urgent, ariving with a wounded man]	Allez, amenez-le !
 630)  KATJAA
-[pickup3][urgent, ariving with a wounded man]	Lee?!
+[pickup3][urgent, ariving with a wounded man]	Lee ?!
 631)  LARRY
-[pickup3][urgent, ariving with a wounded man]	What the hell happened out there?!
+[pickup3][urgent, ariving with a wounded man]	Qu'est-ce qu'il s'est passé bon dieu ?!
 632)  LARRY
-[pickup3]Yeah, give us that thing for a bit.
+[pickup3]Ouais, passez-nous ce truc un peu.
 633)  KATJAA
-[pickup3]Listen, next time I ask you "what happened," I'd appreciate you taking the time to answer, okay?
+[pickup3]Ecoutez, la prochaine fois que je vous demande ce qu'il s'est passé, j'apprécierais que vous preniez le temps de me répondre, d'accord? 
 634)  LEE
-[pickup3]Yeah.  Sorry.
+[pickup3]Ouais.  Désolé.
 635)  KATJAA
-[pickup3]When you first brought him here you asked if I could fix him.  I'm not a doctor, Lee, I'm a vet.  You can't go putting people in danger and expect me to fix them.
+[pickup3]Quand vous l'avez amenez ici vous m'avez demandé si je pouvais le soigner.  Je suis pas médecin, Lee, je suis vétérinaire.  Vous ne pouvez pas exposer les gens au danger et vous attendre à ce que je les soigne.
 636)  KATJAA
-[pickup3]That man you brought... I tried, but he was never going to survive.
+[pickup3]Cet homme que vous avez ammené... J'ai fait le maximum mais il ne s'en sortira pas.
 637)  KATJAA
-[pickup3]You didn't answer me when I fisrt asked what happened out there.  Kenny said it didn't matter, but it does.  You can't let Kenny get into these messes.  I NEED him to come back, and not like this guy.
+[pickup3]Vous ne m'avez pas répondu quand je vous ai demandé ce qu'il s'était passé là-bas.  Kenny a dit que ça n'avait pas d'importance, mais ça en a.  Ne laissez pas Kenny se créer d'ennuis.  J'ai BESOIN qu'il revienne, et pas de la même façon que ce type.
 638)  LILLY
-[pickup3][Seeing Lee give Kenny food]How's it going Lee?  From up here it looks like you're playing favorites.
+[pickup3][Seeing Lee give Kenny food]Comment ça se présente, Lee ?  De là-haut on dirait que vous faîtes du favoritisme.
 639)  
 [GIVE AXE TO MARK]
 640)  
 [GIVE AXE TO LARRY]
 641)  CLEMENTINE
-Okay.
+D'accord.
 646)  
-Never said it was.
+Je n'ai jamais dit que ça l'était.
 647)  LEE
-[pickup2]Never said it was.
+[pickup2]Je n'ai jamais dit que ça l'était.
 656)  LEE
-[pickup2]Never said it was.
+[pickup2]Je n'ai jamais dit que ça l'était.
 648)  
-It's not so tough.
+Ce n'est pas si dur.
 649)  LEE
-[pickup2]It's not so tough.
+[pickup2]Ce n'est pas si dur.
 650)  LILLY
-[pickup2]Good. Then you can do it again tomorrow when there's even less food.
+[pickup2]Bien. Alors vous pourrez le refaire demain, quand il y aura encore moins de nourriture.
 651)  
-I don't envy you.
+Je ne vous envie pas.
 652)  LILLY
-[pickup2]I don't have a choice.
+[pickup2]Je n'ai pas le choix.
 653)  LEE
-[pickup2]I don't envy you.  I don't know how you have the strength to do this every day.
+[pickup2]Je ne vous envie pas.  Je ne sais pas d'où vous puisez la force de faire ça tous les jours.
 654)  LILLY
-[pickup2][responding to silence, annoyed, flat] Whatever.
+[pickup2][responding to silence, annoyed, flat] Bref.
 655)  LILLY
-[pickup2][neutral]Not such an easy job, is it?
+[pickup2][neutral]C'est pas si facile, n'est-ce pas ?
 657)  
-I didn't kill you
+Je ne vous ai pas tué
 661)  
-I didn't kill you
+Je ne vous ai pas tué
 658)  
-I had to make a choice
+Je devais faire un choix
 662)  
-I had to make a choice
+Je devais faire un choix
 659)  
-I barely knew you
+Je vous connaissais à peine
 663)  
-I barely knew you
+Je vous connaissais à peine
 660)  
-You're better off
+Vous avez intérêt
 664)  
-You're better off
+Vous avez intérêt
 665)  KENNY
-[pickup 2] Hey, you took care of my boy. As far as I'm concerned you did right by me.
+[pickup 2] Hé, vous vous êtes occupé de mon garçon. De mon point de vue vous avez bien fait.
 668)  
-Cans
+Boîtes de conserve
 669)  
-Alarm
+Alarme
 674)  KENNY
 [sighs heavily]
 675)  LEE
-Thanks, Kenny.
+Merci, Kenny.
 676)  LEE
-Yeah, of course.
+Ouais, bien sûr.
