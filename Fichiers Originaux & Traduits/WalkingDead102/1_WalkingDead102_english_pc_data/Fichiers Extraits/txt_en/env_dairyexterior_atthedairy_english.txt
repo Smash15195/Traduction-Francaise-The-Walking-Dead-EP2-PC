@@ -101,7 +101,7 @@ Boîte aux lettres
 50)  
 Poser la hache.
 51)  
-Gate
+Portail
 52)  LEE
 [pickup2] [To Himself]On dirait du propane.
 53)  LEE
@@ -177,11 +177,11 @@ C'est dangereux pour les enfants.
 85)  BRENDA
 [pickup2] Je suis Brenda St. John, bienvenue à la laiterie St. John !
 86)  
-Il reste d'autres personnes a des kilometres d'ici.
+Il reste d'autres personnes à des kilomètres d'ici.
 87)  
-On a apporte de l'essence.
+On a apporté de l'essence.
 88)  
-On a sacrement faim.
+On a sacrément faim.
 89)  BRENDA
 [pickup2] Hé bien, vous êtes au bon endroit ! Et vous nous donnez de l'essence ! Ca vaut bien quelque chose à manger !
 90)  LEE
@@ -219,9 +219,9 @@ On a sacrement faim.
 103)  DANNY
 [pickup2] [quiet, talking in a background convo]T'inquiète pas, maman. Elle s'en remettra.
 104)  
-On a un veterinaire.
+On a un vétérinaire.
 146)  
-On a un veterinaire.
+On a un vétérinaire.
 105)  
 Votre vache est malade ?
 147)  
@@ -467,7 +467,7 @@ Il s'est fait tirer dessus.
 213)  LARRY
 {angryC}[pickup2][aggressive]C'est quoi ce merdier ?
 214)  
-On doit partir, on est pas en securite !
+On doit partir, on est pas en sécurité !
 215)  LEE
 [pickup2]On doit partir, on est pas en sécurité ici !
 216)  KATJAA
@@ -517,11 +517,11 @@ C'est vraiment pas de bol.
 235)  BRENDA
 [pickup2]On leur donnait à manger pour qu'ils nous laissent tranquille. On avait un deal... On leur envoyait de la nourriture et ils venaient pas nous harceler.
 236)  
-Vous auriez du nous le dire !
+Vous auriez dû nous le dire !
 278)  
-Vous auriez du nous le dire !
+Vous auriez dû nous le dire !
 524)  
-Vous auriez du nous le dire !
+Vous auriez dû nous le dire !
 237)  ANDY
 [pickup2]Désolé ! Ils ne nous ont jamais fait chier comme ça ! Pas depuis qu'on leur donne à bouffer !
 238)  LEE
@@ -531,13 +531,13 @@ Vous auriez du nous le dire !
 240)  LEE
 [pickup2] Mark serait encore en vie et notre groupe aurait sacrément réfléchi avant de venir jusqu'ici.
 241)  
-Et bien ils vous harcelent maintenant.
+Et bien ils vous harcèlent maintenant.
 242)  LEE
 [pickup2]Et bien, ils vous harcèlent maintenant !
 243)  ANDY
 [pickup2]Maman, on devrait leur en dire plus.
 244)  
-Merci beaucoup de votre "comprehension" !
+Merci beaucoup de votre "compréhension" !
 245)  ANDY
 [pickup2]Ces connards ont rompu l'accord !
 246)  LEE
@@ -595,7 +595,7 @@ Merci beaucoup de votre "comprehension" !
 658)  LARRY
 [pickup2][incredulous] Une flèche !?
 272)  
-On doit partir, c'est pas sur ici.
+On doit partir, c'est pas sûr ici.
 274)  LILLY
 [pickup2]{angryC}Quoi !? Quels "types" :?
 275)  DANNY
@@ -605,13 +605,13 @@ On doit partir, c'est pas sur ici.
 277)  KATJAA
 {fearB}[pickup2]Que s'est-il passé !?
 279)  
-Et bien ils vous harcelent maintenant.
+Et bien ils vous harcèlent maintenant.
 525)  
-Et bien ils vous harcelent maintenant.
+Et bien ils vous harcèlent maintenant.
 280)  
-Merci beaucoup de votre "comprehension" !
+Merci beaucoup de votre "compréhension" !
 526)  
-Merci beaucoup de votre "comprehension" !
+Merci beaucoup de votre "compréhension" !
 281)  LILLY
 {fearB}[pickup2]Vous auriez du nous dire qu'il y avait une bande de malades de coin !
 282)  KENNY
@@ -627,17 +627,17 @@ Merci beaucoup de votre "comprehension" !
 287)  BRENDA
 [pickup2]Il va se rétablir. Il se repose.
 288)  
-Vous avez mis en marche la cloture !
+Vous avez mis en marche la clôture !
 547)  
-Vous avez mis en marche la cloture !
+Vous avez mis en marche la clôture !
 289)  
 C'etait une foutue ambuscade !
 550)  
 C'etait une foutue ambuscade !
 290)  
-Je croyais que cet endroit etait sur !
+Je croyais que cet endroit etait sûr !
 553)  
-Je croyais que cet endroit etait sur !
+Je croyais que cet endroit etait sûr !
 291)  ANDY
 [pickup2] J'ai cru que aviez donné le feu vert !
 535)  ANDY
@@ -677,9 +677,9 @@ Je croyais que cet endroit etait sur !
 302)  KATJAA
 {thinkingA}[pickup2] Je suis d'accord, {FearA}j'imagine.
 303)  
-Allez, Clementine.
+Allez, Clémentine.
 520)  
-Allez, Clementine.
+Allez, Clémentine.
 304)  
 Ca va aller, d'accord ?
 521)  
@@ -743,11 +743,11 @@ Reste avec Duck, d'accord ?
 332)  ANDY
 [pickup2] Bon retour chez nous, les gars !
 333)  
-Le groupe a apprecie votre offre.
+Le groupe a apprecié votre offre.
 334)  
 Les gens ont faim.
 335)  
-Cet endroit est sur, promis.
+Cet endroit est sûr, promis.
 336)  BRENDA
 [pickup2] On est content de vous voir !
 337)  LEE
@@ -1131,7 +1131,7 @@ Utiliser le Plateau sur
 519)  
 Utiliser le Bâton avec
 527)  
-Des gens dans les bois nous ont attaque
+Des gens dans les bois nous ont attaqué
 529)  LEE
 [out of breath, frightened] {fearC}C'est Mark ! {fearB}Ils... il y avait des types... dans les bois. {fearC}Ils ont tirés sur Mark !
 556)  LEE
@@ -1141,7 +1141,7 @@ Des gens dans les bois nous ont attaque
 538)  LEE
 [out of breath, frightened]{sadC} ... Il est mort !
 531)  
-Mark est blesse !
+Mark est blessé !
 532)  
 Mark est mort.
 533)  LILLY
@@ -1216,7 +1216,7 @@ Vous en pensez quoi, Lee ? On devrait rester par ici ?
 591)  KENNY
 [pickup3][commenting on the repaired swing]Beau travail, Lee.
 593)  
-Cette s'applique a tout le monde ?
+Cela s'applique a tout le monde ?
 595)  DANNY
 [pickup3][normal] Un gars l'a fabriqué, ouais.
 596)  ANDY
@@ -1246,9 +1246,9 @@ On travaille ensemble.
 608)  
 Lilly nous garde concentré sur la survie...
 609)  
-Kenny nous cherche un endroit sur.
+Kenny nous cherche un endroit sûr.
 610)  
-Je garde les choses sous controle.
+Je garde les choses sous contrôle.
 611)  LEE
 [pickup3] Je garde les choses sous contrôle jusqu'à présent.
 612)  BRENDA
@@ -1328,7 +1328,7 @@ Assurons-nous qu'on ne risque rien ici.
 650)  MARK
 [pickup3]Très bien, j'ouvre grand les yeux pendant que vous tirez les vers du nez d'Andy.
 651)  
-La cloture electrique s'est mise en route !
+La clôture électrique s'est mise en route !
 652)  LEE
 [pickup3]La clôture électrique s'est mise en route !  Des gens ont commencé à nous attaquer des bois et on s'est retrouvé coincé entre eux et la clôture !
 653)  ANDY
@@ -1350,7 +1350,7 @@ La cloture electrique s'est mise en route !
 663)  DANNY
 [pickup3][normal]De la nourriture contre leur protection. {fearA} On n'a pas vraiment eu le choix, mais ils ont arrêté de nous harceler.
 664)  
-Ce n'est pas aussi securise qu'on le pensait.
+Ce n'est pas aussi sécurisé qu'on le pensait.
 665)  LEE
 [pickup3]Ce n'est peut-être pas aussi sécurisé qu'on le pensait.
 666)  ANDY
@@ -1426,11 +1426,11 @@ Je vais sortir et aider Dan à s'occuper de ces brigands.  Pendant ce temps, vous
 700)  LEE
 [pickup3][Calling out from across the yard]{HappyA}J'en suis sûr.
 701)  
-Ca vous derange si je la repare ?
+Ca vous dérange si je la répare ?
 702)  
 Ca fait combien de temps ?
 703)  
-Comment ca s'est casse ?
+Comment ca s'est cassé ?
 704)  ANDY
 [pickup3][Calling out from across the yard]{HappyB}Pas du tout !  Ce serait super !  Maman apprécie vraiment que vous nous aidiez.
 705)  LEE
@@ -1636,11 +1636,11 @@ Rien du tout.
 808)  LEE
 [pickup3]{ThinkingA}Le générateur peut poser problème.  Andy a dit qu'il était "capricieux" et long à réparer.
 809)  
-Je peux pas encore verifier la grange.
+Je peux pas encore vérifier la grange.
 810)  
-C'est pas une blague cette cloture !
+C'est pas une blague cette clôture !
 811)  
-Les generateurs peuvent poser probleme...
+Les générateurs peuvent poser problème...
 812)  LEE
 [pickup3]{HappyA}C'est quand même bien plus sûr que le Motor Inn.
 813)  MARK
@@ -1652,7 +1652,7 @@ Les generateurs peuvent poser probleme...
 816)  LEE
 [pickup3]{HappyA}Lui et Brenda semblent heureux que la balançoire soit réparée.
 817)  
-Securiser l'enceinte nous aidera beaucoup !
+Sécuriser l'enceinte nous aidera beaucoup !
 818)  MARK
 [pickup3]{HappyA}On va avoir la cote ET on va rendre cet endroit plus sûr !
 819)  LEE
@@ -1704,7 +1704,7 @@ Chaussures
 842)  LEE
 [pickup2]{normalA} Salut.
 845)  
-J'ai sans doute offense Brenda...
+J'ai sans doute offensé Brenda...
 846)  ANDY
 C'est plus sûr ici que dehors.
 847)  DANNY

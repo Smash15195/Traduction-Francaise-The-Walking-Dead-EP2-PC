@@ -523,7 +523,7 @@ C'est un con.
 237)  
 On trouvera une solution.
 238)  
-J'essaye d'etre correct, au moins.
+J'essaye d'être correct, au moins.
 239)  LEE
 [pickup2] Ce mec est un con de toute façon.
 240)  LEE
@@ -541,7 +541,7 @@ J'essaye d'etre correct, au moins.
 246)  MARK
 [pickup2]Seigneur, je n'arrête pas de penser au dîner.
 247)  
-Restez concentre sur le travail.
+Restez concentré sur le travail.
 248)  
 On demandera plus à manger apres ça.
 249)  
@@ -587,9 +587,9 @@ J'ai faim aussi.
 269)  
 Que voulez vous dire ?
 271)  
-Ils sont plutot genereux.
+Ils sont plutot généreux.
 272)  
-Ils retardent l'inevitable.
+Ils retardent l'inévitable.
 273)  
 On peut prendre l'endroit s'il le faut.
 274)  LEE
@@ -665,9 +665,9 @@ Et on dirait que vous comptez les heures avant que ça n'arrive.
 310)  
 C'est un changement sympa.
 311)  
-Je suis pas sur.
+Je suis pas sûr.
 313)  
-Esperons que c'est permanent.
+Espérons que c'est permanent.
 314)  MARK
 [pickup2] Oui. Je suis vraiment heureux qu'on ait accepté leur offre.
 315)  MARK
@@ -707,7 +707,7 @@ Vous êtes fous. Tous les autres sont excités !
 338)  LEE
 [pickup2b][having reached the safety of the gate, Lee looks back toward Mark's dead body.]Désolé, Mark.  [then, to himself, getting angry] Qu'est ce qu'il se passe ici ?!
 339)  
-On a les hommes pour le defendre.
+On a les hommes pour le défendre.
 341)  
 On doit rester prudent.
 342)  
@@ -721,7 +721,7 @@ Un ouvrier agricole, sans doute.
 346)  
 Au moins ce n'est pas l'un de nous.
 347)  
-Que s'est-il passe ?!
+Que s'est-il passé ?!
 350)  BANDIT2
 [pickup2] Et pour notre accord ?!
 351)  BANDIT3
