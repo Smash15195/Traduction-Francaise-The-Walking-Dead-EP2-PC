@@ -849,179 +849,179 @@ No. We stay.
 490)  KENNY
 [pickup2] {thinkingA}They got protection? {normalC}Could be a better spot to stage our move...
 412)  MARK
-[pickup2] {angryA}Yeah, well, Lee didn't think so.
+[pickup2] {angryA}Ouais, et bien, Lee pense le contraire.
 491)  MARK
-[pickup2] {angryA}Yeah, well, Lee didn't think so.
+[pickup2] {angryA}Ouais, et bien, Lee pense le contraire.
 413)  KATJAA
-[pickup2] {sadA}I'm sure he had his reasons...
+[pickup2] {sadA}Je suis sûre qu'il a de bonnes raisons...
 492)  KATJAA
-[pickup2] {sadA}I'm sure he had his reasons...
+[pickup2] {sadA}Je suis sûre qu'il a de bonnes raisons...
 414)  LARRY
-[pickup2] {normalC}What do you mean? What type'a setup do they got?
+[pickup2] {normalC}Que voulez-vous dire ? Quelle type d'installation ils ont ?
 488)  LARRY
-[pickup2] {normalC}What do you mean? What type'a setup do they got?
+[pickup2] {normalC}Que voulez-vous dire ? Quelle type d'installation ils ont ?
 415)  MARK
-[pickup2] {happyB}You wouldn't believe it, they've got a dairy cow, and this FENCE, oh man, this fence.
+[pickup2] {happyB}Vous n'en croiriez pas vos yeux, ils ont une vache laitière et une CLOTURE. Mon dieu, cette clôture.
 489)  MARK
-[pickup2] {happyB}You wouldn't believe it, they've got a dairy cow, and this FENCE, oh man, this fence.
+[pickup2] {happyB}Vous n'en croiriez pas vos yeux, ils ont une vache laitière et une CLOTURE. Mon dieu, cette clôture.
 416)  MARK
-[pickup2] {thinkingA}We need to think like a GROUP, Lee. This affects everyone.
+[pickup2] {thinkingA}On doit réfléchir en tant que GROUPE, Lee. Cela concerne tout le monde.
 493)  MARK
-[pickup2] {thinkingA}We need to think like a GROUP, Lee. This affects everyone.
+[pickup2] {thinkingA}On doit réfléchir en tant que GROUPE, Lee. Cela concerne tout le monde.
 417)  DOUG
-[pickup2] I say we do it. But I'll hang back to keep tabs on the motor inn, at least 'til after dinner tonight.
+[pickup2] Je dit qu'on le fait. Mais je rentrerai pour surveiller le Motor Inn, au moins jusqu'au dîner de ce soir.
 418)  LILLY
-[pickup2] {thinkingA}Doug?
+[pickup2] {thinkingA}Doug ?
 419)  KENNY
-[pickup2] {thinkingA}We go.
+[pickup2] {thinkingA}On y va.
 499)  KENNY
-[pickup2] {thinkingA}We go.
+[pickup2] {thinkingA}On y va.
 420)  LILLY
-[pickup2] {happyA}We know Mark's vote. {thinkingA}Lee?
+[pickup2] {happyA}On connait le vote de Mark. {thinkingA}Lee ?
 502)  LILLY
-[pickup2] {happyA}We know Mark's vote. {thinkingA}Lee?
+[pickup2] {happyA}On connait le vote de Mark. {thinkingA}Lee ?
 421)  LILLY
-[pickup2] {angryB}Then we'll stay in this wretched roach motel with your recreational paper-weight over there. {happyA}Plus we stay close to Macon where we have access to the pharmacy, for Dad.
+[pickup2] {angryB}Alors on restera dans ce motel moisi avec vos amusants presses-papier là-bas. {happyA}En plus on reste près de Macon où on a accès à la Pharmacie, pour mon père.
 496)  LILLY
-[pickup2] {angryB}Then we'll stay in this wretched roach motel with your recreational paper-weight over there. {happyA}Plus we stay close to Macon where we have access to the pharmacy, for Dad.
+[pickup2] {angryB}Alors on restera dans ce motel moisi avec vos amusants presses-papier là-bas. {happyA}En plus on reste près de Macon où on a accès à la Pharmacie, pour mon père.
 422)  LILLY
-[pickup2] {thinkingA}Kenny, Katjaa?
+[pickup2] {thinkingA}Kenny, Katjaa ?
 498)  LILLY
-[pickup2] {thinkingA}Kenny, Katjaa?
+[pickup2] {thinkingA}Kenny, Katjaa ?
 423)  LARRY
-[pickup2] {happyB}You betcha, punkin.
+[pickup2] {happyB}Et comment, mon lapin.
 501)  LARRY
-[pickup2] {happyB}You betcha, punkin.
+[pickup2] {happyB}Et comment, mon lapin.
 424)  LILLY
-[pickup2] {happyA}Dad?
+[pickup2] {happyA}Papa ?
 500)  LILLY
-[pickup2] {happyA}Dad?
+[pickup2] {happyA}Papa ?
 425)  BEN
-[pickup2] {sadA}I'd like to stay too, if that's okay. I haven't had too much luck with strangers.
+[pickup2] {sadA}J'aimerai rester aussi, si ça vous va. Je n'ai pas eu beaucoup de chance avec les étrangers.
 497)  BEN
-[pickup2] {sadA}I'd like to stay too, if that's okay. I haven't had too much luck with strangers.
+[pickup2] {sadA}J'aimerai rester aussi, si ça vous va. Je n'ai pas eu beaucoup de chance avec les étrangers.
 426)  KENNY
-[pickup2] {angryA}And if we don't?
+[pickup2] {angryA}Et sinon ?
 495)  KENNY
-[pickup2] {angryA}And if we don't?
+[pickup2] {angryA}Et sinon ?
 427)  LILLY
-[pickup2] {angryA}Then we vote to go back. If the majority agrees, Lee and Mark, you head back and tell them we changed our minds while we load up and meet you there.
+[pickup2] {angryA}Alors on vote pour le retour. Si la majorité est d'accord, Lee et Mark, vous retourner leur dire qu'on a changé d'avis après avoir réfléchi et on se retrouve là-bas.
 494)  LILLY
-[pickup2] {angryA}Then we vote to go back. If the majority agrees, Lee and Mark, you head back and tell them we changed our minds while we load up and meet you there.
+[pickup2] {angryA}Alors on vote pour le retour. Si la majorité est d'accord, Lee et Mark, vous retourner leur dire qu'on a changé d'avis après avoir réfléchi et on se retrouve là-bas.
 428)  
-It wasn't right for us.
+Ce n'était pas juste pour nous.
 440)  
-It wasn't right for us.
+Ce n'était pas juste pour nous.
 429)  LARRY
-[pickup2] {angryC}Good VIBE? Well, {disgustA}Christ daddy-o, I'm sorry the folks with a food supply and DEFENSES didn't {angryD}tickle your pretty pink ass.
+[pickup2] {angryC}A se sentir bien ? Hé bien, {disgustA}désolé que des gars avec un stock de nourriture et des DEFENSES ne font pas {angryD}frétiller votre petit cul, Mère Thérésa.
 482)  LARRY
-[pickup2] {angryC}Good VIBE? Well, {disgustA}Christ daddy-o, I'm sorry the folks with a food supply and DEFENSES didn't {angryD}tickle your pretty pink ass.
+[pickup2] {angryC}A se sentir bien ? Hé bien, {disgustA}désolé que des gars avec un stock de nourriture et des DEFENSES ne font pas {angryD}frétiller votre petit cul, Mère Thérésa.
 430)  LEE
-[pickup2] {thinkingA}It wasn't right for us. {thinkingB}I didn't get a good vibe there.
+[pickup2] {thinkingA}Ce n'était pas juste pour nous. {thinkingB}Je ne me sentais pas bien ici.
 481)  LEE
-[pickup2] {thinkingA}It wasn't right for us. {thinkingB}I didn't get a good vibe there.
+[pickup2] {thinkingA}Ce n'était pas juste pour nous. {thinkingB}Je ne me sentais pas bien ici.
 431)  LILLY
-[pickup2] {angryA}By right for US do you mean us or you and Clementine?
+[pickup2] {angryA}Par NOUS, vous voulez dire nous tous ou juste vous et Clémentine ?
 483)  LILLY
-[pickup2] {angryA}By right for US do you mean us or you and Clementine?
+[pickup2] {angryA}Par NOUS, vous voulez dire nous tous ou juste vous et Clémentine ?
 432)  
-We can't trust strangers.
+On ne peut pas se fier à des étrangers.
 441)  
-We can't trust strangers.
+On ne peut pas se fier à des étrangers.
 433)  LEE
-[pickup2] {disgustA}We can't trust strangers, not with kids in our group.
+[pickup2] {disgustA}On ne peut pas se fier à des étrangers, pas avec des enfants dans notre groupe.
 484)  LEE
-[pickup2] {disgustA}We can't trust strangers, not with kids in our group.
+[pickup2] {disgustA}On ne peut pas se fier à des étrangers, pas avec des enfants dans notre groupe.
 434)  LARRY
-[pickup2] {angryA}You'd rather let 'em starve?!
+[pickup2] {angryA}Vous préférez les laisser mourir de faim ?!
 485)  LARRY
-[pickup2] {angryA}You'd rather let 'em starve?!
+[pickup2] {angryA}Vous préférez les laisser mourir de faim ?!
 435)  
-It wouldn't be safe for Clementine.
+Ce n'est pas sûr pour Clementine.
 442)  
-It wouldn't be safe for Clementine.
+Ce n'est pas sûr pour Clementine.
 436)  LARRY
-[pickup2] {angryA}Did you think about the REST of us? {angryB}We got, what, one basket of bread here? {angryC}Jesus, Lee.
+[pickup2] {angryA}Vous avez pensé au RESTE du groupe ? {angryB}On a quoi, ici, une corbeille de pain ? {angryC}Bon sang, Lee.
 487)  LARRY
-[pickup2] {angryA}Did you think about the REST of us? {angryB}We got, what, one basket of bread here? {angryC}Jesus, Lee.
+[pickup2] {angryA}Vous avez pensé au RESTE du groupe ? {angryB}On a quoi, ici, une corbeille de pain ? {angryC}Bon sang, Lee.
 437)  LEE
-[pickup2] {angryA}It wouldn't be safe for Clementine. {angryB}That fence is overkill and {disgustA}I didn't like the look of those guys.
+[pickup2] {angryA}Ce ne serait pas sûr pour Clémentine. {angryB}Cette clôture est ultra dangereuse et {disgustA}j'aime pas la dégaine de ces types.
 486)  LEE
-[pickup2] {angryA}It wouldn't be safe for Clementine. {angryB}That fence is overkill and {disgustA}I didn't like the look of those guys.
+[pickup2] {angryA}Ce ne serait pas sûr pour Clémentine. {angryB}Cette clôture est ultra dangereuse et {disgustA}j'aime pas la dégaine de ces types.
 438)  LILLY
-[pickup2] {thinkingA}Carley?
+[pickup2] {thinkingA}Carley ?
 439)  CARLEY
-[pickup2] I say we go. They have lots of supplies. But I'll hang back until after dinner tonight.
+[pickup2] Je dit qu'on y va. Ils ont énormément de ravitaillement. Mais je reste ici jusqu'au dîner de ce soir.
 443)  LILLY
-[pickup2] [to the group]{happyA}They're back!
+[pickup2] [to the group]{happyA}Ils reviennent !
 468)  LILLY
-[pickup2] [to the group]{happyA}They're back!
+[pickup2] [to the group]{happyA}Ils reviennent !
 472)  LILLY
-[pickup2] [to the group]{happyA}They're back!
+[pickup2] [to the group]{happyA}Ils reviennent !
 476)  LILLY
-[pickup2] [to the group]{happyA}They're back!
+[pickup2] [to the group]{happyA}Ils reviennent !
 444)  DOUG
-[pickup2] And we've got food!
+[pickup2] Et on a de quoi manger !
 450)  DOUG
-[pickup2] And we've got food!
+[pickup2] Et on a de quoi manger !
 454)  CARLEY
-[pickup2] And we've got food!
+[pickup2] Et on a de quoi manger !
 469)  DOUG
-[pickup2] And we've got food!
+[pickup2] Et on a de quoi manger !
 445)  LARRY
-[pickup2] {surprisedA}What? {normalC}Goddamn, we didn't even give 'em any gas!
+[pickup2] {surprisedA}Quoi ? {normalC}Bon dieu, et on ne leur a même pas donné de l'essence !
 473)  LARRY
-[pickup2] {surprisedA}What? {normalC}Goddamn, we didn't even give 'em any gas!
+[pickup2] {surprisedA}Quoi ? {normalC}Bon dieu, et on ne leur a même pas donné de l'essence !
 446)  MARK
-[pickup2] {happyA}And there would've been a lot more where this came from if Lee here had taken that sweet family up on their offer to STAY. {happyB}They even offered us DINNER.
+[pickup2] {happyA}Et il y aurait eu beaucoup plus là d'où on vient si Lee avait accepté l'invitation à RESTER de cette charmante famille. {happyB}Ils nous ont même invité à DINER.
 470)  MARK
-[pickup2] {happyA}And there would've been a lot more where this came from if Lee here had taken that sweet family up on their offer to STAY. {happyB}They even offered us DINNER.
+[pickup2] {happyA}Et il y aurait eu beaucoup plus là d'où on vient si Lee avait accepté l'invitation à RESTER de cette charmante famille. {happyB}Ils nous ont même invité à DINER.
 474)  MARK
-[pickup2] {happyA}And there would've been a lot more where this came from if Lee here had taken that sweet family up on their offer to STAY. {happyB}They even offered us DINNER.
+[pickup2] {happyA}Et il y aurait eu beaucoup plus là d'où on vient si Lee avait accepté l'invitation à RESTER de cette charmante famille. {happyB}Ils nous ont même invité à DINER.
 479)  MARK
-[pickup2] {happyA}And there would've been a lot more where this came from if Lee here had taken that sweet family up on their offer to STAY. {happyB}They even offered us DINNER.
+[pickup2] {happyA}Et il y aurait eu beaucoup plus là d'où on vient si Lee avait accepté l'invitation à RESTER de cette charmante famille. {happyB}Ils nous ont même invité à DINER.
 447)  LILLY
-[pickup2] {normalC}What?!
+[pickup2] {normalC}Quoi ?!
 471)  LILLY
-[pickup2] {normalC}What?!
+[pickup2] {normalC}Quoi ?!
 475)  LILLY
-[pickup2] {normalC}What?!
+[pickup2] {normalC}Quoi ?!
 480)  LILLY
-[pickup2] {normalC}What?!
+[pickup2] {normalC}Quoi ?!
 448)  CARLEY
-[pickup2] {happyA}And we've got food!
+[pickup2] {happyA}Et on a de la nourriture !
 477)  CARLEY
-[pickup2] {happyA}And we've got food!
+[pickup2] {happyA}Quoi ?!
 449)  LILLY
-[pickup2] [to the group]They're back!
+[pickup2] [to the group]Ils sont de retour !
 453)  LILLY
-[pickup2] [to the group]They're back!
+[pickup2] [to the group]Ils sont de retour !
 451)  LARRY
-[pickup2]{happyB}I knew it, boy! [towards Kenny] Worth giving up a little of your precious gas, wouldn't ya say?
+[pickup2]{happyB}Je le savais ! [towards Kenny] Ca valait le coup de leur laisser un peu de votre précieux carburant, non ?
 478)  LARRY
-[pickup2]{happyB}I knew it, boy! [towards Kenny] Worth giving up a little of your precious gas, wouldn't ya say?
+[pickup2]{happyB}Je le savais ! [towards Kenny] Ca valait le coup de leur laisser un peu de votre précieux carburant, non ?
 452)  KENNY
-[pickup2] {angryA}Well, yeah, {sadA}my family's starvin'.
+[pickup2] {angryA}Et bien, ouais, {sadA}ma famille crève de faim.
 455)  KENNY
-[pickup2] Well, yeah, my family's starvin'.
+[pickup2] Et bien, ouais, ma famille crève de faim.
 456)  
-Soda Machine
+Machine à Soda
 459)  LARRY
-[pickup2]{angryA}What do you want? A hand out?  I've got 60 cents in my pocket if you'll shut up and quit being such a pansy.
+[pickup2]{angryA}Vous voulez quoi ? Une invitation ?  Je vous donne les 60 cents de ma poche si vous arrêter de geindre comme une fillette.
 460)  
-Yeah, that's right!
+Ouais, c'est bien !
 461)  
-That's not what I meant...
+C'est pas ce que je voulais dire...
 462)  
-I never said that.
+Je n'ai jamais dit ça.
 463)  
-Sure. What do you need?
+Bien sûr. De quoi avez-vous besoin ?
 464)  
-I'd better not.
+Vaudrait mieux pas.
 465)  
-I did the right thing.
+J'ai fais ce qu'il fallait faire.
 466)  
-It's what your husband wanted.
+C'est ce que votre mari voulait.
 503)  LILLY
 [pickup2] {thinkingA} Lee, pourquoi vous iriez pas avec Mark pour vérifier les lieux, histoire de voir si c'est réglo ?
 504)  LEE
@@ -1247,7 +1247,7 @@ D'accord, on va à la ferme.
 611)  
 Pas d'accord, on va rester ici.
 612)  LEE
-[pickup3][justifying to the group]On commence à bien se débrouiller ici au motel.
+[pickup3][justifying to the group]On commence à se sentir bien ici au motel.
 613)  LILLY
 [pickup3] [preceeds #310522558]{angryA}Alors on vote. Si tout le monde est d'accord on vous enverra des hommes avec de l'essence pour vérifier votre ferme.
 614)  DOUG
