@@ -1,89 +1,89 @@
 1)  LILLY
-[slowly... quietly, still in shock]...Yeah. Just be careful, and get us out of here.
+[slowly... quietly, still in shock]...Ouais. Soyez juste prudent, et sortez nous de là.
 2)  LILLY
-[coldly, quiet, still in shock] Whatever.
+[coldly, quiet, still in shock] Soit.
 3)  DANNY
-[in pain] Please... don't....
+[in pain] S'il-vous-plaît... ne....
 4)  
-What sacrifices?
+Quels sacrifices ?
 5)  DANNY
-[in pain] ...The farm hands understood. After a while.
+[in pain] ...Les ouvriers agricoles l'ont bien compris. Au bout d'un moment.
 6)  DANNY
-[in pain] Give part of yourself... so others can live.
+[in pain] Donnez une part de vous-même... et alors les autres pourront vivre.
 7)  LEE
-[angry]What sacrifices?
+[angry]Quels sacrifices ?
 8)  
-I should kill you now.
+Je devrais vous tuer maintenant.
 9)  DANNY
-[in pain] I'm no good to you dead.
+[in pain] Je vous servirai à rien mort.
 10)  DANNY
-[in pain]... The meat gets tainted.
+[in pain]... La chair est en train de se colorer.
 11)  LEE
-I should kill you right now.
+Je devrais vous tuer maintenant.
 12)  
-Where are the others?
+Où sont les autres ?
 13)  DANNY
-[in pain] The vet & the boy are in the house.
+[in pain] La véto et le garçon sont dans la maison.
 14)  LEE
-What have you done with the others?
+Qu'est-ce vous avez fait avec les autres ?
 15)  DANNY
-[in pain] Come on, man... Get this thing off of me!
+[in pain] Allez... Enlèvez-moi ce truc !
 16)  DANNY
-[in pain] ...At least give me something to kill the pain!
+[in pain] ...Au moins, donnez-moi de quoi stopper cette douleur !
 17)  CLEMENTINE
-[quietly; pointing into the dark] Shhh... He's there. See?
+[quietly; pointing into the dark] Chhut... Il est là. Tu vois ?
 18)  LEE
-[quietly to himself]Nothing.
+[quietly to himself]Rien.
 19)  LEE
-[quietly, to himself- looking at bear trap] David.  Jesus, these people are monsters.
+[quietly, to himself- looking at bear trap] David.  Jésus, ces gens sont des monstres.
 20)  LEE
-[disapointed (at the irony) - Looking at boxes of medicine]Shit.
+[disapointed (at the irony) - Looking at boxes of medicine]Merde.
 21)  LEE
 Lilly...
 23)  LEE
 Lilly...
 22)  LILLY
-[coldly]Don't.   Just... don't.
+[coldly]Non.   Just... don't.
 24)  DANNY
-[mumbling anrgily to himself]... It ain't right keeping me out here all night. I didn't do nothin', but they just treat me like I'm some kind of screw up.
+[mumbling anrgily to himself]... C'est pas juste de me garder ici toute la nuit. J'ai rien fait, mais ils me traitent comme si j'étais du style à merder.
 25)  DANNY
-[mumbling anrgily to himself]...Seriously, how long am I supposed to stay out here?  What the hell could they be talking about in the house?  Ain't no big debate needed, keep some alive for meat, kill the rest.
+[mumbling anrgily to himself]...Sérieusement, combien de temps est-ce que je suis supposé rester ici ?  Bordel, de quoi ils peuvent causer dans la maison ?  Il y a pas besoin de débattre, gardez-en vivant pour la viande, tuez le reste.
 26)  DANNY
-[mumbling anrgily to himself]...And momma, I know you mean well, and God bless you, but you have GOT to stop playing favorites with Andy.  I know he's older, but that don't make him better.  And it certainly don't make him smarter.
+[mumbling anrgily to himself]...Et Maman, je sais bien ce que tu veux dire, et que Dieu te bénisse, mais tu dois arrêter de jouer les favoris avec Andy. Je sais qu'il est plus âgé, mais n'en fais pas quelqu'un de meilleur.  Et évidemment, n'en fais pas quelqu'un de plus intelligent.
 27)  DANNY
-[mumbling anrgily to himself]... This is bullshit!  [mocking]Danny do this ... Danny do that...
+[mumbling anrgily to himself]... C'est de la merde !  [mocking]Danny, fais-ci ... Danny, fais-ça...
 28)  DANNY
-[this line should play at a lower volume in the background. It does not need subtitles] [mumbling anrgily to himself]...My fault... my ASS my fault! This whole idea was his.  But who gets blamed?  Right.  Blame it on Danny.  He's the fuck up!
+[this line should play at a lower volume in the background. It does not need subtitles] [mumbling anrgily to himself]...Ma faute... Mon cul, ma faute ! C'était son idée. Mais qui on va blâmer ?  Bien.  Blâmes Danny.  C'est lui qui merde !
 29)  DANNY
-[mumbling anrgily to himself]...Fuck, it's dull out here.
+[mumbling anrgily to himself]...Putain, c'est chiant.
 30)  DANNY
-[mumbling anrgily to himself]... If Daddy were here everything would be fine.  That's when things started going to shit around here anyway.  Daddy had an order to things.  You knew what you were supposed to be doing.  Now it's all just whatever!
+[mumbling anrgily to himself]... Si Papa était là, tout irait bien.  C'est quand les choses ont commencé à partir en couilles par ici.  Papa avait un ordre pour les choses.  Vous saviez ce que vous deviez faire.  Maintenant, c'est du n'importe-quoi !
 31)  DANNY
-[angry] What the f-?!  Gotcha, you sons of bitches!
+[angry] Qu'est-ce que c'est que ce b-?!  Je vous tiens, fils de putes !
 32)  DANNY
-[process: in he distance] What the hell was that?
+[process: in he distance] Qu'est-ce que c'était que ce bordel ?
 33)  LEE
-[ quietly but with urgency] There.
+[ quietly but with urgency] Là.
 34)  LEE
-[quietly but with urgeny] Ok. Go, go!
+[quietly but with urgeny] Ok. Allez, allez !
 35)  LEE
-[quietly but frustrated] Come on!!
+[quietly but frustrated] Venez !!
 36)  DANNY
-[Angry] Who's there?
+[Angry] Qui est là ?
 123)  DANNY
-[Angry] Who's there?
+[Angry] Qui est là ?
 37)  LEE
-[ quietly but with urgency] That one.
+[ quietly but with urgency] Celui-là.
 38)  LEE
-[ quietly but with urgency] Stay close.
+[ quietly but with urgency] Restez près de moi.
 39)  DANNY
-What the fuck?
+Quoi ?
 40)  DANNY
 [Screams In pain]   AAAAAHHHHHHHHHH!!!!!
 41)  DANNY
-[breathless, in pain] You don't... you don't understand....
+[breathless, in pain] Vous ne pouvez pas... Vous ne pouvez pas comprendre....
 42)  DANNY
-[in pain] It's how the world works now.
+[in pain] C'est comme ça que le monde fonctionne.
 43)  DANNY
 [Grunting in pain7]
 44)  DANNY
@@ -99,409 +99,409 @@ What the fuck?
 49)  DANNY
 [Grunting in pain5]
 50)  DANNY
-[in pain] You've got to make... sacrifices.
+[in pain] Vous devez faire... des sacrifices.
 51)  LEE
 [Exerting mild force]
 52)  DANNY
-[Sounding scary] Where are you?  Come on out, you know I'm gonna find you anyway...
+[Sounding scary] Où êtes-vous ?  Sortez, vous savez que je vous trouverez de toute façon...
 53)  DANNY
-[To himself]Not here...
+[To himself]Pas ici...
 54)  DANNY
-[sounding scary] Where are they, girl?
+[sounding scary] Où êtes-vous, miss ?
 55)  DANNY
-[To himself]Nothing...
+[To himself]Rien...
 56)  DANNY
-[Sounding scary] You can't hide forever... Come on out now and maybe I'll let the girls live...
+[Sounding scary] Vous pourrez pas vous cacher éternellement... Sortez et peut-être que je laisserai les filles en vie...
 57)  DANNY
-[To himself]Shit, where are they?
+[To himself]Merde, où ils sont?
 58)  DANNY
-[Sounding scary]Ya'll screwed up everything!  Don't you understand?  This is how we have to survive now.  Things aren't the way they used to be anymore!
+[Sounding scary]Vous allez tout foutre en l'air !  Vous pigez pas ?  C'est comme ça qu'on doit survivre maintenant.  Les choses ont changé !
 59)  DANNY
-[To himself]Where are ya, Lee?
+[To himself]Où êtes-vous, Lee?
 60)  DANNY
-[Sounding scary]You couldn't just be grateful!  You couldn't just eat and get with the program!
+[Sounding scary]Vous pouviez pas être juste reconnaissant !  Vous pouviez pas juste manger et suivre le plan !
 61)  DANNY
 [To himself]Damnit.
 62)  DANNY
-[mumbling anrgily to himself]...[Calling out into the night] Who wants some?  I DARE some dead asshole to try to cross my fence tonight!
+[mumbling anrgily to himself]...[Calling out into the night] Qui en veut ?  Je DEFIE ces quelques trous du culs mort d'essayer de traverser ma barrière ce soir !
 63)  DANNY
-[mumbling anrgily to himself]..[frustrated sigh] Gah!!  What's taking Momma and Andy so long?  What are they finishing their damn dinner first?  Coulda brought me out a plate at least.
+[mumbling anrgily to himself]..[frustrated sigh] Gah!!  Qu'est-ce qui prend autant de tant Maman et Andy ?  Ils pourraient pas finir leur foutu repas d'abord ?  Ils pourraient m'apporter une assiette au moins.
 64)  DANNY
-[mumbling anrgily to himself]... How was I supposed to know that legless asshole would wake up?  I thought he had enough drugs in him to keep him out for the rest of the night.
+[mumbling anrgily to himself]... Comment j'étais supposé savoir que ce trou du cul bourré se réveillerait ?  Je pensais qu'il était assez défoncé pour que ça l'empêche de rentrer pour le reste de la nuit.
 65)  DANNY
-[mumbling anrgily to himself]... those people are gonna ruin everything.
+[mumbling anrgily to himself]... ces gens vont vraiment tout ruiner.
 66)  KENNY
-[quietly] ...I only see one of them.  What do you think, Lee?
+[quietly] ...Je vois seulement l'un d'entre eux.  A quoi vous pensez, Lee ?
 67)  LEE
-[quietly]I think we can take him.
+[quietly]Je pense qu'on peut l'emmener.
 68)  LEE
-[quietly]Let's get a better look
+[quietly]Trouvons une meilleure vue.
 69)  LEE
-[quietly]It's too risky
+[quietly]C'est trop risqué.
 70)  LEE
-[quietly]We just need to get to the front of the barn unseen.
+[quietly]Nous devons juste atteindre l'entrée de l'étable sans se faire voir.
 71)  KENNY
-[quietly]Let's take this asshole down and get my family back!
+[quietly]Abattons ce trou du cul et récupérons ma famille !
 72)  LEE
-[quietly]If we can get to the front of the barn unseen, we can scope things out and see what we are dealing with.
+[quietly]Si on peut atteindre l'entrée de l'étable sans se faire voir, on aura une vue d'ensemble et on verra ce à quoi on a affaire.
 73)  KENNY
-[quietly]Let's do it.
+[quietly]Faisons ça.
 74)  KENNY
-[quietly]If we can get to those doors unseen, we have a pretty good chance of taking him out.
+[quietly]Si on peut atteindre ces portes sans se faire voir, on a une bonne chance de pouvoir l'emmener.
 75)  KENNY
-[quietly]Those assholes still have my family!  I'm willing to take the risk.
+[quietly]Ces trous du cul ont toujours ma famille !  Je veux prendre le risque.
 76)  KENNY
-[quietly/responing to Lee's silence]Well, I'm going with or without you.
+[quietly/responing to Lee's silence]Et bien, j'y vais avec ou sans vous.
 77)  KENNY
-[quietly]I figure if I can make it to the front unseen, I've got a decent chance of taking this guy out.
+[quietly]Je suppose que si j'arrive à y aller sans me faire voir , j'ai une bonne chance d'emmener ce gars.
 78)  LEE
-[quietly]Yeah, maybe...
+[quietly]Ouais, peut-être...
 79)  LEE
-Maybe you're right... but you're not going alone.
+Vous avez peut-être raison... mais vous n'ya llez pas seul.
 80)  LEE
-[quietly]Lilly, you stay here and keep Clementine safe. Can you manage that?
+[quietly]Lilly, vous restez ici et gardez Clémentine en sécurité. Vous pouvez faire ça ?
 81)  LEE
-[quietly]Sounds good.  I'll lead.
+[quietly]Ca semble bien.  Je passe en premier.
 82)  KENNY
-[quietly] That dumbass is so caught up in his own rant that he probably won't see us...
+[quietly] Cet idiot est tellement concentré à fulminer qu'il nous verra peut-être pas...
 83)  LEE
-[Quietly] What's the plan?
+[Quietly] Quel est le plan ?
 84)  KENNY
-[quietly]As long as we stay out of his line of sight, we should be able to sneak to the front using the stalls as cover.
+[quietly]Tant qu'on reste en dehors de son champ de vision, on devrait pouvoir se faufiler jusqu'à l'entrée en utilisant les box comme abri.
 85)  DANNY
-[angry] You son of a bitch!
+[angry] Fils de pute !
 86)  DANNY
-[angry] You son of a bitch!
+[angry] Fils de pute !
 87)  DANNY
-[angry] You son of a bitch!
+[angry] Fils de pute !
 88)  DANNY
-[angry] You son of a bitch!
+[angry] Fils de pute !
 90)  DANNY
-[angry] You son of a bitch!
+[angry] Fils de pute !
 89)  KENNY
-[whispering] Shit. Now what?
+[whispering] Merde. On fait quoi maintenant ?
 91)  LEE
-[whispering] Let's find another way.
+[whispering] Trouvons un autre chemin.
 92)  LEE
-[whispering]We're screwed.
+[whispering]On est baisés.
 93)  LEE
-[whispering]I still think we can take him.
+[whispering]Je pense toujours qu'on peut l'emmener.
 94)  KENNY
-[whispering]No, Lee, I've got to get to that house.  I can make it from here, I know I can!
+[whispering]Non, Lee, je dois atteidre cette maison.  Je peux y arriver d'ici, je sais que je peux !
 95)  LEE
-[whispering]Don't be stupid
+[whispering]Ne soyez pas stupide.
 96)  KENNY
-[whispering]No.  No, we're not screwed.  That guy is off his rocker right now.  I'm sure I could sneak past him and get to the house.
+[whispering]Non. Non, on est pas baisés.  Le gars est loin de son fauteil.  Je suis sûr que je peux me faufiler derrière lui et ateindre la maison.
 97)  KENNY
-[whispering]The house isn't that far off though.  I bet I can get around him if I go alone.
+[whispering]La maison n'est pourtant pas si loin.  Je parie que je peux le contourner si j'y vais seul.
 98)  KENNY
-[whispering] Fuck that!  That rifle kind of puts the odds in his favor!
+[whispering] Et merde !  Ce fusil met les chances de son côté !
 99)  KENNY
-[whispering/stern] They have my family, Lee.  I have to.
+[whispering/stern] Ils ont ma famille, Lee.  Je dois le faire.
 100)  LEE
-[Whispering/stern] Kenny, don't!
+[Whispering/stern] Kenny, non !
 101)  DANNY
-[spotting his hostages on the loose]What?!  Oh Shit!
+[spotting his hostages on the loose]Quoi ?!  Oh merde !
 102)  LEE
-[Spotted!] SHIT!
+[Spotted!] MERDE !
 137)  LEE
-[Spotted!] SHIT!
+[Spotted!] MERDE !
 103)  KENNY
-[Whispering/stern]If I can make it to the gate, I can shut down the generator, giving us all a better chance of getting the hell out of here!
+[Whispering/stern]Si je peux atteindre la porte, je peux éteindre le générateur, nous donnant une meilleure chance de nous échapper d'ici !
 104)  DANNY
-[creepy/menacing] Oh I see... y'all think you can hide from me?
+[creepy/menacing] Oh je vois... vous pensez pouvoir vous planquer ?
 105)  DANNY
-[creepy/menacing] There ain't but one way out of here.  I will find you.
+[creepy/menacing] Il y a qu'une seule sortie.  je vous trouverez.
 106)  LEE
-[whispering] Shhhhh.
+[whispering] Chuuut.
 107)  DANNY
-There you are, you son of a bitch!
+Te voilà, fils de pute !
 108)  DANNY
-You gotta get me outta here!
+Tu  dois me faire sortir !
 109)  DANNY
-[In pain/ panicing]Hey... You can leave me like this... If I die, you know what'll happen!
+[In pain/ panicing]Hé... Tu peux pas me laisser comme ça... Si je meurs, tu sais ce qui se passera !
 110)  LEE
-I'm gonna let you rot in there!
+Je devrais te laisser pourrir ici !
 111)  LEE
-How about if I just kill you instead?
+Et si je te tuais à la la place ?
 112)  LEE
-Shut up!
+La ferme !
 113)  DANNY
-[in pain]Do what ya gotta do... Just make it count.
+[in pain]Fais ce que tu as à faire... Fais en sorte que ça serve.
 114)  DANNY
-[In pain/panicing] No, man!  You can't do that.  We were helping you to survive!
+[In pain/panicing] Non, mon pote !  Tu peux pas faire ça.  On vous a aidé à survivre !
 115)  LEE
-Fine with me.
+Pour moi, c'est bon.
 116)  DANNY
-[STERN!] Do something, you son of a bitch!!
+[STERN!] Fais quelque chose, sale fils de pute !!
 117)  LEE
-Can I trust you with this to keep Clementine safe?
+Je peux vous faire confiance que vous garderez Clémentine en sécurité ?
 118)  LEE
-[calling out a few feet away] Come on...
+[calling out a few feet away] Allez...
 119)  LILLY
-[Still a little cold and out of it] Yeah.  I won't let anything happen to her.
+[Still a little cold and out of it] Ouais. Je ne laisserai rien lui arriver.
 120)  LEE
-I gotta find Kenny.  You do what you've gotta do. [to Clementine] Stay with Lilly.
+Je dois trouver Kenny.  Faites ce que vous avez à faire. [to Clementine] Restes avec Lilly.
 121)  LILLY
-[cold/pissed] I don't know, Lee.  Can you?
+[cold/pissed] Je sais pas, Lee.  Tu peux me faire confiance?
 122)  LEE
-Good.  I gotta find Kenny. [to clementine] Stay with Lilly.
+Bien.  Je dois trouver Kenny. [to clementine] Restes avec Lilly.
 124)  KENNY
-[whispered] Shhhhh....
+[whispered] Chuuuuut....
 125)  KENNY
 [process: in the distance][getting Shot] Ahhh!!
 126)  DANNY
-[pickup1] [quietly/offscreen] huh?
+[pickup1] [quietly/offscreen] Hein?
 127)  DANNY
-[pickup1][In pain from the bear trap. (Continues into line 310513883)]...Yeah... I know you got it in you.  I've seen you in action...
+[pickup1][In pain from the bear trap. (Continues into line 310513883)]...Ouais... Je sais que t'as ça dans toi.  Je t'ai vu en action...
 128)  DANNY
-[pickup1][in pain from the bear trap - Lee has just threatened to kill him]I don't think so... You don't have what it takes!... You just freeze up.  [Then to himself - huffs out a chuckle] Fucking coward.
+[pickup1][in pain from the bear trap - Lee has just threatened to kill him]Je pense pas... Tu n'as pas ce qu'il faut... T'es juste paralysé.  [Then to himself - huffs out a chuckle] Putain de froussard.
 129)  LEE
-[pickup1][Whispering/stern/ warning Kenny that RUnning out of the barn is a bad idea] Kenny, don't.
+[pickup1][Whispering/stern/ warning Kenny that RUnning out of the barn is a bad idea] Kenny, ne faites pas ça.
 130)  KENNY
-[pickup1][quiet, sneaking through the barn]Maybe one of us can grab that rifle...
+[pickup1][quiet, sneaking through the barn]Peut-être que si l'un d'entre nous pouvait attraper ce fusil...
 131)  DANNY
-[pickup1][while on guard, hears a noise in the distance.  (to himself)] Huh?
+[pickup1][while on guard, hears a noise in the distance.  (to himself)] Hein ?
 132)  DANNY
 [pickup1][deciding he didnt hear anything while on guard] Hmm.
 133)  LEE
-[pickup1][whispering - making a plan to get to the house with Kenny]We might be able to sneak up to the house if we go one at a time.  Are you up for it?
+[pickup1][whispering - making a plan to get to the house with Kenny]On devrait pouvoir se faufiler jusqu'à la maison si on y va un par un. Vous êtes prêt ?
 134)  LEE
-[pickup1][whispering - making a plan to get to the house with Kenny]If we can shut down that generator, it'd give us all a better chance of getting the hell out of here!
+[pickup1][whispering - making a plan to get to the house with Kenny]Si on pouvait éteindre ce générateur, cela nous donnerait une meilleure chance de nous barrer d'ici !
 135)  KENNY
-[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Yeah... I'll see what I can do. [about shutting off the Generators]
+[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Ouais... Je verrais ce que je peux faire. [about shutting off the Generators]
 136)  KENNY
-[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Here goes nutthin.
+[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Il n'y a rien.
 138)  KENNY
-[pickup1][whispering, making a plan to sneak past Danny]Well if you have any ideas, now's the time to speak up.
+[pickup1][whispering, making a plan to sneak past Danny]Bin, si vous avez une idée, c'est le moment de parler.
 139)  KENNY
-[pickup1][whispering, making a plan to sneak past Danny]Well, we gotta do something!
+[pickup1][whispering, making a plan to sneak past Danny]Bin, on doit faire quelque chose !
 140)  KENNY
-[pickup1][hesitant- unsure of Lee's plan to sneak past Danny to the house.  Responding to "Are you up for it?"]... I'd better be.
+[pickup1][hesitant- unsure of Lee's plan to sneak past Danny to the house.  Responding to "Are you up for it?"]... Je ferais mieux.
 141)  
-Stall
+Box
 142)  
-Stay quiet
+Rester silencieux
 143)  
-Get the bear trap
+Attraper le piège à ours
 144)  
-Talk To
+Parler à
 145)  
-Give Hoe To
+Donner la binette à
 146)  
-Hoe
+Binette
 147)  
-Bear Trap
+Piège à ours
 148)  LEE
-[pickup1][super quietly, trying to get Lilly's attention]Hey...
+[pickup1][super quietly, trying to get Lilly's attention]Hé...
 149)  LEE
 [pickup1][alt][super quietly, trying to get Lilly's attention]Lilly...
 150)  KENNY
-[pickup2][Trying to sneak out of the barn past danny after killing Lillys dad, Kenny knows it's best to leave Lilly alone right now.][Projected whisper]Just... forget about Lilly right now.  What are we gonna do about this guy at the front of the barn?
+[pickup2][Trying to sneak out of the barn past danny after killing Lillys dad, Kenny knows it's best to leave Lilly alone right now.][Projected whisper]Oubliez Lilly pour l'instant...  Qu'est-ce qu'on va faire pour le gars à l'entrée de l'étable ?
 151)  LEE
-[pickup2][knowing that Clementine will be safest for the moment in the meatlocker with Lilly... Convincing himself] Clem will be safe in there for now.
+[pickup2][knowing that Clementine will be safest for the moment in the meatlocker with Lilly... Convincing himself] Clem sera en sécurité pour l'instant.
 152)  KENNY
-[pickup2][quiet - making a plan]Just stick behind me, in case anything goes down.  When we get to the front, grab his gun.
+[pickup2][quiet - making a plan]Restez collé derrière moi, au cas où quelque chose n'irait pas.  Quand on atteindra l'entrée, attrapez son arme.
 153)  LEE
-[pickup2][quiet - making a plan] So, what's the plan?
+[pickup2][quiet - making a plan] Alors, quel est le plan ?
 154)  KENNY
-[pickup2][quiet - making a plan] That dumbass is so caught up in his own rant that we could probably sneak right up on him.
+[pickup2][quiet - making a plan] Cet idiot est tellement concentré à fulminer qu'on pourra peut-être s'approcher de lui sans faire de bruit.
 155)  LEE
-[pickup2][quiet - making a plan]Sounds good.
+[pickup2][quiet - making a plan]Ca semble bien.
 156)  KENNY
-[pickup2][quiet - making a plan]Okay, you ready?
+[pickup2][quiet - making a plan]Ok, vous êtes prêt ?
 157)  
-Let's go.
+Allons-y.
 158)  KENNY
-[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Stay close.
+[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Restez prêt.
 159)  LEE
-[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Yeah, let's go.
+[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Ouais, allons-y.
 160)  
-Not yet.
+Pas encore.
 161)  KENNY
-[pickup2][whispered, Lee is NOT ready to carry out Kenny's plan to take down Danny] Well, hurry up.  We only got one shot at this.
+[pickup2][whispered, Lee is NOT ready to carry out Kenny's plan to take down Danny] Et bien, dépêchez-vous.  Ona ura droit à un seul essai.
 162)  LEE
-[pickup2][whispered, NOT ready to carry out Kenny's plan to take down Danny] Not yet.
+[pickup2][whispered, NOT ready to carry out Kenny's plan to take down Danny] Pas encore.
 163)  LEE
-[pickup2][quiet - Trying to keep kenny from doing something stupid.]What are you gonna do, walk up and grab his gun?
+[pickup2][quiet - Trying to keep kenny from doing something stupid.]Qu'est-ce que vous allez faire, marcher et prendre son arme ?
 164)  LEE
-[pickup2][quiet - Trying to keep kenny from doing something stupid.] What the hell do you think you're doing?
+[pickup2][quiet - Trying to keep kenny from doing something stupid.] Qu'est-ce que vous pensez faire, bordel?
 165)  KENNY
-[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] Getting my family back!
+[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] Ramener ma famille !
 166)  KENNY
-[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] Good a plan as any.
+[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] C'est un plan comme un autre.
 167)  DANNY
 [pickup2][deciding he didnt hear anything while on guard] Hmm.
 168)  DANNY
-[pickup2][while on guard, hears a noise in the distance.  (to himself)] Huh?
+[pickup2][while on guard, hears a noise in the distance.  (to himself)] Hein?
 169)  ANDY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Dan, what are you doing outside the barn?
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Dan, qu'est-ce que tu fais en dehors de l'étable ?
 170)  KENNY
-[pickup2][The appearance of Andy walking TOWARD the barn totally screws up Kenny's plan][whispered panic] Oh, shit!
+[pickup2][The appearance of Andy walking TOWARD the barn totally screws up Kenny's plan][whispered panic] Oh, merde !
 171)  DANNY
-[pickup2][outside the barn, Andy shows up and "What are you doing out here in the rain?"]Just guarding the place, like you said.
+[pickup2][outside the barn, Andy shows up and "What are you doing out here in the rain?"]Je garde l'endroit, comme tu as dit.
 172)  ANDY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Well, quit sittin' out in the rain like a damn weirdo.  Mama says we can't keep that many folks alive and not expect trouble.
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Et bien, arrêtes de rester assis sous la pluie comme un foutu mec bizarre.  Maman dit qu'on ne peut pas garder tous ces gens en vie, et qu'on ne peut pas s'attendre à des problèmes.
 173)  ANDY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Pick one to keep and kill the rest.
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Prends en un et tues les autres.
 174)  DANNY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Can I pick which one to keep alive?
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Je peux en prendre un pour le garder en vie?
 175)  ANDY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside - Projected a bit as Andy walks away.] [process. This line fades out as Andy walks away.] Not the kid.  Not enough meat on her to trade.
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside - Projected a bit as Andy walks away.] [process. This line fades out as Andy walks away.] Pas la gamine.  Y'a pas assez de viande sur elle à échanger.
 176)  DANNY
-[pickup2][creepily talking to the cow as he sets a traps for the people.]Oh, I know, Maybelle.  This is my favorite part, too.  When I let one think they can just walk right out.  [laughing a bit]They never look down!
+[pickup2][creepily talking to the cow as he sets a traps for the people.]Oh, je sais, Maybelle.  C'est ma partie préférée aussi.  Quand j'en laisse penser qu'ils peuvent sortir.  [laughing a bit]Ils ne regardent jamais par terre !
 177)  KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]See what he's doing now.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Regardez ce qu'il est en train de faire.
 178)  LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]What should we do?
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Qu'est-ce qu'on fait ?
 179)  KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Do you have a weapon?
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Vous avez une arme ?
 180)  KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them] We keep it simple, as soon as he passes us, we jump him from behind.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them] On va faire simple, dès qu'il nous dépasse, on lui saute dessus par derrière.
 181)  LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Yeah. [I have a weapon]
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Ouais. [I have a weapon]
 182)  KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Good. [that you brought a waepon]
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Bien. [that you brought a waepon]
 183)  LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]No.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Non.
 184)  KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Why didn't you grab a weapon?  [not really waiting for an answer]Whatever, I have one.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Pourquoi vous avez pas pris une arme?  [not really waiting for an answer]Qu'importe, j'en ai une.
 185)  LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]I'll keep an eye on him.  Be ready to act when I say.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Je garde un oeil sur lui.  Soyez prêt à agir quand je le dirai.
 186)  LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]We'll take him out together.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]On l'emmènera ensemble.
 187)  KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]How?
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Comment ?
 188)  LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]He doesn't know we're out. He's gotta walk past us to get to the meat locker.  We can take him when his back is to us.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Il ne sait pas qu'on est sorti. Il devra passer derrière nous pour atteindre le garde-manger.  On pourra l'attraper quand il aura le dos tourné.
 189)  LEE
-[pickup2][SUPER quiet! strugling to think of a plan] Uhh...
+[pickup2][SUPER quiet! strugling to think of a plan] Euh...
 190)  KENNY
-[pickup2][SUPER quiet! Responding to lee saying nothing right after he says "Here's the plan" - Sarcastic]Dammit, Lee!  This is NOT the time to freeze up!
+[pickup2][SUPER quiet! Responding to lee saying nothing right after he says "Here's the plan" - Sarcastic]Merde, Lee !  C'est pas le moment d'être paralysé !
 191)  KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]We keep it simple, as soon as he passes us, we jump him from behind.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]On va faire simple, dès qu'il nous dépasse, on lui saute dessus par derrière.
 192)  KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]See where he is now.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Voyons où il est maintenant.
 193)  KENNY
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]What's he doing out there?
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Qu'est-ce qu'ill fait là-bas ?
 194)  LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] I don't know.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] Je sais pas.
 195)  LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] They're talking about killing us!
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] Ils parlent de nous tuer !
 196)  KENNY
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]No shit.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Pas moyen.
 197)  LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]He's inside, but he's not coming any closer.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Il est à l'intérieur, mais il ne rapproche pas.
 198)  LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Sick fucker thinks this is a game!
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Ce connard pense que c'est un jeu !
 199)  LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]I don't see him anymore.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Je ne le vois plus.
 200)  KENNY
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Well, where the fuck did he go?
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Bin, où est-ce qu'il a pu aller ?
 201)  LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]I don't know. [where he went]
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Je sais pas. [where he went]
 202)  KENNY
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Look again.  He didn't go past us.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Regardez encore.  Il n'est pas passé derrière nous.
 203)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] What's going on?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Qu'est-ce qui se passe ?
 204)  KENNY
 [pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Lee...
 205)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Where is he?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Il est où ?
 206)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]What's he doing?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Qu'est-ce qu'il fait ?
 207)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]What's he doing now?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]WQu'est-ce qu'il est en train de faire ?
 208)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]What do you see?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Qu'est-ce que vous voyez ?
 209)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Lee, talk to me.
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Lee, parlez-moi.
 210)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Hey!  Tell me something!
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Hé!  Dites moi quelque chose !
 211)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Can you see him?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Vous pouvez le voir ?
 212)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Tell me what's going on.
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Dites-moi ce qui se passe.
 213)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Hey, keep your eye on him!
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Hé, gardez un oeil sur lui !
 214)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Take a look through the cracks...
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Jetez un coup d'oeil par les fentes...
 215)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] See where he is now.
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Voyons où il est est maintenant.
 216)  KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Lee!  Focus!  Where's Danny?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Lee! Concentrez-vous !  Où est Danny ?
 217)  DANNY
-[pickup2] [almost growling as He suprises Lee, grabbing him and pushing him toward the bear trap!] Gggrraaaaaaaahhhh!!!
+[pickup2] [almost growling as He suprises Lee, grabbing him and pushing him toward the bear trap!] Gggrraaaaaaaahhhh !!!
 218)  LEE
-[pickup2][Terrified as Danny suprises, grabs and pushes him toward a bear trap!]JESUS CHRIST!!!
+[pickup2][Terrified as Danny suprises, grabs and pushes him toward a bear trap!]JESUS CHRIST !!!
 219)  CLEMENTINE
-[pickup2][Screams in terror as Lee is attacked!]{fearc}Aaahhhhh!!!!
+[pickup2][Screams in terror as Lee is attacked!]{fearc}Aaahhhhh !!!!
 220)  KENNY
-[pickup2][rushing Danny!  Attack!!] {angryd}Aaaarrhhhhh!!!!
+[pickup2][rushing Danny!  Attack!!] {angryd}Aaaarrhhhhh !!!!
 221)  DANNY
-[pickup2][in extreme pain, a bear trap just snapped on his leg!! ] {feard}Arrghh!!!!
+[pickup2][in extreme pain, a bear trap just snapped on his leg!! ] {feard}Arrghh !!!!
 222)  KENNY
-[pickup2][Shouting, threatening Danny?!] {angryc}Where's my family, asshole?!!
+[pickup2][Shouting, threatening Danny?!] {angryc}Où est ma famille, trou du cul ?!!
 298)  KENNY
-[pickup2][Shouting, threatening Danny?!] {angryc}Where's my family, asshole?!!
+[pickup2][Shouting, threatening Danny?!] {angryc}Où est ma famille, trou du cul ?!!
 223)  DANNY
-[pickup2][in extreme pain & being threatened] {disgusta}You can't have 'em! {feard}We need the vet.
+[pickup2][in extreme pain & being threatened] {disgusta}Tu pourras pas les avoir ! {feard}On a besoin de la véto.
 299)  DANNY
-[pickup2][in extreme pain & being threatened] {disgusta}You can't have 'em! {feard}We need the vet.
+[pickup2][in extreme pain & being threatened] {disgusta}Tu pourras pas les avoir ! {feard}On a besoin de la véto.
 224)  CLEMENTINE
-[pickup2][Screams in terror as Lee is attacked!]Aaahhhhh!!!!
+[pickup2][Screams in terror as Lee is attacked!]Aaahhhhh !!!!
 225)  LILLY
-[pickup2][Stabbing Danny!  Attack!!] Aaahhh!!!!
+[pickup2][Stabbing Danny!  Attack!!] Aaahhh !!!!
 226)  DANNY
-[pickup2][in extreme pain, a bear trap just snapped on his leg!! ] Arrghh!!!!
+[pickup2][in extreme pain, a bear trap just snapped on his leg!! ] Arrghh !!!!
 227)  DANNY
-[pickup2][suffering the pain ] Arrghh!!!!
+[pickup2][suffering the pain ] Arrghh !!!!
 228)  DANNY
-[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]Eerrgghhh!!!   You see?!! You understand now, don't you?!  You can have me!
+[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]Eerrgghhh !!!  T'as vu ?!! Tu comprends, maintenant, n'est-ce pas ?!  Tu peux m'avoir !
 229)  DANNY
-[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]It's how the world works now! Give part of yourself... so others can live!
+[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]C'est comme ça que fonctionne le monde maintenant ! Donnes une part de toi-même... pour que les autres puissent vivre  ! 
 230)  
-That's why you killed that woman!
+C'est pour ça que tu as tué cette femme !
 231)  
-That crazy woman tried to warn me!
+Cette folle a essayé de me prévenir !
 232)  LEE
-[pickup2][threatening Danny, about to kill him!]That crazy woman in he woods tried to warn me... And I killed her.
+[pickup2][threatening Danny, about to kill him!]Cette folle dans les bois a essayé de me prévenir... Et je l'ai tué.
 233)  DANNY
-[pickup2][in extreme pain! being threatened] That bitch never got it!  She almost fucked up our best deal!!
+[pickup2][in extreme pain! being threatened] Cette pute ne l'a jamais eu !  Elle a presque foutu en l'air notre meilleure affaire !!
 234)  LEE
-[pickup2][threatening Danny, about to kill him! - Realizing.]That's why you killed that woman in the woods!  She was about to spill everything!
+[pickup2][threatening Danny, about to kill him! - Realizing.]C'est  pour ça que tu as tué cette femme dans les bois ! Elle était sur le point de tout révéler !
 235)  DANNY
-[pickup2][in extreme pain! being threatened] You weren't ready to hear yet, Lee!  Had to stop her.
+[pickup2][in extreme pain! being threatened] Tu n'étais pas encore prêt à entendre, Lee! J'ai dû l'arrêter.
 236)  KENNY
-[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Come on!!
+[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Allez !!
 302)  KENNY
-[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Come on!!
+[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Allez!!
 237)  LEE
-[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Just go.  {angryc}I won't be far behind.
+[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Allez-y.  {angryc}Je serai pas loin derrière.
 303)  LEE
-[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Just go.  {angryc}I won't be far behind.
+[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Allez-y.  {angryc}Je serai pas loin derrière.
 238)  LILLY
-[pickup3][still shellshocked. Lee is threateing one of the crazy cannibal rednecks, but she's utterly disgusted,Wanting to put this whole situation behind her.  NOT very projected.] I should fucking kill you right now.
+[pickup3][still shellshocked. Lee is threateing one of the crazy cannibal rednecks, but she's utterly disgusted,Wanting to put this whole situation behind her.  NOT very projected.] Je devrais te buter sur-le-champ.
 239)  LEE
-[pickup2][threatening Danny, about to kill him! pissed]The man in your upstairs bathroom wasn't asking to be food!
+[pickup2][threatening Danny, about to kill him! pissed]Le gars dans votre salle de bain de l'étage n'a pas demandé à être de la bouffe !
 240)  LEE
-[pickup2][threatening Danny, about to kill him!  Pissed] Mark never volunteered to be food!
+[pickup2][threatening Danny, about to kill him!  Pissed] Mark n'a jamais été volontaire pour être de la bouffe !
 241)  
-Mark never volunteered to be food!
+Mark n'a jamais été volontaire pour être de la bouffe !
 308)  
-Mark never volunteered to be food!
+Mark n'a jamais été volontaire pour être de la bouffe !
 242)  
-The man in your upstairs bathroom wasn't asking to be food!
+Le gars dans votre salle de bain de l'étage n'a pas demandé à être de la bouffe !
 243)  
-Cannibalism?!
+Du cannibalisme ?!
 244)  LEE
-[pickup2][threatening Danny, about to kill him! pissed]Cannibalism is NOT the answer!  Aren't the Walkers eating enough of us?!
+[pickup2][threatening Danny, about to kill him! pissed]Le cannibalisme n'est pas une réponse !  Les Rôdeurs ne nous bouffent pas assez?!
 245)  DANNY
-[pickup2][In extreme pain!!] You gotta keep me alive.  If you kill me, the meat gets tainted!!  You can't eat it!
+[pickup2][In extreme pain!!] Tu dois me garder en vie.  Si tu me tues, la viande va se colorer !!  Tu pourras pas la manger !
 246)  
-You don't deserve to live.
+Tu mérites pas de vivre.
 247)  
-I'm gonna leave you to rot.
+Je vais te laisser pourrir.
 248)  LEE
 {angryd}[pickup2][threatening Danny, deciding that Danny isn't worth killing]I'm not gonna kill you, you son of a bitch!
 249)  LEE

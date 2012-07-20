@@ -25,13 +25,13 @@
 13)  LEE
 [pickup3]La façon de Lilly de faire tourner les choses est astucieuse.  Ce n'est pas facile, mais ça nous garde en vie.
 14)  LEE
-[pickup3][doubting himself]Vous pensez qu'il me voudrait comme leader ?
+[pickup3][doubting himself]Vous pensez qu'il me voudrait comme chef ?
 15)  
 Kenny nous garde motivés.
 16)  
-Lilly est une leader intelligente.
+Lilly est une chef intelligente.
 17)  
-Moi comme leader ?
+Moi comme chef ?
 18)  CARLEY
 [pickup3] Bien sûr. Tout le monde a du respect pour vous.
 19)  CARLEY
@@ -133,7 +133,7 @@ J'ai pas mal bougé.
 66)  ANDY
 [pickup3][admiring]Direct au coeur de la Georgie, c'est ça que j'aime entendre !
 67)  ANDY
-[pickup3]Vous semblez plutôt bien installé dans ce motel.  Qui dirige là-bas?
+[pickup3]Vous semblez plutôt bien installé dans ce motel.  Qui dirige là-bas ?
 68)  
 Lilly.
 69)  
@@ -163,7 +163,7 @@ C'est une démocratie.
 81)  ANDY
 [pickup3]Je comprends ! Il y a tellement d'idiots qui se battent les uns contre les autres ces temps-ci...  c'est vraiment stupide.
 82)  DANNY
-[pickup3][friendly] Vous êtes combien là-bas?
+[pickup3][friendly] Vous êtes combien là-bas ?
 83)  LEE
 [pickup3]Neuf. Y compris les enfants.
 84)  DOUG
@@ -211,11 +211,11 @@ Assez pour nous défendre.
 105)  BEN
 [pickup3] [whispering] Ils ressemblent à ceux qui ont pillé mon camp !
 106)  LEE
-[pickup3][whispering] C'est qui?
+[pickup3][whispering] C'est qui ?
 107)  ANDY
 [pickup3] [whispering]Chut. Des putains de trous du cul.
 108)  DOUG
-[pickup3][whispering]Qu'est qu'on va faire?
+[pickup3][whispering]Qu'est-ce qu'on va faire ?
 109)  CARLEY
 [pickup3][whispering]Il n'y en a que deux.
 110)  DANNY
@@ -279,7 +279,7 @@ Assez pour nous défendre.
 140)  MARK
 [pickup3][ambient]Les gens récupéraient de la nourriture, ds armes, de l'eau... tout ce sur quoi ils pouvaient mettre la main.
 141)  BEN
-[pickup3][ambient]Et bien.. l'essence est gratuite maintenant, pas vrai?
+[pickup3][ambient]Et bien.. l'essence est gratuite maintenant, pas vrai ?
 142)  ANDY
 [pickup3][ambient]Elle l'est si tu peux en prendre.  Je préferais pousser jsuqu'à une station essence et payer cinq dollars à la pompe qu'essayer de me battre contre quelques cadavres.
 143)  MARK
@@ -291,4 +291,4 @@ Assez pour nous défendre.
 146)  MARK
 [pickup3][ambient]D'une façon ou d'une autre, j'ai fini enfermé dans un local de stockage du commissariat.
 147)  ANDY
-[pickup3][ambient]Ou pire, un groupe de pilleurs !
+[pickup3][ambient]Ou pire, un groupe de rapaces !
