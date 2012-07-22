@@ -21,10 +21,15 @@ V1 : Bientôt disponible.
 
 ### Windows
 
-Steam : Copier/coller les fichiers suivant l'image fournit dans l'archive
-Disponible dans la section Download.
+Pour Steam
+Copier/coller les fichiers suivant l'image fournit dans l'archive
+
+Pour la version Telltales
+En cours de recherche
+
+Téléchargement disponible dans la section Download.
 
 ### Mac
 
 Copier/coller les fichiers suivant l'image fournit dans l'archive
-Disponible dans la section Download.
+Téléchargement disponible dans la section Download.
