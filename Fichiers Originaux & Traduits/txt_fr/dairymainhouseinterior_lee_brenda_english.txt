@@ -1,0 +1,166 @@
+1)  KATJAA
+[pickup2][Scared for her life]Lee !
+2)  LEE
+[pickup2][In STERN negotiations with Brenda who has Katjaa hostage.]Laissez-la partir, Brenda !
+3)  BRENDA
+[pickup2]{FearC}Rester en arrière !
+4)  BRENDA
+[pickup2][Stern, but scared and angry that Lee ruined everything by discovering mark/david]Fallait vraiment que vous fouiniez, hein ?!
+5)  KATJAA
+[pickup2][Gasps as Katjaa grabs her and puts a gun to her head!]
+6)  BRENDA
+[pickup2][Stern!! scared for her life, threatening Lee!!] {FearB}Arrêtez-vous là !  {SadC}Je suis sérieuse !
+7)  BRENDA
+[pickup2][STERN!! scared for her life, threatening Lee!!] {AngryD}Reculez !  {FearC}Ne faites rien d'idiot.
+8)  BRENDA
+[pickup2][STERN!! scared for her life, threatening Lee!!] {SadD}Je ne veux pas vous tuer, Lee !!
+9)  BRENDA
+{pickup2}[Shouting, scared, and breaking down after shooting lee]  Je vous ai dit de vous arrêter !!  Je vous l'ai dit !!
+10)  KATJAA
+[pickup2][Seeing Lee get shot!!] {FearD}Non, LEE !
+11)  KATJAA
+[pickup2][Seeing Lee get shot!!] {FearD}Nooon !!!
+12)  BRENDA
+[pickup2][trying to controll the situation, after Telling Lee to STOP and he did.]{AngryA}C'est ça.  {AngryB}Tranquille et calme...
+13)  BRENDA
+[pickup2][trying to controll the situation, after Telling Lee to STOP and he did.]Laissez-nous tranquilles, maintenant !
+14)  BRENDA
+[screaming in pain] {FearD}Ahhhhhhh !
+15)  KATJAA
+[pickup2][panicked!! Just having broken free from Brenda] {FearC}Ils ont Duck ! Où est Kenny !?
+16)  KATJAA
+[pickup2][hearing Andy threaten Kenny outdise the house, realizing her baby  boy is in danger] {FearC}Oh mon Dieu !
+17)  KENNY
+[pickup2][process: outside the house][shouting at Andy to Let Duck go]Vous ne lui avez pas fait de mal !!!
+18)  ANDY
+[pickup2][process: outside the house][threating Kenny, yelling]J'avais dis de ne pas bouger, imbécile !
+19)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Pensez à votre mari, Brenda !  {AngryB}Il n'aurait jamais voulu {SadB}que sa laiterie soit transformée...{FearA} en abattoir ??!
+25)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Pensez à votre mari, Brenda !  {AngryB}Il n'aurait jamais voulu {SadB}que sa laiterie soit transformée...{FearA} en abattoir ??!
+57)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Pensez à votre mari, Brenda !  {AngryB}Il n'aurait jamais voulu {SadB}que sa laiterie soit transformée...{FearA} en abattoir ??!
+20)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Danny était {AngryB}un homme bizarre, Brenda !!  {AngryA}C'est lui qui a commencé tout ça ?!
+21)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{NormalD}vos enfants... {SadB}Ils se souciaient d'eux !  {ThinkingB}Pensez à Duck{FearA} grandissant sans sa mère !
+22)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}Qu'est-ce qui c'est passé, Brenda ?  {ThinkingB}Votre famille était de toute évidence intelligente !  {SadB}Comment ça a pu tourner comme ça ?!
+26)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}Qu'est-ce qui c'est passé, Brenda ?  {ThinkingB}Votre famille était de toute évidence intelligente !  {SadB}Comment ça a pu tourner comme ça ?!
+62)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}Qu'est-ce qui c'est passé, Brenda ?  {ThinkingB}Votre famille était de toute évidence intelligente !  {SadB}Comment ça a pu tourner comme ça ?!
+23)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{AngryA}Vous gardez ces trucs {DisgustB}qui vous rappelle une meilleure époque !  {AngryC}Ne salissez pas ces souvenirs avec ça !! [this=  this whole messed up situation!]
+24)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}Cette ferme était votre fierté !  {AngryC}Regardez ce que vous avez fait pour elle !!
+27)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}Cette ferme était votre fierté !  {AngryC}Regardez ce que vous avez fait pour elle !!
+67)  LEE
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}Cette ferme était votre fierté !  {AngryC}Regardez ce que vous avez fait pour elle!!
+28)  LEE
+{FearA}Pensez à ce que vous faites. {SadC}Ca ne doit pas finir comme ça.
+54)  LEE
+{FearA}Pensez à ce que vous faites. {SadC}Ca ne doit pas finir comme ça.
+29)  LEE
+{AngryB}Laissez-la partir, Brenda !
+60)  LEE
+{AngryB}Laissez-la partir, Brenda !
+30)  KATJAA
+[scared]Je vous en prie, écoutez-le !
+58)  KATJAA
+[scared]Je vous en prie, écoutez-le !
+31)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Reculez !
+32)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Je vais la tuer, Lee !
+33)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Je vais la tuer, Lee !
+53)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Je vais la tuer, Lee !
+55)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Je vais la tuer, Lee !
+34)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Je vais le faire !
+59)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Je vais le faire !
+35)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Arrêtez-vous maintenant !
+36)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Arrêtez-vous maintenant !
+63)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Arrêtez-vous maintenant !
+65)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Arrêtez-vous maintenant !
+37)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop ![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] Je suis sérieuse !
+66)  BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop ![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] Je suis sérieuse !
+38)  KATJAA
+[pickup1][ambient pleading with Brenda] Ne faites pas ça...
+56)  KATJAA
+[pickup1][ambient pleading with Brenda] Ne faites pas ça...
+39)  KATJAA
+[pickup1][ambient pleading with Brenda] Brenda, je vous en prie...
+64)  KATJAA
+[pickup1][ambient pleading with Brenda] Brenda, je vous en prie...
+40)  KATJAA
+[pickup1][ambient pleading with Brenda] Laissez-moi partir...
+52)  KATJAA
+[pickup1][ambient pleading with Brenda] Laissez-moi partir...
+41)  KATJAA
+[pickup1][ambient pleading with Brenda] S'il vous plaît...
+61)  KATJAA
+[pickup1][ambient pleading with Brenda] S'il vous plaît...
+42)  LEE
+[pickup 3] [trying to calm Brenda, who has Katjaa hostage, down] Brenda, allez, vous savez que vous ne voulez pas faire ça.
+43)  BRENDA
+[pickup 3] [panicked] Lee, je vous en prie, ne faites pas un pas de plus !
+44)  BRENDA
+[pickup 3] [to Lee, pleading and scared] Partez et laissez-nous !
+45)  LEE
+[pickup3]Give me the gun and {AngryB}Laissez-la partir.
+46)  LEE
+[pickup3]Posez votre arme, merde !!
+47)  LEE
+[pickup3]Je vais tous vous tuer !  Jusqu'au dernier !!
+48)  LEE
+[pickup3]Vous n'avez pas les TRIPES !
+49)  
+Vous n'avez pas les TRIPES !
+50)  
+Je vais tous vous tuer !
+51)  
+Posez votre arme, merde !!
+68)  
+Ca ne doit pas finir comme ça.
+69)  
+Pensez à votre mari, Brenda !
+70)  
+Laissez-la partir, Brenda.
+71)  
+Comment ça a pu tourner comme ça ?!
+72)  LEE
+[pickup3]S'il vous plaît, ne rendez pas cela pire.
+73)  
+Cette ferme était votre fierté !
+74)  
+S'il vous plait, ne rendez pas cela pire.
+75)  BRENDA
+[pickup3][horrified screams 1]
+76)  BRENDA
+[pickup3][shooting lee]J'ai dit D'ARRÊTER !!
+77)  BRENDA
+[pickup3][horrified screams 3]
+78)  BRENDA
+[pickup3][horrified screams 2]
+79)  BRENDA
+[pickup3]STOP!
+80)  BRENDA
+[pickup3][shooting lee]Vous avez tout détruit !!
+81)  BRENDA
+[pickup3][shooting lee]Vous ne méritez pas de vivre !
+82)  BRENDA
+[pickup3][shooting lee]Allez vous faire foutre !
+83)  BRENDA
+[pickup3][shooting lee]Putain, Lee !!

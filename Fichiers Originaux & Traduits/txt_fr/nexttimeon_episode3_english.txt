@@ -1,0 +1,118 @@
+1)  KENNY
+[pickup3]Macon est FOUTU mon vieux. Il ne reste rien.
+2)  KENNY
+[pickup3]Nous devons foutre le camp d'ici.
+3)  KENNY
+[pickup3]Lee, j'ai besoin de vous pour me soutenir.
+4)  KENNY
+[pickup3] {angryA} Cet endroit est MORT. Il est temps d'aller ailleurs.
+5)  KENNY
+[pickup3][cranky] {disgustA} Fait chier. C'est pas comme si vous n'avez jamais {angryB} entendu un seul foutu mot...
+6)  KENNY
+[pickup3] {thinkingA} Je suppose que je suis tout seul pour ca AUSSI.
+7)  LILLY
+[pickup3] {angryC} C'est tout ce que vous avez ?
+8)  KENNY
+[pickup3] {angryB} Je vous ai DIT que cette ville était foutue !
+9)  LILLY
+[pickup3]Vous allez avoir à faire mieux que ca !
+10)  KENNY
+[pickup3]Vous avez une idée de ce que nous avons à faire pour avoir tout ça !?
+11)  KENNY
+[pickup3]Duck nous a questionné au sujet de la ferme la nuit dernière.
+12)  KENNY
+[pickup3]C'est pas grand chose mais ca commence à s'accumuler.
+13)  KENNY
+[pickup3]J'ai besoin de rejoindre la côte. De tout laisser.
+14)  LILLY
+[pickup3][angry] Comment tous ces gens peuvent-ils rester ici ! Nous les laissons TOUT prendre ! C'est tout ce que nous pouvons laissé ! Vous les laissez tout prendre !
+19)  LILLY
+[pickup3][angry] Comment tous ces gens peuvent-ils rester ici ! Nous les laissons TOUT prendre ! C'est tout ce que nous pouvons laissé ! Vous les laissez tout prendre !
+15)  LILLY
+[pickup3][furious] Qu'est-ce qui ne va pas chez vous !
+20)  LILLY
+[pickup3][furious] Qu'est-ce qui ne va pas chez vous
+16)  DOUG
+[pickup3]Lilly, stop !
+17)  LILLY
+[pickup3][furious] Qu'est-ce qui ne va pas chez vous tous !?
+22)  LILLY
+[pickup3][furious] Qu'est-ce qui ne va pas chez vous tous !?
+18)  BEN
+[pickup3]Vous êtes dingue !
+23)  BEN
+[pickup3]Vous êtes dingue !
+21)  CARLEY
+[pickup3]Lâchez ça !
+24)  KENNY
+[pickup3]Lilly va pas très bien, hein.
+54)  KENNY
+[pickup3]Lilly va pas très bien, hein.
+25)  LEE
+[pickup3]Vous avez tué son père.
+26)  KENNY
+[pickup3][grumpy] J'ai fait ce que je devais faire et vous le savez.
+27)  LEE
+[pickup3]Normal, nous avons tué son père.
+28)  KENNY
+[pickup3][lead in: "well, we killed her dad." sort of coming to terms with those words by repeating them. yep. we did do THAT.] Nous n'avons tuer son père.
+29)  KENNY
+[pickup3]Peut-être que la situation s'est améliorée pour les gens là-bas.
+30)  KENNY
+[pickup3]Elle ne peut qu'être meilleure que la notre.
+31)  KENNY
+[pickup3]Ca pourrait être des gens qui ont compris cette merde.
+32)  LEE
+[pickup3]Réveillez-vous. C'est terminé.
+33)  KENNY
+[pickup3]Ne me dites pas de me réveiller. J'ai une VRAIE famille que j'essaie de protéger. Pas la fictive après laquelle vous courez.
+34)  CLEMENTINE
+[pickup3]Qu'est-ce qui se passe ?
+35)  LEE
+[pickup3]Rien, tout va bien.
+36)  CLEMENTINE
+[pickup3]Non, c'est pas vrai.
+37)  KENNY
+[pickup3]Votre fille encore en colère contre vous d'avoir accepté de prendre ce materiel dans la gare ?
+38)  KENNY
+[pickup3]Votre fille encore en colère contre moi pour avoir pris des choses dans cette voiture la semaine dernière ?
+39)  CLEMENTINE
+[pickup3]Les gens deviennent fous quand ils ont peur ?
+59)  CLEMENTINE
+[pickup3]Les gens deviennent fous quand ils ont peur ?
+40)  LEE
+[pickup3]Parfois. Oui.
+57)  LEE
+[pickup3]Parfois. Oui.
+41)  CLEMENTINE
+[pickup3]Ma mère et mon père se sont battu une fois et ma mère a dit que c'était parce qu'ils avaient eu peur...
+58)  CLEMENTINE
+[pickup3]Ma mère et mon père se sont battu une fois et ma mère a dit que c'était parce qu'ils avaient eu peur...
+42)  KENNY
+[pickup3][angry] Vous débordez conneries !
+43)  DOUG
+[pickup3]Nous pouvons régler tout ça, d'accord ? Nous pouvons régler cette question.
+51)  KENNY
+[pickup3]Nous pouvons régler tout ça, d'accord ? Nous pouvons régler cette question.
+44)  LILLY
+[pickup3]Je vais vous dire ce que nous avons besoin de régler !
+52)  LILLY
+[pickup3]Je vais vous dire ce que nous avons besoin de régler !
+45)  LILLY
+[pickup3][hysterical] Nous pouvons pas laisser une seule personne pourrir cet endroit pour tout le monde !!
+53)  LILLY
+[pickup3][hysterical] Nous pouvons pas laisser une seule personne pourrir cet endroit pour tout le monde !!
+46)  CARLEY
+[pickup3]C'est insensé !
+47)  LILLY
+[pickup3]Je suis la seule à maintenir ce groupe uni !
+50)  LILLY
+[pickup3]Je suis la seule à maintenir ce groupe uni !
+48)  BEN
+[pickup3]Jesus Christ ! Vous êtes deux malade !
+49)  BEN
+[pickup3]Jesus Christ ! Vous êtes deux malade !
+55)  KENNY
+Nous DEVONS partir !
+56)  KENNY
+C'est de la folie.

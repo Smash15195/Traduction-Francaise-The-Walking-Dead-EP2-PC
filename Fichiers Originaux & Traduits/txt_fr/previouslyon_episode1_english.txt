@@ -1,0 +1,70 @@
+1)  CARLEY
+{thinkingA}	Je sais qui vous êtes.
+2)  KENNY
+{ThinkingA}Ok, Carley, vous entrerez avec Doug quand il en aura besoin. {NormalB}Pour l'instant, prenez un peu de repos - {HappyA}vous êtes une fine gâchette et je voudrais que cela ne change pas.
+3)  CARLEY
+{NormalA}Et moi c'est Carley.
+4)  DOUG
+{NormalA}C'est Doug, {HappyA} pigé.
+5)  KENNY
+{THinkingA}Et vous, gardez un oeil sur cette porte. {NormalB}Vous êtes notre sentinelle.
+6)  CLEMENTINE
+{sadA} {body-handsopen}Ouais.{sadC} Je veux que mes parents reviennent à la maison.
+7)  LEE
+{sadA} {body-c2}Tu as traversé tout ça toute seule ?
+8)  LARRY
+[hushed, angry] Espèce d'enfant de pute, l'un d'eux est mordu !
+9)  CARLEY
+{NormalC}Compris boss.
+10)  LARRY
+{AngryC}J'en ai rien à foutre de  {DisgustA}ce qui vous arrivera. {AngryC} Mais si quelque chose arrive à ma fille ou à la petite que vous avez avec vous,{DisgustA} oh, faites gaffe à votre cul.
+11)  DOUG
+{FearD}Putain... [a friend has just been eaten]
+12)  CARLEY
+[pickup1] [Lots of screaming, being eaten alive - please try to show the actress the animation, it's very specific - sk55_action_carleyKilled.chore].
+13)  CLEMENTINE
+{FearD}AHHHHHHH ! [Zombies have grabbed a friend.]
+17)  CLEMENTINE
+{FearD}AHHHHHHH ! [Zombies have grabbed a friend.]
+14)  CARLEY
+{FearB}Oh mon dieu... [A friend is being eaten]
+15)  DOUG
+[Lots of screaming, being eaten alive]
+16)  DOUG
+{FearD}Ah, non !! ENLEVEZ-MOI CA !
+18)  DOUG
+{FearD}AHHHHHH !
+19)  LEE
+[pickup1][argument] C'est lui ou votre fils. Moi je dis, lui.
+20)  KENNY
+[pickup1] [argument]Putain d'accord; virer de SON cul avec ces TRUCS.
+21)  LEE
+[pickup1] [argument] Le bon-sens est avec lui.
+22)  KENNY
+[pickup1] [argument] Avec le manche sanglant d'une hache, peut-être ! Personne ne menace mon fils.
+23)  KENNY
+[pickup1] [seething]C'est ce que je pensais.
+24)  LEE
+[pickup1] On va s'occuper de lui.
+25)  KENNY
+[pickup1][argument] Avec ou sans vous, je protégerai mon enfant de ma vie.
+26)  LEE
+{surpriseC}{body-sitcuffed}Attention !
+27)  COP
+{happyD}{body-drive}Oh, j'ai eu une autre {body-turnback}bonne pour vous. {surprisedA}Celle-ci est un peu moins déprimant et{happyB} un peu plus hilarante si je peux dire. {fearB}L'autre jour--
+28)  COP
+{happyD}{body-drive}Oh, j'ai eu une autre {body-turnback}bonne pour vous. {surprisedA}Celle-ci est un peu moins déprimant et{happyB} un peu plus hilarante si je peux dire. {fearB}L'autre jour--
+30)  COP
+{happyD}{body-drive}Oh, j'ai eu une autre {body-turnback}bonne pour vous. {surprisedA}Celle-ci est un peu moins déprimant et{happyB} un peu plus hilarante si je peux dire. {fearB}L'autre jour--
+32)  COP
+{happyD}{body-drive}Oh, j'ai eu une autre {body-turnback}bonne pour vous. {surprisedA}Celle-ci est un peu moins déprimant et{happyB} un peu plus hilarante si je peux dire. {fearB}L'autre jour--
+34)  COP
+{happyD}{body-drive}Oh, j'ai eu une autre {body-turnback}bonne pour vous. {surprisedA}Celle-ci est un peu moins déprimant et{happyB} un peu plus hilarante si je peux dire. {fearB}L'autre jour--
+29)  LEE
+{fearD}{body-sitcuffed}Oh merde !
+31)  LEE
+{surpriseC}{body-sitcuffed}Sur la route !
+33)  LEE
+{fearD}{body-sitcuffed}Putain Là !
+35)  CARLEY
+<<id:``>>	{thinkingA}	Je sais qui vous êtes.

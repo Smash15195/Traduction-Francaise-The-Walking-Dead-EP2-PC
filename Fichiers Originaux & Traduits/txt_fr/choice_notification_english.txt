@@ -1,0 +1,194 @@
+1)  
+Mark se souviendra de ça.
+2)  
+Il a remarqué votre silence.
+3)  
+Elle a remarqué votre silence.
+4)  
+Vous n'avez pas pu libérer David.
+62)  
+Vous n'avez pas pu libérer David.
+5)  
+Kenny a remarqué votre loyauté.
+6)  
+Lilly a remarqué votre loyauté.
+7)  
+Kenny a été frustré par votre silence.
+8)  
+Vous avez tenté de rester neutre.
+9)  
+Katjaa n'a pas apprécié.
+10)  
+Ils ont tous remarqué votre parti-pris pour Kenny.
+11)  
+Ils ont tous remarqué votre parti-pris pour Lilly.
+12)  
+Nourrir Ben peut être impopulaire.
+13)  
+Duck et sa famille ont apprécié.
+14)  
+Vous avez choisi de nourrir Carley
+15)  
+Vous avez choisi de prendre soin de Clémentine.
+16)  
+Vous avez choisi de vous garder de la nourriture.
+17)  
+Vous avez donné une pomme à Doug.
+18)  
+Les autres ont remarqué que vous avez nourri Kenny.
+19)  
+Vous avez fait un choix difficile.
+20)  
+Vous avez nourri Lilly.
+21)  
+Lilly est toujours fâchée.
+22)  
+Vous avez nourri Mark.
+23)  
+Vous avez choisi de tirer sur Jolene.
+24)  
+Danny a remarqué ce que vous avez trouvé.
+25)  
+Vous avez trouvé des pillules de nitro-glycerine.  Lilly pourrait les vouloir.
+26)  
+Vous avez voté contre partir pour la ferme.
+27)  
+Elle s'en souviendra.
+28)  
+Vous avez décidé que tout le monde devrait partir.
+29)  
+Il y a trois portions de nourriture restantes.
+30)  
+Il y a deux portions de nourriture restantes.
+31)  
+Il y a une portion de nourriture restante.
+32)  
+Il n'y a plus de nourriture pour aujourd'hui.
+33)  
+Mark à noté votre embarras.
+34)  
+Mark a relevé vos doutes.
+35)  
+Il a remarqué votre ambiguïté.
+36)  
+Il s'en rappellera.
+37)  
+Vous avez appris qu'ils ont quelques armes à feu.
+38)  
+Andy apprécie votre offre.
+39)  
+Vous avez découvert que d'autres survivants sont restés à la ferme.
+40)  
+Kenny n'a pas aimé ça.
+41)  
+Vous avez tenté de l'arrêter !
+42)  
+Vous l'avez empêché de manger !
+43)  
+Vous avez empêché Clémentine de manger !
+44)  
+Vous n'avez pas pu empêcher Clem de manger !
+45)  
+Vous avez laissé Larry manger de la chair humaine.
+46)  
+Brenda a remarqué que vous n'avez rien dit.
+47)  
+Vous vous rangez du côté de Lilly.
+48)  
+Kenny se rappellera votre loyauté.
+49)  
+Clémentine a été témoin de vos actes.
+50)  
+Vous avez choisi de tuer Andy.
+51)  
+Vous avez épargné la vie d'Andy
+52)  
+Clémentine se rappellera que vous l'avez épargné.
+53)  
+Vous avez choisi de prendre la nourriture de la voiture quand même.
+54)  
+Vous et Clémentine avez choisi de ne pas voler de nourriture.
+55)  
+Vous avez tenté de donner à Doug de la nourriture, mais il a refusé.
+56)  
+Vous avez libéré David.
+57)  
+Vous avez dit à Kenny que partir pour la côte était une bonne idée.
+58)  
+Vous avez tenté de convaincre Kenny de rester.
+59)  
+Vous avez donné votre avis sur Kenny.
+60)  
+Vous n'avez que quatre portions de nourriture pour dix personnes affamées.
+61)  
+Kenny ne crois pas que vous avez aidé Duck dans l'épisode précédent.
+63)  
+Andy s'en rappellera.
+64)  
+Les frères St. John ont remarqué votre silence.
+65)  
+Les frères St. John pense que vous êtes responsable du groupe.
+66)  
+Les frères St. John en ont pris note.
+67)  
+Vous avez été honnête.
+68)  
+Vous leur faites savoir que vous êtes préparés à vous défendre.
+69)  
+Vous avez évité de répondre à la question.
+70)  
+Vous avez choisi d'aider Lilly à sauver son père.
+71)  
+Vous avez choisi d'aider Kenny à empêcher Larry de revenir.
+72)  
+Vous avez choisi de ne pas tirer sur Jolene.
+73)  
+Danny a remarqué vos soupçons.
+74)  
+Brenda a percé votre mensonge.
+75)  
+Vous avez effrayé Brenda.
+76)  
+Vous avez alerté Brenda de votre présence.
+77)  
+Brenda a été effrayée par votre manque de réponse.
+78)  
+Vous avez rassuré Clémentine.
+79)  
+Vous avez repris espoir avec Clémentine.
+80)  
+Vous n'avez pas caché la vérité à Clémentine.
+81)  
+Danny s'en rappellera.
+82)  
+Vous avez choisi d'être direct !
+83)  
+Brenda n'a pas aimé être jugée.
+84)  
+Vous avez choisi de les supplier.
+85)  
+Vous avez choisi de les menacer.
+86)  
+Vous avez trouvé une excuse.
+87)  
+Vous avez interrogé Andy directement.
+88)  
+Vous avez menti à Andy.
+89)  
+Kenny couvre vos arrières.
+90)  
+Kenny se rappelera vos paroles.
+91)  
+Vous avez fait prendre à Clémentine le blouson.
+92)  
+Vous avez convaincu Clémentine de mettre un blouson un moment.
+93)  
+Vous avez convaincu Clémentine que c'était bien de mettre le blouson.
+94)  
+Vous avez été direct avec Clémentine.
+95)  
+Vous avez donné à Clémentine une réponse rassurante.
+96)  
+Clémentine a noté votre silence.
+97)  
+Vous avez révélé votre culpabilité à Clémentine.

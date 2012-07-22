@@ -1,0 +1,150 @@
+1)  CLEMENTINE
+{sadA}Je l'avais encore il y a quelques jours.
+2)  LEE
+{normalC}Quand l'as-tu perdu ?
+3)  LEE
+{normalD}Tu en as vraiment besoin ?
+4)  CLEMENTINE
+{sadA}NON. Pas jusqu'à ce qu'il se casse au drugstore.
+5)  LEE
+{thinkingA}Ce truc ne fonctionne plus, hein ?
+6)  LEE
+{sadA}Désolé, ma puce, j'ai pas le temps.
+7)  CLEMENTINE
+[annoyed] {angryA}Lee !
+8)  CLEMENTINE
+[annoyed] {angryA}Lee !
+9)  CLEMENTINE
+{sadC}Mais ça m'aide à me sentir mieux.
+10)  LEE
+[sad, but sympathetic] {sadA}Ecoute, Clémentine...
+11)  CLEMENTINE
+{angryA}Je suis pas idiote, Lee. {sadB}Je sais que c'est juste pour faire semblant.
+12)  CLEMENTINE
+{sadA}J'ai vraiment faim, Lee.
+13)  LEE
+{normalD}Comment tu vas, Clémentine ?
+14)  LEE
+{sadB}D'accord.  Prends-en bien soin alors.
+15)  CLEMENTINE
+{sadA}Je le ferais.
+16)  LEE
+[pickup2][sean edit] Je sais que je l'ai fait.
+17)  CLEMENTINE
+[pickup2][sean edit] Et jusque-là... [trails off]
+18)  CLEMENTINE
+[pickup2][sean edit] Tu as dit qu'ils allaient nous trouver.
+19)  CLEMENTINE
+[pickup2][sean edit] Mais nous pouvons essayer de LES trouver.
+20)  CLEMENTINE
+[pickup2][sean edit] Tu avais dit que tu ne pensais pas qu'ils allaient nous trouver.
+21)  LEE
+[pickup2][sean edit] Eh bien, oui, mais c'est parce que...
+22)  
+[Donner Moitié de Pomme]
+23)  LEE
+[pickup 2] Tiens, Clémentine.
+24)  
+[Donner Viande Séchée]
+25)  
+[Donner Crackers et Fromage]
+26)  
+[Donner Crackers et Fromage]
+27)  LEE
+[pickup 2] Tiens Clém, il faut que tu mange quelques chose.
+74)  LEE
+[pickup 2] Tiens Clém, il faut que tu mange quelques chose.
+28)  LEE
+[smiling at Clementine's joke] Je vais garder ça à l'esprit.
+29)  CLEMENTINE
+[pickup 2] Ok. [joking] Je préférerai un sundae la prochaine fois. [laughs to herself]
+30)  LEE
+[pickup 2] Je n'est plus de nourriture, Clémentine. Je suis désolé.
+31)  CLEMENTINE
+[pickup 2] [sighs] [hates to admit it]J'ai vraiment faim...
+32)  LEE
+[pickup 2] Comment ça va, Clémentine ? Tout va bien ?
+33)  CLEMENTINE
+[pickup 2] ...ouais. Est-ce que ca va aller pour cet homme ?
+34)  LEE
+[pickup 2] [not sure himself] Je pense qu'il ira bien.
+35)  LEE
+[pickup 2] J'en suis pas sûr.
+36)  LEE
+[pickup 2] Ca à pas l'air bon, Clémentine. ça à pas l'air bon.
+37)  CLEMENTINE
+[pickup 2] [reserved, unsure about a prognosis] Oh, génial.
+38)  CLEMENTINE
+[pickup 2] [a little sad] I hope he will. [be okay]
+39)  CLEMENTINE
+[pickup 2] [crestfallen] Oh. d'accord.
+40)  LEE
+[pickup 2] Tu seras bien ici ?
+41)  CLEMENTINE
+[pickup 2] Euh, Ca ira.
+42)  CLEMENTINE
+[pickup2]Merci encore pour la nourriture, Lee.
+43)  CLEMENTINE
+[pickup2]J'ai trop faim, Lee. J'espère que je pourrais bientôt manger.
+44)  CLEMENTINE
+[pickup2] J'adore les pommes. Merci. Tu en as d'autres ?
+45)  LEE
+[pickup2] Non. C'était la dernière.
+46)  CLEMENTINE
+[pickup2][feels guilty] Oh...um...
+47)  LEE
+[pickup2] [sincere, talking to clementine] Apprécie-la. Tu le mérite.
+48)  LEE
+[pickup2][feeling guilty] Ouais...
+72)  LEE
+[pickup2][feeling guilty] Ouais...
+49)  CLEMENTINE
+[pickup2] Oh. C'est bon. Je parie que les autres en ont besoin.
+50)  
+Tu as encore ce talkie-walkie ?
+51)  LEE
+[pickup2][to clementine] C'est bon, ma puce.
+52)  CLEMENTINE
+[pickup2] Je sais. Je, hum, j'en ai besoin.
+53)  LEE
+[pickup2] Pourquoi encore t'y accrocher alors ?
+54)  
+Tu vas bien ?
+55)  
+Il ira bien.
+56)  
+J'en suis pas sûr.
+57)  
+Ca a l'air mauvais.
+58)  
+Parler a
+59)  
+Donner Nourriture a
+60)  
+Je n'est plus de nourriture pour aujourd'hui.
+61)  
+Un peu de nourriture ? [Donner]
+62)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Eh bien, ça en fait un de moins. Encore neuf personnes affamés et juste deux morceaux de nourriture.
+63)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]Plus qu'un morceau de nourriture à donner, alors c'est fini pour aujourd'hui.
+64)  LEE
+[pickup3][knowing there is only one more piece of food left]Hmm. Je devrais peut-être le garder pour moi ?
+65)  
+[Garder la dernière ration pour vous]
+66)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]J'ai besoin de garder des forces, aussi.
+67)  
+[Donner la dernière ration à quelqu'un]
+68)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nan.  Certaines de ces personnes sont restés plus longtemps que moi sans la nourriture. Ce sont eux qui en ont le plus besoin.
+69)  CLEMENTINE
+[pickup3]Si vous avez encore de quoi manger, Duck est affamé.
+70)  DUCK
+{thinkingA}Ouais.  Quand est-ce qu'on va chercher de la nourriture ?
+71)  
+[Exit]
+73)  LEE
+Je reviendrai bientôt.
+75)  LEE
+Revenir un peu plus tard.

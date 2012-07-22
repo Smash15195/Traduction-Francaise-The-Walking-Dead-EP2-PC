@@ -1,0 +1,710 @@
+1)  KATJAA
+{happyD}Cette nourriture pourrait tous nous sauver.
+2)  LEE
+{sadC}Nous devons la prendre, Clémentine. {fearB}Nous en avons besoin pour survivre.
+3)  LEE
+{normalD}[to Clementine]Tu as raison. Nous ne devrions pas la prendre.
+4)  
+Nous devons la prendre, Clémentine.
+5)  
+Tu as raison. Nous ne devrions pas la prendre.
+6)  CLEMENTINE
+[Respondingto lee's silence]{fearB}On ne va pas la prendre, hein ?
+7)  CLEMENTINE
+[Respondingto lee's silence] {fearA}Lee ?
+8)  LEE
+[sarcastic] {angryA}Génial. Nous allons peut-être survicre après tout.
+9)  LEE
+[to himself] {thinkingA}Je pense pas que nous ayons besoin de toutes ces piles.
+10)  KENNY
+{happyA}Ca va aller.  [laughing it off]{happyB}Je suis ... simplement plus aussi jeune que je le pensais.
+11)  KATJAA
+{happyD}Ca va ?
+12)  KENNY
+[grunt of pain]{happyB}Eerrngh...
+13)  LEE
+{normalD}Vous êtes sîr que ça va ?
+14)  LEE
+{normalD}Nous n'avons plus beaucoup de chemin à faire...
+15)  LEE
+{thinkingA}Vous voulez vous reposer une minute ?
+16)  KENNY
+{happyC}Ne me regardez pas comme ça, Lee. Si ça n'allait pas, je vous le dirais.
+17)  KENNY
+[continued] Je ne mets pas ma famille en danger une seconde de plus.
+18)  KENNY
+[I'm positive that I'm okay] {happyB}Affirmatif.
+19)  KENNY
+[a bit breathless from walking injured and hearing that they dont have much farther to go] {happyB}Grâce à Dieu.
+20)  KENNY
+[a bit tired from walking]{happyA}Non, je vais bien.  {happyB}Je veux simplement retourner au motel et me reposer un peu.
+21)  LEE
+D'accord, restez groupé.
+22)  LILLY
+[quietly] On dirait une voiture....
+23)  DUCK
+[quiet, a little scared]Hé papa, c'est quoi ce bruit ?
+24)  LEE
+[calling out]{surpriseA}Hé ho ?
+25)  LEE
+[calling out]{angryC}Sortez ou je tire !
+26)  LEE
+[calling out]{angryA}Ne tirez pas. Nous sommes là pour vous aider.
+27)  LEE
+[calling out]{fearB}il y a quelqu'un ?
+28)  KENNY
+{thinkingA}Ca a l'air bon.  Allons vérifier.
+29)  LEE
+{fearB}Panne sèche.
+30)  LEE
+{normalD}Rien.
+31)  LEE
+{thinkingB}R.A.S.
+32)  LILLY
+Des signes des propriétaires ?
+33)  LEE
+[thinkingB]Ils partient depuis un moment.
+34)  LEE
+{normalD}J'en sais rien.
+35)  LEE
+{normalD}Ils pourraient revenir d'une minute à l'autre.
+36)  LEE
+[reflective on the horror] Merde.
+37)  KENNY
+{sadB}Non, il va bien.  {fearB}enfin je veux dire, quand on voit tout ce sang.
+38)  KATJAA
+[uncertain] {fearA}Vous ne pouvez pas en être sûr, non ?
+39)  CLEMENTINE
+{sadB}Mais si ils reviennent ?
+40)  LEE
+{sadB}Je ne pense pas qu'ils reviendront, ma puce.
+41)  KENNY
+{angryb}Eh bien, je suis pour. Celui qui était au volant de cette voiture ne reviendra pas.
+42)  KENNY
+{angryA}J'en doute.{fearB}  Regardez autour de vous...
+43)  LILLY
+{angryA}Vous ne pouvez pas en être certain.
+131)  LILLY
+{angryA}Vous ne pouvez pas en être certain.
+44)  LILLY
+Nous sommes parti d'endroits bien pire et nous sommes toujours vivant.
+45)  KENNY
+{surprisedA}Nom de... !
+46)  LILLY
+[Bitter, under her breath]{fearA}...Pas nous TOUS.
+47)  BEN
+{fearB}Ecoutez, nous ne savons pas si ces gens sont mort.
+48)  LILLY
+{fearA}Si nous prenons ça, nous ne vaudront pas mieux que les bandits.
+49)  KENNY
+[Kenny gives a frustrated look and attempts to defend himself verbally, but cant get any words out] ...
+50)  CLEMENTINE
+{fearA}Lee, Je ne veux pas devenir un bandit. {sadB}C'est pas a nous.
+51)  KENNY
+[Bitter, under his breath] Nous savons que vous allez faire tout ce qu'il faut pour survivre, non ?
+52)  KENNY
+{angryC}Hé, on a pas de temps pour ces conneries.  Bien ou pas, il nous FAUT ces vivres.  {disgustA}Alors bougez de là et ouvrez le coffre, Lee.
+53)  LILLY
+[Accusatory]{angryB}Qui a dit qu'il fallait faire comme vous vouliez ?
+54)  LEE
+[Accusatory]Vous dites autre chose ?
+55)  KENNY
+Bougez de là et ouvrez le coffre.
+56)  KATJAA
+{fearA}Je suis désolé, mon coeur, mais il n'est plus question de bien ou de mal. C'est une question de survie.
+57)  KENNY
+[stern] {angryB}Ce n'est pas votre décision, Lee.  {angryC}Maintenant revenez et ouvrez le coffre.
+58)  KATJAA
+{sadB}Lee, écoutez...  {angryA}Je sais que c'est mal des les prendre, {fearA}mais... nos enfants...
+59)  KATJAA
+{fearA}S'il vous plaît...
+60)  LEE
+[Calling back]{happyA}Duck, tu pourrais emporter ce truc ?
+61)  DUCK
+D'accord.
+62)  LEE
+{happyB}J'ai une caisse de vivres ici...
+63)  BEN
+{happyB}Je la prends.
+64)  LEE
+{normalB}Du matériels...
+65)  KATJAA
+{happyA}Je les prends.
+66)  LEE
+{happyA}Il y en a encore ici.
+67)  LEE
+{happyB}Ce sweatshirt semble être à ta taille. {happyC}Tu devrais le prendre, il pourrait faire froid.
+68)  CLEMENTINE
+{fearA}... C'est pas a moi.
+69)  LEE
+[firm; stressing "now"]{happyA}Maintenant si.
+70)  CLEMENTINE
+[reluctantly] {sadB}...Bien.
+71)  LEE
+{normalD}Eh bien, disons que tu l'emprunte.  {happyB}Tu pourras le redonner si jamais ils reviennent. D'accord ?
+72)  LEE
+{normalD}Nous ne sommes pas comme ces bandits, ma puce.  {thinkingA}Nous ne blessons personnes pour avoir tout ça. Tu comprends ?
+73)  CLEMENTINE
+[reluctantly]{sadA}... Je crois.
+74)  LEE
+[rembering the camcorder he has] Hmm...
+75)  LEE
+[to himself] {thinkingB}Je me demande bien ce qu'il y a dedans ?
+76)  LEE
+{normalD}C'est fermé.
+77)  KENNY
+{angryB}Sans blague, j'ai déjà essayé. {disgustA}Mais je vous ai entendu prendre les clés.
+78)  LEE
+{normalA}Que des piles. {normalC} Un tas de différente piles.
+79)  CLEMENTINE
+{thinkingA}Qu'est-ce qu'il y a dedans ?
+80)  CLEMENTINE
+{thinkingA}Je peux en avoir ?
+81)  LEE
+{happyB}Oui. bien sûr.
+82)  CLEMENTINE
+Maintenant je vais pouvoir reparler à mes parents ! Ils vont être trop heureux !
+83)  LEE
+[alt - in case we need to remind players] But ma puce, il est cassé...
+84)  CLEMENTINE
+[alt - in case we need to remind players] [sad] Je sais mais... [I can still pretend to talk to my parents]
+85)  DOUG
+Hé, Lee, je suis vraiment désolé que nous ayons laissé le motel sans surveillance.  Vous étiez parti depuis si longtemps...
+86)  CARLEY
+{fearA}Hé Lee, je sais que c'était irresponsable de ma part de laisser la motel sans surveillance, {fearB}mais Ben a commencé à flipper quand il ne vous a pas vu revenir.
+87)  LEE
+{normalB}Vous en faites pas.
+94)  LEE
+{normalB}Vous en faites pas.
+88)  LEE
+{happyB}Je suis content que vous vous soyez pointé quand vous l'avez fait.
+95)  LEE
+{happyB}Je suis content que vous vous soyez pointé quand vous l'avez fait.
+89)  LEE
+{sadA}Vous auriez surement dû y rester.
+97)  LEE
+{sadA}Vous auriez surement dû y rester.
+90)  DOUG
+{normalC}Si ça peut vous remonter le moral, il n'y a pas eu un seul signe de bandits de toute la nuit.
+91)  DOUG
+{happyA}Eh bien, nous devons rester solidaire.
+92)  LEE
+{sadB}Espérons que l'endroit n'a pas été envahie en votre absence.
+96)  LEE
+{sadB}Espérons que l'endroit n'a pas été envahie en votre absence.
+93)  DOUG
+[responding to Lee's silence]...{sadA}en tout cas.{happyC} Je suis content que vous alliez bien.
+98)  CARLEY
+{happyD}Vous savez, le gamin me rappelle un peu de Doug, d'une certaine manière...
+99)  CARLEY
+[sad] {sadB}Ce n'était pas assez tôt pour Mark et Larry.
+100)  CARLEY
+[responding to Lee's silence]{sadB}... en tout cas, {fearA}Je suis désolé à propos de Mark et Larry...
+101)  KENNY
+{happyB}Hé, Je voulais vous remercier personnellement pour ce que vous avez fait.
+102)  BEN
+[pickup1][quiet/scared - hearing the sould of a slight continuous beeping not far in the distance...]Oh, bon Dieu... pas encore des inconnus.
+103)  KATJAA
+[pickup1][conversational - at the abandonded car]Des signes des propriétaires ?
+104)  LEE
+[pickup1][casual, tired after the diary, Kenny assures Lee he's ok]D'accord.
+105)  CLEMENTINE
+[pickup1] [after watching Lee kill 2 people but try to save Larry, she's not sure what to think when Lee says to stay close]je vais parler avec Lilly, si ça va.
+106)  CLEMENTINE
+[pickup1][after watching Lee kill 2 bad guys, she's not sure what to think when Lee asks if she's okay][soft/sad]...Ouais, je crois.
+107)  LEE
+[pickup1][confused as to why Clem isn't taking his hand] Ca va, Clém ?
+108)  LILLY
+[pickup 1][Cold but still shell shocked, Keeping Clem near her instead of Lee]Elle va bien. [then hushed to Clem] Reste avec moi, ma chérie.
+109)  CLEMENTINE
+[pickup1][quiet, unsure what to think] D'accord.
+110)  CLEMENTINE
+[pickup1][happily taking Lee's hand] Bien. Il n'y a plus de mauvaise personnes, hein ?
+111)  LEE
+[pickup1][assuring Clem there are no bad people around]Plus maintenant.
+112)  KENNY
+[pickup1][quietly - hearing the sould of a slight continuous beeping not far in the distance...]On dirait une voiture...
+113)  LILLY
+[anguished] Médicament ? vous aviez des médocs ?! ENFOIRÉ !
+114)  LEE
+Je...
+115)  KENNY
+Ne me regardez pas comme ca, Lee.
+116)  LEE
+[pickup3][tired][Lee turns to Clem as the walk down the empty road]{thinkingA}Allez Clémentine, ne t'éloigne pas.
+117)  LEE
+[pickup1][apologetic.  Follows"You should have had my back."]Je sais.
+118)  KENNY
+[picjup1][follows {thinkingA}"Don't look at me like that, Lee." - 310423729] Vous devriez avoir mon sac..
+119)  KENNY
+[pickup1][shaking his head, not quite accepting Lee's apology] Gardez le.
+120)  
+Clés
+121)  
+Tableau de Bord
+122)  
+Boîte à Gants
+123)  
+Sweatshirt
+124)  
+Hayon
+125)  
+Ouvrir
+126)  
+Déverrouiller
+127)  LEE
+[pickup1][clearing the boxes out of the back of the car]Je le prendrai en dernier.
+128)  
+Examiner
+129)  
+Utiliser
+130)  
+Piles
+132)  BEN
+[pickup1][agreeing that the car owners might be back any minute]Ouais, peut-être ils sont juste parti chercher de l'aide. Les lumières sont allumées, ça doit pas faire être si vieux...
+135)  BEN
+[pickup1][agreeing that the car owners might be back any minute]Ouais, peut-être ils sont juste parti chercher de l'aide. Les lumières sont allumées, ça doit pas faire être si vieux...
+133)  KENNY
+[pickup1][sure that the car owners are not coming back]ils reviennent pas.
+134)  LILLY
+[pickup1][arguing about the owners of the car, but still a bit lethargic]Vous n'en savez rien. Les lumières sont toujours allumées, celui qui possède cette voiture ne doit pas être très loin.
+136)  DOUG
+[pickup2] Hé Lee, Je suis désolé d'avoir laissé le motel sans surveillance.
+137)  LEE
+[pickup2] Vous êtes sérieux ?  Je suis content que vous soyez venu quand vous l'avez fait.
+138)  DOUG
+[pickup2] ils ont vraiment dépecé des gens ?  Pour manger ?
+139)  
+Ouais. Et Clémentine... en a grignoté.
+140)  
+Ouais. ils l'ont fait.
+141)  
+On aurait dû savoir que quelque chose se tramait.
+142)  
+Ouais. Et Clémentine en a presque mangé.
+143)  LEE
+[pickup2] Ouais. Et Clémentine... en a grignoté. C'est ma faute, J'ai paniqué et j'ai pas pu l'arrêter.
+144)  DOUG
+[pickup2] Oh bon Dieu. Elle le sait ?
+145)  LEE
+[pickup2] Elle est pas idiote, Doug.
+146)  DOUG
+[pickup2] [exhale] Woof.
+147)  LEE
+[pickup2] Je l'ai arrêté. Je ne peux pas la laisser seule, Carley. C'est un putain de monde, aujourd'hui. Toute cette merde indicible qui se cache à chaque détour.
+148)  DOUG
+[pickup2] Mais ?
+149)  LEE
+[pickup2] Ouais, et Clémentine en a presque mangé.
+150)  DOUG
+[pickup] Merde... c'est hallucinant. Clémentine, elle en sait rien, hein ? Elle n'a pas vu... ou...
+151)  LEE
+[pickup2][cold, short] Oui. ils l'ont fait.
+152)  DOUG
+[pickup2] Comment pouvions-nous prévoir ou imaginer quelque chose d'aussi dingue qu'une famille de cannibale ?
+153)  LEE
+[pickup2] on aurait dû savoir que quelque chose se tramait.
+154)  LEE
+[pickup2] Je sais pas. J'en sais vraiment rien.
+155)  DOUG
+[pickup2] Bon... j'espère que Clémentine et Duck ne s'en sont pas rendu compte... ou vu quoique ce soit...
+156)  CARLEY
+[pickup2] Hé Lee, Je dirais bien que je suis désolé d'avoir laisser le motel sans surveillance, mais vous savez.
+157)  LEE
+[pickup2] Je suis content que vous soyez venu quand vous l'avez fait.
+158)  CARLEY
+[pickup2] Ils tuaient vraiment des gens ? ...pour manger ?
+159)  CARLEY
+[pickup2] Oh mon Dieu, elle le sait ?
+160)  LEE
+[pickup2] Elle est pas idiote, Carley.
+163)  LEE
+[pickup2] Elle est pas idiote, Carley.
+161)  CARLEY
+[pickup2][exhale] Woof.
+162)  CARLEY
+[pickup2]Mais ?
+164)  CARLEY
+[pickup2]C'est un truc de malade. Bon Dieu. c'est juste, ugh. Clémentine... elle le sait, hein ?
+165)  CARLEY
+[pickup2] Comment bordel on aurait pu prévoir CA ? Voyons, Lee.
+166)  CARLEY
+[pickup2] Bon, j'espère pour Clém and Duck qu'ils n'ont rien vu--ou...Bon sang, ils n'étaient pas exposés à...[trails off]
+167)  KENNY
+[pickup2][in pain] Chérie, avance et donne-nous une seconde...
+168)  KENNY
+[pickup2] {angryA}Il va y avoir des conséquences.
+169)  LEE
+[pickup2] {sadA}Pour avoir tué le père de Lilly ? {thinkingA}Ouais, j'imagine.
+170)  LEE
+[pickup2][stern, NOt letting Kenny off the hook.] {angryA}Vous voulez dire pour le meurtre de Larry ?
+171)  KENNY
+[pickup2] [in some pain, sincere, wondering about the future fallout out of a decision] {thinkingA}Qu'est-ce que vous en pensez ?
+172)  
+Je suis avec vous.
+173)  
+On a sacrément merdé.
+174)  
+Ca va aller.
+175)  KENNY
+[pickup2] {sadB}merde, j'espère bien.
+176)  LEE
+[pickup2] {normalD}Lilly est une femme intelligente. Elle comprendra. Tout ira bien.
+177)  LEE
+[pickup2] {thinkingA}Je suis avec vous, Kenny. Nous avons fait ce qu'il fallait.
+178)  KENNY
+[pickup2] [in an intimate conversation] {happyB}Vous avez foutrement raison.
+179)  LEE
+[pickup2] {thinkingB}C'est suffisant ?
+180)  KENNY
+[pickup2] {sadA}Vous pouvez pas dire ça. Nous autres sommes tous vivants, non ?
+181)  LEE
+[pickup2] {sadB}On a sacrément merdé. Merdé pour de bon.
+182)  KENNY
+[pickup2] {normalC}Je pense que nous avons fait ce qu'il fallait. {thinkingA}Et nous continuerons de le faire aussi longtemps qu'il le faudra.
+183)  KENNY
+[pickup2] {angryC}Allez-vous faire foutre. Vous êtes en vie grâce à moi. {angryA}Pourquoi m'avoir tourné le dos ?
+184)  
+Vous avez détruit le groupe.
+185)  
+Vous n'êtes pas un heros.
+186)  
+Vous avez assassiné Larry.
+187)  KENNY
+[pickup2] {angryA}J'ai fait ce que personne d'autre voulait faire.
+188)  LEE
+[pickup2] {disgustedB}Vous avez détruit ce groupe, Kenny. On ne peut pas revenir en arrière.
+189)  LEE
+[pickup2] {sadA}Tout sera différent à partir de maintenant.
+190)  LEE
+[pickup2] {normalD}Kenny, vous n'êtes pas un sale type. {sadA}Mais merde... Qu'est-ce que nous allons faire maintenant ?
+191)  LEE
+[pickup2] {sadA}Vous n'êtes pas un héro. {angryA}Vous avez détruit DEUX vies dans cette chambre froide.
+192)  KENNY
+[pickup2] {disgustA}Eh bien, peut-être que nous devrions rester à l'écart des autres pendant un petit moment.
+193)  LEE
+[pickup2] {sadA}Je pouvais pas le faire, Ken.
+194)  KENNY
+[pickup2] {angryA}Je m'en fou. Vous avez fait ce que vous deviez, {disgustA}Je continuerai à faire ce qui doit être fait.
+195)  KENNY
+[pickup2] {sadA}Alors très bien. {disgustA}Bien. J'ai sauvé Duck à la ferme et pas Shawn. Maitenant je tue quelqu'un avant qu'il ne puisse mettre en danger votre fille, et {fearA}je suis plus monstrueux.
+196)  LEE
+[pickup2] [to clementine] {normalD}Une journée affreuse, hein.
+197)  CLEMENTINE
+[pickup2] {sadB}Ouais. Ca va mieux maintenant.
+198)  CLEMENTINE
+[pickup2][scared, also do a flat, cold one]{sadB}Oui.
+199)  CLEMENTINE
+[pickup2] Ces affaires ne sont a nous.
+200)  LILLY
+[pickup2] [cold] Si ils reviennent, nous serons juste des monstres venuent des bois ruinant leurs vies.
+201)  KENNY
+[pickup2] {normalC}Voyons, il va certainement faire froid.
+202)  LEE
+[pickup2] {normalC}Ca va aller. Merci.
+203)  KATJAA
+[pickup2][calling out] {normalC}Lee, il y a un sweetshirt là-bas, il irait certainement à Clémentine.
+204)  DOUG
+[pickup2] ...Vous avez pu sauver quelque chose de potable de la laiterie ?
+205)  DOUG
+[pickup2] C'est un caméscope banal. Une camelote de Save-Lots. Laissez-moi voir si je peux le faire fonctionner.
+206)  CARLEY
+[pickup2] {happyB}Hé, Lee.  Il y a des piles dans le sac.  Je pensais qu'elles pourraient servir pour le caméscope.
+207)  JOLENE
+[pickup2][crazy, screaming into a self-shot camcorder] JAKE, BART, LINDA et TOUS LES PUTAINS DE PSYCHOS DU SAVE-LOTS ! ILS NOUS APPELLENT BANDITS ! MAIS C'EST VOUS LES PUTAINS DE MONSTRES VIOLEURS--
+208)  JOLENE
+[pickup2][quietly narrating a video from the bushes. like discovery channel. but by a crazy person] 'garde là. Jake, tu le sais pas encore... parce que tu es trop distrait par cette stupide ferme.
+209)  JOLENE
+[pickup2][quietly narrating a video from the bushes. like discovery channel. but by a crazy person] Oh ma chérie, mon bébé. Regarde toi. Regarde. Toi. Oh, tu as besoin d'une maman, mon coeur. On laissera pas ces bandits te prendre, on va... Non.
+210)  JOLENE
+[pickup2][speaking directly into a camcorder][lucid]Les débiles de St. John. Ils ne savent pas ce que tu as fait. Ils ne savent pas ce que tu as fait a mon bébé. Ils pensent que vous, [big sarcastic] "les bandits" et moi, ne faisons qu'un. Mais non.
+211)  JOLENE
+[pickup2][talking into a camcorer, losing her shit] RESTEZ LOIN D'ELLE !!!
+212)  JOLENE
+[pickup2][speaking directly into a camcorder][stops being lucid]Je suis PAS FOLLE. VOUS M'AVEZ RENDUE COMME CA--
+213)  JOLENE
+[pickup2][narrating again, quietly, sweetly. fucking creepy] Aussi longtemps qui ne feront attention qu'à cette laiterie et à sa nourriture, tu es en sécurité... et je ferais attention à toi...
+214)  JOLENE
+[pickup2][mumbles] Prends quelque chose à manger.
+215)  JOLENE
+[pickup2][mumbles]Mon petit coeur me manque.
+216)  JOLENE
+[pickup2][mumbles]Ma maison me manque.
+217)  JOLENE
+[pickup2][mumbles] Elle rentre de l'école et a besoin d'un quatre heure.
+218)  JOLENE
+[pickup2][mumbles]Faut garder ma maison propre pour mon bébé...
+219)  LEE
+[pickup2] Pas vraiment. St. John a pris tout ce que j'avais avant que l'endroit ne soit envahie par les marcheurs.
+220)  LEE
+[pickup2] Il fonctionne pas.  Vous en avez l'utilité, Doug ?
+221)  
+Nous ne sommes pas comme les bandits.
+222)  
+Garde-le par prudence.
+223)  
+C'est a toi maintenant.
+224)  KENNY
+[pickup2][in awe] Bordel...
+225)  LILLY
+[pickup2] [relieved, so tired] Oh, Dieu soit loué.
+226)  KENNY
+[pickup2] Il y a assez de vivres ici pour nous en acheter un mois, peut-être deux si nous suivons le plan de Lilly.
+227)  DUCK
+[pickup2] {fearA}Papa, à qui est la voiture ?
+228)  KENNY
+[pickup2] {angryA}T'inquiète pas Duck, elle est à nous maintenant.
+229)  KATJAA
+[pickup2] {happyA}Ne t'inquiète pas, elle est abandonnée, Ducky.
+230)  CLEMENTINE
+[pickup2] {fearA}Et si elle l'était pas ?
+231)  CLEMENTINE
+[pickup2] Elle si elle n'est pas abandonné ? Et si elle EST à quelqu'un ?
+232)  
+On la prends.
+233)  
+No. On peut pas voler les gens.
+234)  LEE
+[pickup2] On la prends.
+235)  CLEMENTINE
+[pickup2][disbelief] Quoi ? Lee ? C'est du vole.
+236)  
+C'est de la survie.
+237)  
+Je sais mais nous devons le faire.
+238)  
+Tu es trop jeune pour comprendre.
+239)  
+silence
+240)  LEE
+[pickup2][stern] C'est de la survie, Clémentine. On a pas le choix.
+241)  CLEMENTINE
+[pickup2] [a little hurt and a little angry]Je crois pas.
+246)  CLEMENTINE
+[pickup2] [a little hurt and a little angry]Je crois pas.
+242)  LEE
+[pickup2][understanding] Je sais.
+243)  CLEMENTINE
+[pickup2] Je veux pas.
+244)  LEE
+[pickup2][explaining] Je sais mais nous devons le faire.
+245)  LEE
+[pickup2] Tu es trop jeune pour comprendre.
+247)  CLEMENTINE
+[pickup2] C'est pas bien.
+248)  KENNY
+[pickup2] Alors très bien. Lee, aidez-nous a charger tout ça !
+249)  LEE
+[pickup2] {angryA}Non, Clémentine a raison. Nous pouvons pas voler d'autres survivants, même si nous ne savons pas où et qui ils sont.
+250)  KENNY
+[pickup2] {angryB}Quoi ?! Vous avez pu avoir à manger là-bas pendant que nous autres nous serrions la ceinture ?! Nous DEVONS prendre toutes ces choses.
+251)  
+Je veux pas prendre part à ça.
+252)  
+Nous survivrons sans.
+253)  KENNY
+[pickup2] {angryC}Comme vous voudrez.
+254)  KENNY
+[pickup2][pissed] {thinkingA}Très bien. Comme vous voudrez.
+255)  LEE
+[pickup2][sarcastic, mean] {angryA}Vous êtes à fleur de peau, hein.
+256)  KENNY
+[pickup2] {angryA}Qu'est-ce que vous voulez dire ?
+257)  LEE
+[pickup2] {angryC}Voyons, Kenny. Entre ça et la chambre froide vous voyez bien ce que je veux dire.
+258)  LEE
+[pickup2] {normalC}Nous trouverons un moyen.
+259)  LEE
+[pickup2] {normalC}Nous trouverons un moyen.
+260)  KENNY
+[pickup2] {angryC}Des foutaises oui !
+261)  LEE
+[pickup2] {angryA}Clémentine et moi ne prendrons pas part à ça.
+262)  KENNY
+[pickup2] {angryB}Nous sommes affamés !
+263)  KENNY
+[pickup2]{angryB}Nous autres avons besoin de ces vivres.
+264)  KENNY
+[pickup2][Kenny is still sore that Lee didnt have is back in the meatlocker, but Lee DID save Katjaa from Brenda]{angryA}Je tiens à vous remercier pour avoir fait sortir Katjaa de cette maison, {disgustA}mais cela ne change rien à ce qui s'est passé dans la chambre froide.
+265)  KENNY
+[pickup2]Personne ne revient.
+266)  LEE
+[pickup2]Ils pourraient être morts.
+267)  
+Vous êtes a fleur de peau, hein.
+268)  
+Nous avons déjà fait assez de dégats.
+269)  LEE
+[pickup2]{angryB}Nous avond déjà fait assez de dégâts.
+270)  KATJAA
+[pickup2][taking a box from Kenny]{normalB}Oui.  Je l'ai.
+271)  BEN
+[pickup2][taking a box from Kenny]{normalB}Enh..
+272)  KENNY
+[pickup2][in the background, Kenny gves out Boxes of stuff]{normalC}Tu la prends ?
+273)  KENNY
+[pickup2][in the background, Kenny gives out Boxes of stuff]{normalC}Tiens...
+274)  DOUG
+[pickup2][spooked by what he saw on the camcorder he just fixed] {normalC}Hé... Lee ?  {happyB}Vous savez le caméscope ?  Je l'ai réparé.... vous devriez voir ça.
+289)  DOUG
+[pickup2][spooked by what he saw on the camcorder he just fixed] {normalC}Hé... Lee ?  {happyB}Vous savez le caméscope ?  Je l'ai réparé.... vous devriez voir ça.
+275)  LEE
+[pickup2]{happyA}Merci.
+276)  LEE
+[pickup2][Spooked by what he sees on the camcorder][under his breath]...Oh, merde.
+290)  LEE
+[pickup2][Spooked by what he sees on the camcorder][under his breath]...Oh, merde.
+277)  CARLEY
+[pickup2][sweetly, giving batteries to Clem]Tiens, tu peux en avoir plein... pour ton talkie-walkie.
+278)  DOUG
+[pickup2][awarkly hand Clem something to play with] {happyC}Tiens, Clém.  Tu veux plus... euhh.. de piles ?
+279)  LEE
+[pickup2]Excellent timing, Doug.
+280)  DOUG
+[pickup2]Hé, Lee.  Je crois que j'ai réparé ce machin.  Fallait juste remettre en place quelques cavaliers.  Avec des piles, ça devrait fonctionner.
+281)  CARLEY
+[pickup2] {happyA}Pourquoi vous le garder pas. Ca peut être utile parfois d'avoir quelque chose pour enregistrer ses pensées.
+282)  LEE
+[pickup2] {normalA}Vous le voulez ?
+283)  CARLEY
+[pickup2] {sadA}Katjaa a réussi à attraper ce truc pendant qu'elle était dans la maison. Elle a dit que c'était à vous.
+284)  LEE
+[pickup2] {sadA}Ouais.  Je l'ai trouvé pendant que je cherchais les personnes qui ont tiré sur Mark.
+285)  KATJAA
+[pickup2][remembering]Oh !  J'ai pu prendre un ou deux trucs pendant que Brenda ne regardait pas...
+286)  
+Hé ho ?
+287)  
+Sortez ou je tire !
+288)  
+Tirez pas. Nous sommes là pour vous aider.
+291)  DOUG
+Laissez moi regarder, si je peux le faire fonctionner.
+292)  DOUG
+[pickup2] C'est un caméscope tout bête. Une camelote de Save-Lots.
+293)  LEE
+Je crois qu'il est cassé, mais Danny avait l'air plutôt l'air de s'y intéressé jusqu'à ce qu'il trouve ça.
+294)  LEE
+Vous en avez besoin, Doug ?
+295)  CARLEY
+[pickup3][Lee teasing her about her lack of bettry skills]Vous n'allez pas m'en faire toute une histoire, n'est-ce pas ?
+296)  LEE
+[pickup3][sarcastic, but still tired from the LONG day] Pour des piles ? Je pense pouvoir me contrôler ?
+297)  CARLEY
+[pickup3][horrified by what she sees on the video tape]  Oh, bon sang.  Lee.  Vous devriez voir ça...
+298)  CARLEY
+[pickup3][handing Lee some batteries]Hé. Il y a plein de piles dans l'une de ces boites. J'ai pensé qu'elles pourraient aller dans le caméscope.
+299)  KENNY
+[pickup3][pissed, but keeping it between Lee & Kenny]Ecoutez, je ne sais pas où vous croyez que nous sommes en ce moment, alors laissez-moi être parfaitement clair.
+300)  KENNY
+[pickup3][laying it down for Lee]Lorsque que nous retournerons au motel, je prendrai le camping-car avec ma famille et on foutra le camp... sans vous et cette gamine, pigé ?
+301)  LEE
+[pickup3][Stern & defensive]Vous avez ASSASSINE Larry.
+302)  LEE
+[pickup3]Oui, je sais.  j'étais avec vous, nous avons fait le bon choix, mais maintenant, il se passe quoi ?
+303)  LEE
+[pickup3][having kenny's back]Ca ira bien.  Lilly s'en remettra.  Il le faut. Cependant vous êtes un meilleur leader pour nous.
+304)  KENNY
+[pickup3][confiding in Lee about the RV]Écoutez, ce camping-gar au motel est prêt à prendre la route.  Je veux que vous veniez avec nous.  Vraiment.
+305)  KENNY
+[pickup3][changing his mind about not bringing Lee in the RV] Écoutez, ce camping-car au motel est presque prêt à prendre la route.  J'ai changé d'avis. Je veux que vous veniez avec nous quand nous partirons.
+306)  LEE
+[pickup3][accepting the ride invitation] Ouais d'accord.
+307)  LEE
+[pickup3]Ouais ?
+308)  KENNY
+[pickup3][explaining why he changed his mind about Lee] Ouais, bon sang.  On est une équipe.  Vous et moi !  En éliminant Larry avant qu'il se transforme, vous nous avez tous sauvé dans cette chambre froide !  Vous avez aussi sauvé ma famille.  Ouais, je dirais que vous l'avez bien mérité !
+309)  KENNY
+[pickup3]Je me fous que ce que j'ai pu vous dire avant...
+310)  LEE
+[pickup3]J'ai sauvé votre femme et votre gamin !
+311)  KENNY
+[pickup3]C'est une bien mauvaise excuse.  Vous avez constamment fait passer ma famille et moi en dernier.
+312)  KENNY
+[pickup3]Non, Je les ai sauvés !  En m'assurant que Larry ne nous tue pas TOUS !
+313)  KENNY
+Cherie, tu dois voir ça !
+314)  KENNY
+{happyC}Il y a un tas de vivres et de matériels !
+315)  KENNY
+[pickup3][looting the car]{happyC}D'accord, qu'est-ce que nous avons là ?
+316)  BEN
+[pickup3][looting the car]{happyC}Regardez, il y a plein de nourriture dans cette boite !
+317)  KATJAA
+[pickup3][looting the car]{happyC}Ils ont des antibiotiques !  Il y a d'autres choses ?
+318)  DOUG
+[pickup3][looting the car]De l'électronique?  Des radios ? Des piles ?
+319)  CARLEY
+[pickup3][looting the car]{thinkingA}Voyons si il y a de l'eau...
+320)  LEE
+[pickup3][follows 310423699]Je n'aurai jamais pensé qu'un pointeur laser serait une chose qui sauverait nos vies.
+321)  
+Je suis content que vous soyez venu.
+322)  
+Ne vous en faites pas.
+323)  
+Vous auriez du rester.
+324)  LEE
+[pickup3][follows 310423800]Si vous n'aviez pas tirer ce coup sur Andy, nous ne serions pas sorti de là.
+325)  CLEMENTINE
+[pickup3] Lee... tu as dû tuer ces gens ?
+326)  
+Oui.  Ils étaient méchants.
+327)  
+Je suis desolé que tu aies vu ça.
+328)  
+Je n'aurais pas dû le faire
+329)  CLEMENTINE
+[pickup3]... Oui.  Je pense aussi.
+330)  LEE
+[pickup3]Oui.  Ils étaient méchants, Clémentine.  Ils ont tué Mark et ils allaient nous tuer.  Fallait les arrêter. Tu comprends ?
+331)  LEE
+[pickup3][feeing a bit guilty]Je... Je suis désolé que tu aies vu ça.   Mais je l'ai fait pour nous protéger.
+332)  CLEMENTINE
+[pickup3]Parce qu'ils ont essayé de nous faire du mal ?
+333)  LEE
+[pickup3]Oui.
+334)  LEE
+[pickup3]J'ai.. J'ai pas réfléchi.  J'étais en colère et j'avais peur. Mais j'ai fait le mauvais choix.  Tu ne devras jamais tuer quelqu'un, sauf si c'est absolument nécessaire, compris ?
+335)  CLEMENTINE
+[pickup3]Pourquoi l'avoir fait ?
+336)  LEE
+[pickup3][feeling guilty]Je... Je n'aurais pas dû le faire.  Ils étaient vraiment méchant, Clémentine, mais ce n'était pas une raison pour les tuer.
+337)  CLEMENTINE
+[pickup3] ...d'accord.
+338)  CLEMENTINE
+[pickup3][sad that people are dead, but]...je suis contente que NOUS soyons encore vivant.
+339)  CLEMENTINE
+[pickup3]Lee... les méchants sont mort ?
+340)  
+Oui.  Les marcheurs les ont certainement eus.
+341)  
+Nous les avons pas tues, alors je sais pas.
+342)  
+Non, ils souffrent mais sont vivants 
+343)  LEE
+[pickup3]Oui.  Les marcheurs les ont certainement eus.  Ils étaient très méchant et ont été punis pour ça.
+344)  LEE
+[pickup3]Nous les avons pas tués, alors je sais pas.  Ils devraient être en mesure de se tenir à l'écart des marcheurs, mais je sais pas si ils ne vont pas essayer de nous retrouver.
+345)  CLEMENTINE
+[pickup3]Bonne nouvelle.
+346)  LEE
+[pickup3]Non, ils souffrent mais sont vivants.  C'étaient des personnes très méchantes, mais si elles meurent, ce sera pas à cause de nous.
+347)  CLEMENTINE
+[pickup3][sad]C'est bon alors, plus besoin d'en parler.
+348)  LILLY
+[pickup3][still fairly emotionless] Vous savez, papa m'a parlé de vous... ce que vous avez fait au sénateur... Je pensais pas que vous aviez ça en vous, mais après ce soir...
+349)  LILLY
+[pickup3]...J'espère que vous l'avez fait pour les bonnes raisons. 
+350)  LILLY
+[pickup3]Vous avez, papa m'a parlé de vous... ce que vous avez fait au sénateur...
+351)  LEE
+[pickup3] Lilly je-
+352)  LILLY
+[pickup3]Écoutez, je me fous de ce qui a pu se passer avant.  Ce soir, j'ai vu quel genre d'homme vous êtes.  Vous auriez pu tous les tués, mais vous l'avez pas fait. Je pense que ça en dit beaucoup.
+353)  LEE
+[pickup2] Je l'ai arrêté. C'est un putain de monde, aujourd'hui. Toute cette merde indicible qui se cache à chaque détour.
+354)  
+Matériels
+355)  
+Vivres

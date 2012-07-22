@@ -1,0 +1,82 @@
+1)  LARRY
+[pickup 2] Aller pisser un mât, Lee.
+2)  LEE
+[pickup 2] [rubbing it in a little that you didn't give him food] Je suis désolé Larry. Il ne reste rien.
+3)  LEE
+[pickup2]Vous avez pu parler à Lilly à propos de Kenny.
+4)  LARRY
+[pickup2]Lilly peut se faire ses propres amis.
+5)  LEE
+[pickup2]Il ne s'agit pas de se faire des amis. Nous sommes tous dans le même bateau, on ne vas pas commencer à agir comme ça.
+6)  LARRY
+[pickup2]Eh, fourrez-vous tout ça ou je pense. Nous serions bien mieux sans vous.
+7)  LARRY
+[pickup 2]Vous avez raison. Il y a trop de gens qui traînent ici comme ça.
+8)  LEE
+[pickup 2] Lilly pense que nous devrions balancer les nouveaux dehors.
+9)  LEE
+[pickup 2] Gardez un oeil sur cette barrière.
+10)  LARRY
+[pickup 2] Ne me dites pas quoi faire, Lee.
+11)  
+[Donner Moitié de Pomme]
+12)  LARRY
+[pickup 2] [sarcastically] J'espère que vous ne pensez pas que cela fera de nous des amis.
+13)  LEE
+[pickup 2] J'aurais pu ne rien vous donner.
+14)  LEE
+[pickup 2] [a little begrudging at giving Larry food] Tenez, Larry.
+40)  LEE
+[pickup 2] [a little begrudging at giving Larry food] Tenez, Larry.
+15)  
+[Donner Viande Séchée]
+16)  
+[Donner Crackers et Fromage]
+17)  
+[Donner Crackers et Fromage]
+18)  LEE
+[pickup 2]  Lilly veux que vous gardiez vos forces.
+19)  LARRY
+[pickup 2] Cette fille a devrait arrêter de se soucier autant de moi.
+20)  LARRY
+[pickup 2] Je devrais vous la foutre dans le cul, mais j'ai trop faim.
+21)  
+Lilly et Kenny ont besoin de s'entendre.
+22)  
+Lilly veut abandonner les nouveaux.
+23)  
+Parler a
+24)  
+Donner Nourriture a
+25)  
+Désolé, il ne reste pas de nourriture.
+26)  
+Un peu de nourriture ? [Donner]
+27)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Eh bien, ça en fait un de moins. Reste neuf personnes affamés et que deux morceaux de nourriture.
+28)  LEE
+[pickup3][knowing there is only one more piece of food left]Hmm.  Je devrais peut-être le garder pour moi ?
+29)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]Plus qu'un morceau de nourriture à donner, alors c'est fini pour aujourd'hui.
+30)  
+[Garder la dernière ration pour vous]
+31)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]J'ai besoin de garder des forces, aussi.
+32)  
+[Donner la dernière ration pour vous]
+33)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nan.  Certaines de ces personnes sont restés plus longtemps que moi sans la nourriture. Ce sont eux qui en ont le plus besoin.
+34)  MARK
+[pickup3]Oh.  La seule vue de la nourriture me rend fou.
+35)  LARRY
+[pickup3]Oh, I am !
+36)  DOUG
+[pickup3]Oh woah.  Je peux la sentir d'ici !  J'espère que vous l'appréciez Larry.
+37)  
+[Exit]
+38)  LARRY
+[grunts]
+41)  LARRY
+[grunts]
+39)  LEE
+Revenir un peu plus tard.

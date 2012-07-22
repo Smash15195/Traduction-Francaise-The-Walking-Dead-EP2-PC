@@ -1,0 +1,98 @@
+1)  
+[Donner Moitié de Pomme]
+2)  
+[Donner Viande Séchée]
+3)  
+[Donner Crackers et Fromage]
+4)  
+[Donner Crackers et Fromage]
+5)  LEE
+[pickup 2]  Tenez, manger quelque chose.
+49)  LEE
+[pickup 2]  Tenez, manger quelque chose.
+6)  MARK
+[pickup 2]  Merci, Lee.
+7)  MARK
+[pickup 2] [a little surprised at Lee's generosity] Ouah. Merci beaucoup, c'est formidable.
+8)  LEE
+[pickup 2]  Je vous apporte une pomme.
+9)  LEE
+[pickup 2] Désolé, il n'y avait pas assez de nourriture pour tout le monde.
+10)  MARK
+[pickup 2]  	Je comprends. Ca doit être difficile de prendre ce genre de décisions. Essayez de m'en donner la prochaine fois.
+11)  LEE
+[pickup 2]Lilly a l'air plutôt énervée.
+12)  MARK
+[pickup 2] Eh bien... qu'est-ce qu'elle veut que nous fassions ? Livrer deux adolescents aux marcheurs ?
+13)  MARK
+[pickup 2] Nous le ferons.
+14)  LEE
+[pickup 2]Eh bien, bonne chance avec ce mur.
+15)  MARK
+[pickup 2] Écoutez, je sais que ses intentions sont bonnes, mais-
+16)  LARRY
+[pickup2][defending his daughter] [Leaving those teeneages to the walker is-]C'est exactement ce que vous auriez dû faire.
+17)  LEE
+[pickup2]Besoin d'aide pour le mur ?
+18)  MARK
+[pickup2]En fait... Nous avons besoin de vrais outils pour réparer le mur. Larry vous pourriez nous prêter la hache ?
+19)  LARRY
+[pickup2][flat] Nan.
+20)  LEE
+[pickup2][casual. Talking to Mark at Motel]La base aérienne ne vous manque pas ? Je veux dire ce mur n'a rien des standard militaire.
+21)  MARK
+[pickup2]Pas question que je retourne là-bas. Vous avez vu ce qui s'est passé quand vous êtes venu me chercher. {sadA} Elle est totalement envahie.
+22)  LARRY
+[pickup2][looking for his food for the day from Lee]Hé, où est la mienne ?
+23)  LEE
+[pickup2] Désolé Larry, j'ai plus rien.  C'est tout ce qu'il y avait.
+24)  LARRY
+[pickup2][after not being given food because Lee is "All Out"]Oh vraiment ? Eh bien, c'est commode.
+25)  LARRY
+[pickup2][defending Lilly]Mais rien du tout ! Elle a fait un choix intelligent. Ces parasites que vous avez ramené doivent partir !
+26)  
+La base aérienne vous manque pas ?
+27)  
+Lilly a l'air plutôt énervée.
+28)  
+Parler a
+29)  
+Donner Nourriture a
+30)  MARK
+En fait, nous pourrions utiliser votre hache. Cela vous dérange si on la prend ?
+31)  
+Désolé, je n'ai plus de nourriture.
+32)  
+Un peu de nourriture ? [Donner]
+33)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Bien, ça en fait une de moins. Encore neuf personnes affamés et que deux morceaux de nourriture.
+34)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]Plus qu'un morceau de nourriture à donner, alors c'est fini pour aujourd'hui.
+35)  LEE
+[pickup3][knowing there is only one more piece of food left]Hmm.  Je devrais peut-être le garder pour moi ?
+36)  
+[Garder la dernière ration pour vous]
+37)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]J'ai besoin de garder des forces, aussi.
+38)  
+[Donner la dernière ration à quelqu'un]
+39)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nan.  Certaines de ces personnes sont restés plus longtemps que moi sans la nourriture. Ce sont eux qui en ont le plus besoin.
+40)  LEE
+[pickup3][casual/tired]Ouais. J'espère juste que Katjaa pourra le sauver.
+41)  MARK
+[pickup3][greeting Lee]Hé.  Vous vous remettez, Lee ?  Cela a été assez dingue là-bas.  Devoir couper la jambe ce type.
+42)  MARK
+[pickup3]Hé, vous savez que c'était un accident.  Je n'ai pas voulu lui tirer dessus.
+43)  LEE
+[pickup3] Je sais. C'était un truc de dingue là-bas. Le gamin a agi stupidement.
+44)  MARK
+[pickup3][Gretting Lee, whorried about the shot kid]Hé, le gamin va s'en remettre ?
+45)  LEE
+[pickup3]Je ne sais pas. [If travis will make it]
+46)  
+[Exit]
+47)  LEE
+Back in a bit.
+48)  LEE
+Revenir un peu plus tard.

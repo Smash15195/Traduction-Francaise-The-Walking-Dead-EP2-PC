@@ -1,0 +1,533 @@
+1)  
+Basé sur le Comic Book de
+Robert Kirkman, Tony Moore et Charlie Adlard
+
+
+
+TRADUIT PAR
+Chartreuse
+Neostef
+EthanFR
+Stelgar
+Smash15195 
+
+ÉCRIT, CONCU ET REALISE PAR
+Mark Darin
+Dennis Lenart
+
+HISTOIRE DE
+Chuck Jordan
+
+PROGRAMMEUR EN CHEF
+Randy Tudor
+
+DIRECTEUR ARTISTIQUE
+Derek Sakai
+
+ANIMATEUR EN CHEF
+Peter Tsaykel
+
+CHEF ARTISTIQUE CINEMATIQUE
+Nick Herman
+
+CHEF ARTISTIQUE ENVIRONNEMENT
+Jonathon Banks
+
+CONSULTANT HISTOIRE
+Gary Whitta
+
+PROGRAMMATION
+Chris Bauer
+James A. I. Dzierwa
+Charlie Huguenard
+Andrew Langley
+
+ANIMATION
+Marat Davletshin
+Alon Helman
+Jed Heuer
+Armando Lluch
+Jessica Lozano
+Jeff Sarre
+Simon Tan
+Michael Tjosvold
+Chris Waltner
+
+ARTISTES CINEMATIQUE
+Sean Ainsworth
+Vahram Antonian
+Javier J. Espinoza
+Rebekah Gamin
+Daniel Farjam Herrera
+Jason Latino
+Dennis Lenart
+Nick Mastroianni
+Jolie Menzel
+Kent Mudle
+Eric Parsons
+Graham Ross
+Ryann Lynn Weller
+Marius Fietzek
+Grady Standard 
+
+DIRECTEUR ARTISTIQUE ASSOCIÉ
+Leif Estes
+
+ARTISTES CONCEPT
+Jesse Maccabe
+Gray Rogers
+
+ARTISTES ENVIRONMENT
+Drew Di Domenico
+Brian Gillies
+Erik Ose
+
+ARTISTE PERSONNAGE
+Steven Moore
+
+ÉCLAIRAGE DES PERSONNAGES
+Leif Estes
+Derek Sakai
+
+ART TECHNIQUE ET EFFETS
+Brian Eby
+Nora Magyar	
+Michael Perretta
+
+INTERFACE UTILISATEUR
+Nat Dart
+Jake Rodkin
+
+PRODUCTEURS EXECUTIFS
+Dan Connors
+Kevin Bruner
+Kevin Boyle
+
+PRODUCTEURS ASSOCIES
+Kirsten Kennedy 
+
+ASSISTANT PRODUCTEUR
+Bryan Roth
+
+PRODUCTEUR SPECIAL
+John "Seg" Seggerson
+
+DIRECTEUR TECHNIQUE
+Zacariah Litton
+
+DIRECTEUR DE TECHNOLOGIES DE PRODUCTION
+Jonathan Sgro
+
+DIRECTEUR DE LA TECHNIQUE
+Dave Bogan
+
+DIRECTEUR DE LA CONCEPTION
+Dave Grossman
+
+DIRECTEUR DES SERVICES DE PRODUCTION
+Dave Felton
+
+CHEF DE PROJET ASSURANCE QUALITE
+Jeff Armstead
+
+ASSISTANT SUPERVISEUR ASSURANCE QUALITE
+Caleb M. Hoffman
+
+TEST ASSURANCE QUALITE
+Trent Burg
+Airyque Ervin
+Calvin Huang
+Ben Knoll
+Daniel Morris
+Matthew Paris
+Matthew Pedonti
+Jason Pimentel
+Kelly Robertson
+Mike Sherak
+Will Wheeler
+Arthur von Nagel
+Chuck Jose
+John Douglas Joy
+
+AUTEURS ADDITIONNEL
+Chuck Jordan
+Sean Ainsworth
+Andy Hartzell
+Ryan Kaufman
+Andrew Langley
+Harrison G. Pink
+Sean Vanaman
+
+CONCEPTEURS ADDITIONNEL
+Chuck Jordan
+Nick Herman
+Ryan Kaufman
+Dennis Lenart
+Sean Vanaman
+
+ANIMATEURS ADDITIONNEL
+Six Shooter Games
+Tumblehead-Animation Studio
+
+ARTISTES ADDITIONNEL CINEMATIQUE
+Nat Dart
+John Douglas Joy
+Crystal Langley
+Graham Ross
+
+CARACTERE ADDITIONNEL ET MODELISATION ENVIRONNEMENT
+DQ Entertainment International
+Chanho Lee
+Gun Park
+Shawn Shain
+Mark Sheppard
+
+AUTRES ÉCLAIRAGE ENVIRONNEMENT
+Leif Estes
+Derek Sakai
+
+TEST ADDITIONNEL
+VMC Game Labs
+
+
+DIRECTEUR CONCEPTION SONORE
+Lazar Levine
+
+CONCEPTION SONORE
+Jack Fusting
+
+MISE EN OEUVRE AUDIO
+Jack Fusting
+Lazar Levine 
+
+MISE EN OEUVRE AUDIO ADDITIONNEL
+Nick Mastroianni
+
+DIRECTION VOIX ZOMBIE
+Jack Fusting
+Lazar Levine
+Nick Mastroianni
+
+VOIX ZOMBIE
+Sean Ainsworth
+Mark Barbolak 
+Susan DeMerit
+Nat Dart
+James Dzierwa 
+Javier Espinoza
+Shaun Finney
+Jack Fusting
+Rebekah Gamin
+Alan Johnson
+John Joy
+Ryan Kaufman
+Ben Knoll
+Andrew Langley
+Crystal Langley
+Lazar Levine
+Clarence Lum
+Nora Magyar
+Nick Mastroianni
+Jolie Menzel
+Eric Parsons
+Graham Ross
+Mary Stark
+Jonathan "JD" Straw
+Chris Waltner
+Ryann Lynn Weller
+Will Wheeler
+
+
+
+Bay Area Sound, Inc.
+
+MUSIQUE PAR
+Jared Emerson-Johnson
+
+PRODUCTEUR VOIX
+Julian Kwasneski
+
+DIRECTION VOIX
+Jared Emerson-Johnson
+Julian Kwasneski
+
+ENREGISTREMENT DES DIALOGUES
+Jory K. Prum
+
+MONTAGE DES DIALOGUES
+Peter Drescher
+Jory K. Prum
+Amanda Rose Smith
+Julian Kwasneski
+
+
+
+MARKETING ET RELATIONS PUBLIQUES
+
+PREMIER VICE-PRÉSIDENT
+Steve Allison
+
+DIRECTEUR SENIOR MARKETING
+Richard Iggo
+
+CHEF ASSOCIÉ MARQUE
+Jonathan "JR" Rosales
+
+DIRECTEUR SENIOR RELATIONS PUBLIQUES
+Job J. Stauffer
+
+PR MANAGER
+Alan Johnson
+
+DIRECTEUR DE LA CREATION
+Paolo Asuncion
+
+PRODUCTEUR MARKETING MEDIA
+Shaun Finney
+
+SUPPORT PRODUIT
+Michael "Mark" Parks
+
+SOUTIEN SUPPLÉMENTAIRE
+Mary "Winter is coming" Stark
+Kasen Bien 
+Eric Martin
+
+DÉVELOPPEMENT WEB
+Paul Zabierek
+Stefan Antonowicz
+Sky Iouan
+Joshua LeBeau
+Todd Stritter
+Alfonse Surigao
+Jesse Wagstaff
+
+PRODUCTEUR MARKETING MEDIA
+Shaun Finney
+
+SUPPORT PRODUIT
+Michael Parks
+
+DIRECTEURS IT
+Stan Shambaugh
+
+CONSTRUCTION ET DE DISTRIBUTION D'INGÉNIERIE
+Tim Ingram
+William "Nate" Whiteside
+
+OPÉRATIONS
+Susan DeMerit
+Rhoda Gravador-Kao
+Kathy McElwee
+Serena Sinn
+
+ÉDITION
+James Lamorticelli
+
+JURIDIQUE
+Mark Barbolak
+
+
+
+CASTING
+
+Lee Everett 
+Dave Fennoy
+
+Clementine
+Melissa Hutchison
+
+Lilly
+Nikki Rapp
+
+Larry
+Terry McGovern
+
+Kenny
+Gavin Hammon
+
+Katjaa
+Cissy Jones
+
+Carley
+Nicole Vigil
+
+Doug
+Sam Joan
+
+Duck
+Max Kaufman
+
+Travis
+Ruby Butterfield
+
+Ben
+Trevor Hoffmann
+
+Mark
+Mark Middleton
+
+David
+Kevin Burns
+
+Jolene
+Cissy Jones
+
+Andy
+Adam Harrington
+
+Danny
+Brian Sommer
+
+Brenda
+Jeanie Kelsey
+
+Voix Bandit
+Sean Ainsworth
+Jack Fusting
+Ben Knoll
+Lazar Levine
+
+
+
+CONTRIBUTION A LA CONCEPTION
+The Telltale Gang
+
+Créée avec l'outil Telltale
+Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Carlo Morgantini
+Randy Tudor
+Ben Ingram
+Tim Ingram
+Bruce Wilcox
+Alex Montgomery
+David Brady
+
+Portions Copyright
+Firelight Technologies
+Portions Copyright
+(C) 2002 Jean-Marc Valin
+
+
+
+TESTEURS
+Zedd Epstein
+Alan Hoover II
+Max Ince
+Anna Pielock
+Rob Oneill
+Giancarlo Valdes
+Robert Pielock
+
+
+
+REMERCIEMENT SPÉCIAL
+Robert Kirkman
+Tony Moore
+Charlie Adlard
+Sina Grace
+David Alpert
+Daniel Kanemoto
+Hieroglyphics Crew
+Jason Lars Bergquist
+Ikumi Sato
+Julia Kriz
+Christina, Nathan and Katherine Boyle
+Dan and Diane Parsons
+Gwendolyn, Owen & Luke Sgro
+Mark Wesley
+Alisha Piccirillo
+Joe Arcovitch
+Denise, Alexis, Ryan Tosti
+Harmony, Stephen, and Claire Sakai
+Mrs. Jung Won Cho and Cho Co ( Miss Floopy Doop Paws 2012)
+Sabrina Cecchini
+Marco Brezzo
+Kristen Latino
+Nikki Smith
+Meezy P
+Elisa, Nick, Justice & Liberty Tudor
+Mrs. Dr. Amelia Moore Vanaman
+Rashelle & Jeff Wilson
+Faranak Farjamrad Herrera
+Lia Farjam Herrera
+David & Cherie Herrera
+Cristina Herrera & Gustavo De Lafore
+Hassan & Zahra Farjamrad
+Bobby Farjamrad & Sahba Motallebi
+Carl and Evie Loschenkohl
+Ed & Karen Seggerson
+Carolyn & Jason Bronkema
+Cyn Ashton, Julie Haehn & Beverly Paganucci
+Rachel Foster 
+Shale Levine, Elizabeth Levine
+Micah Levine
+Elisa Pagliarulo
+Kyle Priess 
+Erin Ashe
+Andrew Pink
+Donna Pink
+The Joys, the Kicins, the Hermans, and Sage Herman-Joy
+Casey Lord and Ada Hoffman
+Michelle Steranko
+Tia & Jae
+The Otters
+Jordyn Taylor Braff, Mikey, Yoshi, & Jacob Braff
+Justin Barreras
+Josh Majdali
+Mindy Shambaugh and Ethan Shambaugh
+
+et Vous
+
+
+
+ANIMAUX TELLTALE
+Snarffles, Buddy, Lulu, Ziggy and Muttley, Samson, 
+Brodie, Gomez, Happy and Butters, Patches, Little Edward, 
+Marty, Ocelot the Cat, Tobie, Walter, Melody, Marlowe and 
+Guenever, Chippy, Mocha & Chai, Yoshi and Milani, Alpha - the betta fish,
+Momo, Max the Dog, Lemmy Kilmister, Penny & Desmond,
+Freddie Mercury, Dengar the cat, 
+Peek-a-Boo the Cat, Kasumi, Mia & Brendan Q. Ferguson
+
+
+
+(C) 2012 Telltale, Inc Basé sur le Comic Book
+par Robert Kirkman, Tony Moore et Charlie Adlard.
+The Walking Dead (C) 2012 Robert Kirkman, LLC.
+Telltale et le logo Telltale Games sont des marques de Telltale, Inc
+Tous droits réservés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(C) 2012 Telltale, Inc.
+All rights reserved
+2)  
+Starved For Help

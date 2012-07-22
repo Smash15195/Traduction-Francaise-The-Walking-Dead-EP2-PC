@@ -1,0 +1,255 @@
+1)  LILLY
+[pickup2] Lee, oh mon Dieu, je suis désolée pour Mark. Ca va aller ?
+2)  LEE
+[pickup2]Aussi bien que le puisse, je pense.
+3)  LILLY
+[pickup2]{sadA}Lee, oh mon Dieu, Je suis si heureuse que vous n'ayez pas été tué là-bas. Vous pensez que Mark ira bien ?
+4)  LEE
+[pickup2]{sadA}J'aimerai bien le savoir. {normalA}Mais je pense qu'il est entre de bonnes mains maintenant.
+5)  LILLY
+[pickup2] [sighs, frustrated]{thinkingA}Comment {angryA}pourriez-vous tous nous emmener dans cet endroit ?
+6)  LEE
+[pickup2]{thinkingA}J'en conclus que vous et Kenny n'êtes pas d'accord sur la manière.
+7)  LILLY
+[pickup2]C'est juste que... ça craint vraiment, vous savez ?
+8)  LEE
+[pickup2]Nous devons simplement faire de notre mieux.
+9)  LEE
+[pickup2] VOUS allez bien, Lilly ?
+10)  LILLY
+[pickup2] C'est difficile de voir quelqu'un de notre groupe y rester. Je continue d'espérer que nous nous en sortirons tous.
+11)  LILLY
+[pickup2] J'apprécie vraiment votre inquiétude. C'est juste que...
+12)  LEE
+[pickup2]Il dorait que vous et Mark avait été plutôt proche, non ?
+13)  LEE
+[pickup2] Je sais. Et peut-être nous le ferons.
+14)  LILLY
+[pickup2] Mark est... ou était... un bon gars. C'est difficile de perdre quelqu'un du groupe, vous voyez ? Je continue de garder l'espoir que nous allons tous nous en sortir.
+15)  LARRY
+[pickup2]{normalA}Il ira bien. {happyA}J'ai vu des gars ce sortir de pire que ça.
+16)  LILLY
+[pickup2]{normalA}Ah ouais ? C'est pas trop mauvais ?
+17)  LILLY
+[pickup2] [emotional]Oh bon sang... pauvre Mark.
+18)  LEE
+[pickup2][sad]Mark s'est fait tirer dessus comme si il était... c'était assez dingue.
+19)  LILLY
+[pickup2]{thinkingA}J'ai essayé de voir les choses de son point de vue, avoir une femme et des enfants et tout. {angryA} Mais jouer avec la vie de votre famille est stupide, si vous voulez savoir.
+20)  LEE
+[pickup2] {normalA}Quel est votre avis sur notre départ du motel ?
+21)  LILLY
+[pickup2][cold] Si nous l'avions pas fait, Mark serait encore en vie.
+22)  LILLY
+[pickup2] [stern]{angrya}Si nous étions resté là où nous étions,{thinkingA} alors Mark n'aurait pas fini avec une flèche dans l'épaule.
+23)  LEE
+[pickup2]{normalA}Vous pensez que notre petit arrangement avec eux était une bonne idée ?
+24)  LARRY
+[pickup2]{angryA}Un peu tard pour se poser cette question, vous croyez pas ?
+25)  LILLY
+[pickup2]Attendons le dîner, chargeons autant de nourriture qu'ils sont prêts à donner et reprenons la route.
+26)  LILLY
+[pickup2]{thinkingA}Attendons le dîner, et si Mark s'en sent capable,  nous partirons. Je ne veux pas prendre de risque en restant ici.
+27)  LEE
+[pickup2] {thinkingA} Je vais aller faire un tour.
+28)  LILLY
+[pickup2] Lee ! Qu'est-ce qui est arrivé au camp ? Vous avez retrouvé l'un de ces hommes qui ont tué Mark ?!
+29)  LILLY
+[pickup2] {normalA} Lee ! {sadA}Qu'est-ce qui est arrivé au camp ? Vous avez retrouvé l'un de ces hommes qui ont blessé Mark ?
+30)  LEE
+[pickup2] {thinkingA} Il n'y a rien eu.
+31)  LILLY
+[pickup2]{thinkingA}Vraiment ? rien du tout ?
+32)  LEE
+[pickup2] {normalA}Nous avons trouvé une tente et quelques caisses. {sadA}Rien de très utile.
+33)  LILLY
+[pickup2] [sighs] {fearA}Sérieusement ? {angryA}Aucune nourriture ?
+34)  LEE
+[pickup2] {sadA}Nous avons trouvé une femme dans les bois. {normalA}Elle débitait des choses incohérente avec une arbalète pointée droit sur ma tête... {sadB}alors j'ai dû la tuer.
+.
+35)  LEE
+[pickup2] {normalA}C'est ce que je disais.
+36)  LARRY
+[pickup2] {surprisedA}Doux Jésus. {angryA}Avez-vous au moins trouver un peu de putain de nourriture ?
+37)  LILLY
+[pickup2] {sadA}Je n'aime pas ça, Lee.{angryA} Je persiste à dire que nous devrions revenir au motel, où nous savons au moins à quoi nous attendre.
+38)  LILLY
+[pickup2] {fearB}Bordel de merde. {sadA}C'était un de ces bandits ?
+39)  LEE
+[pickup2] {thinkingA}Je sais pas. {normalA}Je pense qu'elle essayait de me dire quelque chose, {sadA}mais ensuite il s'en est aller.
+40)  LEE
+[pickup2] {sadA}Nous avons trouvé une femme dans les bois.{normalA} Elle débitait des choses incohérente et avait une arbalète... {sadb}alors Danny l'a tué.
+41)  LILLY
+[pickup2] [frustrated]{angryB}Merde, Lee, arrêtez d'essayer de nous garder hors du circuit. {angryA}Venir ici était une erreur, je le sais ça. {angryb}Mais garder des choses pour vous n'est pas exactement ce qui va aider la situation.
+42)  LEE
+[pickup2]{THinkingA}Est-ce que vous avez la sensation qu'il va passer quelque chose ici ?
+43)  LILLY
+[pickup2] {angryA}Qu'est-ce qui se passe, Lee ?{sadA} Il est arrivé quelque chose ?
+44)  
+Il y a quelque chose d'étrange avec la grange.
+45)  
+Kenny pense qu'ils cachent quelque chose.
+46)  
+Tout va bien.
+47)  LEE
+[pickup2] {thinkingA}Il se passe quelque chose avec cette grange.
+48)  LILLY
+[pickup2]{angryA}Si vous voulez aller là-bas et commencer à fouiller la merde des autres, alors allez-y. {normalA}Mais si ç'était que moi, nous devrions prendre notre nourriture et partir.
+49)  LEE
+[pickup2] {angryA}Et qu'est-ce que je suis censé faire ?
+50)  LEE
+[pickup2] {thinkingA}Kenny pense qu'ils cachent quelque chose.{normalA} Je sais pas exactement quoi, mais nous commençons à avoir une idée sur ce lieu.
+51)  LILLY
+[pickup2] {angryA}Ecoutez, après ce qui s'est passé avec Mark et cette folle dans le campement, je pense qu'il est évident que nous avons besoin de foutre le camp d'ici. {fearA}Très vite.
+52)  LILLY
+[pickup2] {angrya}Ecoutez, après ce qui s'est passé avec Mark et cette folle dans le campement, je pense qu'il est évident que nous avons besoin de foutre le camp d'ici. {fearA}Très vite.
+53)  LEE
+[pickup2] {normalA}Il n'y a rien. Tout va bien.
+54)  LARRY
+[pickup2] {disgustA} Foutaise.
+55)  LILLY
+[pickup2] {angryA}Vous gardez des trucs pour vous, Lee. Et au moment où devenez net, ce sera trop tard. Nous devons commencer à penser à foutre le camp d'ici.
+56)  LEE
+[pickup2] {thinkingA}Après ce que m'a dit Kenny, je commence à penser qu'ils nous cachent peut-être quelque.
+57)  LEE
+[pickup2]{normalA} Hé.
+58)  LILLY
+[pickup2] {thinkingA} Ces péquenots me donne toujours la chair de poule.
+59)  LILLY
+[pickup2] {normalA}Je vous le dis, Lee. Plus nous restons ici, {angryA}plus difficile sera la situation dans laquelle nous serons.
+60)  LARRY
+[pickup2] {happya}C'est un changement bienvenu de décor.
+61)  LILLY
+[pickup2]{angryA}Papa a raison.
+62)  LILLY
+[pickup2]{angryA}Vous deux avez le talent d'attirer les ennuis. {thinkingA}Mais si vous voulez vraiment faire un tour, {sadA}soyez prudent, Lee.
+63)  LARRY
+[pickup2]{angryA}Ouais, et on n'a pas besoin que vous foutiez votre nez partout et que l'on se fasse virer à coup de pompe dans l'oignon.
+64)  LILLY
+[pickup2]{normalA}Ne soyez pas pas trop curieux. Ce genre de personnes est généralement assez de protectrice de leur vie privée.
+65)  LILLY
+[pickup2] {sadA} Faites attention, Lee.
+66)  LILLY
+[pickup2] Quoi que vous fassiez, soyez prudent.
+67)  LILLY
+[pickup2] {angrya} Je le savais. C'était une erreur de venir ici.
+68)  LARRY
+[pickup2] {angrya}Bon sang.
+69)  LEE
+[pickup2]{sadA}C'est... rien. {normalD}Ne vous inquiétez pas pour ça. {thinkingA}La paranoïa me guette un peu.
+70)  LILLY
+[pickup2]{thinkingA} Qu'est-ce qui vous fait dire ça ? {angrya}Qu'est-ce qui s'est passé dans le camp ?
+71)  LEE
+[pickup2]Je veux dire, qu'il me semblait vraiment que cette femme était sur le point de me dire quelque chose à propos de cet endroit avant que Danny ne lui tire dessus.
+72)  LILLY
+[pickup2] {sadA} je vois ce que vous voulez dire.
+73)  LILLY
+[pickup2] Non, Je suis avec d'accord avec Lee sur ça. Il y a quelque chose qui cloche ici.
+74)  LEE
+[pickup2] {sadA}Non. Rien
+75)  LARRY
+[pickup2]Pour l'amour du Dieu, vous venez de nous dire que vous aviez tué une femme. Ouais, on peut certainement dire qu'il se passe beaucoup de choses.
+76)  LEE
+[pickup2] Alors, Larry, on dirait que vous allez bien vous entendre avec Brenda.
+77)  LARRY
+[pickup2] Vous savez, pour changer un peu, que diriez-vous d'essayez de vous occuper de vos putain d'oignons ?
+78)  LEE
+[pickup2] {thinkingA}Que faisiez-vous, vous et Kenny quand je suis revenue du camp ?
+79)  LILLY
+[pickup2]{angryA}Il craque, Lee. {thinkingA}Il vient et commence à parler de la grange, et que ces gens cachent quelque chose--
+80)  LARRY
+[pickup2]{angrya}Mais vous lui avez dit de s'occuper de ses affaires, putain, c'est ça ? Nous sommes invités ici et nous n'avons pas besoin de dépassé les bornes de l'acceuil chaleureux que nous avons déjà.
+81)  LILLY
+[pickup2]{thinkingA}A mon avis, nous devons sauter le dîner, prendre notre nourriture et partir. {angryA} Mais je commence à penser que votre ami là-bas a un autre programme.
+82)  LEE
+[pickup2]Je ne sais pas, peut-être devrions-nous aller jeter un oeil dans cette grange.
+83)  LARRY
+[pickup2] Ouais, nous ne voulons pas faire foirer notre marché.
+84)  LARRY
+[pickup2] Venez maintenant, si nous voulons pas être impoli.
+85)  LILLY
+[pickup2]{angrya}Si vous voulez savoir, nous devrions dîner et partir.
+86)  LARRY
+[pickup2]{sadA}Oh, oh, pas de précipitation.
+87)  
+Vous et Kenny êtes encore en désaccord.
+88)  
+La raison de la dispute avec Kenny ?
+89)  
+J'ai tirer sur femme.
+90)  
+Danny a tiré sur quelqu'un.
+91)  
+Pour votre père...
+92)  LILLY
+[pickup3][casual - responsind to Lee asking to talk in private] {normalA}D'accord.
+93)  LEE
+[pickup3][wanting to talk to lilly privately about Larry, but he's nearby] {thinkingA}Hé, ah, {normalA}je peux vous parler en privé, une seconde ?
+94)  LILLY
+[pickup2]Ouais, et bien, ne vous attendez pas que ça change.  Il a toujours été comme ça.
+120)  LILLY
+[pickup2]Ouais, et bien, ne vous attendez pas que ça change.  Il a toujours été comme ça.
+95)  LEE
+[pickup2]Ca fait trois mois et votre père me traite toujours comme si j'étais un abruti.
+121)  LEE
+[pickup2]Ca fait trois mois et votre père me traite toujours comme si j'étais un abruti.
+96)  
+Alors que c'est lui l'abruti.
+97)  LEE
+[pickup2]Alors que c'est lui l'abruti.
+98)  
+Il vous traite comme ça aussi ?
+99)  LEE
+[pickup2]Il vous traite comme ça aussi ?
+100)  
+Comment vous le supportez ?
+101)  LEE
+[pickup2]Comment vous le supportez ?
+102)  LILLY
+{angryA}Je suis tout ce qu'il lui reste au monde.  {sadA}Pareil pour moi.  {disgustA}Alors, oui, il va sans doute continuer à vous prendre pour une merde mais juste pour protéger la dernière personne qui lui est cher.
+103)  LILLY
+{angryA}Ecoutez. Je sais que mon père peut être con parfois.  {normalB}Mais c'est pas un mauvais bougre.  Il... {sadA}Il souffre beaucoup.
+104)  LILLY
+{sadA}Il a traversé tant de choses.  Et a perdu... {sadB}presque tout.  {normalB}Ca l'a endurci, vous voyez ?  {thinkingA}Il est dur et détestable mais c'est pour se protéger. Et moi avec.
+105)  LILLY
+{angryA}Alors ne le jugez pas.  Et ne me jugez pas de rester près de lui.  {sadA}C'est mon père et je l'aime.
+106)  LILLY
+[pickup3][follows:310583317 ]{angryA}Lee, je sais que vous et kenny êtes amis, {normalA}mais reconnaissez qu'il n'est pas la bonne personne pour diriger ce groupe, {sadA}non ?
+107)  LILLY
+[pickup3]{happyA}Hé, merci de m'avoir appuyé ce matin au motel.  {thinkingA}Je sais que je vous suis tombé dessus assez durement, {normalA}mais vous êtes d'accord avec la façon dont je gère les choses, non ?
+108)  
+Vous êtes un bon leader.
+109)  
+Kenny pense qu'il y a encore de l'espoir.
+110)  
+Je sais pas.
+111)  LEE
+[pickup3]{happyA}Vous êtes un bon leader, Lilly. {sadA}Kenny est trop émotif, {normalA}mais ses intentions sont bonnes.  {thinkingA}Pourtant, ce serait mieux pour nous tous si vous pouviez essayer de travailler ensemble de temps en temps.
+112)  LEE
+[pickup3]{normalA}Kenny estime qu'il est encore de l'espoir.  {sadA}C'est peut-être ce dont nous avons besoin en ce moment.
+113)  LILLY
+[pickup3]Eh bien, l'espoir ne sera pas très utile si nous sommes tous morts. Je me focalise sur notre survie.
+114)  LEE
+[pickup3]{sadA}Je sais pas, Lilly.  {normalA}Vous êtes tout les deux très important pour maintenir le groupe unit.
+115)  LILLY
+[pickup3]{thinkingA}Ouais, et bien, si je ne vous garde pas tous en vie, {angryA}il n'y aura aucun groupe a garder unit.
+116)  LILLY
+[pickup3][responding to lees silence - pleased]{normalA}Vous n'avez pas à dire quoi que ce soit.  {happya}Vous vous êtes mouillé quand vous m'avez soutenu face à Kenny, alors merci.
+117)  LILLY
+[pickup3][responding to lees silence - disapointed]{sadA}Vous n'avez pas à dire quoi que ce soit. {angryA}Vos actes au motel veulent tout dire.
+118)  LILLY
+[pickup3]{angryA}Et ne pas donner de nourriture à mon père... C'était cruel.
+119)  LILLY
+[pickup3]{angryA}Et ne pas donner de nourriture à mon père... C'était cruel.
+122)  
+Que pensez-vous de notre départ du motel ?
+123)  
+Vous pensez quoi du marché avec eux ?
+124)  
+Vous avez pas la sensation que quelque chose cloche ?
+125)  
+Je crois qu'ils nous cachent quelques chose.
+126)  
+Nous avons trouvé une tente.
+127)  
+Rien ne n'est arrivé.

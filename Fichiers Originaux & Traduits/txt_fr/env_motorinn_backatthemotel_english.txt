@@ -1,0 +1,1362 @@
+1)  LARRY
+{angryC} Ouais, ouais.  On est pas fous.
+2)  KATJAA
+[calling, sadly] {sadA} Ken ! Lee ! Vous pouvez venir ici ?
+3)  KENNY
+{angryD} Nom de Dieu, Lee ! C'est quoi ce bordel ?!
+4)  BEN
+{disgustA}C'est pas la morsure qui vous transforme ! {fearA}Ouais, enfin vous en mourrez, mais...
+5)  KENNY
+[furious] {angryC}Tu as dit qu'il avait pas été mordu !
+6)  BEN
+{disgustA}Quelle que soit la manière dont on meurt, on se transformera.  {sadB}Tant qu'on touche pas au cerveau, {disgustA}voilà ce qui se passe.  {sadC}Voilà ce qui va TOUS nous arriver.
+7)  LILLY
+{normalB}Ces types veulent de l'essence.
+8)  ANDY
+[to Lee] {happyB}Coucou. Je m'appelle Andrew St. John; et lui c'est mon frère, Dan.
+9)  LEE
+[to himself about the couch]{normalD}Il a connu des jours meilleurs.
+10)  LEE
+[to himself]{normalD}On doit trouver à manger. Et vite.
+11)  LEE
+[to himself]{normalD}C'est solide, mais ça ne résistera pas éternellement, tout comme le reste.
+12)  LEE
+[to himself]{normalD}Ca me fait mal de l'admettre, mais Larry avait raison; elles feront parfaitement l'affaire pour notre portail.
+13)  LEE
+[to himself]Plus rien d'utile ici.  Je ferais mieux de rester avec le groupe.
+14)  LEE
+[to himself]{happyA}Au moins les enfants ont de quoi s'occuper.
+15)  LEE
+{happyA}Doug nous installe une alarme à partir de bricoles.
+16)  LEE
+{fearB}Il va s'en tirer ?
+17)  KATJAA
+[frustrated, terse] {fearA}J'en sais rien. {thinkingA}Vous pouvez m'aider deux secondes ?
+18)  KATJAA
+[frustrated, terse] {angryA}J'ai besoin de place, Lee.
+19)  KATJAA
+{fearA} Ken, reviens, tu n'as rien à... [gives up halfway through the thought]
+20)  KENNY
+[frustrated]{angryB} Je commence à en avoir marre.
+21)  KATJAA
+[sadly, somewhat quietly] {sadB} Il... il a perdu trop de sang.
+22)  KENNY
+[frustrated/hushed][Tired of trying to save people and they still die]{angryC} Putain de merde !
+23)  KATJAA
+AU SECOURS! LEE, AIDEZ-MOI !
+24)  KATJAA
+[attacked 3] AAAAHHHHHHHHH !!!!!
+25)  KATJAA
+[attacked] AAAAHHHH !!!!!
+26)  KATJAA
+[attacked]A l'aide !!!
+27)  KATJAA
+[attacked ] AU SECOURS !!
+28)  KATJAA
+[attacked]Enlevez-le moi !!
+29)  KATJAA
+[attacked 2] AAAAAAHHHH !!!!!
+30)  KATJAA
+[attacked ] LEE !!!
+31)  LEE
+[alt][panicked] {fearD} Merde !!  Katjaa !!
+457)  LEE
+[alt][panicked] {fearD} Merde !!  Katjaa !!
+32)  
+Lilly veut qu'il parte.
+33)  
+Je ne sais pas.
+34)  
+Il pourrait rester un peu...
+35)  KATJAA
+[being attacked by zombie] {fearC} AHHHH !
+36)  LARRY
+[stern] Bordel Lee, dégagez de là !
+458)  LARRY
+[stern] Bordel Lee, dégagez de là !
+37)  DUCK
+{happyA}D'accord.  Clémentine et moi on fait du coloriage.
+38)  LEE
+{happyA}Le mur a l'air de tenir, Doug.
+39)  DOUG
+{happyA}Merci. {normalA}J'ai aussi bricolé un petit "système d'alarme de proximité".
+40)  LEE
+{thinkingA}Un système d'alarme de proximité ?
+41)  DOUG
+{thinkingA}Oui, enfin... c'est juste des canettes attachées sur une ficelle, mais bon, ça fonctionne.
+42)  CLEMENTINE
+[to ben; quizzing him about her drawing] {normalC}Devine ce que c'est ?
+43)  BEN
+[still a little out of sorts; guessing what clems picture is of]{sadA} Je sais pas... un chien ?
+44)  CLEMENTINE
+{happyB}Non.
+45)  DUCK
+{happyB}Oh, je sais !  C'est une chèvre hein ?
+46)  LEE
+{normalD}Garde un oeil sur les enfants s'il te plait.
+47)  CARLEY
+{happyB}Ouais, bon, instinctivement, j'ai eu envie de l'écraser et d'en écrire un article.  Enfin ... {sadA}ouais... les enfants n'avaient pas à voir ça.
+48)  CARLEY
+{thinkingA}Oh, et rendez-moi un service, dites à Lilly de se reposer un peu.  {angryA}On est censé être de garde tous les deux ce soir.  Soyez en forme.
+49)  DOUG
+{sadA}Hé, je te dois bien plus qu'une moitié de barre au chocolat.  Prends-la.
+50)  LEE
+{sadA}Thanks. {thinkingA}C'est gentil.
+51)  LEE
+{sadB}Garde la.
+52)  DOUG
+{fearA}Lee, vous avez pas l'air en grande forme. C'était quand votre dernier repas ?
+53)  CARLEY
+{disgustA}Je veux que vous la preniez, d'accord ? Au cas où vous ou Clémentine vous sentiriez pas bien.
+54)  LEE
+{sadA}Carley, vous me devez rien.
+55)  KATJAA
+[Sensing Lee's reluctance] {angryA}Ca va, je m'en occupe.  Mais laissez-moi un peu de place, d'accord ?
+56)  LEE
+[reluctant to help katjaa with the "surgery"]{disgustB}Je.. ferais mieux...
+57)  KATJAA
+{thinkingA}Contentez-vous d'appuyer ici pendant que j'essaie de refermer ça...
+522)  KATJAA
+{thinkingA}Contentez-vous d'appuyer ici pendant que j'essaie de refermer ça...
+58)  KATJAA
+{sadB}Vous savez, je pensais que je finirais par m'habituer à ce genre de trucs... recoudre les plaies des gens...
+59)  KATJAA
+{angryA}A quoi vous pensiez en le ramenant ici ? Même s'il s'en sort, on pourra pas le soigner...
+645)  KATJAA
+{angryA}A quoi vous pensiez en le ramenant ici ? Même s'il s'en sort, on pourra pas le soigner...
+60)  KATJAA
+{thinkingA}Je veux dire, les coupures et les contusions sont une chose, mais Lee, {disgustA}cet homme n'a plus sa jambe !
+61)  LEE
+{normalD}Bien sûr.  Qu'est-ce qu'il vous faut ?
+521)  LEE
+{normalD}Bien sûr.  Qu'est-ce qu'il vous faut ?
+62)  LEE
+{normalD}J'ai fait ce qui était nécessaire.
+63)  LEE
+{normalD}C'est ce que votre mari voulait.
+467)  LEE
+{normalD}C'est ce que votre mari a voulu.
+64)  KATJAA
+{fearA}On dirait bien que parfois ce qui est nécessaire est également effrayant.
+65)  KATJAA
+{sadA}Ouais.. J'sais bien...
+66)  KATJAA
+{normalC}Ca ne m'étonne pas.  {thinkingA}J'aime cet homme plus que tout au monde, mais je vous assure qu'il prend parfois les décisions les plus débiles qui soient.
+67)  KATJAA
+{thinkingB}Allez voir comment vont les autres.  J'ai besoin d'espace ici.
+68)  KATJAA
+[changing the subject] {normalA}Et bien, vous avez fait tout ce que vous avez pu, Lee.  Merci pour le coup de main.
+69)  LILLY
+{angryA}Debout, Lee.  On a besoin de vous ici.
+70)  DOUG
+{sadA}Pourquoi tu as fait ça, Lee ?
+71)  LEE
+[context: "is that you?"] {surpriseB}D... Doug ?
+72)  DOUG
+{sadB}Pourquoi tu m'as tué ?
+73)  DOUG
+{angryA}Fais gaffe, Lee. Tu vas finir par aimer le goût du sang.
+74)  LEE
+[hoarse whisper, unintelligible words, werid and creepy] J...ahh....
+75)  DOUG
+{normalC}Tu te prends pour le sauveur du groupe, Lee ? {angryA}Tu peux sauver personne. {happyA}Surtout pas cette petite fille qui compte sur toi. {angryB}C'est comme si elle était déjà morte. {happyA}Une petite fille zombie.
+76)  DOUG
+{sadA}Je te donne une seconde chance, Lee. {fearA}Tu peux me sauver ?
+77)  
+Je suis pas un tueur !
+78)  
+C'était un accident !
+79)  
+Tu le méritais !
+80)  DOUG
+{thinkingA}C'est pas ce que tu as dit au tribunal, Lee. {disgustA}Tu réécris l'histoire ?
+81)  LEE
+{fearC}Je ne t'ai pas tué !
+82)  LEE
+{fearB}J'ai du choisir, {sadC}je pouvais pas vous sauver tous les deux.
+83)  DOUG
+{thinkingB}C'est toi qui décides qui vit et qui meurt ? {disgustA}Et pour Sam, c'est toi qui as décidé ?
+84)  DOUG
+{angryA}C'est plus dur de tuer un ami ou un inconnu ?
+85)  LEE
+{fearC}Je te connaissais à peine.
+86)  DOUG
+{disgustA}C'est ça ? {happyB}Tu dois bien aimer les tuer. {angryA}Tu dois bien aimer les dominer. {happyC}C'est ça qui s'est passé avec Sam ?
+87)  LEE
+{thinkingA}Au moins tu n'as pas à crever de faim ici avec nous.
+88)  CARLEY
+{happyB}Pourquoi tu as fait ça, Lee ?
+89)  CARLEY
+{thinkingA}Pourquoi tu m'as tué ?
+90)  LEE
+[context: "is that you?"]{fearA}C... Carley ?
+91)  CARLEY
+{thinkingB}C'est sûrement parce que je te faisais penser à elle. {angryB}Tu sais qu'elle ne t'a jamais aimé ?
+92)  LEE
+[hoarse whisper, unintelligible words, dreaming, weird] J...ahh....
+93)  CARLEY
+{normalB}Tu ne peux sauver personne. {HappyB}Surtout pas cette petite fille qui compte sur toi. {AngryB}C'est comme si elle était déjà morte. {HappyB}Une petite fille zombie. {AngryD}Qu'est-ce que tu cherches, Lee ?  Une seconde chance ?
+94)  CARLEY
+{thinkingB}Je t'accorde une seconde chance... {disgustB}Tu vas me sauver cette fois ?
+95)  
+Ce n'est pas vrai !
+96)  
+Comment tu pourrais le savoir ?
+97)  
+Si, elle m'aimait.
+98)  LEE
+{fearB}Je ne t'ai pas tué.
+99)  CARLEY
+{happyC}J'imagine que tu n'as pas tué Sam non plus ?
+100)  LEE
+{fearB}J'ai du faire un choix, {fearC}je pouvais pas vous sauver tous les deux.
+101)  CARLEY
+{happyC}C'est toi qui décides qui vit et qui meurt ? {angryB}Et pour Sam, c'est toi qui as décidé ?
+102)  LEE
+{sadC}Je te connaissais à peine.
+103)  CARLEY
+{happyC}C'est plus facile de tuer une inconnue ? {angryD}Plus facile que tuer ton vieil ami ?
+104)  CARLEY
+{disgustB}D'accord, Lee, si ça peut te soulager la conscience. {angryC}Et Sam aussi il ferait mieux de partir ?
+105)  LEE
+Au moins tu n'as pas à crever de faim ici avec nous.
+106)  CARLEY
+{angryB}Ou plutôt - {angryD}pourquoi est-ce que tu as tué Sam ?
+107)  LILLY
+{angryB}On a de la compagnie.
+108)  LEE
+[slightly disoriented  from just waking up]{sadC}Qu'est ce qui se passe ?
+109)  KATJAA
+[alt]Ca ne m'étonne pas.  J'aime cet homme plus que tout au monde, mais je vous assure, il se comporte parfois comme le roi des abrutis.
+110)  KATJAA
+{thinkingA}Allez donc donner un coup de main à Mark et Larry.  Ca fait du bien de s'occuper.
+157)  KATJAA
+{thinkingA}Allez donc donner un coup de main à Mark et Larry.  Ca fait du bien de s'occuper.
+111)  KATJAA
+{fearA}Allez voir comment va le gamin.  Ca doit pas être facile pour lui.
+158)  KATJAA
+{fearA}Allez voir comment va le gamin.  Ca doit pas être facile pour lui.
+112)  KENNY
+[fearing the worst/ hushed] {angryA} Il s'en est pas sorti, n'est-ce pas ?
+113)  MARK
+[pickup2][just slightly irritated - at Motel Fence]Allez, Larry, foutez lui la paix, quoi. C'est has-been le racisme -- le monde a changé.
+114)  MARK
+[pickup2][slightly irritated - at Motel fence]Allez, Larry, foutez-lui la paix, quoi. Ca doit bien saouler Lee que vous pensiez qu'il représente un danger pour le groupe.
+115)  MARK
+[pickup2][slightly irritated - at motel fence]Allez, Larry. C'est quoi votre problème a vous deux ?  Pourquoi est-ce que vous avez une dent contre Lee ?
+116)  LARRY
+[pickup2][slightly annoyed that Lee is talking about him behind his back- At motel fence] {angryA} C'est vous qui lui avez dit ça ?
+117)  LEE
+[pickup 2][ defensive when Larry accusing him of talking behind his back - at motel fence]Ouais, c'est moi.
+118)  LEE
+[pickup 2][slightly backtracking when Larry accusing him of talking behind his back - at motel fence]C'est pas ce que j'ai voulu dire...
+119)  LEE
+[pickup 2][slightly backing down when Larry accusing him of talking behind his back - at motel fence]Non, c'est pas moi qui ai dit ça.
+120)  LARRY
+[pickup2][annoyed-  at motel fence]Mon seul et unique "devoir", c'est de protéger ma fille.
+121)  MARK
+[pickup2][trying to get Lee & Larry to stop arguing]Ecoutez, je me fous de savoir pourquoi, mais vous allez arrêtez de vous embrouiller.
+122)  LARRY
+[pickup2][finding out that Lee's been talking behind his back - quietly threatening]Ha bon ?  Alors vous vouliez dire quoi ?
+123)  MARK
+[pickup2][stopping an argument between Lee & Larry]Bon, OK, calmez-vous, tous les deux.
+124)  LARRY
+[pickup2][irritated] Rien à foutre.
+125)  LARRY
+[pickup2][Not sure if lee's lying , but giving him the benefit of the doubt - Motel Fence]Bref, peu importe, j'ai du travail.
+126)  LARRY
+[pickup2][annoyed-  at motel fence - Cont.]Bon, j'aimerais réparer ce satané mur alors soyez gentils et bouclez-la vous deux, et laissez-moi bosser.
+127)  LARRY
+[pickup2][Responding to lee's silence]Peu importe, j'ai du boulot.
+128)  
+Canapé
+129)  
+Etagère
+130)  
+Container
+131)  
+Clôture
+132)  
+Machine à glaçons
+133)  
+Ballon de foot
+134)  
+Escaliers
+135)  
+Table
+136)  MARK
+[pickup2][trying to stop an argument between Lee & larry at the motel]Allez, Larry.  Lâchez-lui la grappe.  Il sait très bien que vous voulez juste protéger votre fille, il me l'a dit.  Tout comme lui essaie de protéger Clémentine.
+137)  LARRY
+[pickup2][About to go off on a tangent about Lee, but then thinks better of it, ]IL- ...  je voudrais manger.  Depuis le temps qu'on a pas pris de vrai repas, n'importe qui serait grincheux.
+138)  LARRY
+[pickup2][sneering at Lee during Motel Fence argument]Il sait très bien pourquoi.
+139)  LARRY
+[pickup2][getting all up in Lee's face]Et vous allez faire quoi ?
+140)  LEE
+[pickup2][to Kat after Kenny storms off following Davids death]Laissez-le, Katjaa.
+141)  LEE
+[pickup2][to Kat after Kenny storms off following Davids death. Genuine question.]Qu'est-ce qui lui prend ?
+142)  LEE
+[pickup2][to Kat after Davids death]Il lui faut un peu de temps.  Ca a été une dure matinée.
+143)  KATJAA
+[pickup2][talking to Lee at the Trck after David dies.  Follows "Let Kenny go, Kat"] Mais...
+144)  KATJAA
+[pickup2][Slightly annoyed at Lee's reaction to Kenny storming off after Davids death]Ne dites pas ça, Lee. Je sais bien qu'on a tous flirté avec la mort.  Mais ça ne facilite pas les choses.
+145)  LEE
+[pickup2][looking at the ice machine.  To himself]Ugh.  J'espère que Glenn est pas resté trop longtemps caché là-dedans.  Ca pue vraiment.
+146)  LARRY
+[pickup2] Oh, c'est ce que vous pensez ?
+147)  KATJAA
+[pickup1][sean edit][frustrated in the midst of a surgery, talking to herself as Lee walks up] {angryA}Là, tout de suite, je me ferais bien un de vos "barbecues" ou une bière entre amis.
+148)  KATJAA
+[pickup1][sean edit] [frustrated, in the midst of performing a surgery]{angryA}Le destin, qu'il disait. J'en doute depuis un moment.
+149)  KATJAA
+[pickup1][sean edit] [frustrated, in the midst of performing a surgery]{sadB}"Ca craignait hier, ça craint aujourd'hui" c'est ça hein Lee ?
+150)  KATJAA
+[pickup1][sean edit] [frustrated, in the midst of performing a surgery] [Sigh] {sadB}Si j'ai choisi les animaux et pas les humains, c'est qu'il y a une raison.
+151)  
+Laissez-le.
+152)  
+Qu'est-ce qui lui prend ?
+153)  
+Moi aussi j'en ai marre.
+154)  LEE
+[pickup2][Mirroring Kennys frustration over people alyways dying] Moi aussi j'en ai marre.
+155)  KATJAA
+[pickup2][Responding to lee saying "Im sick of people dying!"] Vous pensez que ça me fait plaisir à moi ? [then conflicted]J'en sais rien... c'est peut-être mieux ainsi.  On a déjà du mal à nourrir NOS enfants.
+156)  KATJAA
+[pickup2][after Kenny stors off, frustrated that people keep dying ][tired] J'aime pas le voir comme ça.
+159)  LEE
+[pickup2]Voilà.  Ca devrait aller mieux.  Essayez de ne pas faire trop de bruit.
+160)  LILLY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Je peux pas tirer !
+161)  LILLY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Poussez-vous !
+162)  KENNY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]KATJAA !!
+163)  KENNY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]J'arrive !
+164)  BEN
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Non non non !!
+165)  DOUG
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Putain de merde !
+166)  CARLEY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Reculez tous !!
+167)  MARK
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Lee !
+168)  MARK
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Où est la hache ?!
+169)  LARRY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Lilly ?!  Où est Lilly ?!
+170)  LILLY
+[pickup2] [Gives a quick wistle waring everyone in the motor inn that something is coming!]
+171)  LILLY
+[pickup2][Ambient - as Lee arrives with strangers - Stern, shes annoyed, Trying to get Lee's attention] Lee !    Lee !
+172)  LEE
+[pickup2- Calling out to people in the motor inn as they arrive with a wounded person]Ouvrez les portes !  Il y a des blessés.
+173)  KATJAA
+[pickup2][Ambient - as Lee arrives with strangers]Oh mon Dieu !
+174)  LILLY
+[pickup2][to her self, irritated that Lee & Kenny are bringing in new people when there is obviously not enough food for the group they already have!]Putain.  Mais qu'est-ce qu'ils foutent ?
+175)  KENNY
+[pickup2][with some urgency as they bring a wounded person into the motor inn]Allez, allez !
+176)  LARRY
+[pickup2][Ambient - as Lee arrives with strangers] Mais c'est QUI ces mecs ?
+177)  DOUG
+[pickup2][ambient - when Lee arives with an injured guy and a new person] Putain de merde.
+178)  CARLEY
+[pickup2][ambient - uncomfortable & suspicious when Lee arives with an injured guy and a new person]Qu'est-ce qui se passe ?
+179)  KATJAA
+[pickup2][urgent - flustered, being asked to medically attent to a man with a missing leg] {angryD}Mais enfin, Ken!  Je... J'en sais rien !
+180)  BEN
+[pickup2][urgent - not wanting his friend to die] {fearC}Vous êtes médecin ?  {fearC}Faut le sauver !  S'il vous plait !
+181)  KATJAA
+[pickup2][urgent - flustered, being asked to medically attend to a man with a missing leg - Put on the spot]{fearA}Mettez-le dans la remorque, je vais l'examiner.
+182)  KATJAA
+[pickup2][shocked as Lee & her husband arrive carring an injured stranger.  This line is directed specifically toward Lee. Stern but concerned] Qu'est-ce qui s'est passé !?
+183)  KENNY
+[pickup2][Calling out for his wife as he helps bring in an injured person into the motor inn for her help]KAT !
+184)  LEE
+[pickup2][urgent - bringing in an injured man for help - Response to "What happened"]{angryC}Pas le temps d'expliquer.
+185)  LEE
+[pickup2][urgent - bring in an injured man for help - Response to "What happened"]{fearA}Vous pouvez le soigner ?
+186)  LEE
+[pickup2][urgent - bring in an injured man for help - Response to "What happened"]{disgustB}Il a marché dans un piège à ours.
+187)  LEE
+[pickup2][urgent - bring in an injured man for help - Response to "What happened"]{sadC}Il y a eu un accident.
+188)  KATJAA
+[pickup2][When Lee & kenny are silent when asked "What happened" as they bring her a legless man, she starts to suspect his guilt]{angryB}Qu'est-ce que vous avez fait ?
+189)  KATJAA
+[pickup2][annoyed that lee isnt explaining himself for bringing a critically injured man to her to fix]{angryC}Qu'est-ce qu...? Me faites pas le coup !
+190)  KENNY
+[pickup2][urgent - bringing a critally injured man for his wife to fix] Kat, tu peux le soigner ?
+191)  KATJAA
+[pickup2][shocked to find out the injured man lost his leg in a bear trap!]{disgustA}Un piège à ours ?!
+192)  KATJAA
+[pickup2][realizing that someone in thier group has accidentally shot a teenager while out hunting] {disgustA}Oh, Seigneur.
+193)  KENNY
+[pickup2][a bit defensive and a bit guilty when Katjaa askes what they did to the injured person they are brining to her for help]Peu importe.
+194)  LILLY
+[pickup2][angry with lee, kenny and mark for bringing strangers to the motel knowing there isnt enough food as it is, and extremely frustrated since she is the person in charge of rations for eveyone] {angryC}C'est quoi ce bordel ?!  Faut pas ramener des gens ici !  {angryB}A quoi vous pensez ?!
+195)  LILLY
+[pickup2][angry with Lee and frustrated with her position as Leader, she challenges Lee to walk in her shoes]{angryB}Vous savez quoi ?  Si vous pensez que je fais mal mon travail, alors faites-le vous même !
+196)  LEE
+[pickup2][When Lilly tells he that HE is in charge of the rations, Lee thinks she's overreacting.]{disgustA}Lilly [come on!]-
+197)  LILLY
+[pickup2][angry and serious- laying it on the line that Lee now has to suffer the tough decisions she makes every day]{angryA}Non, je ne plaisante pas. {angryB}Prenez ça, et allez la distribuer.  Vous verrez ce que ça fait de pas avoir assez de nourriture pour tout le monde.
+198)  LILLY
+[pickup2][Lilly angrily motions to the only food they have left and puts Lee in charge of it]{angryC}C'est TOUT ce qu'on a pour aujourd'hui.  {thinkingA}C'est VOUS qui décidez qui mangera !
+199)  KENNY
+[pickup2][defensive; irritated that Lilly is once again trying to bully people in the name of "leadership"]Hé, vous pouvez baisser d'un ton deux secondes ?
+200)  LILLY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryC}Non, je baisserai pas d'un ton !  Je veux savoir comment vous en êtes venus à croire que ce serait une bonne idée de ramener d'autres bouches à nourrir ici ?!
+201)  MARK
+[pickup2][to himself, annoyed that Lilly and Kenny are fighting where there are bigger things to worry about]{thinkingB}C'est pas vrai.
+202)  LEE
+[pickup2][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{angryB}Il serait mort si on l'avait laissé !
+203)  LEE
+[pickup2][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{sadB}C'est nous qui lui avons tiré dessus.
+204)  LEE
+[pickup2][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{angryA}On a abandonné l'autre.
+205)  LEE
+[pickup3][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{angryB}J'ai pensé qu'on pourrait lui sauver la vie ! {angryC}C'est moi qui lui ai coupé la jambe, c'est moi le responsable.
+206)  LILLY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}On a PAS à s'occuper de chaque survivant qu'on croise ! {angryC}NOUS devons nous préoccuper de la survie de NOTRE groupe !  Ici, et maintenant.
+211)  LILLY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}On a PAS à s'occuper de chaque survivant qu'on croise ! {angryC}NOUS devons nous préoccuper de la survie de NOTRE groupe !  Ici, et maintenant.
+207)  LILLY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{thinkingA}L'autre ?!  {angryA}Bon sang, Lee!  Et s'ils étaient plus nombreux ?!  {angryB}Et s'ils vous avaient suivis jusqu'ici ?!
+208)  LARRY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}Et bien vous auriez du faire ce qu'il fallait, c'est-à-dire les achever.
+209)  KENNY
+[pickup2][TENSE! - Responing to Lilly saying they should have killed the kid instead of bringing him back to camp]Putain mais c'est quoi votre problème !?
+210)  LARRY
+[pickup3][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}Vous avez fait une belle connerie !
+212)  LARRY
+[pickup2][Really annoyed that Lee & Kenny have brought new people to the camp while everyone is starving]{angryC}Comment vous savez qu'il ne ment pas ?!
+213)  BEN
+[pickup2][TENSE! - Trying to fend of suspicion durring the arguement by insisting that there were no more of them]{sadB}Il y avait personne d'autre. Rien que nous !
+214)  KENNY
+[pickup2][Bringing down the intensity a bit, through grittet teeth.  Getting really fed up with Lilly trying to bully people with her leadership - ]Vous savez quoi, ça vous plait de jouer la chef de notre petit groupe, mais on peut prendre nos putain de décisions tous seuls ! On est pas dans votre dictature personnelle !
+215)  MARK
+[pickup2][getting sucked into the argument, defending the position that bringing the injured people was the right thing to do] {angryB}Voyons, Lilly.  Ce sont des êtres humains !  Des gens qui essaient de survivre, tout comme nous.  On doit se serrer les coudes si on veut survivre !
+216)  MARK
+[pickup2][realizing that Lilly doesnt really consider him one of the group, mark exits the argument kowing his opinion isnt going to matter to her]{thinkingA}Très bien. Lâchez-le les gars.  [turns to Ben, Sarcastic] {disgustA}Bienvenue dans la famille, petit.
+217)  LILLY
+[pickup2][Really annoyed that Lee & Kenny have brought new people to the camp while everyone is starving]{angryB}On vous a accepté juste parce que vous aviez A MANGER.  {angryC}Pour nous TOUS.  {angryA}Mais on a presque tout mangé, il nous en reste pour à peine une semaine, [turns to Ben]et {thinkingB}j'imagine que vous n'êtes pas venus avec vos conserves ?!
+218)  LILLY
+[pickup2][Really annoyed that Lee & Kenny have brought new people to the camp while everyone is starving]{angryB}Hé, j'ai jamais demander à être la chef !
+219)  LEE
+[pickup2][difusing the tense argument by taking side]{sadA}Lilly a raison.  Il nous faut un chef, ou le groupe va éclater. {angryA}On peut pas continuer à se faire la guerre.
+220)  LEE
+[pickup2][difusing the tense argument by taking sides]{angryB}Kenny a raison. C'est vrai, tu es responsable de la bouffe, des emplois tu temps, mais tu n'es PAS responsable de la vie des gens.
+221)  KENNY
+[pickup2][sarcastic, highy irritated tha Lee has taken Lilly's side in the agrugment about leadership] Formidable. C'est ce qui s'appelle prendre parti, Lee !
+222)  LEE
+[pickup2][tense] {angryA}Je ne prends parti pour personne.
+223)  LILLY
+[pickup2][taking a deep breath, makes the decision to let the Kid stay (for now) because she believes that might help difuse the tension in the group for the moment, not because it's the right thing]... {angryB}Ils peuvent rester jusqu'à ce que Katjaa en ait terminé avec l'autre. Après quoi ils DEVRONT partir.  {angryC}Je me fous de leur état de santé. Mais nous on a pas assez à manger.
+224)  LEE
+[pickup2][tense - in the argument, defenting his own decision to bring back strangers]  [Conceding that Lilly IS in charge]{sadA}Ecoute, maintenant qu'ils sont là, on va pas les virer... {normalD}qu'est-ce que tu veux faire ?
+225)  KENNY
+[pickup2] Je m'en fous.
+226)  LEE
+[pickup2][Still tense - difusing the tense argument by taking sides]{angryB}Et pour ta gouverne, Kenny voulait les abandonner !
+227)  LEE
+[pickup2][Still tense - difusing the tense argument by taking sides]{thinkingB}Bon, une fois que Katjaa aura recousu celui-là, tu pourras les foutre dehors... {angryA}Laisse-les livrés à eux-mêmes, je m'en tape.  {angryB}Mais qu'on leur donne au moins une chance de se défendre contre les zombies.
+228)  LILLY
+[pickup2][highyly annoyed tha Lee is challenging her leadership skills.] {angryA}Vraiment ?!
+229)  KENNY
+[pickup2][TENSE! - Really fed up with lilly's "leadership" - REALLY driving his point home]Vous étiez pas là.  Lee a fait un choix.  Point final.
+230)  KENNY
+[pickup2][TENSE - annoyed that Lee doesnt have his back in this arguement]Non, Lee, c'est important ! On ne peut pas donner TOUS les pouvoirs à UNE SEULE personne !
+231)  LEE
+[pickup2][TENSE! - Trying to difuse the situation by NOT taking sides.]{thinkingB}On s'en fout de qui est le chef !  Ces personnes sont là désormais. {normalD}On dirait qu'il va falloir décider de la suite des opérations.
+232)  KENNY
+[pickup2][TENSE- a beat - as Kenny works out his frustration, then accusational and a bit hurt]Vous voyez, ça a l'air de vous rassurer de rester le cul entre deux chaises, mais tôt ou tard vous devrez choisir dans quel camp vous êtes.
+233)  KENNY
+[pickup2][Fed up with arguing with Lilly and Lee not having his back] Rien à dire là-dessus, Lee ?
+234)  LILLY
+[pickup2][Still tense - annoyed that Kenny cant see the big picture]{angryB} Si Kenny pouvait arrêter d'être con deux minutes, il comprendrait que je prends les décisions {angryD}pour protéger SA famille !  {angryC}On n'a pas assez à bouffer, c'est tout !
+235)  LILLY
+[pickup2][Still angry, but sick of fighting]{angryB}Vous croyez que c'est facile pour moi ? Tout le monde va me haïr parce que c'est MOI qui gère les rations.  Mais PERSONNE d'autre ne veut le faire !
+236)  LILLY
+[pickup2][fed up! but VERY matter of fact.] {thinkingA}Vous savez quoi ?  {angryA}Ce soir, je ne le ferai pas.  Faites-le vous-même.  Voilà les rations du jour, mais il n'y en aura pas pour tout le monde.  {normalC}Bon courage.
+237)  
+Kenny a raison.
+238)  
+Lilly a raison.
+239)  
+On se fout de savoir qui est le chef !
+240)  LILLY
+[pickup2][after the argument, having spent all her energy, appealing to Lee for help.] {sadB}Ecoutez, là, je peux pas m'en charger.  {disgustA}Vous voyez ce que j'endure. {sadA}Rendez-moi un service voulez-vous, et occupez-vous des rations aujourd'hui.
+241)  LEE
+[pickup2][after fighting, he has no enegry left... sypathizing with Lilly's job of rationing food they dont have enough of]{surpriseA}C'est tout ce que vous avez à distribuer ?
+242)  LILLY
+[pickup3][follows: 310522313][tired, reafiriming that the food really is almost gone] {sadA}Si on veut tenir la semaine avec ce qu'il reste, alors c'est tout ce qu'on doit manger aujourd'hui.  Il y en aura pas assez pour tout le monde, mais... [too worn out to even finish that thought, and just leaves it to Lee]{sadB} enfin faites ce qui te semble juste.
+243)  LILLY
+[pickup2][exhausted from arguing, but managing to crack a weak smile.] Quand on s'est rencontrés, vous avez dit que j'étais une conne...
+244)  LEE
+[pickup2][exhausted from arguing, but managing to crack a weak smile.]Je m'en souviens.  Vous l'êtes toujours.[an asshole]
+245)  LILLY
+[pickup2][exhausted from arguing, ] Quand on s'est rencontrés, vous avez concédé que vous laisser entrer dans le drugstore c'était prendre un risque inconsidéré...
+246)  LILLY
+[pickup2][exhausted from arguing, but showing her insecurity a bit.] Quand on s'est rencontrés, vous aviez dit que j'étais une chef qui perdait les pédales...
+247)  LEE
+[pickup2][exhausted from arguing, but giving lilly the support she needs]
+248)  LEE
+[pickup2][knowing that his next statement is going to sound shitty, right after a guy died] Bon et bien... au moins pour lui, la question est réglée.
+249)  KATJAA
+[pickup2]Et pour l'autre ?
+250)  
+Il faut qu'on se débarrasse de lui.
+251)  LARRY
+[pickup3][Super angry that Lee brought an infected man into the group!!]{angryC} Pourquoi est-ce que vous avez eu l'idée de le ramener ici, abruti ?!
+642)  LARRY
+[pickup3][Super angry that Lee brought an infected man into the group!!]{angryC} Pourquoi est-ce que vous avez eu l'idée de le ramener ici, abruti ?!
+252)  LILLY
+[pickup2][firmly!  Quick, in the heat of an arguement!]Papa !  Calme toi.
+643)  LILLY
+[pickup2][firmly!  Quick, in the heat of an arguement!]Papa !  Calme toi.
+253)  KENNY
+[pickup2] [furious!!  After his wife was almost killed!!] {angryC}C'est TOI qui as dit qu'il n'avait pas été mordu !
+254)  BEN
+[pickup2] [defensive, but still in shock - response to "You said he wasn't bitten!"]  {fearC}Mais c'est vrai !
+255)  KENNY
+[pickup2] [furious!!  After his wife was almost killed!!] {angryC}Et ben ton ami "qui-n'a-pas-été-mordu" est revenu à la vie et a tenté de tuer ma femme !
+256)  BEN
+[pickup2][Super defensive!  Being yelled at!!]{fearC}Quoi ?!!   {sadA}Attendez, vous n'êtes pas au courant ?
+257)  KENNY
+[pickup2] [furious!!  After his wife was almost killed!!]{angryA}Putain mais au courant de quoi ?
+258)  BEN
+[pickup2][Super defensive!  Being yelled at!!]{sadA}C'est pas la morsure qui vous transforme ! !
+259)  BEN
+[pickup2][Super defensive!  Being yelled at!!]{sadB}Peu importe comment on meurt, on se transforme quand même.  Ca se passe toujours comme ça, sauf si vous détruisez le cerveau.  Ca va TOUS nous arriver.
+260)  LARRY
+[pickup3][calming down but still pissed.  Low and seething]Vous allez TOUS nous faire tuer !
+644)  LARRY
+[pickup3][calming down but still pissed.  Low and seething]Vous allez TOUS nous faire tuer !
+261)  LEE
+[pickup2][responding to the news that you dont have to be bitten to become a zombie]{disgustA}C'est faux.
+262)  LEE
+[pickup2][responding to the news that you dont have to be bitten to become a zombie]{fearB}On est infectés ?  Chacun d'entre nous ?
+263)  LEE
+[pickup2][responding to the news that you dont have to be bitten to become a zombie]{fearC}Que Dieu nous garde.
+264)  BEN
+[pickup2][defensive - being accused of lying about not having to be bit to change]{sadB}C'est vrai !  Je le jure !
+265)  KATJAA
+[pickup2][after hearing that people come back as zombies not matter what, and Lee thinking it's a lie]{sadB}Il a peut-être raison.  Je n'ai vu aucune morsure. Ca expliquerait pourquoi ils sont aussi nombreux.
+266)  KENNY
+[pickup2][after hearing that people come back as zombies not matter what, ]{fearA}Bon sang.  Si peu importe la façon dont on MEURT, alors merde, {sadB}un accident mortel de voiture et une famille de cinq se retrouve transformée en zombies.
+267)  BEN
+[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.  Answering "we're all infected?"] {sadB}Je- je crois bien.  Non mais bon... {sadC}Tout ce que je sais, c'est que j'ai vu des gens se transformer alors que je SAVAIS qu'ils n'avaient jamais été mordus.
+268)  BEN
+[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.] {sadA}La première fois que j'ai assisté à ça, on était tous cachés dans un gymnase, et tout le monde pensait être en sécurité.  {sadB}Mais l'une des filles, je crois que c'était Jenny Pitcher, elle a pas du supporter tout ça.  Elle a avalé des pilules. Un sacré paquet de pilules.
+269)  BEN
+[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.]{sadC}Quelqu'un est entré dans sa chambre le lendemain et...mon Dieu...
+270)  LILLY
+[pickup2][reflecting on the news that you dont haven to be bitten to turn zombie] {disgustA}Accidents de voiture, suicides, chaque mort en crée un de plus.
+271)  MARK
+[pickup2][reflecting on the news that you dont haven to be bitten to turn zombie] {sadB}Ca explique pourquoi l'épidémie s'est répandue aussi vite lors des premiers jours.
+272)  
+Tu mens.
+273)  
+Sommes-nous tous infectés ?
+274)  
+Que Dieu nous garde.
+275)  KENNY
+[pickup2] [furious!!  After his wife was almost killed!!] {angryD}Pourquoi tu nous as pas dit qu'il avait été mordu ?!
+276)  BEN
+[pickup2][scared. confused, getting yelled at!! "Why didn't you tell us he was bitten?!"]{fearC}Quoi ?
+277)  KENNY
+[pickup2][furious!!  After his wife was almost killed!!] {angryD}Il a été mordu et tu nous as rien dit bordel !!
+278)  KENNY
+[pickup2] [furious!!  After his wife was almost killed!!]{angryC}On vous a tout de suite demandé "Il a été mordu ?" et vous avez dit "Non."
+279)  BEN
+[pickup2] [defensive, but still in shock - response to "You said he wasn't bitten!"]  {fearC}Mais il n'avait pas été mordu !  Je jure !
+280)  ANDY
+[pickup2][process-in the distance][casual - looking for gas, ]{angryA}Fais gaffe où tu mets les pieds, gros.
+281)  DANNY
+[pickup2][process-in the distance][casual - out looking for gas]{thinkingA}Merde.  C'est quoi ce fil ?
+282)  LILLY
+[pickup2][whispered, but angry, interrogating Ben about the people coming down the road]{angryA}Qui sont ces types ?!
+283)  BEN
+[pickup2][scared and being interrogated.  Asked "who are those people?!"][whispered]{fearA}Je- J'en sais rien !
+284)  LEE
+[pickup2][interrogating Ben about the people coming down the road][quiet]{thinkingB}Si ils sont amicaux, on ne leur fera aucun mal.  Ils font pas partie de vore groupe, n'est-ce pas ?!
+285)  BEN
+[pickup2][scared and being interrogated.  ][quiet][taking in the tragedy]{sadA}...Les derniers.
+286)  BEN
+[pickup2][scared and being interrogated.  ][quiet]{fearA}Non.  Mr. Parker, Travis et moi étions les- [interupts himself. ]
+287)  LEE
+[pickup2][interrogating Ben about the people coming down the road - quiet]{thinkingB}Ce sont eux qui ont attaqué votre camp ?
+288)  BEN
+[pickup2][scared and being interrogated.  ][quiet]{fearA}Je ne crois pas.  Mais ils étaient tous masqués, alors je sais pas.
+289)  BEN
+[pickup2][scared and being interrogated.  ][quiet]{fearB}Je vous jure que je ne connais PERSONNE dans cette ville !
+290)  LEE
+[pickup2][interrogating Ben about the people coming down the road - quiet]{angryA}Je crois que tu les connais.
+291)  BEN
+[pickup2][scared and being interrogated.  Asked "who are those people?!"][quiet]{fearA}Je dis la vérité !  {angryA}Je les ai jamais vus !
+292)  DANNY
+[pickup2][process-in the distance][causal-  still messing with string around his shoe]{angryA}Ouais, j'me dépatouille...
+293)  ANDY
+[pickup2][process-in the distance][causal- his brother is still messing with string around his shoe]{thinkingA}Tout va bien ?
+294)  ANDY
+[pickup2][process-in the distance][casual, looking for gas, joking with his brother.] J'me demande comment tu fais pour être encore en vie, mec.
+295)  LILLY
+[pickup2][the pressure is on lilly to make a decision.  Zombies come and go, but they havent dealt with people before][whispered]{angryA}Non. Nous suivons la procédure. On ne les affronte pas si on peut les éviter.
+296)  DUCK
+[pickup2][straining to see who the injured person is that Lee and Kenny are bringing in to the motel] Qui c'est ?
+297)  CLEMENTINE
+[pickup2][Trying to get to lee as people crowd around him.  He's bringing in a critically injured person.  - She's getting lost ion the shuffle]Lee, tu vas bien ?
+298)  KATJAA
+[pickup2][urgent - flustered, being asked to medically attent to a man with a missing leg] {fearB}Le soigner ?! Vous plaisantez ?!
+299)  KENNY
+[pickup2][pushing people back so katjaa can operate on the injured man]OK, reculez, faites-lui un peu de place !
+300)  CLEMENTINE
+[pickup2][very concerned.  Lee's been out hunting and just came back with a critically injured person]{sadB}Heureusement que c'est pas toi.
+301)  MARK
+[pickup2][whispering- impressed that Dougs alarm system worked]{happyA}Doug !  Ca marche !
+302)  DOUG
+[pickup2][whispering - proiud that his alarm system works]Evidemment que ça marche !  Je vous l'avais dit !
+303)  LEE
+[pickup2][calling out - confronting strangers as they arrive at the motel.  Stern]{thinkingB}On ne veut aucun problème.
+671)  LEE
+[pickup2][calling out - confronting strangers as they arrive at the motel.  Stern]{thinkingB}On ne veut aucun problème.
+304)  LEE
+[pickup2][calling out - confronting strangers as they arrive at the motel.  Stern]{angryA}On est plus nombreux que vous, alors faites demi-tour et repartez.
+305)  ANDY
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint]{SurprisedA}Je comprends.  Nous non plus. [trying to ease the tension of the situation] {happyA}Je m'appelle Andy St. John.  Et lui c'est mon frère, Dan.  On est juste venus chercher de l'essence.
+672)  ANDY
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint]{SurprisedA}Je comprends.  Nous non plus. [trying to ease the tension of the situation] {happyA}Je m'appelle Andy St. John.  Et lui c'est mon frère, Dan.  On est juste venus chercher de l'essence.
+306)  ANDY
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint]{happyA}Très bien, d'accord.  {thinkingA}Mais ce serait vraiment bien si vous pouviez partager un peu d'essence avec nous avant qu'on parte...
+307)  ANDY
+[pickup2][cautious - being confronted by Lilly, (Carkey) & Lee at gunpoint]{thinkingA}Apparemment vous vous êtes barricadés dans ce motel, c'est très bien, mais si vous pouviez nous donner un peu d'essence nous vous en serions très reconnaissants.
+673)  ANDY
+[pickup2][cautious - being confronted by Lilly, (Carkey) & Lee at gunpoint]{thinkingA}Apparemment vous vous êtes barricadés dans ce motel, c'est très bien, mais si vous pouviez nous donner un peu d'essence nous vous en serions très reconnaissants.
+308)  LEE
+[pickup2][calling out - confronting strangers as they arrive at the motel.  Stern]{angryA}Vous êtes armés ?!
+309)  DANNY
+[pickup3][cautious - being confronted by Lilly & Lee at gunpoint]Ouais... pour nous défendre... Les morts peuvent être n'importe où.
+310)  ANDY
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint, but attempting to be friendly]{happyA}Mais, euh, je pense que vous avez le dessus, là.
+311)  CARLEY
+[pickup2][forceful.  Confronting stranges who have arrived at the motel]{angryA}Pourquoi vous voulez de l'essence ?
+312)  LILLY
+[pickup2][forceful.  Confronting stranges who have arrived at the motel]{thinkingA}Pourquoi vous voulez de l'essence ?
+313)  ANDY
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint] {happyA}Nos groupes électrogènes marchent à l'essence.
+314)  KENNY
+[pickup2][forceful, confronting the borthers before they get too close]{angryA}N'approchez plus.
+315)  KENNY
+[pickup2][taking charge against Lilly's wishes to confront the strangers] [whispered]{angryB}Désolé Lilly, il faut qu'on le fasse.
+316)  KENNY
+[pickup2][trying to figure out what to do about the new strangers walking toward their camp][whispered]{angryB}Ils sont que deux.  On doit se défendre.
+317)  ANDY
+[pickup2][suprised at gunpoint, Andy tries to show that they are friendly]{surprisedA}Ouah merde ! {thinkingA}D'accord, d'accord... Pas de problème.
+318)  ANDY
+[pickup2][trying to be friendly while suddenly being held at gunpoint]{SurprisedA}Woah, tout doux, miss !  Mon frère et moi, on... on veut juste savoir si vous pouvez nous donner un coup de main, c'est tout.
+319)  CARLEY
+[pickup2][forceful, confronting strangers that have suddenly showed up at your front gate]{angryB} Reculez, j'ai dit !
+320)  CARLEY
+[pickup2][forceful, confronting strangers that have suddenly showed up at your front gate] {angryB}Reculez !
+321)  LILLY
+[pickup2][backing Carley up as she confronts the strangers, but coaxing her not to take it too far]{angryA}...Carley...
+322)  ANDY
+[pickup2][careful - trying to establing themselfs as useful and not a threat] {happyB}Ecoutez, on a une exploitation laitière à quelques kilomètres le long de cette route.  Si vous voulez bien baisser vos flingues, {thinkingA}on peut essayer de faire du troc.
+323)  LEE
+[pickup2][barganing with the strangers for gas] {thinkingA}Vous proposez quoi ?
+324)  LEE
+[pickup2][barganing with the stranges for gas. Blunt] {thinkingA}Il nous faut à manger.
+325)  LEE
+[pickup2][barganing with the stranges for gas] {angryA}On n'a pas besoin de faire de commerce avec vous.
+326)  LILLY
+[pickup2][barganing with the brother over gas]{thinkingA}Vous voulez de l'essence, on veut de la nourriture.  Voyons voir.
+327)  DANNY
+[pickup3][barganing with the strangers for gas]{thinkingA}Vous avez assez de nourriture ?  On en a plein à la ferme.
+328)  ANDY
+[pickup2][brightening up, friendly] {happyB}Un peu qu'on a à manger! {happyA}Et si on causait de l'essence.
+329)  ANDY
+[pickup2] [bargaining with lee & groups for gas.  Lee doesnt want to make any deals]{thinkingA}D'accord, vous n'avez pas besoin.  {happyA}Mais avec un grand groupe comme le vôtre, vous devriez certainement manquer de nourriture. On peut faire un échange équitable.
+330)  KENNY
+[pickup2][still arguing that keeping the gas is more important that trusting strangers] {angryB}On sait même pas si ces types la vérité !
+331)  LILLY
+[pickup2][making her point and ending the argument] Then let's find out. [-if the brother are telling the truth about having food] {thinkingA} Lee, vous et mark n'avez qu'à aller inspecter la ferme avec eux, voir si tout est réglo.
+332)  LILLY
+[pickup2][stern - barganing with the brothers] {angryA}Montrez-nous la nourriture et on discutera.
+333)  KENNY
+[pickup2][truns to confront lilly about giving away their gas.  It's a personal confrontation, but still in front of the brothers.  Should be treated as a bit on an aside. slightly hushed]{angryA}Doucement, Lilly, on aura besoin du maximum d'essence pour le camping-car.
+334)  MARK
+[pickup2][arguing with Kenny that food is more important than gas]{angryA}Le camping-car ne démarre même pas, Kenny!  {sadA}Il nous faut à manger.
+335)  CARLEY
+[pickup2][volunteering to go to the dairy with Lee]{angryA}Je viens avec vous.  Je vous couvre si quelque chose tourne mal.
+336)  DOUG
+[pickup2][volunteering to go to the dairy with Lee]Moi aussi j'y vais, on sera plus nombreux, au cas où on tombe sur des trucs morts.
+337)  KENNY
+[pickup2][unhappy with Lilly's plan]{angryA}Pas question, allez vérifier si ils ont assez de bouffe pour que ça vale le coup !  Seulement après on verra si on marchande avec eux.
+338)  LILLY
+[pickup2][making a plan for checking out the dairy]{thinkingA}Vous devriez prendre UN PEU d'essence avec vous.  En signe de bonne volonté.  Et pour pouvoir faire du troc avec eux une fois sur place.
+339)  ANDY
+[pickup2][trying to get lee & Group to make a decision, knowing that it's leaning in thier favor] {happyA}Alors qu'est-ce que vous en pensez ?
+607)  ANDY
+[pickup2][trying to get lee & Group to make a decision, knowing that it's leaning in thier favor] {happyA}Alors qu'est-ce que vous en pensez ?
+340)  LEE
+[pickup2][making his final offer]{angryB}Pas d'essence tant qu'on aura pas inspecté votre ferme.
+341)  LEE
+[pickup2][making his final offer]{thinkingA}On va amener UN PEU d'essence à votre ferme.  En échange, vous nous donnez un peu de nourriture à ramener ici.  {thinkingB}Ensuite on avisera.
+342)  ANDY
+[pickup2][andy gives in and gives the okay for Lee & compnay to follow them to the dairy]{happyB}Très bien. Marché conclu.  Allons-y.
+343)  LEE
+[pickup2][insisting on the food first]{angryA}Ca peut attendre.  On veut voir la nourriture d'abord.
+344)  DANNY
+[pickup2][still arguing for the gas]{thinkingA}Mais si vous avez de l'essence ici--
+345)  ANDY
+[pickup2][agreeing to Lee's terms for the traid]{happyA}Ca me parait honnête.  Quelques litres suffiront à faire tourner nos générateurs un bon moment.
+346)  DANNY
+[pickup3]Notre ferme est protégée par une clôture électrique.  Les groupes électrogènes fournissent l'électricité...
+347)  
+Pas le temps de vous expliquer.
+348)  
+Vous pouvez le soigner ?
+349)  
+Il a marché dans un piège à ours.
+350)  
+Il y a eu un accident.
+351)  
+Il serait mort si on l'avait laissé !
+352)  
+On a abandonné l'autre là-bas.
+353)  
+C'est nous qui l'avons descendu.
+354)  
+J'ai cru qu'on pourrait lui sauver la vie !
+355)  
+On ne veut aucun mal à vos amis.
+356)  
+Ce sont les types qui ont attaqué votre camp ?
+357)  
+Je crois que vous les connaissez.
+358)  
+On ne veut aucun problème.
+359)  
+Vous êtes armés ?
+360)  
+On est plus nombreux.
+361)  
+Qu'est-ce que vous proposez ?
+362)  
+Il nous faut à manger.
+363)  
+On ne fait pas de marché.
+364)  
+Pas d'essence tant qu'on aura pas vérifié votre ferme.
+365)  
+On va amener UN PEU d'essence à votre ferme.
+366)  LARRY
+[pickup2][yelling, defending his daughter]{angryC}Hé, gaffe à ce que tu dis !
+367)  LARRY
+[pickup2][arguing that letting a stranger die is fine] {angryB}Et alors ?
+368)  LILLY
+[pickup2][really doesnt need her dad trying to defend her.  She can handle this herself] {fearA}Je t'en prie, Papa. {sadA}Va plutôt aider Mark sur la barrière.
+369)  LARRY
+[pickup2][defending Lilly in the arguement]{angryC}J'en vois aucun se remuer pour prendre les décisions difficiles !  {angryB}Ma fille a plus de couilles que vous tous réunis !
+370)  MARK
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Ne tirez pas!  ca va attirer plus de zombies !
+371)  BEN
+[pickup2][scared and being interrogated.  ][quiet]{sadB}De toute façon ils sont tous morts.
+372)  CLEMENTINE
+[pickup2]{thinkingA}Je l'avais encore il y a quelques jours.
+373)  LEE
+[pickup2] {happyA}Bien sûr. {thinkingA}Tu l'as perdue quand ?
+374)  LEE
+[pickup2][tired & Hungry]{thinkingB}Tu la veux vraiment ?
+375)  CLEMENTINE
+[pickup2][sad that Lee wont help find her hat] {sadC}C'était ma casquette préférée.
+376)  LEE
+[pickup2]{sadB}Désolé, puce, j'ai pas le temps.
+377)  CLEMENTINE
+[pickup2][annoyed that lee isnt answering her question] {angryA}Lee !
+378)  CLEMENTINE
+[pickup2][meekly] {sadA}Merci.
+379)  LEE
+[pickup2][tired]{thinkingB}Comment ça va, Clémentine?
+380)  CLEMENTINE
+[pickup2][tired and hungry]{fearA}J'ai très faim, Lee.
+381)  LEE
+[pickup2][tired][that you're hungry, clem][ Changing the subject.]{normalA}Où est ta casquette ?
+382)  CLEMENTINE
+[pickup2][tired and hungry]{sadB} Je sais pas.  {fearA}Tu peux m'aider à la retrouver ?
+383)  
+Bien sûr.
+384)  
+J'ai pas le temps.
+385)  
+Tu la veux vraiment ?
+386)  CLEMENTINE
+[pickup2][tired & Hungry -"Do you really need your hat?"]{sadC}C'est un cadeau d'anniversaire de mon papa.
+387)  CLEMENTINE
+[pickup2][tired and hungry, but happy] {normalA}Ca peut aller.
+388)  LEE
+[pickup2][tired & Hungr]{happyA}Très bien, Clém. {normalA}Je dois m'occuper de certains trucs.  {normalC}Va donc jouer avec Duck un moment.
+389)  LEE
+[pickup2][tired and hungry]{thinkingA}Je jure que si je la trouve, je te le dirai.
+390)  LEE
+[pickup2] On a pioché là-dedans il y a un bon moment.
+391)  LEE
+[pickup2] Laisse Doug bricoler un système d'alarme avec les trucs qu'il trouve par terre.
+392)  LEE
+[pickup2] Ca maintient les zombies à distance. Carley s'est bien occupée de la surveillance.
+393)  LEE
+[pickup2] Du Coca au gingembre. Vide depuis un bail.
+394)  BEN
+[pickup2] [taken aback] Quoi ? {fearA}Comment aurais-je pu ?
+395)  LEE
+[pickup2] [stern. threatening.]{angryB}Ils se sont ramenés juste après que tu aies débarqué ici.
+396)  LARRY
+[pickup2] {angryA}Boucle-la et donne-leur !
+397)  BEN
+[pickup2][responds to "and I don't suppose you guy are carrying any groceries, are you?!" in an arguement]{disgustA}Non.
+398)  BEN
+[pickup2][being pulled away from an arguement by a little kid who wants to show Ben her drawings]{thinkingA}Quoi ?  {sadA}Non, je -
+399)  CLEMENTINE
+[pickup2][wanting to get Ben away from the arguement]{thinkingA}Viens voir ce que j'ai dessiné.
+400)  CLEMENTINE
+[pickup2][insistant, knowing Ben is better off not in the middle of this argument] {sadA}Allez viens d'accord ?
+401)  LILLY
+[pickup2][frustrated as hell! makes her point] {angryA}Tout le monde était bien content que je gère la distribution de bouffe quand il y en avait assez, mais maintenant qu'on en manque, {angryD}je suis devenue une putain de Nazie !
+402)  MARK
+[pickup2][irritated, trying to hold a board while Larry hammers it with another board]{sadA}J'essaie. Je m'étais pas rendu compte que j'étais devenu aussi faible.
+403)  LARRY
+[pickup2][trying to hammer a board with another board] {angryA}Vous allez finir par les tenir ces putains de planches ?!
+404)  
+D'accord, on y va.
+405)  LEE
+[pickup2] {angryA}D'accord, on y va. {happyA}Clémentine, qu'est-ce que tu en penses ?
+406)  
+Non. On reste ici.
+407)  LARRY
+[pickup2] {thinkingA}Alors comme ça vous n'allez même pas demander son avis à Clémentine, hein ? {normalC}C'est une grande fille, {happyA}hein ma puce ?
+408)  LEE
+[pickup2] {angryB}Non. On reste ici. Je serai intransigeant, même si vous votez.
+409)  LARRY
+[pickup2] {normalC}Et bien si tu te fous du vote, {happyA}demandons à la fille.
+410)  CLEMENTINE
+[pickup2] [small, with the eyes of the group on her] {fearA}Lee...j'ai très faim.
+411)  KENNY
+[pickup2] {thinkingA}Ils ont une clôture ? {normalC}On pourrait y déménager si c'est plus sûr...
+490)  KENNY
+[pickup2] {thinkingA}Ils ont une clôture ? {normalC}On pourrait y déménager si c'est plus sûr...
+412)  MARK
+[pickup2] {angryA}Ouais, et bien, Lee pense le contraire.
+491)  MARK
+[pickup2] {angryA}Ouais, et bien, Lee pense le contraire.
+413)  KATJAA
+[pickup2] {sadA}Je suis sûre qu'il a de bonnes raisons...
+492)  KATJAA
+[pickup2] {sadA}Je suis sûre qu'il a de bonnes raisons...
+414)  LARRY
+[pickup2] {normalC}Que voulez-vous dire ? Quelle type d'installation ils ont ?
+488)  LARRY
+[pickup2] {normalC}Que voulez-vous dire ? Quelle type d'installation ils ont ?
+415)  MARK
+[pickup2] {happyB}Vous n'en croiriez pas vos yeux, ils ont une vache laitière et une CLOTURE. Mon dieu, cette clôture.
+489)  MARK
+[pickup2] {happyB}Vous n'en croiriez pas vos yeux, ils ont une vache laitière et une CLOTURE. Mon dieu, cette clôture.
+416)  MARK
+[pickup2] {thinkingA}On doit réfléchir en tant que GROUPE, Lee. Cela concerne tout le monde.
+493)  MARK
+[pickup2] {thinkingA}On doit réfléchir en tant que GROUPE, Lee. Cela concerne tout le monde.
+417)  DOUG
+[pickup2] Je dit qu'on le fait. Mais je rentrerai pour surveiller le motel, au moins jusqu'au dîner de ce soir.
+418)  LILLY
+[pickup2] {thinkingA}Doug ?
+419)  KENNY
+[pickup2] {thinkingA}On y va.
+499)  KENNY
+[pickup2] {thinkingA}On y va.
+420)  LILLY
+[pickup2] {happyA}On connait le vote de Mark. {thinkingA}Lee ?
+502)  LILLY
+[pickup2] {happyA}On connait le vote de Mark. {thinkingA}Lee ?
+421)  LILLY
+[pickup2] {angryB}Alors on restera dans ce motel moisi avec vos amusants presses-papier là-bas. {happyA}En plus on reste près de Macon où on a accès à la Pharmacie, pour mon père.
+496)  LILLY
+[pickup2] {angryB}Alors on restera dans ce motel moisi avec vos amusants presses-papier là-bas. {happyA}En plus on reste près de Macon où on a accès à la Pharmacie, pour mon père.
+422)  LILLY
+[pickup2] {thinkingA}Kenny, Katjaa ?
+498)  LILLY
+[pickup2] {thinkingA}Kenny, Katjaa ?
+423)  LARRY
+[pickup2] {happyB}Et comment, mon lapin.
+501)  LARRY
+[pickup2] {happyB}Et comment, mon lapin.
+424)  LILLY
+[pickup2] {happyA}Papa ?
+500)  LILLY
+[pickup2] {happyA}Papa ?
+425)  BEN
+[pickup2] {sadA}J'aimerai rester aussi, si ça vous va. Je n'ai pas eu beaucoup de chance avec les étrangers.
+497)  BEN
+[pickup2] {sadA}J'aimerai rester aussi, si ça vous va. Je n'ai pas eu beaucoup de chance avec les étrangers.
+426)  KENNY
+[pickup2] {angryA}Et sinon ?
+495)  KENNY
+[pickup2] {angryA}Et sinon ?
+427)  LILLY
+[pickup2] {angryA}Alors on vote pour le retour. Si la majorité est d'accord, Lee et Mark, vous retourner leur dire qu'on a changé d'avis après avoir réfléchi et on se retrouve là-bas.
+494)  LILLY
+[pickup2] {angryA}Alors on vote pour le retour. Si la majorité est d'accord, Lee et Mark, vous retourner leur dire qu'on a changé d'avis après avoir réfléchi et on se retrouve là-bas.
+428)  
+Ce n'était pas juste pour nous.
+440)  
+Ce n'était pas juste pour nous.
+429)  LARRY
+[pickup2] {angryC}A se sentir bien ? Hé bien, {disgustA}désolé que des gars avec un stock de nourriture et des DEFENSES ne font pas {angryD}frétiller votre petit cul, Mère Thérésa.
+482)  LARRY
+[pickup2] {angryC}A se sentir bien ? Hé bien, {disgustA}désolé que des gars avec un stock de nourriture et des DEFENSES ne font pas {angryD}frétiller votre petit cul, Mère Thérésa.
+430)  LEE
+[pickup2] {thinkingA}Ce n'était pas juste pour nous. {thinkingB}Je ne me sentais pas bien ici.
+481)  LEE
+[pickup2] {thinkingA}Ce n'était pas juste pour nous. {thinkingB}Je ne me sentais pas bien ici.
+431)  LILLY
+[pickup2] {angryA}Par NOUS, vous voulez dire nous tous ou juste vous et Clémentine ?
+483)  LILLY
+[pickup2] {angryA}Par NOUS, vous voulez dire nous tous ou juste vous et Clémentine ?
+432)  
+On ne peut pas se fier à des étrangers.
+441)  
+On ne peut pas se fier à des étrangers.
+433)  LEE
+[pickup2] {disgustA}On ne peut pas se fier à des étrangers, pas avec des enfants dans notre groupe.
+484)  LEE
+[pickup2] {disgustA}On ne peut pas se fier à des étrangers, pas avec des enfants dans notre groupe.
+434)  LARRY
+[pickup2] {angryA}Vous préférez les laisser mourir de faim ?!
+485)  LARRY
+[pickup2] {angryA}Vous préférez les laisser mourir de faim ?!
+435)  
+Ce n'est pas sûr pour Clémentine.
+442)  
+Ce n'est pas sûr pour Clémentine.
+436)  LARRY
+[pickup2] {angryA}Vous avez pensé au RESTE du groupe ? {angryB}On a quoi, ici, une corbeille de pain ? {angryC}Bon sang, Lee.
+487)  LARRY
+[pickup2] {angryA}Vous avez pensé au RESTE du groupe ? {angryB}On a quoi, ici, une corbeille de pain ? {angryC}Bon sang, Lee.
+437)  LEE
+[pickup2] {angryA}Ce ne serait pas sûr pour Clémentine. {angryB}Cette clôture est ultra dangereuse et {disgustA}j'aime pas la dégaine de ces types.
+486)  LEE
+[pickup2] {angryA}Ce ne serait pas sûr pour Clémentine. {angryB}Cette clôture est ultra dangereuse et {disgustA}j'aime pas la dégaine de ces types.
+438)  LILLY
+[pickup2] {thinkingA}Carley ?
+439)  CARLEY
+[pickup2] Je dit qu'on y va. Ils ont énormément de ravitaillement. Mais je reste ici jusqu'au dîner de ce soir.
+443)  LILLY
+[pickup2] [to the group]{happyA}Ils reviennent !
+468)  LILLY
+[pickup2] [to the group]{happyA}Ils reviennent !
+472)  LILLY
+[pickup2] [to the group]{happyA}Ils reviennent !
+476)  LILLY
+[pickup2] [to the group]{happyA}Ils reviennent !
+444)  DOUG
+[pickup2] Et on a de quoi manger !
+450)  DOUG
+[pickup2] Et on a de quoi manger !
+454)  CARLEY
+[pickup2] Et on a de quoi manger !
+469)  DOUG
+[pickup2] Et on a de quoi manger !
+445)  LARRY
+[pickup2] {surprisedA}Quoi ? {normalC}Bon dieu, et on ne leur a même pas donné de l'essence !
+473)  LARRY
+[pickup2] {surprisedA}Quoi ? {normalC}Bon dieu, et on ne leur a même pas donné de l'essence !
+446)  MARK
+[pickup2] {happyA}Et il y aurait eu beaucoup plus là d'où on vient si Lee avait accepté l'invitation à RESTER de cette charmante famille. {happyB}Ils nous ont même invité à DINER.
+470)  MARK
+[pickup2] {happyA}Et il y aurait eu beaucoup plus là d'où on vient si Lee avait accepté l'invitation à RESTER de cette charmante famille. {happyB}Ils nous ont même invité à DINER.
+474)  MARK
+[pickup2] {happyA}Et il y aurait eu beaucoup plus là d'où on vient si Lee avait accepté l'invitation à RESTER de cette charmante famille. {happyB}Ils nous ont même invité à DINER.
+479)  MARK
+[pickup2] {happyA}Et il y aurait eu beaucoup plus là d'où on vient si Lee avait accepté l'invitation à RESTER de cette charmante famille. {happyB}Ils nous ont même invité à DINER.
+447)  LILLY
+[pickup2] {normalC}Quoi ?!
+471)  LILLY
+[pickup2] {normalC}Quoi ?!
+475)  LILLY
+[pickup2] {normalC}Quoi ?!
+480)  LILLY
+[pickup2] {normalC}Quoi ?!
+448)  CARLEY
+[pickup2] {happyA}Et on a de la nourriture !
+477)  CARLEY
+[pickup2] {happyA}Quoi ?!
+449)  LILLY
+[pickup2] [to the group]Ils sont de retour !
+453)  LILLY
+[pickup2] [to the group]Ils sont de retour !
+451)  LARRY
+[pickup2]{happyB}Je le savais ! [towards Kenny] Ca valait le coup de leur laisser un peu de votre précieux carburant, non ?
+478)  LARRY
+[pickup2]{happyB}Je le savais ! [towards Kenny] Ca valait le coup de leur laisser un peu de votre précieux carburant, non ?
+452)  KENNY
+[pickup2] {angryA}Et bien, ouais, {sadA}ma famille crève de faim.
+455)  KENNY
+[pickup2] Et bien, ouais, ma famille crève de faim.
+456)  
+Machine à Soda
+459)  LARRY
+[pickup2]{angryA}Vous voulez quoi ? Une médaille ?  Allez, je vous donne les 60 cents si vous arrêter de geindre comme une fillette.
+460)  
+Ouais, c'est bien !
+461)  
+C'est pas ce que je voulais dire...
+462)  
+Je n'ai jamais dit ça.
+463)  
+Bien sûr. De quoi avez-vous besoin ?
+464)  
+Vaudrait mieux pas.
+465)  
+J'ai fais ce qu'il fallait faire.
+466)  
+C'est ce que votre mari voulait.
+503)  LILLY
+[pickup2] {thinkingA} Lee, pourquoi vous iriez pas avec Mark pour vérifier les lieux, histoire de voir si c'est réglo ?
+504)  LEE
+[pickup2]Vous avez besoin d'aide avec le mur ?
+505)  LARRY
+[pickup2][flat] Nan.
+506)  MARK
+En fait, on pourrait se servir de votre hache.  Ca vous dérange si on la prend ?
+507)  
+Parler a
+508)  
+Donner nourriture à
+509)  LEE
+[pickup 2]  Tenez, mangez quelque chose.
+510)  KATJAA
+[pickup3][flustered while operating on the injured man, and a bit annoyed at Lee]Pourquoi vous donnez pas ça à Duck.  Je suis un peu occupée à nettoyer derrière vous là.
+511)  
+Pousser
+512)  
+Donner un coup de pied
+513)  DOUG
+[pickup3][shouting ambient]LEE ! DEGAGEZ !!
+514)  DOUG
+[pickup3][shouting ambient]ATTENTION !!
+515)  DOUG
+[pickup3][shouting ambient]ELOIGNEZ VOUS DE LUI !!
+516)  DOUG
+[pickup3][shouting ambient]NE LE LAISSEZ PAS VOUS MORDRE !!
+517)  DOUG
+[pickup3][shouting ambient]REPOUSSEZ LE !!
+518)  LEE
+[pickup3][casual, looking as some stuff doug is messing with]C'est pour quoi faire, ce truc ?
+519)  DOUG
+[pickup3][explaining the cans hanging from the sign, embarased]Oh, c'était mon prototype de système d'alarme.  La nouvelle version est beaucoup plus élaborée !
+520)  CLEMENTINE
+[pickup3][ambient]N'appuie pas si fort, tu vas les casser.
+523)  LEE
+[pickup3][giving the axe to mark to fix the fence]Tenez Mark.  Ca devrait vous aider.
+524)  LARRY
+[pickup3][annoyed at lee]Hé, c'est moi qui fait tout le boulot ici. Et vous pensez même pas à me donner la hache ?
+525)  MARK
+[pickup3][taki9ng the axe from lee to fix the fence] Merci.
+526)  LEE
+[Shouting] La hache !  Vite !!
+527)  LEE
+[Shouting] La hache !  Vite !!
+528)  LARRY
+[pickup3][frantic!  Swinging an axe at a zombie!][exertion]
+531)  MARK
+[pickup3][frantic!  Swinging an axe at a zombie!][exertion]
+529)  LARRY
+[pickup3][frantic!  Swinging an axe at a zombie and missing!  Now the axe is stuck]Bon dieu !  Je l'avais !!
+530)  MARK
+[pickup3][frantic!  Swinging an axe at a zombie and missing!  Now the axe is stuck]MERDE !!  Elle est coincée !!
+532)  LARRY
+[pickup3][frantic!  Swinging an axe at a zombie!]BARREZ VOUS DE LA !!
+533)  MARK
+[pickup3][frantic!  Swinging an axe at a zombie!]POUSSEZ-VOUS !! POUSSEZ-VOUS !!
+534)  LEE
+[a bit out of breath]{normalD} Merci.
+535)  MARK
+[pickup3][a bit out of breath having just chopped a combie to save Lee]Pas de soucis.  On doit veiller les uns sur les autres, pas vrai ?
+536)  MARK
+[pickup3][Shouting at Lee to get clear of the zombie so he can chop it!] Repoussez-le !! Je veux pas vous frapper !!
+537)  MARK
+[pickup3][Shouting at Lee to get clear of the zombie so he can chop it!] Repoussez-le !! Je veux pas vous frapper !!
+538)  MARK
+[pickup3][exertion, axing a zombie in the head!]
+539)  MARK
+[pickup3][exertion, axing a zombie in the head!]
+540)  LARRY
+[pickup3][exertion, axing a zombie in the head!]
+541)  LARRY
+[pickup3][exertion, axing a zombie in the head!]
+542)  KENNY
+[pickup3][waliking over and scolding Lee for giving the limited amount of food to the new stranger (Keeping the conversatin between Lee & Kenny)]{angryb}Où avez-vous la tête ?  On avait besoin de cette nourriture pour nous !  Pour nos enfants !
+543)  KENNY
+[pickup3]{angrya}Cette petite fille compte sur vous. Gardez ça en tête.
+544)  KENNY
+[pickup3][scolding Lee]{disgusta}Bon sang, Lee, je pensais pas que vous étiez si bête.
+545)  CARLEY
+[pickup3] [Lee has given food to the New guy over his established friends]{thinkingA}Lee, c'est... gentil... mais, on a pas autant de nourriture à partager comme ça.  Vous devez penser à nous en priorité.
+546)  KENNY
+[pickup3][kenny walks over when he sees that Lee is handing out the food]{thinkinga}Oh, je vois que Lilly n'a pas pu s'occuper de son job.
+547)  BEN
+[pickup3][seeing how little food there is to go around]Au moins vous AVEZ encore à manger, les gars.
+548)  LEE
+[pickup3][bummed abount amount of food to go around.]Ouais.  C'est terminé.
+549)  CLEMENTINE
+[pickup3][about giving out the food]Lee va le faire équitablement, pas vrai ?
+550)  KENNY
+[pickup3][convering the little amount of food to go around]Bien, je suis sûr que vous serez plus malin que Lilly sur le partage.
+551)  LEE
+[pickup3]Pas encore.  J'improviserai sur le moment et j'aviserai.
+552)  CARLEY
+[pickup3]Vous avez un plan, Lee ?
+553)  LEE
+[pickup3][hopeful]Je vais faire de mon mieux.
+554)  CARLEY
+[pickup3][seeing that Lee is handing out the food]{feara}Oh non.  C'est tout ce qu'il y a à manger aujourd'hui ?
+555)  CLEMENTINE
+[pickup3][seeing how little food lee has to give out] {sada}C'est ce qu'on doit partager entre nous tous aujourd'hui ?
+556)  LARRY
+[pickup3][pissed that he didnt get food]Continuez à traiter les gens comme ça et vos jours dans ce groupe sont comptés !
+681)  LARRY
+[pickup3][pissed that he didnt get food]Continuez à traiter les gens comme ça et vos jours dans ce groupe sont comptés !
+557)  DOUG
+[pickup3][disapointed that he didnt get food - To himself] C'est des conneries, Mec.  Il y avait MON nom sur la liste aujourd'hui !
+558)  CLEMENTINE
+[pickup3][having not been fed]J'espère que je pourrais manger la prochaine fois.
+559)  CARLEY
+[pickup3][if didnt get fed]Ca va.  Je sais que vous gardez toujours un oeil sur moi.
+560)  KENNY
+[pickup3][disapointed that Lee didnt give food to the kids]C'est quoi votre problème au juste ?!
+561)  KENNY
+[pickup3][gettin pissed off] Vous aviez de la nourriture dans les mains et vous n'en avez donné ni à moi, ni aux enfants ?  Quel genre d'homme êtes-vous ?
+562)  LEE
+[pickup3][Kenny is berating him] Pardon ?
+563)  LEE
+[pickup3][defending himself] Ce n'est pas comme ça...
+564)  KENNY
+[pickup3][angry that lee didnt give him food]Moi et ma famille, on ne compte plus pour vous, alors ?
+565)  KENNY
+[pickup3][Assuring Lee it's okay that he didnt get food]Hé, c'était un choix cornélien, mais vous vous êtes occupés des enfants.  C'est ce que fait un homme, un vrai.
+566)  LEE
+[pickup3][pre-emptively defending himself] Kenny, je sais qu'il restait plus rien avant-
+667)  LEE
+[pickup3][pre-emptively defending himself] Kenny, je sais qu'il restait plus rien avant-
+567)  KENNY
+[pickup3][Lee fed both kids, but not Kenny] Lee-
+666)  KENNY
+[pickup3][Lee fed both kids, but not Kenny] Lee-
+568)  KENNY
+[pickup3][hearing that the food is all gone]Quand bien même,  j'imagine que certaines personnes ne vont pas être contente de vos choix.
+590)  KENNY
+[pickup3][hearing that the food is all gone]Quand bien même,  j'imagine que certaines personnes ne vont pas être contente de vos choix.
+569)  LARRY
+[pickup3]Il sait que j'ai ma part !  [This line can be ambiguous meaning Larry already got food or Lee BETTER know!]
+570)  MARK
+[pickup3][defending lee]Hé, ce mec était un professeur de lycée, je pense qu'il peut s'en sortir.
+571)  DOUG
+[pickup3][skeptical]Et bien, le système de Lilly était dur, mais au moins il était logique.
+572)  LEE
+[pickup3][exaperated sigh, knowing the job of handing out food isnt gonna be easy]Ca va être corsé.
+573)  DOUG
+[pickup3]Alors comment vous allez déterminer à qui donner de la nourriture ?
+574)  LEE
+[pickup3][giving out the food]{normalb}Je ne me sers pas de la liste de Lilly.
+575)  MARK
+[pickup3][seeing Lee give food to Larry] {normalA}Vous essayez d'être le mâle dominant, hein ?
+576)  DOUG
+[pickup3][walking over after seeing Lee with the food]{normalA}Alors comme ça vous avez distribué toute la nourriture du jour ?  Et la liste de Lilly, alors ?
+577)  LARRY
+[pickup3][seeing that Lee is handing out food] {angrya}Hé, j'ai vu la liste de Lilly pour aujourd'hui et je sais que je suis dessus.  N'essayez même pas de me refiler les petites merdes qui traînent.
+578)  LEE
+[pickup3][to himself, bummed that he's out of food]Voilà, c'est fini.
+624)  LEE
+[pickup3][to himself, bummed that he's out of food]Voilà, c'est fini.
+670)  LEE
+[pickup3][to himself, bummed that he's out of food]Voilà, c'est fini.
+579)  LEE
+[pickup3][annoyed, seeing Kenny walking up to him] Génial, c'est quoi la suite ?
+580)  LEE
+[pickup3][bummed, to himself] Seigneur, j'espère qu'on va trouver à manger bientôt.
+581)  CLEMENTINE
+[pickup3][seeing that lee is out of food] Il y a plus rien à manger ?
+582)  LEE
+[pickup3][bummed that the food is all gone]Nan.
+583)  KENNY
+[pickup3][Pulling Lee aside ambigously] Hé, il faut qu'on parle une minute...
+584)  LEE
+[pickup3][seeing Kenny marching over] Génial. [What does HE want?]
+623)  LEE
+[pickup3][seeing Kenny marching over] Génial. [What does HE want?]
+585)  KENNY
+[pickup3]C'est la raison précise pour laquelle je ne veux pas de vous dans le van.
+586)  KENNY
+[pickup3]Ne me faîtes pas regretter de vous avoir invité à venir avec nous dans le van.
+587)  KENNY
+[pickup3]Vous pourriez bien avoir gagné votre place dans le van après tout.
+588)  KENNY
+[pickup3]Hé, merci de vous être occupé de moi et de ma famille...
+589)  KENNY
+[pickup3]Je suis sérieux sur ma proposition de venir avec nous.  Vous avez plus que gagné votre place dans mon van.
+591)  LEE
+[pickup3][a bit out of breath after being attacked by a zombie]Ouais.  Merci.
+592)  CARLEY
+[pickup3][a bit out of breath after saving Lee from a zombie in a truck]Ca va ?
+593)  DOUG
+[pickup3][exertion, smashing a zombie with a board]
+595)  DOUG
+[pickup3][exertion, smashing a zombie with a board]
+594)  DOUG
+[pickup3][attacking a zombie & helping Lee]JE L'AI !!
+596)  DOUG
+[pickup3][attacking a zombie & helping Lee]JE L'AI !!
+597)  LEE
+[pickup3][panicking!  Being attacekd by a zombie and seeing Carley run over with her gun] TUEZ LE !!
+598)  LEE
+[pickup3][panicking!  Being attacekd by a zombie and seeing Carley run over with her gun] TUEZ LE !!
+599)  CARLEY
+[pickup3][chiming in on the argument about bringing new poeple.  It's pretty heated]Holà, doucement !  On ne leur a encore jamais parlé avant !  Peut-être qu'ils PEUVENT nous aider !
+600)  CARLEY
+[pickup3][in the middle of an argument follows Kenny saying "This isn't your own personal dictatorship!"]Oh allez.  Arrêtez votre cinéma !
+601)  CARLEY
+[pickup3][bowing out of the arguement]Tout tourne toujours à la lutte de pouvoir entre vous deux. Je ne veux pas entrer dans votre jeu.
+602)  LARRY
+[pickup3]{after Lee gives Larry food] Il sait qui il doit contenter.
+603)  MARK
+[pickup3]Ben, je ferais attention à ne pas faire de favoritisme.  Je ne voudrais pas être à votre place en ce moment.
+604)  LARRY
+[pickup3]Hé bien, maintenant vous savez ce qu'elle doit endurer.
+605)  MARK
+[pickup3]Waou.  Ca s'annonce mal.
+606)  LEE
+[pickup3][on the task of haning out food] Lilly ne m'a donné de la nourriture que pour quatre personnes.
+608)  LEE
+[pickup3][preceeds - 310522451]C'est d'accord.
+609)  LEE
+[pickup3][slightly projected - talking over the fence]Je crois qu'on va rester là.
+610)  
+D'accord, on va à la ferme.
+611)  
+Pas d'accord, on va rester ici.
+612)  LEE
+[pickup3][justifying to the group]On commence à se sentir bien ici au motel.
+613)  LILLY
+[pickup3] [preceeds #310522558]{angryA}Alors on vote. Si tout le monde est d'accord on vous enverra des hommes avec de l'essence pour vérifier votre ferme.
+614)  DOUG
+[pickup3] Je dit qu'on doit le faire.
+615)  CARLEY
+[pickup3] Je dit qu'on doit y aller.
+616)  MARK
+[pickup3][voting on whether to stay or go]J'en suis. S'ils nous offrent à manger, on doit au moins aller vérifier.
+617)  LEE
+[pickup3][being outvoted] Clémentine, tu en penses quoi ?
+618)  LEE
+[pickup3]Très bien.  On dirait qu'on va à la ferme.
+619)  KENNY
+[pickup4]Vous êtes le dernier à parler, vieil homme.
+678)  KENNY
+[pickup4]Vous êtes le dernier à parler, vieil homme.
+620)  LARRY
+[pickup3]Ouais, ben je vous ai pas vu travailler sur ce mur !
+680)  LARRY
+[pickup3]Ouais, ben je vous ai pas vu travailler sur ce mur !
+621)  LARRY
+[pickup3]Plus rien ?! Où est passé ma bouffe ?!
+679)  LARRY
+[pickup3]Plus rien ?! Où est passé ma bouffe ?!
+622)  LEE
+[pickup3][defensive] Il reste plus rien.
+677)  LEE
+[pickup3][defensive] Il reste plus rien.
+625)  KATJAA
+[pickup3][comforting]Ca va, Ducky.
+626)  KATJAA
+[pickup3][comforting]Tout va bien.
+627)  KATJAA
+[pickup3][comforting]Tout va bien.
+628)  MARK
+[pickup3][urgent, ariving with a wounded man]Je le pose où ?
+629)  KENNY
+[pickup3][urgent, ariving with a wounded man]	Allez, amenez-le !
+630)  KATJAA
+[pickup3][urgent, ariving with a wounded man]	Lee ?!
+631)  LARRY
+[pickup3][urgent, ariving with a wounded man]	Qu'est-ce qu'il s'est passé bon dieu ?!
+632)  LARRY
+[pickup3]Ouais, passez-nous un peu ce truc.
+633)  KATJAA
+[pickup3]Ecoutez, la prochaine fois que je vous demande ce qu'il s'est passé, j'apprécierais que vous preniez le temps de me répondre, d'accord? 
+634)  LEE
+[pickup3]Ouais.  Désolé.
+635)  KATJAA
+[pickup3]Quand vous l'avez amenez ici vous m'avez demandé si je pouvais le soigner.  Je suis pas médecin, Lee, je suis vétérinaire.  Vous ne pouvez pas exposer les gens au danger et vous attendre à ce que je les soigne.
+636)  KATJAA
+[pickup3]Cet homme que vous avez ammené... J'ai fait le maximum mais il ne s'en sortira pas.
+637)  KATJAA
+[pickup3]Vous ne m'avez pas répondu quand je vous ai demandé ce qu'il s'était passé là-bas.  Kenny a dit que ça n'avait pas d'importance, mais ça en a.  Ne laissez pas Kenny se créer d'ennuis.  J'ai BESOIN qu'il revienne, et pas de la même façon que ce type.
+638)  LILLY
+[pickup3][Seeing Lee give Kenny food]Comment ça se présente, Lee ?  De là-haut on dirait que vous faîtes du favoritisme.
+639)  
+[DONNER HACHE A MARK]
+640)  
+[DONNER HACHE A LARRY]
+641)  CLEMENTINE
+D'accord.
+646)  
+Je n'ai jamais dit que ça l'était.
+647)  LEE
+[pickup2]Je n'ai jamais dit que ça l'était.
+656)  LEE
+[pickup2]Je n'ai jamais dit que ça l'était.
+648)  
+Ce n'est pas si dur.
+649)  LEE
+[pickup2]Ce n'est pas si dur.
+650)  LILLY
+[pickup2]Bien. Alors vous pourrez le refaire demain, quand il y aura encore moins de nourriture.
+651)  
+Je ne vous envie pas.
+652)  LILLY
+[pickup2]Je n'ai pas le choix.
+653)  LEE
+[pickup2]Je ne vous envie pas.  Je ne sais pas où vous trouvez la force de faire ça tous les jours
+654)  LILLY
+[pickup2][responding to silence, annoyed, flat] Bref.
+655)  LILLY
+[pickup2][neutral]C'est pas si facile, n'est-ce pas ?
+657)  
+Je ne vous ai pas tué
+661)  
+Je ne vous ai pas tué
+658)  
+Je devais faire un choix
+662)  
+Je devais faire un choix
+659)  
+Je vous connaissais à peine
+663)  
+Je vous connaissais à peine
+660)  
+Vous avez intérêt
+664)  
+Vous avez intérêt
+665)  KENNY
+[pickup 2] Hé, vous vous êtes occupé de mon garçon. De mon point de vue vous avez bien fait.
+668)  
+Boîtes de conserve
+669)  
+Alarme
+674)  KENNY
+[sighs heavily]
+675)  LEE
+Merci, Kenny.
+676)  LEE
+Ouais, bien sûr.

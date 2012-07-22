@@ -1,0 +1,106 @@
+1)  
+[Donner Moitié de Pomme]
+2)  LEE
+[pickup 3] {happyA}Une pomme, Carley.
+3)  CARLEY
+[pickup 2] {happyA}Ho, j'avais l'habitude de manger une pomme chaque matin avec des granola et six d'amandes, et {thinkingA}j'étais pas rassasier. {happyA}Mais vous savez quoi ? Oui.
+4)  
+[Donner Viande Séchée]
+5)  
+[Donner Crackers et Fromage]
+6)  
+[Donner Crackers et Fromage]
+7)  LEE
+[pickup 2] [giving some junk food]{normalC}Tenez.
+8)  CARLEY
+[pickup 2] [sarcastically] Il y a peu, je n'aurais jamais touché à ce genre de choses. Mais je prend tout ce que je peux avoir, merci.
+9)  LEE
+[pickup 2] {fearA}Que devrions-nous faire au sujet du gamin ?
+10)  LEE
+[pickup 2] {sadA}Désolé j'ai suis parti précipitamment  avant de pouvoir vous donner à manger.
+11)  CARLEY
+[pickup 2]{normalB}Hé, ne vous inquiétez pas. {disgustA}J'aurai presque envie de mourir de faim plutôt que de manger plus de ce truc. En plus, vous m'en avez déjà beaucoup donné.
+12)  LEE
+[pickup2][sean edit] {thinkingA}Vous dormez un peu mieux ?
+13)  LEE
+[pickup2] [sean edit] {fearA}Au drugstore ? [as in "still? you still having nightmares about what happened at the drugstore?]
+14)  CARLEY
+[pickup2][sean edit] {sadA}Non. Je sais que nous devrions être reconnaissants pour cette hospitalité, mais, non. {sadB}C'est pas mieux.
+15)  CARLEY
+[pickup2][sean edit] {sadB}Ouais.
+16)  CARLEY
+[pickup2]{thinkingA}Si cela ne tenait qu'à moi, je lui permettrai de rester un peu, voir si il pourrait nous être utile. {angryA}Mais faut voir avec Lilly.{thinkingA}Et comme elle est responsalbe de la nourriture, je ne veux pas me la mettre à dos.
+17)  
+Vous dormez mieux ?
+18)  CARLEY
+{disgustA}Je veux que vous preniez cela, d'accord ? Dans le cas où vous ou Clémentine commenciez à vous sentir faible.
+19)  CARLEY
+{thinkingA}Vous avez vraiment une sale tête, Lee. À quand remonte la dernière fois que vous avez mangé ?
+20)  LEE
+[Don't worry about me]{sadA}Je vais bien.
+21)  LEE
+{sadA}Vous ne me devez rien, Carley.
+22)  
+Parler a
+23)  
+Donner Nourriture a
+24)  CARLEY
+[pickup3][Thanking Lee for saving him 3 months ago]Je sais que les choses se sont déroulées très vite de retour au drugstore... Et peut-être me sauver était plus d'une réaction qu'un choix, mais...
+25)  CARLEY
+[pickup3][Thanking Lee for saving him 3 months ago]Ecoutez, vous avez dit m'avoir sauvé parce que vous pensiez que j'avais besoin d'aide.  Eh bien, c'est à moi de penser que vous et Clémentine pourrait avoir besoin d'aide.
+26)  CARLEY
+[pickup3][Thanking Lee for saving him 3 months ago]Je sais que vous avez dit que vous vouliez nous sauver tout les deux... mais vous m'avez choisi en premier.  Et je - Je...
+27)  CARLEY
+[pickup3][Thanking Lee for saving him 3 months ago]Je sais que j'ai dit ce n'était pas grave que vous m'ayez sauvée à la place de Doug, mais...
+28)  CARLEY
+[pickup3][sean edit] Moi ? Et vous ?
+29)  LEE
+Vous voulez quelque chose a manger ?
+53)  LEE
+Vous voulez quelque chose a manger ?
+30)  
+Je n'ai plus de nourriture
+31)  
+Un peu de nourriture ? [Donner]
+32)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Eh bien, ça en fait un de moins. Encore neuf personnes affamés et juste deux morceaux de nourriture.
+33)  LEE
+[pickup3][knowing there is only one more piece of food left]Hmm. Je devrais peut-être le garder pour moi ?
+34)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]Plus qu'un morceau de nourriture à donner, alors c'est fini pour aujourd'hui.
+35)  
+[Garder la dernière ration pour vous]
+36)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]J'ai besoin de garder des forces, aussi.
+37)  
+[Donner la dernière ration à quelqu'un]
+38)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nan.  Certaines de ces personnes sont restés plus longtemps que moi sans la nourriture. Ce sont eux qui en ont le plus besoin.
+39)  LEE
+[pickup3]Lilly m'a mis à la distribution de la nourriture.
+40)  CARLEY
+[pickup3]Ugh. Ca ne doit pas être une tâche facile.
+41)  LEE
+[pickup3] C'est vrai.  Je pourrais jamais être en mesure de nourrir tout le monde.  Qu'est-ce que je dois faire ?
+42)  
+Que devrions-nous faire au sujet du gamin ?
+43)  
+Je dois faire la distribution, comment je dois faire ?
+44)  LEE
+[pickup3]Merci Carley.
+45)  LEE
+[pickup3]Et vous ? Vous avez besoin de vous nourrir aussi.
+46)  CARLEY
+[pickup3]On a TOUS besoin de manger.  Je peux pas vous dire quoi faire. Mais quoi qu'il arrive, je sais que vous essaierez de bien faire.
+47)  CARLEY
+[pickup3]Eh bien, si vous voulez être en bons termes avec Lilly, je m'assurerais que Larry obtienne un peu de nourriture, même si ce mec peut être une vrai tête de noeud parfois.
+48)  CARLEY
+[pickup3]En revanche, donner cette nourriture à Kenny et sa famille pourrait le rendre redevable, si un jour il décide de partir avec le camping-car.
+49)  
+[Exit]
+50)  LEE
+Revenir un peu plus tard.
+51)  LEE
+Je reviendrai bientôt.
+52)  LEE
+Je reviendrai bientôt.

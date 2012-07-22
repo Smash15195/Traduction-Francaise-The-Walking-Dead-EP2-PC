@@ -1,0 +1,130 @@
+1)  LEE
+[Pickup 2] {thinkingA}Si votre camp s'est fait attaquer, cela signifie probablement que vous n'avez pas mangé depuis un bout de temps.
+2)  BEN
+[pickup 2]{sadA}Je suis mort de faim. {happyA}Merci.
+3)  
+[Donner Moitié de Pomme]
+4)  
+[Donner Viande Séchée]
+5)  
+[Donner Crackers et Fromage]
+6)  
+[Donner Crackers et Fromage]
+7)  LEE
+[pickup 2] {happyA} Prenez, Ben. Après ce que tu as vécu, cela pourrait agir comme un remontant.
+8)  BEN
+[pickup 2] [surprised by generosity] {surprisedA}Sérieusement?   {thinkingA}Je sais que la nourriture est rare, c'est vraiment... j'apprécie vraiment.
+9)  LEE
+[pickup 2] {sadA}Hé, Ben, j'espère que tu comprends pourquoi je ne vous ai rien donner à manger.
+10)  BEN
+[pickup 2] {sadA}Je suis nouveau, j'ai compris. C'est bon, Lee.
+11)  LEE
+[pickup2]{SadA}Tu tiens le coup, mon garçon ?
+12)  BEN
+[pickup2]{sadA}Euh, eh bien, je, euh... {fearA}Je me demande si j'aurais pu faire quelque chose pour aider, vous voyez ? {thinkingA}Comme...{sadA} Je sais pas. QUELQUE CHOSE QUOI.
+13)  LEE
+[pickup 2] {sadA}Je suis sûr que tu as fait tout ce que tu pouvais.
+14)  BEN
+[pickup 2]  {sadB}Ouais, peut-être.
+15)  LEE
+[pickup 2] 	{sadA}J'en sais rien non plus.
+16)  BEN
+[pickup 2] {sadC}Ca me tue.
+17)  BEN
+[pickup 2] {fearA}La prochaine fois. {sadA}Ouais.
+18)  LEE
+[pickup 2] {sadA}Tu seras prêt la prochaine fois.
+19)  BEN
+[pickup 2] {sadC}Je voudrais pouvoir arrêter d'y penser.
+20)  LEE
+[pickup 2] {sadA}Détends-toi, nous remettrons ton ami sur pied en peu de temps.
+21)  BEN
+[pickup 2] {fearB}J'espère que oui.
+22)  BEN
+[pickup2][sounding pretty fragile]{sadA}Je m'appel Ben. Ben Paul.
+23)  LEE
+[pickup2]{thinkingA}Alors, qui êtes-vous ?  Notre groupe va vouloir le savoir.
+24)  
+Alors, qui êtes-vous ?
+25)  BEN
+[pickup2]{thinkingA}L'homme que vous avez sauvé est Mr. Parker, le chef d'orchestre de mon école.
+26)  BEN
+[pickup2][sounding pretty fragile]Nous sommes tous descendu de Stone Mountain pour les séries éliminatoires quand... quand tout est arrivé.
+27)  BEN
+[pickup2]Le gars dans le pick-up, c'est Travis. Il a joué dans la fanfare de l'école avec moi. Mr. Parker était le chef d'orchestre mais - Bon sang, Je n'arrive pas à croire que nous l'ayons laissé.
+28)  
+Tu as fait tout ce que tu pouvais.
+29)  
+J'en sais rien non plus.
+30)  
+Tu seras prêt la prochaine fois.
+31)  
+Tu tiens le coup ?
+32)  
+Parler a
+33)  
+Donner Nourriture a
+34)  LEE
+Quelque chose à manger ?
+65)  LEE
+Quelque chose à manger ?
+35)  
+Je n'est plus rien.
+36)  
+Un peu de nourriture ? [Donner]
+37)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Eh bien, ça en fait un de moins. Encore neuf personnes affamés et juste deux morceaux de nourriture.
+38)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]Encore un bout de nourriture à donner et ce sera tout pour aujourd'hui.
+39)  LEE
+[pickup3][knowing there is only one more piece of food left]Hmm. Je devrais peut-être le garder pour moi ?
+40)  
+[Garder la dernière ration pour vous]
+41)  
+[Donner la dernière ration à quelqu'un]
+42)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]J'ai besoin de garder des forces, aussi.
+43)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nan.  Certaines de ces personnes sont restés plus longtemps que moi sans la nourriture. Ce sont eux qui en ont le plus besoin.
+44)  BEN
+[pickup3][worried]Hé, mon ami va bien ?
+45)  LEE
+[pickup3]Je sais pas, mais Katjaa fera de son mieux, je te le promets.
+46)  BEN
+[pickup3]J'arrive pas à croire que vous ayez coupé sa jambe !
+47)  LEE
+[pickup3]Il n'y avait pas d'autre moyen.
+48)  BEN
+[pickup3][Sad] J'arrive pas à croire que nous ayons laissé Mr. Parker là-bas...
+49)  LEE
+[pickup3]J'ai essayé. Vraiment. j'ai... Nous avons manqué de temps. Nous ne pouvions rien faire d'autre.
+50)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Eh bien, ça en fait un de moins. Encore neuf personnes affamés et juste deux morceaux de nourriture.
+51)  CARLEY
+[pickup3][seeing Lee give precious food to the new guy]Qu'est-ce que vous faites Lee ? Cette nourriture devrait NOUS revenir en premier.
+52)  LEE
+[pickup3]C'est pas simplement parce que nous ne le connaissons pas, qu'il n'a pas faim.
+57)  LEE
+[pickup3]C'est pas simplement parce que nous ne le connaissons pas, qu'il n'a pas faim.
+53)  CARLEY
+[pickup3]Eh bien, c'est une bonne chose que Kenny n'est pas vu ça. Il pourrait ne pas être aussi compréhensif.
+54)  BEN
+[pickup3]Je suis désolé.  Je n'avais pas l'intention de causer des problèmes.
+58)  BEN
+[pickup3]Je suis désolé.  Je n'avais pas l'intention de causer des problèmes.
+55)  LEE
+[pickup3]Pas de problème, mon gars.  Apprecie-la.
+59)  LEE
+[pickup3]Pas de problème, mon gars.  Apprecie-la.
+56)  KENNY
+[pickup3][waliking over and scolding Lee for giving the limited amount of food to the new stranger (Keeping the conversatin between Lee & Kenny)]{angryb}Vous avez perdu l'esprit ?  Nous avions besoin de cette nourriture pour nous!  Pour nos enfants !
+60)  KENNY
+[pickup3]{angrya}Cette petite fille compte sur vous. Gardez ça à l'esprit.
+61)  KENNY
+[pickup3][scolding Lee]{disgusta}Bon sang Lee, Je pensais pas que vous étiez si stupide.
+62)  
+[Exit]
+63)  LEE
+Back in a bit.
+64)  LEE
+Sorry.

@@ -1,0 +1,197 @@
+1)  BRENDA
+Assise ici, regardant au-delà de la ferme, je ne pourrai prétendre que les choses sont comme d'habitude.
+2)  BRENDA
+[pickup2]C'est le monde dans lequel nous vivons aujourd'hui, je suppose.
+3)  LEE
+{normald}J'aimerai bien aller le voir.
+4)  BRENDA
+[pickup2]{sada}Vous allez devoir me faire confiance pour ça, Lee.  {normala}J'ai eu ma part de blessures... Je sais de quoi je parle.
+5)  BRENDA
+Attendez, Lee, les choses sembleront tellement plus agréable une fois que vous aurez tous eu un souper et une bonne nuit de sommeil.
+6)  BRENDA
+[Shot in the head]
+7)  BRENDA
+[ Zombie growl  sound]
+8)  BRENDA
+[long prayer] Bénissez-nous, Seigneur... pour vos, présents, que nous sommes sur le point de recevoir grâce a de votre bonté. Aidez-nous à être reconnaisant pour vos bienfaits et bénissez ceux qui ont moins que nous. Surtout en ces temps difficiles, où les désespérés on le plus besoin de vous.  Amen.
+9)  BRENDA
+[pickup2][friendly]Voyons ! Après tout ce que nous avons vécu... vous pouvez m'appeler Brenda !
+10)  LEE
+[pickup2][initiating conversation]{normalA}Mme. St. John...
+11)  LEE
+[pickup2][initiating conversation] {normalA}Excusez-moi, Brenda...
+96)  LEE
+[pickup2][initiating conversation] {normalA}Excusez-moi, Brenda...
+12)  BRENDA
+[pickup2][friendly]{normalA}Qu'est-ce ce qui vous préoccupe, Lee ?
+54)  BRENDA
+[pickup2][friendly]{normalA}Qu'est-ce ce qui vous préoccupe, Lee ?
+97)  BRENDA
+[pickup2][friendly]{normalA}Qu'est-ce ce qui vous préoccupe, Lee ?
+13)  LEE
+[pickup2]{sadA}Comment va Mark là-dedans ?
+14)  BRENDA
+[pickup2]{normalA}Le meilleur patients que j'ai jamais eu. Ca change de mes petits gars qui avec une égratignure, commencent à crier. {happya}Il pourrait certainement leur donner une leçon ou deux pour être moins chochotte.
+15)  LEE
+[pickup2]Je voudrais pas être grossier, madame, mais comment vous êtes venu ici, au milieu de, vous savez...
+16)  LEE
+[pickup2] Non non, Je ne voulais pas sous entendre ça.
+17)  BRENDA
+[pickup2][jovial]Ha, vous voulez savoir pourquoi je ne suis pas à trimer dans une cuisine, c'est ça ?
+18)  BRENDA
+[pickup2]Ca va, chéri'. j'ai des choses qui cuisent au four. Qui devraient être prêtes dans peu de temps !
+19)  BRENDA
+[pickup2]C'est rien d'intéressant, Je peux pas vous promettre grand chose. Juste quelques trucs. Gérer une ferme prends beaucoup de temps, vous savez.
+20)  BRENDA
+[pickup2]Eh bien, vous êtes bien curieux, non ?
+21)  LEE
+[pickup2]Je voulais pas avoir l'air de fouiner.
+22)  LEE
+[pickup2]Alors, qu'est-ce qu'il y à a garder dans cette grange là-bas ? A part les vaches, bien sûr.
+23)  BRENDA
+[pickup2]J'étais juste heureuse que vous n'ayez pas été blessés. Ces bandits ne savent pas quand s'arrêter.. Mais mes garçons... ils peuvent leur tenir tête.
+24)  LEE
+[pickup2]Nous sommes allé droit vers les problèmes dehors.
+25)  LEE
+[pickup2]{normald}Vous vous entendez bien avec Larry ?
+26)  BRENDA
+[pickup2]{happya}C'est juste un grand coeur plein d'amour, non ?
+27)  LEE
+[pickup2]{thinkinga}Je ne sais pas si j'aurais utilisé ces mots.
+28)  BRENDA
+[pickup2]{normala}Ne le jugez pas, chéri. Ce monde fait ressortir le pire chez les gens. Mais si vous regardez bien, vous verrez un aperçu de ce que l'humanité a toujour été.
+29)  BRENDA
+[pickup2]C'est en quelques sorte tranquille ici, n'est-ce pas ? Profitez-en pendant que vous le pouvez. Vous commencerez probablement à entendre frire ces monstres contre la clôture dans peu de temps.
+30)  LEE
+[pickup2]Je crois que je vais aller faire un tour.
+31)  BRENDA
+[pickup2]Ne vous éloignez pas trop. Le dîner sera bientôt prêt.
+32)  BRENDA
+[pickup2]Le dîner sera bientôt prêt.
+95)  BRENDA
+[pickup2]Le dîner sera bientôt prêt.
+33)  LEE
+[pickup2] Je n'arrive pas a croire que Mark soit mort. Un jour nous parlons votre propriété et le lendemain il se prends une flèche.
+34)  BRENDA
+[pickup2] Oh mon enfant, je suis tellement désolé. Nous avons vu d'horrible violence ici. Mais je vous promets que nous sommes en sécurité.
+35)  
+Pourquoi être ici plutôt qu'à la cuisine ?
+36)  
+Que garde vos garçons dans la grange ?
+37)  
+Votre garçon est dingue.
+38)  
+Pourquoi traiter avec des bandits ?
+39)  
+Nous avons vu une femme dans le camp...
+40)  LEE
+[pickup2] Il semblait prendre plaisir à la mort de cette femme.
+41)  LEE
+[pickup2] Votre fils Danny est dingue.
+42)  BRENDA
+[pickup2] Ce n'est pas une chose très gentille à dire, Lee.
+43)  BRENDA
+[pickup2] Je suis sûr du contraire. Il est sensible et prêt à faire tout ce qu'il faut pour protéger cet endroit.
+44)  LEE
+[pickup2] Pourquoi avez-vous fait un marché avec ces gens ?
+45)  BRENDA
+[pickup2] Nous avons eu une part d'humanité restante, Lee. Nous pouvons faire bien mieux sans et c'est ce que nous faisons.
+46)  LEE
+[pickup2] Vous avez pourtant fait un marché avec eux ?
+47)  BRENDA
+[pickup2] Cela signifie que vous ne pouvez pas leur faire confiance. A aucun d'entre eux.
+48)  LEE
+[pickup2] Elle n'était pas l'un des "bandits". On dirait qu'ils lui ont fait quelque chose vraiment pas terrible et vos pillards sont toujours là.
+49)  LEE
+[pickup2] Avant sa mort, nous avons rencontré une femme là-bas, dans son camp.
+55)  LEE
+[pickup2] Avant sa mort, nous avons rencontré une femme là-bas, dans son camp.
+50)  BRENDA
+[pickup2] Je pense que tous les vagabonds dans les bois ont des problèmes de drogue.
+51)  BRENDA
+[pickup2] Ces gens dans les bois ne sont pas bons, Lee. Je sais que c'était dur, mais je suis contente que vous
+52)  
+Nous avons eu quelques problèmes là-bas.
+53)  LARRY
+[pickup3][reluctantly leaving Brenda as lee approaches]{normalB}Nous allons, euh ... Nous finirons d'en parler plus tard.
+56)  
+Comment va Mark là-dedans ?
+57)  BRENDA
+[pickup3]{happyA}Eh bien, salut Lee! Qu'est-ce que je peux faire pour vous, mon beau ?
+58)  
+Il y a combien de pièces dans cette maison ?
+59)  BRENDA
+[pickup3]{happyA}Je pense qu'avec l'aide de Danny j'ai les choses bien en mains dans la cuisine, mais n'hésitez pas à demander à Andy. Il a beaucoup de responsabilités sur ses épaules ces jours-ci alors je suis sûr qu'il adorerait toute aide d'ou qu'elle vienne.
+60)  LEE
+[pickup3]{normalA}Je peux vous aider pour quoique ce soit dans la maison.
+61)  BRENDA
+[pickup3]{happya}Ca va prendre encore un moment, mais ca en vaut la peine, croyez-moi !
+62)  LEE
+[pickup3]{normalA}Quand le dîner sera prêt ?
+93)  LEE
+[pickup3]{normalA}Quand le dîner sera prêt ?
+94)  LEE
+[pickup3]{normalA}Quand le dîner sera prêt ?
+63)  LEE
+[pickup3]{normalA}Il y a combien de pièces dans cette maison ?
+64)  BRENDA
+[pickup3]{normalb}Pièces ?  Pourquoi demandez-vous ça ?
+65)  
+Par curiosite.
+66)  
+Elle semble construite sur mesure.
+67)  
+Desole, c'etait grossier.
+68)  LEE
+[pickup3][flustered, as if caught] {surprisea}Euh... {thinkinga}Par curiosité, c'est tout.
+69)  BRENDA
+[pickup3]{normala}Eh bien, ne vous inquiétez pas, Lee. {happya}Nous avons une grande salle à manger qui acceuillera tout votre groupe.
+70)  BRENDA
+[pickup3][slightly offended]{angrya}Il ne faut pas commencer à trop penser.  {happya}[then friendly]Concentrons-nous simplement sur le fait d'avoir un bon repas fait maison ce soir.
+71)  BRENDA
+[pickup3][happy nostalgic]{happyc}C'est gentil a vous de le remarquer. Mon mari a beaucoup travaillé sur cette vieille maison.
+72)  LEE
+[pickup3]{happya}Eh bien, il fait un travail fantastique.
+73)  LEE
+[pickup3][admiring]{happya}Elle semble construite sur mesure.
+74)  LEE
+[pickup3]{sadA}Je suis désolé. C'était grossier de ma part.
+75)  LEE
+[pickup3][flustered]{feara}Euhhh....
+76)  BRENDA
+[pickup3]{happyb} Je crois avoir réussi a faire de cette maison un cocon.
+77)  LEE
+[pickup3] {happya}Votre famille a fait un excellent travail pour garder cette endroit debout.
+78)  BRENDA
+[pickup3] {happyb}Eh bien arrêtez les compliments maintenant Lee. Les garçons et moi-même avons essayé de la restaurer au mieux, mais nous avons garder une partie d'origine pour nous aider à nous rappeler le bon temps.
+79)  LEE
+[pickup3] {normalB}Qu'est-il arrivé au reste de votre personnel ?
+                                                                                                               
+80)  BRENDA
+[pickup3][feeling tragic] {sadA}Nous avons eu notre dose de tragédie ici... comme tout le monde j'en suis sûr.
+81)  BRENDA
+[pickup3][feeling tragic] {sadb}Certains de nos employés sont parti retrouver leurs familles dès qu'ils ont entendu les nouvelles.
+82)  BRENDA
+[pickup3] {sadA}Le peu qui sont restés... et bien... {sadc}nous avons perdu la plupart d'entre eux la première nuit où ces choses se sont montrées.  C'était... une nuit très difficile.
+83)  LEE
+[pickup3] {normalC}Comment votre famille a tenu le coup depuis... vous savez ?
+84)  BRENDA
+[pickup3]{normalA}Je pense que c'était plus difficile pour Andy. Dan a toujours été plus un petit garçon à sa maman, {happya}mais ne lui dites pas que j'ai dit ça !  [chuckles]
+85)  BRENDA
+[pickup3] {normalB}Mes fils ont été ma grâce salvatrice. Ils ont tous deux quitté leur emploi et venu à la maison pour m'aider après que les attaques ont commencée à se produire.
+86)  
+Cet endroit est incroyable.
+87)  
+Qu'est-il arrive a votre personnel ?
+88)  
+Quand le dîner sera prêt ?
+89)  
+Comment votre famille a tenu le coup ?
+90)  LEE
+[pickup3]  {normalA}Eh bien, si quelque chose arrive et que je peux aider, n'hésitez pas à me le dire.
+91)  BRENDA
+[pickup3]  {happya}Très bien, Lee, je vous en suis reconnaissante.
+92)  LEE
+[pickup3] {happyA}Pas de problème.
+98)  BRENDA
+Ca devraient être prêts dans peu de temps !

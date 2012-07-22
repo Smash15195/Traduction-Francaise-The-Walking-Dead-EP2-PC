@@ -1,0 +1,112 @@
+1)  
+[Donner Moitié de Pomme]
+2)  LEE
+[pickup 2] {thinkingA}Une pomme, Doug?
+3)  DOUG
+[pickup 2] {happyB}Sure! {thinkingA}Je ne mangeais jamais de fruit...{happyA}aujourd'hui ca me semble être la plus belle chose dans le monde. {normalA}Merci, Lee.
+4)  
+[Donner Viande Séchée]
+5)  
+[Donner Crackers et Fromage]
+6)  
+[Donner Crackers et Fromage]
+7)  LEE
+[pickup 2] {thinkingA}Vous pensez pas qu'un peu de nourriture pourrait vous intéresser ?
+57)  LEE
+[pickup 2] {thinkingA}Vous pensez pas qu'un peu de nourriture pourrait vous intéresser ?
+8)  LEE
+[pickup 2] {sadA}Désolé je suis parti avant que je puisse vous donner à manger.
+9)  DOUG
+[pickup 2] {normalB}Ce n'est pas grave, Lee. Vous n'avez pas besoin de sauver ma vie TOUT le temps.
+10)  LEE
+[pickup 2] {thinkingA}Vous pensez que Katjaa peut sauver ce type ?
+11)  DOUG
+[pickup 2] {sadA}Peut-être. {normalC}Je veux dire, je m'y connais en ordinateurs, mais cela ne signifie pas que je peux réparer une calculatrice.
+12)  DOUG
+[pickup 2] {thinkingA}Eh bien, oui... {happyA}Bien vu.
+13)  LEE
+[pickup 2] {happyA}Mais vous POURRIEZ probablement réparer une calculatrice.
+14)  DOUG
+[pickup 2] {normalC}Vous aussi, Lee.
+15)  LEE
+[pickup 2] {normalA}Allez-y doucement, Doug.
+16)  DOUG
+[pickup2]{normalC}J'ai travaillé à un "système d'alerte" pour l'extérieur.
+17)  LEE
+[pickup2]{happyA}{thinkingA}Sur quoi vous travaillez, Doug ?
+18)  DOUG
+[pickup2]{happyA}Non, c'est plusieurs cordes, reliée {happyB}à plusieurs cloches {happyA}stratégiquement placés pour nous faire savoir quand les marcheurs arrivent, d'où ils viennent, {happyB}et dans combien de temps ils arriveront ici.
+19)  LEE
+[pickup2][responding to "I worked up a little "warning system" for outside."]{thinkingB}C'est juste des cordes et des vieilles cloches.
+20)  LEE
+[pickup2]{happyA}{happyA}Nickel.
+21)  
+Sur quoi vous travaillez Doug ?
+22)  DOUG
+[pickup2] {sadA}...Je vous dois beaucoup plus qu'une demi ration de journée.
+23)  DOUG
+[pickup 2] [sacrificing food to pay Lee back fro saving him] {normalC}En fait, {sadA}pourquoi ne pas garder ma part aujourd'hui...
+24)  
+Vous pensez que Katjaa peut le sauver ?
+25)  
+Parler a
+26)  
+Donner Nourriture a
+27)  DOUG
+[pickup3][Thanking Lee for saving him 3 months ago] Je sais que vous n'avez pas sciemment choisi de me sauver, mais...
+28)  DOUG
+[pickup3][Thanking Lee for saving him 3 months ago] Je me souviendrai toujours que je n'étais pas celui que vous pensiez avoir besoin d'aide, mais...
+29)  
+Je n'est plus rien.
+30)  
+Un peu de nourriture ? [Donner]
+31)  LEE
+[flat]{normalD}Hé, Doug.
+32)  LEE
+[flat]{normalD}Hé, Doug.
+33)  DOUG
+[pickup3][standing up absentmindedly and hitting his head] Oof !  Ahh.. ssss...[As in Family guy Knee gag, then with a bit of wincing] Qu'est-ce qu'il y a Lee ?
+34)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Eh bien, ça en fait un de moins. Encore neuf personnes affamés et juste deux morceaux de nourriture.
+35)  LEE
+[pickup3][knowing there is only one more piece of food left]Hmm. Je devrais peut-être le garder pour moi ?
+36)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]Encore un bout de nourriture à donner et ce sera tout pour aujourd'hui.
+37)  
+[Garder la dernière ration pour vous]
+38)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]J'ai besoin de garder des forces, aussi.
+39)  
+[Donner la dernière ration à quelqu'un]
+40)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nan.  Certaines de ces personnes sont restés plus longtemps que moi sans la nourriture. Ce sont eux qui en ont le plus besoin.
+41)  LEE
+[pickup3][talking to doug about his alarm]Donc, nous pourrons savoir où ils sont et combien de temps nous avons. Très astucieux.
+42)  DOUG
+[pickup3][talking  about his alarm]J'ai mis en place des fils-piège à quatre endroits, et chacun d'eux déclenche l'une de ces quatre cloches. Donc-
+43)  LEE
+[pickup3][talking to doug about his alarm]Comment ça marche ?
+44)  LEE
+[pickup3][talking about Dougs alarm]Ca marche ?
+45)  DOUG
+[pickup3][talking about Dougs alarm]Ca devrait.  Nous allons devoir attendre et voir.
+46)  DOUG
+[pickup3][talking about Dougs alarm]Je sais que ça ne ressemble pas à grand chose, mais les cloches sonneront lorsque des marcheurs seront à proximité.
+47)  LARRY
+[pickup3]Hé, si le petit Doug veut pas sa nourriture, faites-la tourner par là.
+48)  LEE
+[pickup3]Ca marche pas de cette manière.  C'est moi qui décide qui aura de la nourriture.
+52)  LEE
+[pickup3]Ca marche pas de cette manière.  C'est moi qui décide qui aura de la nourriture.
+49)  LARRY
+[pickup3]Bien, faites ça intelligemment.  Vous voulez pas vraiment m'énerver, n'est-ce pas ?
+50)  MARK
+[pickup3]Hé, si Doug ne veut pas de sa ration, je la prends.
+51)  MARK
+[pickup3][appologetic]Très bien, je suis désolé. La faim commence à se faire sentir pour moi. Je vais vous laisser faire votre travail.
+53)  DOUG
+[pickup3][Thanking Lee for saving him 3 months ago]Je sais que vous vouliez me sauver avec Carley... Mais, eh bien...
+54)  DOUG
+[pickup3][Thanking Lee for saving him 3 months ago] Je sais que j'ai dit que le "pourquoi moi et pas Carley" n'avait aucune importance, mais...
+55)  
+[Exit]

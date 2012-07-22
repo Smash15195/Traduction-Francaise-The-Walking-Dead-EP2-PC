@@ -1,0 +1,214 @@
+1)  LEE
+{normalC}{body-a}Ces générateurs sont ils suffisant pour alimenter toute la laiterie ?
+2)  LEE
+{normalD}{body-c}Il n'y a que vous trois ici ?
+3)  ANDY
+{normalA}{body-handships}'Fraid désolé. {sadA}Nous avons perdu papa le premier mois.
+4)  ANDY
+{angryA}{body-a}Puis nous avons eux quelques démêlés avec ces putains de bandits environ un mois et demi auparavant, {sadA}il en a tué un de ses mains.
+5)  ANDY
+{angryA}{body-a}Ensuite il est revenu et a prit le reste de ses mains avant que nous puissions l'arrêter.
+6)  LEE
+{thinkingB}{body-c}Une clôture électrique est suffisante pour éloigner les rôdeurs ?
+7)  ANDY
+{happyC}{body-a}Rôdeurs? {happyB}C'est comme ça que vous les surnomez ? C'est cool. [beat] {normalC}{body-handships}L'ancienne n'aurait pas tenu, mais Mac -- {body-a}il était notre contremaître -- {happyA}il a trouvé un moyen d'utiliser les générateurs.
+8)  ANDY
+{happyB}Nous avons pris l'habitude de nous assoir ici depuis quelques nuits et observer ces fils de putes quand ils s'approchent de la clôture et les voir crépiter au loin.
+9)  ANDY
+{happyA}La chose la plus proche d'un divertissement de nos jours, je pense.
+10)  ANDY
+[pickup1][stern.  Seriously not letting Lee in the house with a weapon]Lee, je suis sérieux.  Laissez votre hache ici.
+11)  LEE
+[pickup1]Nous ne partirons pas en laissant nos armes ici.
+12)  ANDY
+[pickup1][kindly insisting they leave their weapons outside]Mec regarde, je n'essaie pas d'être un con, mais c'est la règle de Momma.  Tu veux manger, tu fais ce qu'elle te dit.
+13)  LARRY
+[pickup1][annoyed that Lee is beings stubborn about laying down his weapon]Grouillez-vous, Lee. Je meurs de faim !
+14)  LEE
+[pickup1][not sure that leaving their weapons outside is a good idea]Je me sentirais mieux si nous pouvions garder nos armes avec nous.
+15)  ANDY
+[pickup1]Si cela ne tenait qu'a moi, il n'y aurait aucun problème. Mais c'est la règle et si vous voulez manger, mieux vaut faire ce qu'elle dit.
+16)  LEE
+[pickup1][asking for a reminder]Où devrions-nous mettre nos armes avant d'entrer à l'intérieur ?
+17)  ANDY
+[pickup1][motioning to where Lee & Larry and leave their weapons] Juste ici ça me parrait bien.
+18)  LEE
+{normalb}{body-a}[pickup2] Les gars.
+19)  ANDY
+{sada}{body-a}[pickup2] Je suis vraiment désolé pour votre ami. {normalb}La dernière chose que nous voulions, c'est que quelqu'un soit blesser.
+20)  ANDY
+{sada}{body-a}[pickup2] Comment ça va, Lee ? Je suis vraiment désolé que vous ayez failli être tué là-bas. {thinkinga}Nous aurions dû vous dire à quel point c'était dangereux d'y aller.
+21)  LEE
+{normalc}{body-b}[pickup2][irritated]Je ne comprends toujours pas pourquoi {angrya}vous avez activé la clôture.
+22)  ANDY
+{normalb}{body-a}[pickup2] Ce n'était qu'un malentendu, honnêtement. {sada}Je me sens vraiment mal à parler de ça.
+23)  LEE
+{normalb}{body-b}[pickup2] Qu'est-ce qu'il y a à savoir sur les bandits là-bas ?
+24)  LEE
+[pickup2]{normalc}Mark est vivant. {angryb}Je suis heureux que ce ne soit pas plus grave.
+25)  ANDY
+[pickup2] {happyb}Ne vous inquiétez pas, Mama va bien prendre soin de lui.
+26)  LEE
+{angryb}{body-b}[pickup2] La mort de Mark aurait pu être évitée si{angryc} vous nous aviez dit ce qu'il y avait là-bas.
+27)  ANDY
+{thinkinga}{body-a}[pickup2]Nous n'avions pas l'intention de vous cacher quoique ce soit, Lee. {sada}Honnêtement.
+28)  DANNY
+{normalc}{body-a}[pickup2] [shrugging it off]Des accidents vont vites arriver. {normalb}Mais nous ne pouvons pas laisser ce chariot.
+29)  DANNY
+{alias } {angryA}Vous avez vu ce qu'ils ont fait à votre ami. {normalB}Personne n'est en sécurité ici, retrouvons les.
+30)  LEE
+{normalC}Comment ?
+31)  DANNY
+{normalC}C'est cool.  {normalB}Vous n'avez pas à décider maintenant.  {normalA}Mais n'attendez pas trop longtemps, sauf si vous n'avez pas d'autre choix.
+32)  ANDY
+{normalb}{body-a}[pickup2] Je resterai ici et garderai le fort.
+33)  DANNY
+{normalC}Rappelez-vous: nous ne faisons qu'une reconnaissance pour l'instant. Pas question de se faire repérer ou d'être tuer.
+34)  ANDY
+[pickup2] {happyb}Putain, ouais.
+35)  DANNY
+[pickup2]{normalc}Deux d'entre nous devrait sortir et faire une reconnaissance, {happyc}alors nous y retournerons tous pour nous venger.
+36)  DANNY
+{normala}{body-a}[pickup2] Vous avez changé d'avis au sujet de la traque de ces bandits ?
+37)  DANNY
+{angrya}{body-a} [pickup2]Ecoutez, c'est pas le moment de parler de nos erreurs.
+38)  ANDY
+{normala}{body-a}[pickup2]Hé, Lee.
+39)  LEE
+[pickup2] {angrya}Dites pas de conneries.
+40)  ANDY
+[pickup2] {normalb}{body-a}Salut.
+41)  LEE
+{normala}{body-b}[pickup2] Salut...
+107)  LEE
+{normala}{body-b}[pickup2] Salut...
+42)  ANDY
+[pickup2] {happyd}{body-handships}Je suis heureux que vous ayez décidé de nous aider les gars.
+43)  LEE
+{normalb}{body-c}[pickup2] Je vais m'impregner des lieux quelques minutes.
+44)  ANDY
+[pickup2] {thinkinga}{body-a}Bon, eh bien, nous avons à sécuriser le périmètre {normalb}ne trainez pas trop!
+45)  LEE
+[pickup2] {happya}{body-b}Mark je peux vous aider avec ce périmètre, je suis prêt.
+46)  ANDY
+[pickup2] {normalb}Je vais désactiver la section nord-ouest, {thinkinga}et vous les gars vous pourriez {normalc} vous changer et aller voir leurs points faibles. {happyb}ça nous aiderai beaucoup.
+47)  ANDY
+[pickup2]{angrya} Restez attentif, on ne sait jamais.
+48)  LEE
+[pickup2] {normala}Ok...
+49)  ANDY
+[pickup2] Hé, bien. La clôture arrête un rôdeur en trois ou quatre secondes, mais elle surcharge si nous laissons les hautes-herbes là-bas.
+50)  LEE
+[pickup2] {happya}Cela semble simple.
+51)  
+Il n'y a que vous trois ici ?
+52)  
+Les generateurs alimentent la laiterie ?
+53)  ANDY
+[pickup2] {happyc}{body-a}Nous en avons beaucoup. {normalb}Et nous allons marchander autant de carburant que nécessaire. {happya}Mais ils travaillent tous ensemble pour faire le marché. {happyc}Comme pour nous.
+54)  
+La clôture arrête les rôdeurs ?
+55)  
+Allons-y.
+56)  
+Pas maintenant.
+57)  LEE
+[pickup2] Cette mission était suicidaire.
+58)  ANDY
+{sada}{body-a}[pickup2] Nous sommes vraiment désolés.
+59)  
+Mark est mort pour rien
+60)  
+La clôture était une mission suicide.
+61)  
+J'aimerais aller à l'interieur.
+62)  
+Qui sont ces personnes dans les bois ?
+63)  
+Pourquoi avez-vous activé la clôture ?
+64)  ANDY
+{thinkinga}{body-a}[pickup2] Nous ne les connaissons pas. Nous pensons que certains d'entres eux ont eux l'habitude de fouiller la zone proche de la route.
+65)  LEE
+{angryc}{body-b}[pickup2] Que font ces gens dans les bois ?
+66)  ANDY
+[pickup2] {normala}Ouais. Quoi qu'il en soit, ils sont {angrya}malades. Ils deviennent fous à force d'êtres affamés.
+67)  DANNY
+{normala}{body-a}[pickup2] Faite attention, gardez-en un peu.
+68)  LEE
+[pickup2]{angryb}Ma fille est à l'intérieur.
+69)  ANDY
+{thinkinga}{body-a}[pickup2] Elle est avec ce médecin, non ? {happya}Ne vous inquiétez pas pour elle. {normalb}La maison est en désordre mais nous vous invitons pour {normalc}le dîner lorsque que ma mère aura terminer de préparer le repas.
+70)  DANNY
+{happyc}{body-a}[pickup2] Vous devez vider le serpent toute suite ? {happya}Allez donc dans les buissons là.
+71)  LEE
+{angrya}{body-b}[pickup2] Je voudrais aller à l'intérieur.
+72)  ANDY
+{sada}{body-a}[pickup2] Je vous comprend, mais vous savez, {thinkinga}elle est probablement plus en sécurité là-bas pour l'instant avec {surpriseda}une flêche, {normalc}Vous allez bien ?
+73)  LEE
+{angryc}{body-b}[pickup2] Je ne suis pas très heureux d'être ici, loin de ma fille.
+74)  DANNY
+{angrya}{body-a}[pickup2] Eh bien, nous ferions mieux de partir à la recherche de ces bandits. {normalc}Revenez me voir quand vous serez prêt.
+75)  LEE
+{angrya}{body-b}[pickup2] Je vais aller faire un tour.
+76)  LEE
+{normalD}Nous pouvons vous aider avec la clôture ?
+77)  ANDY
+{normalB}En fait, ouais. {normalA}Quelques rôdeurs ont réussis à passer pendant que les générateurs étaient à courts d'essences.
+78)  ANDY
+{normalC}Si vous pouviez trouver l'endroit où ils sont entrés et la réparer, ça m'aiderai grandement.
+79)  
+Je suis pret a securiser le perimetre.
+80)  
+Vous avez besoin d'aide pour la clôture ?
+81)  DANNY
+[pickup3]Alors, vous êtes prêt à partir à la recherche de leur camp ?
+82)  CLEMENTINE
+[pickup3]Tu pars maintenant ?
+83)  LEE
+[pickup3]Oui.  Je serai de retour bientôt, Clémentine.
+84)  CLEMENTINE
+[pickup3]Fait attention.
+85)  LEE
+[pickup3]Je le ferai.
+86)  
+Nous sommes vos premiers invités ?
+87)  LEE
+[pickup3]Nous ne sommes pas les premières personnes que vous ayez invités à la laiterie, je me trompe ?
+88)  ANDY
+[pickup3]Eh bien, non, nous avions conclu des accords similaires avec d'autres personnes non loin d'ici, on échangé de l'essence et de la nourriture, mais finalement ils se sont déplacés pour tenter de revoir les personnes avec qui ils avaient perdus contacts..
+89)  LEE
+[pickup3]Vous savez, Mark et moi pouvons nettoyer la clôture nous-mêmes si vous voulez rester ici et en finir avec les générateurs.
+90)  ANDY
+[pickup3][precceds 310485152]Eh bien, ça serait cool!
+91)  
+Allons vérifier le périmètre de sécurité.
+92)  ANDY
+[pickup3]J'ai remarqué au motel que vos amis sont assez bien armés.  Vous vous occupez de la réserve, hein ?
+93)  
+Personne nous baisent.
+94)  
+Nous pouvons protéger la laiterie.
+95)  
+Combien d'armes avez-vous ?
+96)  LEE
+[pickup3]Ouais.  Si quelqu'un essaie de nous baiser, ils le vont le regretter !
+97)  ANDY
+[pickup3][a bit put off]Eh bien, la protection des personnes qui vous entourent est importante, mais par expérience, les gens avec des armes à feu ont tendance à devenir dangereux pour les autres et pour eux même.
+98)  ANDY
+[pickup3]Espérons que nous n'aurons jamais à en arriver là.
+99)  LEE
+[pickup3]Ouais, si vous avez besoin de personnes supplémentaires pour protéger la laiterie, vous pouvez compter sur nous !
+100)  LEE
+[pickup3] Nous les avons ammassés avec grand-peine au cours des derniers mois. Et vous? Avec quoi vous protégez-vous par ici ?
+101)  ANDY
+[pickup3] Nous avons recueilli quelques fusils pour nous protéger, mais nous les utilisons quand nous sortons de la propriété. Quand nous sommes à l'intérieur du périmètre, la clôture est la seule chose qui nous garde en sécurité.
+102)  LEE
+[pickup3] Ouais. Ce sera une bonne occasion de découvrir un peu plus contre qui nous nous battons. Faisons-le.
+103)  LEE
+[pickup3] Ouais. Nous devons travailler ensemble sur ce problème. Ces bandits sont un danger pour tous le monde. Faisons-le.
+104)  LEE
+[pickup3] Je vais le faire.
+105)  LEE
+[pickup3] Nous partirons dans quelques minutes, je dois juste vérifer quelques choses avant que nous sortions.
+106)  ANDY
+[pickup3] Bien sûr, c'est compréhensible. Parlez de tout ca avec votre groupe, venez nous retrouver lorsque vous serez prêt.

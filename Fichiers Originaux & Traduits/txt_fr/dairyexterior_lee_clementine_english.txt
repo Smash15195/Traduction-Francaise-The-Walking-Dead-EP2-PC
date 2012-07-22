@@ -1,0 +1,132 @@
+1)  LEE
+[pickup3]Hé, Clém, tu aimes la balançoire ?
+2)  CLEMENTINE
+[pickup3]Ouais ! C'est marrant !
+3)  CLEMENTINE
+[pickup3]Merci de l'avoir réparée !
+4)  LEE
+[pickup3]Je t'en prie.
+5)  CLEMENTINE
+[pickup3]J'essaierai !
+6)  LEE
+[pickup3]N'oublie pas de dire "Merci" à Andy, d'accord ?
+7)  CLEMENTINE
+[pickup3] Tu peux me pousser ?
+8)  CLEMENTINE
+[pickup3] Tu peux me pousser ?
+9)  
+Bien sûr.
+10)  
+Peut-être plus tard.
+11)  CLEMENTINE
+[pickup3]Lee!  Tu peux encore me pousser ?
+12)  LEE
+[pickup3]Bien sûr, j'adore te pousser sur la balançoire. [I'll push you on the swing Clem]
+13)  LEE
+[pickup3]Peut-être plus tard., d'accord ?
+14)  CLEMENTINE
+[pickup3[bummed out] Oh.  très bien.
+15)  DUCK
+[Bummed]...D'accord.
+16)  LEE
+[pickup3][turning to Kenny]Ca dérange pas si Clémentine en fait encore un peu ?
+17)  KENNY
+[pickup3]Très bien, Duck, laisse Clémentine en faire encore un peu.
+18)  LEE
+[PICKUp3]Ca dérange pas si on coupe encore ?
+19)  KENNY
+[pickup3]Très bien, Duck, c'est le moement de faire une pause.
+20)  
+Comment tu vas ?
+21)  
+Qu'est-ce que tu pense de la laiterie ?
+22)  
+Nous sommes en securité ici.
+23)  CLEMENTINE
+[pickup3][smiling] {HappyA}D'accord.
+24)  CLEMENTINE
+[pickup3]{ThinkingA}Ca va, je crois. Et toi ?
+25)  LEE
+[pickup3]{HappyA}Il a eu de la chance là-bas. Ca aurait pu être bien pire.
+26)  CLEMENTINE
+[pickup3]{SadA}Fait attention.  Je veux que tu reste reste en vie aussi.
+27)  LEE
+[pickup3]{ThinkingA}Nous devons faire en sorte qu'ils ne nuisent plus à personne d'autre.
+28)  CLEMENTINE
+[pickup3]{SadA}Est-ce que ça va aller pour Mark ?
+29)  LEE
+[pickup3]{Body-CrouchAxe}{ThinkingA}Tu tiens le coup Clémentine ?
+30)  LEE
+[pickup3]{HappyB}Depuis que je t'ai rencontré j'ai eu de la chance, alors ne t'inquiète pas.
+31)  CLEMENTINE
+[pickup3] {ThinkingA}Tu vas aller retrouver les gens qui ont blessés Mark ?
+32)  LEE
+[pickup3]Ouais, je suis un peu inquiet pour Mark.
+33)  CLEMENTINE
+[pickup3]{HappyA}Elle est jolie. Ca me rappelle la façon dont les choses étaient avant.
+34)  CLEMENTINE
+[pickup3]{ThinkingA}Tu pense que les choses redeviendront un jour comme avant ?
+35)  LEE
+[pickup3]{HappyB}Ouais, c'est vrai.
+36)  LEE
+[pickup3]{Body-CrouchAxe}{ThinkingA}Tu pense quoi de la laiterie ?
+37)  
+Oui.
+38)  
+Je suis pas sûr.
+39)  
+Je pense pas.
+40)  LEE
+[pickup3]{Body-CrouchAxe}{HappyA}Ouais. Je sais pas quand mais un jour, les choses reviendront à la normale.
+41)  CLEMENTINE
+[pickup3]{HappyA}Super. J'espère que ce sera bientôt.
+42)  LEE
+[pickup3]{HappyB}Moi aussi.
+43)  LEE
+[pickup3]{Body-CrouchAxe}{ThinkingA}Je sais pas Clém, j'espère.
+44)  CLEMENTINE
+[pickup3]{SadA}J'espère aussi.
+45)  LEE
+[pickup3] {SadA}Je sais, Clém. La mienne me manque aussi.
+46)  LEE
+[pickup3]{Body-CrouchAxe}{SadA}Je pense pas.
+47)  CLEMENTINE
+[pickup3]{SadB}Oh.
+48)  CLEMENTINE
+[pickup3]{NormalA}Lee ?
+49)  CLEMENTINE
+[pickup3]{SadA}Ma famille me manque.
+50)  LEE
+[pickup3]{ThinkingA}Ouais ?
+51)  CLEMENTINE
+[pickup3][After Lee is silent] {SadA}Les choses comme c'était avant me manque.
+52)  LEE
+[pickup3]Je te le promets.
+53)  CLEMENTINE
+[pickup3]Aussi longtemps que les méchantes personnes ne m'attrape pas, hein ?
+54)  LEE
+[pickup3]Je ne laisserai pas ce qui s'est passé à Mark t'arriver.
+55)  CLEMENTINE
+[pickup3] Promis ?
+56)  LEE
+[pickup3] {Body-CrouchAxe}{HappyB}Ne t'inquiète pas, nous sommes en sécurité ici, maintenant.
+57)  LEE
+[pickup3]{NormalA}Ouais, je suis juste un peu inquiet à propos de Mark.
+58)  CLEMENTINE
+[pickup3]D'accord.
+59)  LEE
+[pickup3]{Body-CrouchAxe}{ThinkingA}J'ai quelques trucs à faire. Je serai de retour dans pas longtemps.
+60)  CLEMENTINE
+[pickup3]Ca va. Merci de m'avoir poussé.
+61)  LEE
+[pickup3]Très bien, Clém, ça suffit pour le moment.
+65)  LEE
+[pickup3]Très bien, Clém, ça suffit pour le moment.
+62)  LEE
+[pickup3]Je t'en prie. [turns to Kenny] Elle est toute à toi !
+63)  DUCK
+Ouais !!
+64)  KENNY
+[pickup3][Duck reallly want to get back on the swing]C'est bon, Duck, ne pête pas un câble.
+66)  CLEMENTINE
+[pickup3]Lee !  Tu pourras me pousser ?

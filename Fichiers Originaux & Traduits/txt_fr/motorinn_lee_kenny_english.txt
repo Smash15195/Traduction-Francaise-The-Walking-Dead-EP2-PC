@@ -1,0 +1,150 @@
+1)  KENNY
+[pickup2][Conversation with Lee about leaving the Motel]Vous avez dit que Glenn faisait le mauvais nemero. C'est peut-être vrai ou pas. Et peut-être que nous ne le saurons jamais mais au moins nous devons être prêts.
+2)  KENNY
+[pickup2][Conversation with Lee about leaving the Motel] "Vous devez faire ce que vous avez a faire." C'est ce que vous a dit Glenn, non ?
+3)  LEE
+[pickup2][Conversation with Kenny about leaving the Motel]Ouais, mais il partait pour retrouver ses amis. Votre famille est ici.
+4)  KENNY
+[pickup2][Conversation with Lee about leaving the Motel]Vous avez donné votre bénédiction à Glenn quand il est parti, je vous demande simplement de respecter mon choix aussi.
+5)  KENNY
+[pickup3][Conversation with Lee about leaving the Motel/  blowing the whole conversation off]Eh bien, le camping car ne fonctionne pas encore pas besoin d'en parler pour le moment.
+6)  LEE
+[pickup2][Conversation with Kenny about leaving the Motel]Très juste.
+7)  
+[Donner Moitié de Pomme]
+8)  
+[Donner Viande Séchée]
+9)  
+[Donner Crackers et Fromage]
+10)  
+[Donner Crackers et Fromage]
+11)  LEE
+[pickup 2] Tenez, Kenny, prenez ça.
+12)  KENNY
+[pickup 2]Et mon garçon ? Il mange ?
+13)  LEE
+[pickup 2] Tenez Kenny, prenez ça. On as besoin de vous en forme.
+14)  KENNY
+[pickup 2] Et mon garçon ? Il mange ?
+15)  KENNY
+[pickup 2] J'apprecie vraiment que vous prenez soin de nous, Lee.
+16)  LEE
+[pickup 2] Ouais, Je lui ai donné un truc.
+22)  LEE
+[pickup 2] Ouais, Je lui ai donné un truc.
+72)  LEE
+[pickup 2] Ouais, Je lui ai donné un truc.
+17)  LEE
+[pickup 2] [a little uneasy]Euh... Non.
+18)  KENNY
+[pickup 2] Revenez me parler une fois que vous vous serez occupé de mon fils.
+21)  KENNY
+[pickup 2] Revenez me parler une fois que vous vous serez occupé de mon fils.
+19)  KENNY
+[pickup 2] Bien sûr, donnez-la moi, je suis mort de faim. Merci.
+71)  KENNY
+[pickup 2] Bien sûr, donnez-la moi, je suis mort de faim. Merci.
+20)  LEE
+[pickup 2] [a little uneasy] Non.
+23)  LEE
+[pickup 2] Je n'ai pas eu assez pour tout le monde. J'ai pensé que vous pourriez vous en passer.
+24)  KENNY
+[pickup 2] Hé, vous vous êtes occupé de mon garçon. Pour autant que je suis sâche, je ne vous ai pas vu le faire.
+25)  KENNY
+[pickup 2] Vous auriez pu au moins avoir la décence de donner un peu de nourriture à Duck. Réfléchissez un peu, Lee.
+26)  LEE
+[pickup 2]  Lilly a marqué un point à propos de ces nouvelles personnes qui sont autant de bouches supplémentaires à nourrir.
+27)  LEE
+[pickup 2]  [leaving conversation] Espérons que les choses deviennent meilleures bientôt.
+28)  KENNY
+[pickup 2] Maintenant, il y a une déclaration, je peux passer derrière.
+29)  KENNY
+[pickup2]Je sais, mais... peut-être le problème n'est pas qu'il n'y a pas de nourriture, mais simplement qu'il n'y en a pas ICI ! Nous pensosn qu'il faut lever le camp plus loin.
+30)  KENNY
+[pickup2]Ce n'est pas un secret, Lee. C'est probablement notre meilleure chance.
+31)  LEE
+[pickup2]Il y a des rumeurs qui disent que vous voulez quitter le motel.
+32)  LEE
+[pikcup2]Je suis pas certains que ce soit la meilleure idée.
+33)  
+Lilly a raison au sujet de ces nouvelles personnes...
+34)  
+Parler a
+35)  
+Donner Nourriture a
+36)  LEE
+Vous voulez quelque chose à manger ?
+75)  LEE
+Vous voulez quelque chose à manger ?
+37)  
+Il n'y a pas assez de nourriture pour vous...
+38)  
+Un peu de nourriture ? [Give Food]
+39)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Eh bien, ça en fait un de moins. Encore neuf personnes affamés et juste deux morceaux de nourriture.
+40)  LEE
+[pickup3][knowing there is only one more piece of food left]Hmm. Je devrais peut-être le garder pour moi ?
+41)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]Encore un bout de nourriture à donner et ce sera tout pour aujourd'hui.
+42)  
+[Garder la dernière ration pour vous]
+43)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]J'ai besoin de garder des forces, aussi.
+44)  
+[Donner la dernière ration à quelqu'un]
+45)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nan.  Certaines de ces personnes sont restés plus longtemps que moi sans la nourriture. Ce sont eux qui en ont le plus besoin.
+46)  KENNY
+[pickup3]Écoutez, vous avez été bon pour moi et ma famille.  Vous avez sauvé Duck de ces monstres, et avez tenu tête à Larry au drugstore.    J'oublie pas ça. Vous et Clém êtes les bienvenus si vous voulez venir avec nous.
+47)  KENNY
+[pickup3][Letting Lee down, awkwardly refusing Lee a ride]Écoutez. Je dois prendre soin de ma famille. Je dois connaitre quiconque que je prends avec moi, c'est pareil pour Kat et Duck.
+48)  KENNY
+[pickup3][cutting Lee off - Arguing, but NOT getting heated, keeping it in a low tone]Une fois à la ferme d'Hershel et puis de nouveau avec Larry au drugstore.
+49)  LEE
+[pickup3][asking Kenny if he'll take Lee and Clem along in the RV once it's fixed] Vous avez une place pour moi et Clém ?
+50)  LEE
+[pickup3][attempting to defend his actions when not saving Duck]Attendez, je sais que-
+51)  LEE
+[pickup3][attempting to defend his actions when not saving Duck]Je n'ai pas-
+52)  KENNY
+[pickup3][cutting Lee off - Arguing, but NOT getting heated, keeping it in a low tone]Lee, vous avez laissé Duck en danger deux fois !
+53)  LEE
+[pickup3]Oye, Kenny.
+54)  KENNY
+[pickup3] ¿Qué estás pensando, Lee?
+55)  LEE
+[pickup3]Le gars dans le piège à ours. Vous pensez que nous avons abandonné trop tôt ? Je pense que si j'avais eu encore une minute ou deux...
+56)  KENNY
+[pickup3]Vous avez vu ce gars. Sa jambe était complètement déchiqueté. Quelle difference même si vous les aviez eu ?  Jz n'avais que ma famille à l'esprit et vous devez penser à Clémentine. Nous devons rester en vie pour eux.
+57)  LEE
+[pickup3]Merci de nous fait gagner du temps pour sortir ce type du piège à ours là-bas.
+58)  KENNY
+[pickup3]J'arrive pas à croire que vous lui avez coupé la jambe. Je ne sais pas si j'aurais pu le faire.
+59)  LEE
+[pickup3]Je n'ai pas eu le choix. C'était ça ou les marcheurs.
+60)  
+A propos du gars dans le piege...
+61)  KENNY
+[pickup3]Eh bien, "ici" n'est pas le meilleur endroit. Vous devriez penser à venir avec nous. Vous et Clém.
+62)  LEE
+[pickup3][urging Kenny to stay with the group]Nous avons besoin de vous ici. Nous avons de meilleures chances de survivre en restant en groupe.
+63)  KENNY
+[pickup3]Notre MEILLEURE chance de survivre est de s'éloigner de l'intérieur des terres ! Ma décision est prise.
+64)  KENNY
+[pickup3][confident that leaving is for the best] Je le sais et j'emmène ma famille.
+65)  LEE
+[pickup3]La côte n'a pas l'air d'être une bonne idée. Mais peut-être que c'est la meilleure chose.
+66)  LILLY
+[pickup3][Seeing Lee give Kenny food]Comment ça va Lee ? De là-haut on dirait que vous jouez les fayots.
+67)  
+[Exit]
+68)  
+Vous devriez rester ici .
+69)  
+La côte n'est pas une bonne idée.
+70)  LEE
+Je reviendrai bientôt.
+73)  LEE
+Je reviendrai bientôt.
+74)  KENNY
+[pickup2] Peu importe.

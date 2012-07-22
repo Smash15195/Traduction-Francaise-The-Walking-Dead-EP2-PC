@@ -1,0 +1,756 @@
+1)  CLEMENTINE
+[excited] {HappyB}Katjaa dit que le bébé de Maybelle pourrait naître ce soir !
+2)  KATJAA
+{HappyC}On verra bien, Clémentine.
+3)  LEE
+{body-B}{FearA}Je...Je suis désolé.
+4)  ANDY
+[annoyed/frustrated] {body-A}{AngryA}*soupir*
+5)  LEE
+{body-B}{FearA}Katjaa voulait de l'eau. J'ai... {HappyA}pensé qu'il y en avait peut-être ici.
+6)  ANDY
+[annoyed]{body-A}{ThinkingA}Et bien demandez-nous la prochaine fois.
+7)  LEE
+{body-B}{ThinkingA}Vous semblez avoir beaucoup de matériel médical ici.
+8)  ANDY
+[with a creepy smile] {body-A}{HappyA}J'imagine que c'est l'époque qui veut ça.  {HappyB}Faut faire des réserves tant qu'on en a l'occasion.
+9)  ANDY
+[Trying hard to keep his cool]{body-A}{ThinkingA}Hé. Vous avez l'air d'être de braves gens, {HappyA}et Dieu sait combien votre aide est la bienvenue ici.
+10)  ANDY
+[Trying hard to keep his cool]{NormalC}Mais vous pouvez pas fouiller {HappyA}les pièces verrouillées comme ça, si vous voulez qu'on ait confiance en vous.
+11)  ANDY
+[frustrated]{AngryA}Très bien...écoutez, {HappyA}le dîner sera bientôt prêt.  Allez donc {HappyB}chercher le reste de votre groupe.
+12)  DUCK
+{body-A}{ThinkingA}Papa a pas réussi à l'ouvrir.
+13)  KATJAA
+[scolding/hushed] {body-Sit}{DisgustA}Ah, vous êtes bien comme Kenny ! {AngryA}Posez cette hache, ou vous allez tous {AngryB}nous faire virer.
+14)  KATJAA
+{body-Sit}{AngryB}Non, vous allez défoncer la porte !
+15)  LEE
+[reading; quietly to himself] {Body-B}{SadA}De la morphine ?
+16)  LEE
+{body-B}{ThinkingA}Comment va-t-elle ?
+17)  LEE
+{body-B}{HappyA}Je ne crois pas que ce soit une bonne idée.  {ThinkingA}Elle n'a pas l'air en très bon état.
+18)  DUCK
+{body-A}{NormalB}Hé, Lee, {HappyA}tu peux me pousser ?
+19)  LEE
+{body-B}{ThinkingA}Rien dont j'aie besoin.
+20)  LEE
+[to himself; quiet but somewhat urgent]{body-B}{NormalB}Rien d'utile.
+21)  LEE
+[to himself; quiet but somewhat urgent][It's] {body-B}{AngryA}R.A.S.
+22)  LEE
+[to himself; quiet but somewhat urgent] {body-B}{ThinkingA}On dirait que c'est cassé.
+23)  LEE
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingB}C'est tout griffé.
+24)  LEE
+[to himself; quiet but somewhat urgent/shocked...looking at chains with meat hooks]{body-B}{DisgustA}A quoi ça sert tout ça ?
+25)  LEE
+[to himself; quiet but somewhat urgent]{Body-B}{NormalC}Rien d'utile.
+26)  LEE
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Ca a l'air vieux. Je me demande si ça marche encore ?
+27)  LEE
+[to himself; quiet but somewhat urgent]{Body-B}{AngryA}C'est vide.
+378)  LEE
+[to himself; quiet but somewhat urgent]{Body-B}{AngryA}C'est vide.
+28)  LEE
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Elles sont vides. [Inside these boxes]
+29)  KATJAA
+{body-Sit}{HappyA}Si elle commence rapidement son vêlage, ça devrait aller.  {SadA}Quant à  son petit veau... {NormalC}on verra bien.
+30)  DUCK
+[defensive] {body-A}{HappyB}Je donne un coup de main !
+31)  ANDY
+{body-A}{ThinkingA}Qu'est-ce que c'est ?
+32)  KATJAA
+{HappyB}Oui mon chéri. {HappyA}Il me faut l'aide d'une grande personne.
+33)  ANDY
+{NormalC}D'accord, {ThinkingA}je reviens tout de suite.
+34)  KATJAA
+[Calling Out] {body-Sit}{HappyA}Hé, Andrew... {NormalC}j'ai besoin d'aide ici.
+35)  KATJAA
+{body-Sit}{HappyA}Elle va bien. {NormalB}J'essaie de la préparer à  la mise-bas. {ThinkingA}Vous pouvez aller me chercher des serviettes ? Dans la maison ?
+36)  ANDY
+{HappyA}D'accord.  Bien, {HappyB}vous n'aurez qu'à  me siffler si y vous faut quoi que ce soit.  {NormalC}Je suis juste dehors.
+37)  KATJAA
+{body-Sit}{HappyA}Elle va parfaitement bien pour l'instant.
+38)  ANDY
+{body-A}{NormalC}Comment elle va ?
+39)  LEE
+{body-B}{ThinkingA}Ouais.
+40)  KATJAA
+{body-Sit}{ThinkingA}Est-ce que Kenny vous a dit ? {FearA}Pour la salle du fond ?
+41)  KATJAA
+Ca me fait mal de le dire, mais il a raison.  {ThinkingA}Il faut qu'on sache ce qu'il y a là -bas. {AngryA} J'ai essayé de regarder, {ThinkingA}mais Andrew fait que revenir pour jeter un oeil...
+42)  LEE
+{body-B}{NormalC}Katjaa...
+43)  KATJAA
+{body-Sit}{FearA}Andy sera là  d'une minute à  l'autre. {FearB}Dépêchez-vous.
+44)  LEE
+{body-B}{HappyB}Tu l'aimes bien cette vache, Clém ?
+45)  CLEMENTINE
+{body-Stand}{HappyA}Elle est belle.
+46)  LEE
+{body-B}{HappyB}Vous vous amusez bien les gars ?
+47)  DUCK
+{body-A}{HappyB}Youhou !
+48)  KATJAA
+{body-Sit}{FearA}Plus vite, Lee.
+49)  KATJAA
+[a little annoyed] {body-Sit}{AngryA}Lee, je t'en prie !
+50)  LEE
+{body-B}{SadA}Elle a l'air maigrichonne.
+51)  KATJAA
+{FearB}Ouais... {HappyA}on dirait qu'on a de la chance.
+52)  LEE
+{body-B}{FearA}Tout va bien. {ThinkingA}J'ai cru qu'il serait furieux...
+53)  LEE
+[puzzled]{ThinkingA}Ouais.  {NormalC}Sà»rement.
+54)  KATJAA
+{body-Sit}{SadA}Pardon, Lee.  {SadB}Je l'ai pas entendu approcher...
+55)  KATJAA
+{body-Sit}{ThinkingA}Lee, tu es {SadA}retourner chercher Lilly et les autres ?
+56)  LEE
+{HappyA}Je vais le faire.
+57)  LEE
+{body-B}{NormalB}Ouais.
+58)  KATJAA
+{NormalB}D'accord.  {HappyA}On se voit pour le dîner alors.  {SadA}Faites attention.
+59)  DUCK
+[disapointed] {SadA}D'accord.
+60)  LEE
+{body-B}{HappyA}Reste près de ta maman pour l'instant.
+61)  DUCK
+{body-A}{HappyB}Je veux jouer dans le tas de foin !
+62)  KATJAA
+{body-Sit}{AngryA}Lee, pas dans cette salle.  {FearB}regarde dans la salle de DERRIERE.
+63)  KATJAA
+{body-Sit}{FearA}Il est parti pour quelques minutes, {ThinkingA}vite. {FearB} Il n'y a pas une minute à  perdre.
+64)  LEE
+{body-B}{ThinkingA}Appelle-le.  {NormalC}Je vais voir ce que je peux faire.
+65)  LEE
+{body-B}{NormalC}C'est la vache...
+66)  LEE
+{body-B}{FearA}C'est mon poignet...
+67)  LEE
+{body-B}{HappyA}Les gamins ont soif...
+68)  ANDY
+{body-A}{FearA}Maybelle va bien ?
+69)  LEE
+{SadA}Je me le suis foulé pendant qu'on réparait la clôture.  {NormalC}Vous pouvez m'apporter un peu de glace ?
+70)  ANDY
+{body-A}{ThinkingA}Je vais voir à  la maison.
+71)  ANDY
+{body-A}{HappyA}Ouais, je vais voir ça avec M'man.
+72)  LEE
+{HappyB}Vous pouvez leur ramener un petit quelque chose ?
+73)  KATJAA
+{body-Sit}{ThinkingA}Ca devrait nous faire gagner quelques minutes...
+74)  DUCK
+{body-A}{ThinkingA}Papa dit que ça s'appelle une pierre à lécher.
+75)  CLEMENTINE
+{body-Stand}{ThinkingA}Ouais, mais ne la lèche pas surtout.  {DisgustA}C'est dégoûtant.
+76)  LEE
+{body-B}{ThinkingA}C'est quoi ce truc ?
+77)  CLEMENTINE
+[bashful] {HappyB}Je sais pas...
+78)  LEE
+{HappyA}Tu l'as léché ?
+79)  LEE
+[to himself] {body-B}{FearB}Qu'est-ce qu...?
+80)  LEE
+[hushed] {body-B}{DisgustA}On dirait un abattoir...
+81)  LEE
+[hushed] {ThinkingA}Ouais, c'est ce que je pensais aussi.
+82)  KATJAA
+[hushed]{body-Sit}{ThinkingB}Dans une exploitation laitière ?
+83)  KATJAA
+{body-Sit}{HappyA}Qu'est-ce que vous voyez ? {ThinkingA}Y a de la nourriture ?
+84)  ANDY
+[stern] {body-A}{ThinkingA}Vous cherchez quelque chose, Lee ?
+85)  ANDY
+[with undertones of accusation]{body-A}{ThinkingA}On dirait que Maybelle va mieux, {HappyA}hein ?
+86)  ANDY
+[with undertones of accusation]{body-A}{ThinkingA}Content de voir que votre poignet va mieux.
+87)  ANDY
+[with undertones of accusation]{body-A}{AngryA}M'man dit que les enfants peuvent aller{ThinkingA} boire un coup à la maison.
+88)  KATJAA
+{body-A}{HappyA}Ca va, Clémentine, tu peux la caresser.
+89)  LEE
+{HappyB}Vas-y, ça va.
+90)  CLEMENTINE
+[amazed by the cow]{body-Stand}{HappyC}Woah...
+91)  CLEMENTINE
+[ambient]{ThinkingA}Elle est si grosse.
+92)  CLEMENTINE
+[ambient]{HappyB}Il y a un bébé là -dedans ?
+335)  CLEMENTINE
+[ambient]{HappyB}Il y a un bébé là -dedans ?
+93)  CLEMENTINE
+[ambient]{HappyA}J'aime bien sa couleur.
+94)  CLEMENTINE
+[ambient]{NormalB}Les vaches elles font du lait.
+95)  CLEMENTINE
+[ambient]{ThinkingB}Comment ça se fait qu'elle est allongée ?
+96)  CLEMENTINE
+[ambient]{HappyA}Meuuuuuhh !
+97)  DUCK
+[Ambient]{HappyB}Je peux lui monter dessus ?
+98)  DUCK
+[Ambient]{HappyB}Je veux la toucher !
+99)  DUCK
+[Ambient]{HappyA}C'est une madame vache parce que les monsieurs vaches ils ont des cornes.
+100)  DUCK
+[Ambient]{ThinkingA}M'man, on peut traire la vache ?
+101)  DUCK
+[Ambient]ThinkingA}Comment ça se fait que les cowboys ils montent sur des chevaux et pas sur des vaches ?
+102)  DUCK
+[Ambient]{NormalB}Je la vois respirer.
+103)  KATJAA
+[ambient]{HappyA}Doucement.
+104)  KATJAA
+[ambient]{ThinkingA}Doucement, tu vas lui faire peur.
+336)  KATJAA
+[ambient]{ThinkingA}Doucement, tu vas lui faire peur.
+105)  KATJAA
+[ambient]{HappyA}Tu peux la toucher, mais doucement.
+106)  KATJAA
+[ambient]{HappyB}C'est la première fois que tu vois une vache d'aussi près ?
+107)  KATJAA
+[ambient]{HappyA}Chut... ne fais pas trop de bruit.
+108)  KATJAA
+[ambient]{HappyB}C'est comme un gros chien, hein ?
+109)  LEE
+[pickup3][slightly hushed, general worry about the kids]{body-B}{ThinkingA}Comment vont les enfants ?
+110)  KATJAA
+{body-Sit}{HappyA}Je ne vous ai jamais remercié pour avoir sauvé Duck des zombies {SadA}dans la ferme de Hershel.[Recorded during 101 pickups]
+111)  KATJAA
+[Ya know what, despite it all-]{body-Sit}{HappyA}Ils vont bien.[Recorded during 101 pickups]
+112)  LEE
+{body-B}{ThinkingA}Que pensez-vous de cette ferme ?
+113)  KATJAA
+{body-Sit}{HappyA}Chouette endroit... {ThinkingA}Mais je ne crois pas qu'on devrait se mettre trop à  l'aise ici.  {NormalC}On connait pas encore vraiment ces gens-là , {ThinkingA}vous savez ?
+114)  KATJAA
+{body-Sit}{HappyA}Les St. John ont été très gentils avec eux. {ThinkingA}Mais...[Recorded during 101 pickups]
+115)  KATJAA
+S'il arrivait quoi que ce soit et que vous ayez à  choisir entre eux et les enfants, {AngryA}ne refaites pas la même chose qu'à  la ferme de Hershel.[Recorded during 101 pickups]
+116)  KATJAA
+[cont.]{ThinkingA}Choisissez les enfants cette fois-ci.[Recorded during 101 pickups]
+117)  LEE
+[pickup1][friendly, greeting Clementine in the barn] {body-B}{HappyA}Salut, Clémentine !
+118)  CLEMENTINE
+[pickup1][friendly, but concerned that Lee might disturb the cow]  {HappyA}Katjaa dit {SadA}de marcher doucement sur le foin parce que ça fait du bruit et que ça peut faire déranger la vache.
+119)  LEE
+[pickup1] {body-B}{NormalC}Je pense qu'elle disait ça pour vous, les enfants. [Should walk softly on the hay]
+120)  LEE
+[pickup1]{body-B}{HappyA}Merci.  {HappyB}Je m'en souviendrai.
+121)  KATJAA
+[pickup1][Asking Lee to check out the back room, but thinking he might chicken out][Follows: 310411407] {body-Sit}{AngryA}Je ne vous demande pas de m'aider pour la chirurgie ou quoi que ce soit...
+122)  LEE
+[pickup1][awkward, having been called out for not helping Katjaa with surgery earlier in the day]{body-B}{SadA}Ecoutez, je -
+123)  KATJAA
+[pickup1][Assuring Lee an apology isn't neccessary, just do this thing instead]{NormalC}Pas besoin de vous excuser.  {SadA}Mais je vous en prie, {ThinkingA}débarrassez-nous d'Andrew pour quelques minutes pour qu'on puisse regarder ce qu'il y a dans la salle du fond.
+124)  LEE
+[pickup1][responding to katjaa asking for help distracting Danny in the barn]{body-B}{ThinkingA}Je vais faire ce que je peux. [Remembering how his help didnt save David]{SadA}Peut-être que je serai utile, cette fois.
+125)  KATJAA
+[pickup1][Lee offers help with the Barn, but regrets that his help earlier didnt save david]{body-Sit}{SadA}Lee... {SadB}vous avez fait de votre mieux pour David.  Moi aussi.  {ThinkingA}Mais si vous voulez nous aider, {NormalC}alors détournez l'attention d'Andrew et allez voir ce qu'il y a dans cette salle au fond.
+126)  
+Carton
+127)  
+Vache
+128)  
+porte
+129)  
+Porte de la Grange
+130)  
+Foin
+131)  
+Echelle
+132)  
+Serrure
+133)  
+Piquets de Clôture
+134)  
+Utiliser Hache sur
+135)  
+Regarder
+281)  
+Regarder
+136)  
+Pierre à lécher
+137)  
+Porte du box
+138)  
+Mangeoire
+139)  
+Brouette
+147)  
+Brouette
+140)  
+Chaines
+141)  
+Cartons
+142)  
+Taches de sang
+143)  
+Evier
+144)  
+Fournitures
+145)  
+Piège à Ours
+146)  
+Conduit de Ventilation
+148)  
+Fenêtre
+149)  TEMP
+Lee regarde dans les cartons.  Ils sont vides.
+150)  LEE
+[pickup1]{body-B}{ThinkingA}[talking to katjaa about the back room after searching it (And getting caught)]Je sais pas ce qu'il y a dans cette pièce, mais si ils stockent de la nourriture quelque part, alors elle n'est pas là-dedans.
+151)  LEE
+[pickup1][to himself/katjaa while searching the back room; ]Il y a un évier, mais je ne sais pas s'il fonctionne.
+152)  LEE
+[pickup1][to himself/katjaa while searching the back room; quiet but somewhat urgent]Je ne vois pas de nourriture, mais ils stockent des choses intéressantes là -dedans.
+153)  LEE
+[pickup1][to himself/katjaa while searching the back room; quiet but somewhat urgent]Toutes les fenêtres sont barricadées.
+154)  KATJAA
+[pickup1]apologizing for asking lee to search the back room after he get caught]Désolé Lee, mais il fallait que l'on sache.
+155)  ANDY
+[pickup2][little suspicious] Ca va les gars ?
+156)  KENNY
+[pickup2][trying to invent a lie] Euh.. Je...
+157)  LEE
+[pickup2][authoritative lie] Son fils a perdu quelque chose ici.
+158)  KATJAA
+[pickup2][referring to the cow] Andy !  Faut que tu tiennes bien sa patte !
+159)  ANDY
+[pickup2] Désolé, doc !  Vraiment désolé !  Bon, d'accord.
+160)  ANDY
+[pickup2] Vous cherchez quelque chose ?
+161)  KENNY
+[pickup2] {Body-D}{ThinkingA}Vous l'avez trouvé aussi, hein ?
+162)  LEE
+[pickup2][trying to calm Kenny down]{Body-B}{ThinkingA}Soyez pas parano.
+163)  KENNY
+[pickup2][whisper]  {Body-HandsHips}{AngryA}Lee, ils cachent quelque chose.  Derrière cette porte.
+164)  KENNY
+[pickup2]{Body-D}{AngryA}C'est mon boulot d'être parano, Lee.  {AngryB}Toute ma famille est là dans cette ferme.  {ThinkingA}Et vous ?  Vous avez pensé à Clém ?
+165)  LEE
+[pickup2]Je la protégerai, quoi qu'il arrive.
+166)  LEE
+[pickup2]{Body-B}{SadB}En fait elle fait pas partie de ma famille...
+167)  LEE
+[pickup2]{Body-B}{AngryA}Vous devenez débile, Kenny.
+168)  KENNY
+[pickup2]{Body-D}Je le sais bien.
+169)  KENNY
+[pickup2]{Body-D}{SadA}Pfft.  C'est maintenant qu'il faut la protéger.  {ThinkingA}Cette fille a besoin de toi.
+170)  KENNY
+[pickup2][hurt] {Body-D}{AngryA}Débile ?  {AngryB}Débile ?!  {DisgustA}Joli, Lee.
+171)  KENNY
+[pickup2]{Body-D}{SadB}Vous devez penser à  cette petite fille maintenant, Lee.
+172)  KENNY
+[pickup2]{ThinkingA}Alors allez chercher un marteau, et dans une seconde je vire ce truc.  {AngryA}Couvrez-moi au cas où l'un de ces fermiers revienne.
+173)  LEE
+[pickup2]{ThinkingB}Deux secondes.  Réfléchissez un peu.  {AngryA}Vous pétez le cadenas.  {ThinkingA}Et ensuite quoi, s'il y a rien de suspect dedans ?   {ThinkingB}Vous aurez juste perdu une occasion de donner un bon repas à ces mêmes enfants que vous essayez de protéger.  {SurpriseA}Réfléchissez, Kenny.
+174)  LEE
+[pickup2]{Body-B}{ThinkingA}Quoi ?
+175)  KENNY
+[pickup2]{Body-D}{AngryA}Ecoutez, {ThinkingA}Ce type là, je-sais-plus-qui, avec Katjaa...  {DisgustA}Il a fermé le cadenas à DOUBLE TOUR.  [conspiratorially closer]J'ai vraiment entendu un bruit là-dedans, Lee.
+176)  KENNY
+[pickup2]{Body-D}{AngryB}Ce que je veux dire, c'est comment en être sûr.
+177)  KENNY
+[pickup2][friendly joshing] {Body-D}{HappyA}Très bien professeur.  {ThinkingA}A quoi vous pensez ?
+178)  LEE
+[pickup2]{Body-B}{ThinkingB}Laissez-moi d'abord regarder à quoi on a affaire.
+179)  KENNY
+[pickup2][sardonic] {AngryA}C'est quoi VOTRE idée de génie, {Body-D}professeur ?
+180)  KENNY
+[pickup2]{Body-D}{AngryB}Ca fait deux fois que {Body-HandsHips}vous me traitez de débile, Lee.  {DisgustA}Je commence à en avoir marre.
+181)  KENNY
+[pickup2]{SadB} Mais enfin quoi !  Je viens de la Floride !  {DisgustA}Ce genre de conneries sort tout seul par moment.  {SurprisedA}Désolé.
+182)  LEE
+[pickup2] {Body-B}{SurpriseA}Non. [beat while he considers the implication] Non !  {ThinkingB}Pourquoi vous dites ça ?
+183)  LEE
+[pickup2] {AngryA}Oh, ne me dites pas que vous venez de dire {ThinkingA}ce que vous avez vraiment dit .
+184)  KENNY
+[pickup2] [anxious] {Body-D}{NormalC}Hé.  Lee.  {ThinkingA}Vous devez savoir comment crocheter un cadenas, non ?
+185)  KENNY
+[pickup2] {FearA}Ben.  Vous êtes... {SadB}vous voyez... {ThinkingA}vous venez de la ville ?
+186)  LEE
+[pickup2] [subsequent inspections]  {Body-B}{AngryA}Plutôt en bon état.
+187)  LEE
+[pickup2][just had a breakthrough thought] {Body-B}{ThinkingA}Hm !
+188)  KENNY
+[pickup2]{Body-D}{SurprisedA}Quoi ?
+189)  LEE
+[pickup2]{ThinkingB}Vous voyez ces vis ?  {HappyA}Au lieu de casser le cadenas, on peut juste dévisser l'ensemble, jetez un oeil à l'intérieur, {ThinkingA}et ensuite tout replacer, comme s'il ne s'était jamais rien passé.
+190)  KENNY
+[pickup2]{HappyB}D'accord.  Ca me semble une bonne idée.  {ThinkingA}Je vais faire un tour et garder à l'oeil ce type à  côté de la vache.
+191)  LEE
+[pickup2]{NormalD}C'est Andy.
+192)  KENNY
+[pickup2]{DisgustA}Oups.  {FearB}Je croyais que c'était {SurprisedA}Danny.  {AngryA}On s'en fout.
+193)  LEE
+[pickup2][subsequent inspections] [looking at the lock assembly] {Body-B}{ThinkingB}Des vis la maintiennent fixée à  la porte.  {ThinkingA}Si j'arrive à  les enlever, j'aurais même pas à  m'occuper du cadenas.
+194)  LEE
+[pickup2]Ca marchera pas.
+195)  ANDY
+[pickup2]{Body-A}{HappyA}Vous avez trouvé ?  {ThinkingA}Ce que votre fils a perdu ?
+196)  LEE
+[pickup2]{Body-B}{ThinkingA}Kenny a cru entendre quelque chose
+197)  LEE
+[pickup2]{Body-B}{HappyA}Je regarde juste la grange.  {HappyB}je suis jamais venu dans une ferme laitière.
+198)  LEE
+[pickup2]{Body-B}{ThinkingA}Y a quoi derrière cette porte, Andy ?
+199)  ANDY
+[pickup2]Juste des outils.  On laisse fermé pour que les types venant de la forêt ne nous les piquent pas.  Sans nos outils, on est morts.
+200)  ANDY
+[pickup2]{HappyA}Et bien, on est tous contents que sa femme soit là .  {NormalC}Vous imaginez pas à  quel point {HappyB}elle va sauver des vies.
+201)  ANDY
+[pickup2]{Body-A}{ThinkingA}Il est un peu nerveux non ?
+202)  ANDY
+[pickup2]{Body-A}{HappyA}D'accord.  Euh, et trainez pas n'importe où sans que Danny ou moi on vous accompagne.  {NormalC}Il y a des endroits dangereux dans cette ferme.
+203)  ANDY
+[pickup2]{ThinkingA}Vous savez, avec les bandits, tout ça.  {NormalB}Désolé pour votre ami.
+204)  ANDY
+[pickup2]Hé, euh...  Rendez-moi un service.  Faites pas les cons avec cette porte.  C'est juste que, vous savez, ça va énerver M'man.
+205)  ANDY
+[pickup2]{NormalC}Pas de problème !  {HappyB}A toute, doc !
+206)  KATJAA
+[pickup2][calling across the barn] {Body-Sit}{FearA}Andrew !  J'ai encore besoin d'aide.
+207)  ANDY
+[pickup2] {Body-A}{NormalC}Ouais ?
+208)  LEE
+[pickup2] {Body-B}{HappyB}Hé, Andy.
+209)  ANDY
+[pickup2] {Body-A}{HappyA}Ben, mieux depuis que la {HappyB}Doc a pris les choses en main.
+210)  ANDY
+[pickup2][laughs]{Body-A}{HappyA}Vous avez faim hein ?  {HappyB}Vous inquiétez pas.  {HappyC}M'man est en train de préparer une bonne bouffe.
+211)  LEE
+[pickup2] {Body-B}{ThinkingA}Comment va la vache ?
+212)  LEE
+[pickup2]{Body-B}{FearA}Euh... [hems a bit] {ThinkingA}vous pensez qu'on {FearA}euh, {SadA}pourra bientôt manger ?
+213)  ANDY
+[pickup2][reluctant]{Body-A}{SurprisedA}Ouais.  {ThinkingA}He, euh, {HappyA}il parle quand même un peu trop.
+214)  LEE
+[pickup2]{Body-B}{SadA}On est tombé sur cette femme dans la forêt.  {ThinkingA}On aurait dit qu'elle connaissait votre frère.
+215)  ANDY
+[pickup2]{Body-A}{NormalC}Ouep.
+216)  LEE
+[pickup2]{Body-B}{HappyA}Merci.
+217)  LEE
+[pickup2]{Body-B}{ThinkingA}Vous avez un tournevis ?
+218)  ANDY
+[pickup2]{Body-A}{ThinkingA}Pour quoi faire ?
+219)  LEE
+[pickup2]{SadA}Euh... {FearA}laissez tomber.
+220)  LEE
+[pickup2]{Body-B}{ThinkingB}Pourquoi vous fermez cette porte ?
+221)  ANDY
+[pickup2]Parce qu'on peut peut pas se permettre de se faire piquer notre matos par les mecs de la forêt. Ils viennent jusqu'ici de temps en temps, pour piller nos affaires. même avec la clôture.
+222)  ANDY
+[pickup2]{Body-A}{NormalC}Dans ce cas, très bien.
+223)  ANDY
+[pickup2]  {Body-A}{HappyA}Pas de problème.
+224)  KENNY
+[pickup2]  {Body-D}{HappyA}Désolé, mon ami {ThinkingA}se comporte parfois comme un connard.  {HappyA}Non, on l'a toujours pas trouvé...
+225)  LEE
+[pickup2]C'est une petit boîte a outils.
+226)  LEE
+[pickup2]Brenda doit s'en servir pour les travaux domestiques.
+227)  LEE
+[pickup2]Je me demande si ils ont un tournevis là -dedans.
+228)  LEE
+[pickup2]Une pince multi-fonctions.  Ca me sera utile.
+229)  LEE
+[pickup_2]Si je la remets à  sa place ensuite, c'est pas du vol... n'est-ce pas ?
+230)  LEE
+[pickup_2]Je l'emprunte juste quelques secondes.
+231)  KENNY
+[pickup2]J'ai jeté un oeil.  {FearA}Il y a des cartons avec du matériel.  {FearB}Et un truc pointu, en métal.
+232)  ANDY
+[pickup_2][sigh]  {SadA}Dieu sait ce que veut encore ce petit merdeux.  {NormalC}Allez je vais voir.  {HappyA}Je reviens dans une minute, doc.   {HappyB}Besoin de quelque chose ?
+233)  KATJAA
+[pickup_2]{Body-Sit}{HappyA}Non. Pas pour l'instant.
+234)  ANDY
+[pickup_2]{Body-A}{ThinkingA}Il a dit quoi ?
+235)  LEE
+[pickup_2]{Body-B}{ThinkingA}Danny a dit avoir besoin de quelque chose.
+236)  LEE
+[pickup_2]{FearA}Arf, je m'en rappelle plus.  Désolé.
+237)  LEE
+[pickup_2]{Body-B}{ThinkingA}Danny a encore besoin de quelque chose.
+238)  ANDY
+[pickup_2][huge sigh]{Body-A}{HappyA}...  Très bien, très bien.  {NormalB}Je reviens, doc.
+239)  LEE
+[pickup_2]{NormalB}Nan, {NormalA}c'était pas si important.
+240)  ANDY
+[pickup_2]{Body-A}{ThinkingA}Si vous avez besoin de quelque chose, {HappyA}dites moi de quoi, {HappyB}et j'irai vous le chercher.
+241)  LEE
+[pickup_2]{Body-B}{ThinkingA}Alors... {HappyA}Où gardez vous le reste de vos outils ?
+242)  LEE
+[pickup_2]{Body-B}{ThinkingB}Je ne vais pas casser le cadenas.
+243)  ANDY
+[pickup_2][alt] Allez.  Ca suffit.
+244)  ANDY
+[pickup_2][calling out, serious]  {Body-A}{ThinkingA}Les gars.  Sérieusement.  {AngryA}Faites pas les cons avec ça.
+245)  LEE
+[pickup_2]{Body-B}{ThinkingA}D'accord, allons-y...
+246)  ANDY
+[pickup_2]{Body-A}{NormalB}Fausse alerte.  {HappyA}Me revoilà.
+247)  DUCK
+[pickup_2]{Body-A}{HappyA}M'man !  P'pa !  {HappyB}A table !   {SurprisedA}A table !!!
+248)  KATJAA
+[pickup_2]{Body-Sit}{HappyC}D'accord, chéri.  {Body-A}Va chercher Papa.
+249)  DUCK
+[pickup_2]{HappyA}Papa !  Papa !  {SadB}Allez, {HappyB}on va MANGEEEEEEER !!!
+250)  KATJAA
+[pickup_2]{ThinkingA}Kenny ?  Viens {HappyA}avec nous, chéri.
+251)  KATJAA
+[pickup_2]Kenny, allez, {NormalA}fais pas attendre les enfants.
+252)  KENNY
+[pickup_2][whispered]  {Body-D}{ThinkingA}Je vous trouverai un excuse...
+253)  KENNY
+[pickup_2][intense whisper] {Body-A}{DisgustA}Enlevez-moi ce truc !
+254)  ANDY
+[pickup_2][flat but strong] {HappyA}Le dîner est servi.
+255)  ANDY
+[pickup_2][flat but strong] {Body-A}{AngryA}Alors.  {AngryB}Vous avez pas entendu la cloche ?
+256)  LEE
+[pickup_2]{Body-B}{SurpriseB}Andy, bon Dieu qu'est ce qu'il y a dans cette pièce ?!
+257)  LEE
+[pickup_2]{Body-B}{ThinkingB}Pourquoi y avait tout ce sang là-dedans ?
+258)  LEE
+[pickup_2]{Body-B}{ThinkingA}Ecoutez.  {SurpriseA}J'ai juste trouvé la porte ouverte, comme ça.
+259)  ANDY
+[pickup_2] {Body-A}{ThinkingA}Eh bien.  On a de la bouffe ici, mais {HappyB}Danny et moi on doit encore pas mal chasser pour nourrir tout le monde.  {NormalA}Quand on attrape quelque chose dans la forêt, on le dépèce et on le prépare là-dedans.  {ThinkingA}M'man aime pas qu'on mette tout ça dans la maison.  {NormalB}Alors vous voyez ?  {HappyA}Y a pas de quoi s'en faire.
+260)  LEE
+[pickup_2]{ThinkingA}Non. Elle est allée dans la maison.
+261)  ANDY
+[pickup_2]{NormalC}Oh, bien...  {HappyA}Euh ouais.  {HappyB}Génial.
+262)  ANDY
+[pickup_2]{Body-A}{ThinkingA}Hmm... c'est sûrement mon abruti de frère.  Euh, {HappyA}il y avait quelqu'un avec vous ?
+263)  ANDY
+[pickup_2]{ThinkingA}Le doc ?
+264)  LEE
+[pickup_2]{NormalD}Non.
+265)  ANDY
+[pickup_2]{NormalC}Bon, et bien.  {ThinkingA}On ferait mieux d'y aller.  [pause] Je réparerai cette porte plus tard.
+266)  ANDY
+[pickup_2][laughs]{Body-A}{HappyB}Vous savez... Vous êtes un type bizarre, Lee.
+267)  ANDY
+[pickup_2][flat but strong] {DisgustA}C'est l'heure du dîner.
+268)  ANDY
+[pickup_2][flat but strong] [alt version] Le souper est prêt.
+269)  LEE
+[pickup_2]{Body-B}{AngryB}Merde !
+270)  ANDY
+[pickup_2][flat but strong] {Body-A}{AngryB}Alors. Vous avez pas entendu la cloche ?
+271)  ANDY
+[pickup_2][flat but strong] [alt version] Le souper est servi.
+272)  LEE
+[pickup2] J'arrive toujours pas à  enlever ce cadenas de la serrure.
+273)  KENNY
+[pickup2][reminder] Hmmm.  Il vous faudrait un truc comme un tournevis.
+274)  LEE
+[pickup2]{Body-B}{ThinkingB}J'ai pris un outil qui pourrait nous aider.
+275)  KENNY
+[pickup2]{Body-D}{HappyA}Très bien.  {HappyB}Ca fait plaisir.
+276)  KENNY
+{Body-D}{HappyA}Bien.  {ThinkingA}Maintenant on a plus qu'à  s'occuper de ce type.
+277)  LEE
+{Body-B}{ThinkingA}Andy.
+278)  KENNY
+{NormalC}Ouais.  {AngryA}Il nous surveille.
+279)  KENNY
+{Body-D}{AngryB}Si seulement ce type pouvait se barrer...
+280)  KENNY
+[pickup_2]{Body-D}{ThinkingA}Plus rien t'en empêche maintenant.
+282)  
+Utiliser Pince Multifonction sur
+283)  
+Montrer Caméscope à
+284)  
+Montrer Casquette à
+285)  DUCK
+[sniffs the air] Tu sens bizarre.
+286)  LEE
+[friendly, talking to Duck]{normalD}J'ai raté un épisode ?
+287)  DUCK
+Non, non pas vraiment.
+288)  CLEMENTINE
+[pickup1][giggles at the word "doo-dee"]
+291)  DUCK
+[pickup1][giggles at the word "doo-dee"]
+297)  CLEMENTINE
+[pickup1][giggles at the word "doo-dee"]
+298)  DUCK
+[pickup1][giggles at the word "doo-dee"]
+289)  KATJAA
+[pickup1]Les enfants ! [dont be rude!...and stop giggling over the word Doo-Dee!]
+300)  KATJAA
+[pickup1]Les enfants ! [dont be rude!...and stop giggling over the word Doo-Dee!]
+290)  CLEMENTINE
+[pickup1][whispered] Caca !
+292)  DUCK
+[pickup1][confused]C'est quoi du "fumier" ?
+293)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn][proud that she learned a new word]...ça sent le fumier !
+294)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]Ca sent... la merde, hein Lee ?
+295)  CLEMENTINE
+[pickup1][sad and embarased after being scolded about using swear words]D'accord.
+296)  LEE
+[pickup1][after Clem says something smells like "shit"] Hé, dis pas de gros mots, d'accord ?
+299)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]...comme du caca !
+301)  
+Vis
+302)  LEE
+[pickup3] C'est une mangeoire.
+303)  LEE
+[pickup3] De simples piquets de clôture.
+304)  DUCK
+[pickup2][sniffing the air] {DisgustA}Ca sent bizarre ici.
+305)  
+Je la protégerai, quoi qu'il arrive.
+306)  
+En fait elle n'est pas de ma famille...
+307)  
+Vous devenez idiot.
+308)  
+Kenny a entendu un bruit.
+309)  
+Je regarde juste la grange.
+310)  
+Y a quoi derrière la porte ?
+311)  
+Bon Dieu qu'est-ce que c'est ?!
+312)  
+Pourquoi y a plein de sang ici ?
+313)  
+La porte était ouverte.
+314)  
+Comment va la vache ?
+315)  
+Vous pensez qu'on pourra bientôt manger ?
+316)  
+Vous avez un tournevis ?
+317)  
+On a rencontré une femme dans la forêt...
+318)  
+Où sont rangés les outils ?
+319)  
+Danny a besoin de quelque chose.
+320)  
+Danny a encore besoin de quelque chose.
+346)  
+Danny a encore besoin de quelque chose.
+321)  
+Pourquoi c'est fermé à clef ?
+322)  LEE
+[pickup2][to himself]On dirait un vieux tas de linge sale.
+323)  LEE
+[pickup2][to himself]Ca pue.
+324)  ANDY
+[pickup3][returning to the barn after Lee sent him away for the 2nd time - Annoyed, but still friendly]Hé Lee, je sais bien qu'il faut rigoler de temps en temps, mais j'ai du travail.  Fini les jeux, OK ?
+325)  
+Je peux pas enlever ce cadenas de la porte.
+326)  
+J'ai une pince multifonctions.
+327)  LEE
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]J'ai essayé de détourner l'attention d'Andy, mais il revient à  chaque fois.
+328)  KENNY
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Tu dois bien pouvoir foutre le bordel sur quelque chose là  dehors pour le maintenir occupé un moment...
+329)  KENNY
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave][continuing his thought]Et ces groupes électrogènes ?
+330)  
+Andy revient tout le temps.
+331)  
+Comment détourner l'attention d'Andy ?
+332)  LEE
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Une idée pour détourner l'attention Andy ?
+333)  KENNY
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]J'en sais rien.  Vous avez qu'à chercher dehors, faut qu'il sorte d'ici.
+334)  LEE
+[pickup3][giving Clem her hat back, but he's cautious about it having found it in a crazy womans camp]Et voilà Clémentine.
+337)  LEE
+[pickup3][giving clementine back her hat, but cautious considering he found it at a crazy womans camp]Hé, Clémentine...
+338)  CLEMENTINE
+[pickup3]{HappyA}D'accord, je te dirai.
+339)  LEE
+[pickup3][cautiously questing clem about her lost hat]{HappyA}C'est sûrement rien.  {ThinkingA}Mais dis-moi si tu vois quelque chose.
+340)  CLEMENTINE
+[pickup3][responding to "did you give your hat to anyone]{body-Stand}{SadA}Non.
+341)  LEE
+[pickup3][cautiously questing clem about her lost hat]{ThinkingA}Tu n'aurais pas vu des inconnus au motel qui auraient pu te la voler ?
+342)  CLEMENTINE
+[pickup3][starting to worry about Lee's line of questioning] {NormalB}Non.  {ThinkingA}Pourquoi ?
+343)  LEE
+[pickup3][cautiously questing clem about her lost hat] {body-B}{HappyA}Ecoute, est-ce que... {ThinkingA}tu as donné ta casquette à quelqu'un ?
+344)  CLEMENTINE
+[pickup3][excited that Lee foud her hat!] Ma casquette !  Tu l'as retrouvée !!
+345)  
+Danny a dit avoir besoin de quelque chose.
+347)  
+Parler à
+348)  
+Donner casquette à
+349)  LEE
+[pickup3][explaining why he stinks]Et bien, on est dans une grange.  Tu vas t'y habituer.
+350)  ANDY
+[pickup3][alt][when Andy appears while Lee & Kenny are planning to get into the back room - Flat, but not menancing]Je peux vous aider à trouver quelque chose les gars ?
+351)  CLEMENTINE
+[pickup3]{body-HandsOpen}{HappyC}Je savais que tu la retrouverais !  {HappyB}Tu me l'avais dit !
+352)  CLEMENTINE
+[pickup3]{body-Stand}{ThinkingA}Je croyais que tu avais pas le temps.
+353)  CLEMENTINE
+[pickup3]{body-Stand}Tu savais que j'en avais besoin !
+354)  CLEMENTINE
+[pickup3]{body-Stand}{HappyB}Merci Lee.
+355)  LEE
+[pickup3][about your hat]{body-B}{HappyA}Je l'ai retrouvé {ThinkingA}par hasard.
+356)  LEE
+[pickup3]{body-B}{HappyA}Ben, tu m'avais dit que c'était {HappyB}ton père qui te l'avait offerte pour ton anniversaire.
+357)  CLEMENTINE
+[pickup3]Hé, Lee.  {HappyB}Tu crois que tu auras des enfants un jour ?
+358)  
+Oui, j'aimerais bien, un jour.
+359)  
+Je ne pense pas.
+360)  
+Ca fait longtemps que je n'y ai pas pensé.
+361)  LEE
+[pickup3]{body-B}{HappyA}Un jour j'aimerais.  {HappyB}Peut-être une petite fille, comme toi.
+362)  CLEMENTINE
+[pickup3]{body-Stand}{HappyA}C'est super.  {body-HandOnWrist}Tu ferais un bon papa.
+363)  LEE
+[pickup3]{body-B}{SadA}I don't think so, Clem. {ThinkingA} Pas maintenant que le monde a changé.  {NormalC}Je... {SadA}Je ne pense pas que je pourrais.
+364)  CLEMENTINE
+[pickup3]{body-Stand}{SadA}Oh.  {HappyA}{body-HandOnWrist}Peut-être quand le monde ira mieux alors.
+365)  LEE
+[pickup3][sad]{SadA} Peut-être oui.
+366)  LEE
+[pickup3]{body-B}{ThinkingA}Je sais pas.  {SadA}ça fait un bail que j'ai pas pensé à  avoir des enfants...
+367)  LEE
+[pickup3]{HappyA}Nan, mais {HappyB}toi vas-y.
+368)  LEE
+[pickup3]{body-B}{HappyA}De rien, Clém.
+369)  CLEMENTINE
+[pickup3][personal]{body-HandOnWrist}{HappyA}Bon, {HappyB}merci d'avoir retrouvé ma casquette.
+370)  CLEMENTINE
+[pickup3]{body-Stand}{HappyC}Tu veux caresser la vache avec moi ?
+371)  LEE
+[pickup3]Exploitation laitière de l'année hein ?
+372)  ANDY
+[pickup3]Oui monsieur. Quatre fois de suite. C'est surtout qu'on s'adapte bien au changement, et qu'on sait en tirer le meilleur. C'est ce qui nous maintient au sommet.
+373)  LEE
+[pickup3][looking at the dairy awards]Impressionnant.
+374)  KENNY
+[pickup3]Ah, non.  Ca va.  Je fais que regarder...
+375)  ANDY
+[pickup3]Hein ?  Oh... euh, elle respire pas très fort, mais c'est normal à  ce stade...
+376)  KATJAA
+[pickup3]Est-ce que...c'est normal qu'elle respire comme ça ?
+377)  
+Diplôme

@@ -1,0 +1,146 @@
+1)  DANNY
+Lee, la faites pas chier.
+2)  JOLENE
+{FearB}La mort est partout. {CrazyD}Prenez tous les gens morts que vous voulez, nous allons faire mieux !
+3)  JOLENE
+{body-Crossbow}{CrazyA}Comment vous pourriez me tuer. {CrazyB}Ils ne pouvaient pas me tuer. {CrazyD}Ils ont essayé.
+4)  LEE
+{body-B}{AngryB}Screw this.
+5)  LEE
+{body-B}{AngryB}Posez l'arbalète.
+6)  JOLENE
+{body-Crossbow}{AngryC}Non, monsieur, j'en ai besoin.
+7)  LEE
+[angrily] {body-B}{AngryD}Ca suffit !
+8)  DANNY
+[fed up]{body-A}{AngryB}Ok, éclatez cette merde !
+9)  JOLENE
+[pickup2] {body-Crossbow}{AngryD}Vous êtes deux putain... {CrazyB}De VOLEURS !
+10)  JOLENE
+[pickup2] {CrazyD}Volez ma merde.  {AngryD}Voler moi tout !
+11)  JOLENE
+[pickup2] {body-Crossbow}{CrazyD}Je vais prendre cette arbalète, et vous foutre un joli carreau, {CrazyA}pile dans l'oeil,  {CrazyB}jusque dans votre putain de cerveau.
+12)  JOLENE
+[pickup2] {AngryD}Et quand ce sera fait, {AngryB}Je vais prendrais les petits avec moi.
+13)  JOLENE
+[pickup2] {body-Crossbow}{CrazyA}Puis, je partirai direct à la ferme, {CrazyB}et tirerai sur toutes les putain personnes que je verrais.
+14)  JOLENE
+[pickup3] {body-Crossbow}{CrazyC}Vous savez quoi ? {CrazyD} J'ai changé d'avis... Je vais plutôt foutre ce carreau directement dans vos COUILLES.  {HappyD}Ouais!  En plein dedans.  {CrazyD}Elles iront décorer cette arbre.
+15)  JOLENE
+[pickup2] {CrazyA}Vous n'êtes pas un homme... {CrazyB}vous êtes un monstre.  {AngryB}Tous les mecs sont des monstres.  {FearB}Prenez ce qu'ils veulent, et detruisez tout.  {SadB}Prendre une boîte de haricots, {ThinkingA}ou prendre une petite fille... {CrazyB}C'est la putain de même chose pour vous !
+16)  JOLENE
+[pickup2] {body-Crossbow}{CrazyC}Ou alors dans la jambe.  {HappyD}Et je vous laisserai aux marcheurs.  {CrazyD}Ouais, c'est tout ce que vous méritez. Tout les deux !
+17)  JOLENE
+[pickup2] {DisgustB}Je vous connais.  {CrazyA}Je sais ce que vous êtes, {CrazyB}Je sais ce que vous avez fait.
+18)  JOLENE
+[pickup2] {AngryD}Vous ne m'en avez pas assez pris ?  {CrazyB}Vous ne m'en avez pas assez pris, BON DIEU ?
+19)  DANNY
+[pickup2] {ThinkingB}Vous ne me connaissais pas !
+20)  DANNY
+[pickup2] {body-A}{AngryB}VOUS êtes leur chef, {DisgustA}salope !
+21)  JOLENE
+[pickup2] {AngryD}Non monsieur, j'en ai besoin.  {CrazyB}J'en ai besoin pour vous, enfoirés.{CrazyD}
+22)  LEE
+[pickup2] {body-B}{SurpriseB}Putain mais qui vous êtes ?
+23)  JOLENE
+[pickup2] [laughs hysterically]
+24)  DANNY
+[pickup2]{body-A}{ThinkingA}Oubliez ça, Lee.  {AngryA}C'est une cinglée.
+25)  DANNY
+[pickup2] {body-A}{SurprisedA}Lee... {ThinkingB}elle s'énerve...
+26)  LEE
+[pickup2]{body-B}{AngryB}Vous avez tirée sur Mark, {AngryC}vous êtes une salope parano !
+27)  
+Mangez ça !  [TIRER]
+28)  JOLENE
+[pickup2][as if it were so obvious]{body-Crossbow}{ThinkingA}Sur la petite fille.
+29)  LEE
+[pickup2] [angry] {body-B}{AngryC}Ou avez eu cette casquette ?
+30)  LEE
+[pickup2][firm, trying to establish the facts] {AngryD}Vous la lui avez PRISE.
+31)  JOLENE
+[pickup2]{CrazyC}Et même si je l'ai fait ?  {AngryB}Vous ME l'avez {AngryC}volé en premier !!!
+32)  LEE
+[pickup2]{ThinkingA}Ecoutez.  {SadB}Les bois ne sont pas sûr.  {SurpriseA}Vous devez revenir à la laiterie.
+33)  JOLENE
+[pickup2]{body-Crossbow}{CrazyD}Ha ha !  Oh... C'est un enfer de beaucoup plus sûr ici {CrazyB}que là-bas, {CrazyA}Croyez moi.
+34)  DANNY
+[pickup2] {body-A}{ThinkingA}Du calme.  {FearB}Personne ne vous a rien volé, madame.
+35)  
+Ca suffit ! [TIRER]
+36)  JOLENE
+[pickup3] C'est mieux que ce j'avais prévu pour--[gets killed]
+73)  JOLENE
+[pickup3] C'est mieux que ce j'avais prévu pour--[gets killed]
+37)  JOLENE
+[pickup2]{CrazyD}Ils m'ont dit que je serais en sécurité avec eux...  {CrazyB}avec les hommes qui ont vécu ici.
+38)  JOLENE
+[pickup2]{body-Crossbow}{CrazyA}C'est hors de question, monsieur.
+39)  JOLENE
+[pickup2]{SadB}Ils ne la traitaient pas bien.  Oh non.  {FearB}Ils l'ont emmenée, dans les bois.  {CrazyC}M'ont pas dit où.
+40)  LEE
+[pickup2] {body-B}{FearC}Pourquoi êtes-vous seule ici ?  {ThinkingB}Qu'est-ce qui vous est arrivé ?
+41)  JOLENE
+[pickup2]{CrazyB}Et je vais rester ici jusqu'à ce qu'elle revienne.
+42)  JOLENE
+[pickup2]Mais elle n'était pas sécurité.  {AngryD}Pas pour moi, {CrazyE}et pas pour ma fille.
+43)  JOLENE
+[pickup2]{SadB}Et je les ai suppliés. De toutes les manières.   {CrazyA}Ils ont juste ri...  {CrazyD}Alors je les ai tous tués.
+44)  
+Qui êtes-vous ?
+45)  
+Vous avez tiré sur Mark !
+46)  
+Où avez-vous eu cette casquette ?!
+47)  JOLENE
+[pickup2]  {CrazyD}J'ai déjà tué deux hommes.
+48)  JOLENE
+[pickup2]  Et je compte pas m'arrêter là...
+49)  JOLENE
+[pickup2][sadly]D'une manière ou d'une autre... {CrazyE}elle reviendra.
+50)  LEE
+[pickup2] {body-B}{ThinkingB}Ecoutez, nous sommes deux et vous toute seule.  {AngryB}Peu importe ce qui pourra arriver, {AngryC}l'un de nous va vous tuer.
+51)  DANNY
+[pickup2]  {AngryB}Nous avions un accord !  {ThinkingB}Vos compagnons l'on romput en premier !
+52)  DANNY
+[pickup2]  {body-A}{FearC}Hé !  Nous avions un accord !  {AngryA}Pas de coup de feu aussi longtemps que nous vous donnions de la nourriture !
+53)  DANNY
+[pickup2] {AngryB}Bordel , qu'est-ce qui s'est passé ?
+54)  JOLENE
+[pickup2] {body-Crossbow}{AngryB}Vous avez eu un accord avec {AngryD}EUX.  Je ne suis pas EUX.
+55)  JOLENE
+[pickup2] {CrazyA}Vous pensez que je vais pas vous tuer ?
+56)  JOLENE
+[pickup2] {body-Crossbow}{AngryB}Qui c'est ce putain de Mark ?  {AngryD}Je connais aucun Mark.
+57)  LEE
+[pickup2] {AngryC}Vous lui avez tiré dessus à la laiterie.
+58)  JOLENE
+[pickup2] {CrazyA}Putain que j'lai fais.  {CrazyB}il fait parti des AUTRES-- {CrazyC}ils sont super copains avec votre petit ami ici.
+59)  JOLENE
+[pickup3][follows 310403320] [hisses sarcastically] {CrazyD}Je suppose que vous les avez rencontrés. N'est-ce pas qu'ils sont gentils ?
+60)  JOLENE
+[pickup2] {body-Crossbow}{FearB}Je ne sais pas où ils sont.  {AngryC}Mais ils ne sont pas ici.
+61)  JOLENE
+[pickup2] {CrazyB}Alors foutez le camp de mon camp!
+62)  LEE
+[pickup2] {body-B}{AngryB}Nous sommes à la recherche des gens qui ont attaqué la laiterie, {AngryC}et qui ont tiré sur mon ami.
+63)  DANNY
+[pickup2] [weirdly calm and smarmy.] {body-A}{HappyC}Elle ment, Lee.
+64)  
+Qu'est-ce qui s'est passé ici ?
+65)  
+Qui a attaqué la laiterie ?!
+66)  
+Posez cette arbalète
+67)  
+Ne soyez pas idiote
+68)  JOLENE
+[pickup2] {body-Crossbow}{CrazyD}La folle dans les bois {CrazyA}apporte de la viande {CrazyB}fraîche à la ferme !
+69)  DANNY
+[pickup2]  {AngryB}VOUS LA FERMEZ ! MAINTENANT !
+70)  JOLENE
+[pickup2] {body-Crossbow}{HappyD}Vous ne m'avez peut-être pas entendu la première fois... {CrazyD}quand je vous ai demandé gentillement... {AngryD}de poser vos foutues armes à terre.
+71)  LEE
+[pickup2][trying to make sense of this crazy talk]{ThinkingB}Bordel mais qu'est-ce que vous racontez ?
+72)  JOLENE
+[pickup3] [addressing Danny, and a little wild laughter]{body-Crossbow}{CrazyB}Allez, dites-lui, mon petit !  {CrazyD}Dites-lui ce que vous avez en tête pour --[Gets shot]

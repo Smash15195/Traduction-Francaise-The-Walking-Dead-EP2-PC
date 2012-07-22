@@ -1,0 +1,80 @@
+1)  DANNY
+{normalC}Rappelez-vous: nous ne faisons que de reconnaissance pour l'instant. N'allons pas nous faire tuer.
+2)  DANNY
+{normalC}Que pensez-vous de cet endroit ?
+3)  LEE
+{normalA}C'est magnifique.
+4)  LEE
+{normalC}Comment ?
+5)  DANNY
+{normalC}C'est sympa.  {normalB}Vous n'avez pas à vous décider maintenant.  {normalA}Mais n'attendez pas trop longtemps ou vous pourrez ne plus avoir le choix.
+6)  DANNY
+[pickup2] {normalA}Salut, Trigger.
+7)  DANNY
+[pickup2] {normalA}Je suis heureux d'avoir pu l'utiliser aujourd'hui.
+8)  DANNY
+[pickup2] {normalA}Hein ! ma belle.
+9)  DANNY
+[pickup2] {normalA}Bonjour.
+10)  
+Vous aimez vraiment cette arme.
+11)  
+C'est quoi cette brouette ?
+12)  
+Cet endroit est isolé.
+13)  
+Tout ça avec une seule vache ?
+14)  LEE
+{normalA}[pickup2] Vous aimez vraiment cette arme.
+15)  DANNY
+[pickup2] {normalA}Que demander de plus ?
+16)  
+Rien, j'imagine.
+17)  
+C'est juste une arme à feu.
+18)  
+C'est un peu effrayant, c'est tout.
+19)  DANNY
+[pickup2] {normalA}Exactement.
+20)  LEE
+[pickup2] {normalA}Rien, j'imagine.
+21)  DANNY
+[pickup2] {normalA}C'est là que vous avez tort. C'est Charlotte. Elle est aussi fidèle qu'un chien de chasse affamé quand vous avez un os dans votre poche.
+22)  LEE
+[pickup2] {normalA}C'est juste une arme à feu.
+23)  LEE
+[pickup2] {normalA}C'est juste un peu effrayant, c'est tout.
+24)  DANNY
+[pickup2] {normalA}Par ces temps, un .243 vous tiendra plus chaud la nuit que n'importe quelle femme que j'ai jamais connu.
+25)  DANNY
+[pickup2] C'est des choses qui arrivent dans une ferme. Je me suis coupé assez profondément l'autre jour. Il y avait du sang partout.
+26)  DANNY
+[pickup2] Je suis solide.
+27)  LEE
+[pickup2] J'ai vu une brouette là-bas, pleine d'ordures. Dont des vêtements tachés de sang.
+28)  LEE
+[pickup2] Vous avez l'air bien pourtant.
+29)  LEE
+[pickup2] Vous êtes en pleine cambrousse, ici.
+30)  LEE
+[pickup2] Vous avez beaucoup de visiteurs ?
+31)  DANNY
+[pickup2] Plus maintenant. Sauf des bandits, bien sûr. Avant il y avait cette école mais c'était avant l'arrivée des morts.
+32)  DANNY
+[pickup2] [creepy] [we are] C'est plus dur à trouver.
+33)  DANNY
+[pickup2] Ouais, les enfants rigolaient et jouaient. Les filles couraient dans leurs robes de printemps. C'était génial.
+34)  LEE
+[pickup2] [a little on edge]C'est vrai ?
+35)  DANNY
+{normala}{body-a}[pickup2] On s'en servirait plus si on pouvait. Elles a faim et maintenant elle est malade mais il y a votre amie médecin ici à présent.
+36)  LEE
+{normala}{body-a}[pickup2] Comment faites-vous fonctionner cet endroit avec une seule vache?
+37)  LEE
+[pickup2] Vous devez marchander ENORMEMENT de carburant pour maintenir les générateurs en fonctionnement, non ?
+38)  DANNY
+[pickup2] Les gens ont faim et quelques miches de pain se vendent à prix d'or. Vous avez de la chance, vous êtes de ce côté du business maintenant.
+39)  DANNY
+{normala}{body-a}[pickup2] Et ça devrait en être un bon.
+40)  LEE
+{normala}{body-a}[pickup2] Je vais aller attendre le dîner, alors.

@@ -1,0 +1,16 @@
+1)  MARK
+{normalA} Je pensais que nous irions très bien si nous survivions aux rôdeurs. {disgustA} Je n'aurais jamais cru qu'ils allaient nous affamer.
+2)  LEE
+{normalD} Il pense que je suis un danger pour le groupe.
+3)  MARK
+{sadA} Ce sont des conneries. Vous avez sauvé sa vie -- non, toutes nos vies -- {thinkingA} un tas de fois ces derniers mois.
+4)  MARK
+{normalB} Je veux dire -- quand vous avez trouvé Clémentine, pourquoi avez-vous choisi cette responsabilité ?
+5)  MARK
+{sadA} Alors, pourquoi l'avez-vous fait, Lee ?
+6)  LEE
+{sadA} Elle serait morte sans moi.
+7)  MARK
+{normalB} Les choses peuvent, euh, {thinkingB} devenir tendue au camp. Lily et Kenny ont des manières différentes de faire les choses. {disgustA} Ca n'était pas le chemin de retour à Robins.
+8)  MARK
+{thinkingA} Et Larry n'aide pas. {disgustA} C'est quoi son problème ?

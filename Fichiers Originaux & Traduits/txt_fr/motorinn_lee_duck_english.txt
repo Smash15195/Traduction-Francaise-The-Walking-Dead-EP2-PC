@@ -1,0 +1,90 @@
+1)  
+[Donner Moitié de Pomme]
+2)  
+[Donner Viande Séchée]
+3)  
+[Donner Crackers et Fromage]
+4)  
+[Donner Crackers et Fromage]
+5)  LEE
+[pickup 2] Hé, Duck, que dirais-tu d'un peu de nourriture ?
+45)  LEE
+[pickup 2] Hé, Duck, que dirais-tu d'un peu de nourriture ?
+6)  DUCK
+[pickup 2] Oh, trop bien ! Y'en a avec du beurre d'arachide ?
+7)  LEE
+[pickup 2] Hé, Duck. Tu veux la moitié d'une pomme ?
+8)  DUCK
+[pickup 2] Ouais ! Oh, j'ai tellement faim !
+9)  LEE
+[pickup 2] Je suis désolé Duck, je te donnerais bien quelque chose à manger, mais j'ai plus rien.
+10)  DUCK
+[pickup 2] Quoooi ? Mais mon ventre n'arrête pas de grogner...
+11)  LEE
+[pickup 2] A plus tard, Duck.
+12)  DUCK
+[pickup 2] Bye bye, Lee.
+13)  LEE
+[pickup2]Comment tu vas, Duck ?
+14)  CLEMENTINE
+[to ben; quizzing him about her drawing] {normalC}Devine ce que c'est ?
+15)  BEN
+[still a little out of sorts; guessing what clems picture is of]{sadA} Je sais pas... un chien ?
+16)  DUCK
+{happyA}Bien. On fait des coloriages Clémentine et moi.
+17)  CLEMENTINE
+{happyB}Nan.
+18)  DUCK
+{happyB}Oh, je sais !  C'est une chèvre, c'est ça ?
+19)  DUCK
+[pickup2]C'est parce que je sais que maman peut le soigner.
+20)  LEE
+[pickup2][talking to Duck]Tu as été plutôt courageux quand nous avons ramené ces gens ici.
+21)  KENNY
+[pickup2]Tiens voilà, Duck.[disapointed that Lee gave Kenny food and not duck] Quel est votre problème, Lee ? [as in "you have no idea what you're doing, do you?"]
+22)  CLEMENTINE
+[pickup2] [fed up sigh] Non !
+23)  LEE
+[pickup2] A quoi tu pense, Duck ?
+24)  DUCK
+[pickup2][ashamed, answering a question] Non... Sûrement pas...
+25)  
+Tu vas bien ?
+26)  
+Tu es un garçon très courageux.
+27)  
+Parler a
+28)  
+Donner Nourriture a
+29)  LEE
+[pickup 2] [giving some junk food]{normalC}Tiens.
+30)  LEE
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Eh bien, ça en fait un de moins. Encore neuf personnes affamés et juste deux morceaux de nourriture.
+31)  LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]Encore un bout de nourriture à donner et ce sera tout pour aujourd'hui.
+32)  LEE
+[pickup3][knowing there is only one more piece of food left]Hmm. Je devrais peut-être le garder pour moi ?
+33)  
+[Garder la dernière ration pour vous]
+34)  LEE
+[pickup3][to himself - keeping the last bit of food for himself]J'ai besoin de garder des forces, aussi.
+35)  
+[Donner la dernière ration à quelqu'un]
+36)  LEE
+[pickup3][to himself - choosing to save the food for someone else]Nan.  Certaines de ces personnes sont restés plus longtemps que moi sans la nourriture. Ce sont eux qui en ont le plus besoin.
+37)  
+Désolé Duck, j'ai plus rien.
+38)  
+Un peu de nourriture ? [Donner]
+39)  BEN
+[pickup3]On dirait que vous avez fait un heureux...
+40)  BEN
+[pickup3]...Mais, je ne pense pas que la femme sur le camping-car est si heureux.
+41)  LEE
+[pickup3]Je suppose qu'elle voudrait que je nourrisse plus son père. Mais c'est à moi de décider. Elle m'en a donné la responsabilité.
+42)  LEE
+[pickup3]Ouais et j'ai déjà donné sa ration à Larry, ce qui devrait aider Lilly à rester heureuse.
+43)  
+[Exit]
+44)  LEE
+Désolé.

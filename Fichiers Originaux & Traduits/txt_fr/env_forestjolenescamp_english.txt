@@ -1,0 +1,380 @@
+1)  DANNY
+[hushed]{ThinkingA}Vous voyez quelqu'un ?
+2)  LEE
+[hushed]{body-B}{ThinkingA}Ca a l'air vide.
+3)  DANNY
+[hushed]{body-A}{NormalC}Bien, {ThinkingA}allons jeter un coup d'oeil, alors.
+4)  LEE
+[hushed]{body-B}{ThinkingA}Peut pas dire.
+5)  DANNY
+[hushed]{body-A}{ThinkingA}Je vais vérifier la première tente.
+6)  DANNY
+[hushed]{body-A}{ThinkingA}Je suis a la tente.
+7)  LEE
+[hushed]{body-B}{AngryA}Restez sur vos gardes.
+8)  
+Restez sur vos gardes.
+9)  
+Peut pas dire.
+10)  
+Ca a l'air vide.
+11)  DANNY
+{ThinkingA}Quelque chose d'intéressant à prendre ?
+12)  LEE
+{body-B}{ThinkingA}Elles sont toutes de Save-Lots.
+13)  DANNY
+{body-A}{HappyA}Hé, je vais passer.
+14)  LEE
+{body-B}{HappyA}Non, sauf si vous avez besoin d'emballage.
+15)  LEE
+{body-B}{ThinkingB}C'est beaucoup trop de matériel pour une seule personne.
+16)  LEE
+{body-B}{ThinkingA}Nous ne savons qui campe ici. {SadA}Ca pourrait ne pas être les bandits.
+17)  DANNY
+{NormalB}Les premiers jours, {NormalC}ils ont dit aux gens de se regrouper au Save-lots par l'autoroute.
+18)  
+Non, sauf si vous avez besoin de canettes vides.
+19)  
+C'est beaucoup trop pour une seule personne.
+20)  
+Nous ne savons qui campe ici.
+21)  DANNY
+{body-A}{ThinkingA}Qu'est-ce que vous avez trouvé ?
+156)  DANNY
+{body-A}{ThinkingA}Qu'est-ce que vous avez trouvé ?
+22)  LEE
+{AngryA}La batterie est morte.
+161)  LEE
+{AngryA}La batterie est morte.
+23)  LEE
+{body-B}{ThinkingA}Un caméscope.
+157)  LEE
+{body-B}{ThinkingA}Un caméscope.
+24)  LEE
+{body-B}{NormalC}Ce camp est trop petit pour {ThinkingA}les bandits que nous avons vu.
+80)  LEE
+{body-B}{NormalC}Ce camp est trop petit pour {ThinkingA}les bandits que nous avons vu.
+25)  DANNY
+{body-A}{NormalB}C'est peut-être des scouts ou un truc du genre.
+81)  DANNY
+{body-A}{NormalB}C'est peut-être des scouts ou un truc du genre.
+26)  LEE
+{body-B}{FearA}Partons d'ici.
+27)  DANNY
+{body-A}{SurprisedA}Ouais, ce {ThinkingA}coup de feu va rameuter des marcheurs.
+28)  LEE
+{body-B}{ThinkingB}Vous connaissez un de ces bandits ?
+29)  DANNY
+{body-A}{ThinkingA}Peut-être. {NormalB}Je les ai jamais vu.
+30)  DANNY
+{NormalC}Ce sont probablement des voisins, {ThinkingA}maitenant que vous les dites.
+31)  LEE
+{body-B}{NormalC}Cette tente semble plutôt neuve.
+32)  LEE
+{ThinkingA}Il y a quelqu'un ?
+33)  DANNY
+{body-A}{NormalB}Deux sacs de couchage. {ThinkingA}L'un d'eux de petite taille.
+34)  LEE
+[quietly] {body-B}{SurpriseB}Hein ! mais c'est...
+35)  JOLENE
+{AngryD}Jésus n'est jamais revenu pour nous.
+187)  JOLENE
+{AngryD}Jésus n'est jamais revenu pour nous.
+36)  JOLENE
+Vous n'avez pas besoin de chercher la mort. {HappyD}Elle nous a déjà trouvée.
+37)  JOLENE
+{CrazyE}Il la prit, il la tient. {CrazyB}Laissant le reste d'entre nous derrière.
+188)  JOLENE
+{CrazyE}Il la prit, il la tient. {CrazyB}Laissant le reste d'entre nous derrière.
+38)  JOLENE
+{body-A}{CrazyD}Vous avez tous des armes à feu comme si vous étiez en quête de mourir.
+39)  JOLENE
+{CrazyC}Certains parmi nous le sont déjà !
+40)  JOLENE
+{FearB}Attendant d'être transformés en monstres.
+41)  DANNY
+[context: "what are you waiting for?"] {body-A}{SurprisedA}Lee.... ?
+42)  DANNY
+[pickup3][excited] {body-A}{AngryB}Putain merde.
+43)  DANNY
+{ThinkingB}Qu'est-ce que vous avez fait ?
+44)  DANNY
+{body-A}{SurprisedA}Oh merde !
+45)  LEE
+{body-B}{SurpriseB}Elle était sur le point de nous tirer dessus !
+46)  DANNY
+{body-A}{AngryA}Vous auriez pu simplement la mettre à terre. {ThinkingA}Vous n'aviez pas besoin de la tuer.
+47)  LEE
+{body-B}{AngryB}Justice. {ThinkingA}Ils ont tué trop de gens.
+48)  DANNY
+{body-A}{SurprisedA}'tain. {HappyA}peu importe, Tex.
+49)  LEE
+{body-B}{AngryC}Vous l'avez entendu. {SurpriseB}Elle a été trop loin.
+50)  DANNY
+{body-A}{AngryA}Elle était complétement désaxé, {SurprisedA}mais vous n'aviez pas besoin de la tuer.
+51)  DANNY
+[hushed]{body-A}{ThinkingA}Surveillez mes arrière, Lee.  {NormalC}Je vais fouiller la tente.
+52)  JOLENE
+{body-A}{CrazyB}J'y retournerai pas. {AngryA}Vous leur direz {CrazyD}Jolene n'y retournera pas !
+53)  DANNY
+{body-A}{FearC}Merde !
+54)  JOLENE
+{body-Crossbow}{CrazyA}POSEZ VOS ARME !
+55)  DANNY
+{body-A}{SadB}Je veux dire, je sais qu'elle était folle {SurprisedA}mais... merde !
+56)  DANNY
+[responding to lee's silence]{body-A}{ThinkingB}...Je vais prendre ça pour un "Non".
+57)  LEE
+[heavy sigh while looking at the dead body]
+58)  DANNY
+[hushed]{NormalC}Je sais que c'est ici.  {ThinkingB}Ca doit être pas loin.
+59)  LEE
+[hushed]{body-B}{ThinkingA}Pas encore.
+60)  DANNY
+[hushed]{body-A}{ThinkingA}Vous voyez quelque chose ?
+61)  LEE
+[Excited at his discovery, but still cautious][hushed]{SurpriseA}Là !
+62)  DANNY
+[hushed]{SurprisedA}Oh merde !  {HappyA}Vous l'avez trouvé ?!
+63)  DANNY
+{body-A}{HappyA}Qu'est-ce qu'il y a dans les boîtes ?
+64)  DANNY
+[subtly relieved] {SurprisedA}Oh. génial.
+159)  DANNY
+[subtly relieved] {SurprisedA}Oh. génial.
+65)  DANNY
+[a little nervous]{DisgustA}Laissez-moi regarder ça.
+158)  DANNY
+[a little nervous]{DisgustA}Laissez-moi regarder ça.
+66)  DANNY
+{NormalC}Qu'est-ce qu'ils ont d'autres ? {ThinkingA}Voyons si nous pouvons trouver quelque chose d'utile et ensuite décampons.
+160)  DANNY
+{NormalC}Qu'est-ce qu'ils ont d'autres ? {ThinkingA}Voyons si nous pouvons trouver quelque chose d'utile et ensuite décampons.
+67)  LEE
+{body-B}{DisgustA}Beurk.  {FearA}J'ai pas besoin de ça.
+68)  JOLENE
+{body-A}{CrazyC}Faites pas un putain de geste !
+69)  DANNY
+{body-A}{NormalB}R.A.S.
+70)  LEE
+{body-B}{ThinkingB}C'est ce que je pensais aussi.
+71)  DANNY
+Jetez un coup d'oeil dans le coin quand même.  {ThinkingB}Il y a probablement des conneries {AngryA}qu'ils nous ont volé.
+72)  DANNY
+{ThinkingA}Ce camp est trop petit.  {NormalC}Ca peut pas être leur base principale.
+73)  
+Boîte du Save-Lots
+74)  
+Boîte Laiterie St John
+75)  
+Regarder
+76)  
+Tirer
+77)  
+Caméscope
+78)  
+Sac de Couchage
+79)  
+Tente
+82)  LEE
+[pickup1][casual/to himself][looking at empty bottles on table]{body-B}{SadA}Vide. {ThinkingA}Mais on dirait que quelqu'un a mangé dedans récemment.
+83)  DANNY
+[pickup1][suspicious, but trying to be casual]{body-A}{NormalB}Quoi ? [What's weird?]
+84)  LEE
+[pickup1][casual/to himself][looking at empty soup cans]{body-B}{ThinkingA}Bizarre.
+85)  LEE
+[pickup1][casual/to Danny][looking at empty cans]{ThinkingB}Je pense que quelqu'un garde ces boîtes de soupe vide pour gosse.
+86)  LEE
+[pickup1][casual/to himself][looking at stuff]{body-B}{NormalB}Rien que de l'eau.
+87)  LEE
+[pickup1][sad/to himself][looking at a kids doll with blood on it][sighs heavily]{body-F}{SadB}Bon sang.
+88)  LEE
+[pickup1][alt - "Anything useful?"]Non sauf si vous avez besoin d'un tas de boîtes de conserve vides.
+89)  
+Conserves
+90)  
+Jerrican
+91)  
+Marmite
+92)  
+Caddie
+93)  
+Déchets
+94)  
+Lapin Ensanglanté
+95)  
+Photo
+96)  
+Nitroglycérine
+97)  LEE
+[pickup2][disappointed, to himself] Rien que des vapeurs. Fait chier.
+98)  LEE
+[pickup2][curious] Des boîte de la laiterie.
+99)  DANNY
+[pickup2][nervous] Certainemnt de la nourriture que nous leur avons donné. Ces connards ont franchi la ligne.
+100)  DANNY
+[pickup2][sad] {body-A}{SadA}Je suis vraiment désolé pour votre ami. {ThinkingA}Ca n'aurait jamais dû se passé comme ça...
+101)  LEE
+[pickup2] {body-B}{SadA}Ouais, merci.
+102)  DANNY
+[pickup2][sad] {body-A}{SadA}Je suis vraiment désolé pour votre ami.
+103)  LEE
+[pickup2] {body-B}{ThinkingA}Vous en faites pas.
+104)  DANNY
+[pickup2] {ThinkingA}Maman va lui refaire une santé.
+105)  LEE
+[pickup2] {HappyA}Merci.
+106)  LEE
+[pickup2][suspicious] {body-B}{NormalB}Hmm. On dirait qu'ils se déplaçaient avec plein de trucs..
+107)  LEE
+[pickup2][curious] {body-B}{ThinkingA}On dirait qu'ils s'attendaient à rester ici un certain temps.
+108)  LEE
+[pickup2][curious] {body-F}{FearA}Bon sang... Il y a {SadB}un enfant embringué là-dedans ?
+109)  DANNY
+[pickup2][overhearing] {body-A}{HappyA}Y AVAIT, serait mieux.
+110)  DANNY
+[pickup2] [slightly confused] Ca en a l'air. Ils ne partagent pas leur territoire.
+111)  DANNY
+[pickup2] Croyez-moi, ces salauds d'égoïstes ne s'arrêterons pas. Certainement juste pour nous rappeler que c'est a eux.
+112)  DANNY
+[pickup2] [dimissivel and smarmy] {Body-A}{DisgustA}Minou.
+113)  LEE
+[pickup2]  {body-B}{AngryB}Elle a dit qu'elle n'était pas avec les gars qui ont tué Mark.   {AngryC}Pourquoi dire que c'est une menteuse ?
+114)  DANNY
+[pickup2] {body-A}{AngryA}Parce qu'ils sont tous dans le coup !  {AngryB}Il y a EUX... {ThinkingB}et il y a NOUS.  {DisgustA}C'est pas la Suisse ici putain.
+115)  LEE
+[pickup2]  {body-B}{AngryB}Vous avez assassiner cette femme sans sourciller !
+116)  DANNY
+[pickup3]  [excited]{body-A}{AngryA}Elle avait une arbalète pointée sur mon front !
+117)  
+Elle a dit qu'elle n'etait pas un bandit.
+118)  LEE
+[pickup2] {Body-B}{AngryC}Qu'est-ce qu'elle voulait à propos de Clémentine ?  {ThinkingB}Pourquoi a t-elle dit "Dis-lui, mon grand !"
+119)  DANNY
+[pickup2] [mocking Lee's line] {Body-A}{HappyA}Eh bien, De rien... J'imagine.
+120)  LEE
+[pickup2]{Body-B}{DisgustA}Eh bien.  Merci, {DisgustB}je crois.
+121)  LEE
+[pickup2]{Body-B}{ThinkingB}Elle a dit qu'elle vous a amené de la viande.
+122)  DANNY
+[pickup2] {Body-A}{NormalC}C'est vrai ?
+123)  LEE
+[pickup2] Ouais, {AngryB}et vous vous êtes énervé.
+124)  DANNY
+[pickup2] {ThinkingA}Oh.
+125)  LEE
+[pickup2] Pourquoi ?
+126)  DANNY
+[pickup2] {DisgustA}Parce que nous faisons notre propre chasse.
+127)  
+Vous avez tué cette femme !
+191)  
+Vous avez tué cette femme !
+128)  
+Merci Danny
+129)  DANNY
+[pickup2][flat]{HappyB}Une fois qu'ils verront ça... {AngryB}ils feront passer le message.
+130)  LEE
+[pickup2] {Body-B}{SadA}Alors c'est tout ?  {ThinkingB}On repart ?
+131)  DANNY
+[pickup2]{Body-A}{AngryA}Si ils ne sont pas ici, je ne sais pas où ils sont.  {ThinkingA}Et ce n'est pas une bonne idée de partir à travers les bois à leur recherche.  {HappyA}Alors, oui, repartons.
+132)  DANNY
+[pickup2] [flat]{NormalC}Allez.
+133)  
+"Dites-lui, mon grand"
+134)  
+Elle a dit qu'elle vous a amene de la viande ?
+135)  
+J'allais lui tirer dessus.
+136)  DANNY
+[pickup3][Follows-310399178 - "I was five seconds away from shooting her myself."]{Body-A}{HappyB}Eh bien, vous auriez peut-être dû !
+137)  LEE
+[pickup2] {Body-B}{SurpriseA}Encore cinq secondes et j'allais lui tirer dessus.
+138)  
+Justice.
+140)  
+Vous l'avez entendu !  Elle était complétement timbré !
+141)  LEE
+[pickup2] {Body-B}{AngryB}Vous l'avez entendu:  {surpriseA}"J'ai besoin de mon arbalète pour vous tuer, enfoirés"?!
+142)  DANNY
+[pickup2] [settle down, Beavis] {Body-A}{SurprisedA}Très bien, très bien...
+143)  
+Elle avait la casquette Clémentine !
+144)  LEE
+[pickup2]{AngryA}Je pouvais pas prendre le risque que cela se reproduise.
+145)  LEE
+[pickup2]{Body-B}{AngryB}Elle a volé la casquette de Clémentine.  {ThinkingB}D'une certaine manière, elle nous a devancé.   {FearA}Cette putain de folledingue a dû être... {FearB}à quelques centimètres de la petite.
+146)  DANNY
+[pickup2][shrugs]{Body-A}{HappyB}Je vais pas pleurer pour ça.
+147)  LEE
+[pickup2]{ThinkingA}...c'est une réaction un peu froide ?
+148)  
+Elle a été trop loin.
+149)  
+Chaise de Jardin
+150)  
+Sac de Couchage Enfant
+151)  DANNY
+[pickup2] {Body-A}{DisgustA}J'en ai aucune idée.
+152)  DANNY
+[pickup2] [inconclusive] {HappyB}Mmm...
+153)  LEE
+[pickup2] [warning] {AngryD}Vous touchez un cheveu sur la tête...
+154)  DANNY
+[pickup2]Nous avions un accord avec eux...
+155)  
+Merci, j'imagine.
+162)  LEE
+[pickup3][alt for looking at the Camcorder at the camp] Elle semble pas fonctionner.
+163)  LEE
+{NormalD}Des pilules de nitroglycérine ?
+164)  LEE
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Rien. [Inside these boxes]
+165)  LEE
+[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Vide.
+166)  DANNY
+[pickup3][snooping] {ThinkingA}Ou encore là.
+167)  LEE
+[pickup3][snooping]{ThinkingA}Il y a de la fumée d'un feu.  {ThinkingB}Quelqu'un était ici récemment.
+168)  DANNY
+[pickup3][snooping]On continue Lee...
+169)  DANNY
+[pickup3][snooping]Fouillez la tente...
+170)  DANNY
+[pickup3][snooping]Surveillez mes arrières...
+171)  DANNY
+[pickup3][snooping]Restez derrière moi...
+172)  DANNY
+[pickup3][admiring]{Body-A}{ThinkingA}Un tir propre et net... {HappyA}en plein front.  {HappyB}Un tir parfait.  {SadA}Et pourtant, quel gâchis.
+173)  DANNY
+[pickup3]{Body-A}{HappyA}Je vois que vous maniez cette arme d'une manière très habille.  {ThinkingA}Vous chassez ?
+174)  LEE
+[pickup3]{Body-B}{ThinkingA}Non, mais Lilly nous entraine tous régulièrement.
+175)  DANNY
+[pickup3]{Body-A}{ThinkingA}Lilly, a raison.  Vosu avez dit qu'elle dirige les choses.  {HappyA}On dirait que vous avez choisi un bon leader.
+176)  LEE
+[pickup3][caught lying]{Body-B}{ThinkingB}Ouais, {SurpriseA}mais, euh, elle a reçu {ThinkingA}un entraînement au combat.
+178)  LEE
+[pickup3][caught lying]{Body-B}{ThinkingB}Ouais, {SurpriseA}mais, euh, elle a reçu {ThinkingA}un entraînement au combat.
+177)  DANNY
+[pickup3]{Body-A}{ThinkingA}Lilly ?  {ThinkingB}Je croyais que vous dirigiez les choses là-bas ?
+179)  DANNY
+[pickup3]{Body-A}{ThinkingA}Lilly ?  Je pensais que vous aviez dit.. {ThinkingB}euh... que Kenny... dirigait les choses là-bas ?
+180)  DANNY
+[pickup3]{Body-A}{ThinkingA}Lilly, hein ?  {HappyA}On dirait qu'ELLE dirige votre "démocratie".
+181)  JOLENE
+[pickup3][Follows  310534159 &310534164]C'est de vivre dont vous devriez avoir peur... les gens que vous appellez des amis... ces gens qui ont pris... [Starts to break up]
+182)  JOLENE
+[pickup3]Ne t'inquiète pas, ma petite.  Les bandits n'ont d'intêret que pour cette laiterie.  Tant qu'ils continuent à obtenir de la nourriture de leur part, tu seras en sécurité. Je te le promets.
+183)  JOLENE
+[pickup3][alt]Ne t'inquiète pas, ma petite.  Ces gens n'ont d'intêret que pour cette laiterie.  Tant qu'ils continuent à obtenir de la nourriture de leur part, tu seras en sécurité. Je te le promets.
+184)  
+Boîte
+185)  
+Caisse en Bois
+186)  JOLENE
+[pickup3] [addressing Danny, and a little wild laughter]{body-Crossbow}{CrazyB}Allez, dites-lui, mon grand !  {CrazyD}Dites-lui ce que vous avez à l'esprit pour --[Gets shot]
+189)  
+Feu de Camp
+190)  
+Elle était sur le point de tirer !

@@ -1,0 +1,26 @@
+1)  LEE
+[friendly, talking to Duck]{normalD}Ai-je manqué quelque chose ?
+2)  DUCK
+Non, pas vraiment.
+3)  DUCK
+[pickup2][sniffs the air] Ça sent bizarre ici.
+4)  KATJAA
+[pickup1]Les enfants ! [dont be rude!...and stop giggling over the word Doo-Dee!]
+5)  CLEMENTINE
+[pickup1][giggles at the word "doo-dee"]
+7)  DUCK
+[pickup1][giggles at the word "doo-dee"]
+6)  CLEMENTINE
+[pickup1][whispered] Doo-dee!
+8)  DUCK
+[pickup1][confused]C'est qui du "fumier" ?
+9)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn][proud that she learned a new word]...Comme du fumier !
+10)  CLEMENTINE
+[pickup1][sad and embarased after being scolded about using swear words]D'accord....
+11)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]Comme de la... merde, c'est ça Lee?
+12)  LEE
+[pickup3][after Clem says something smells like "shit"] Hé, n'utilise pas de gros mots, d'accord ?
+13)  CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Comme de la crotte !
