@@ -1,0 +1,380 @@
+1)  KENNY
+{sadA}Salut ! {normalB}Il paraît que Mark a été attaqué ?
+2)  LEE
+{normalD}Vous en faîtes pas, il va bien.
+3)  KENNY
+{normalB}Il a plutôt intérêt. On a besoin de lui.
+4)  LEE
+{angryA}Des brigands nous ont attaqués.
+5)  KENNY
+{angryA}Bon sang. {thinkingA}J'aurais jamais cru qu'ils viennent jusqu'ici.
+6)  KENNY
+{normalA}C'est mieux que de se faire mordre, j'imagine.
+7)  LEE
+{thinkingA}Je l'ai pas revu depuis.
+8)  KENNY
+{normalA}Hmm, et si je demandais à Kat {normalB}de l'examiner quand elle aura terminé avec la vache ?
+9)  KENNY
+{normalB}Peut-être, peut-être pas. Une fois qu'on aura mangé, on pourra mieux le défendre.
+10)  KENNY
+{thinkingA}Au lieu d'attendre au motel que quelqu'un nous attaque ou nous bouffe.
+11)  LEE
+{thinkingA}Cet endroit n'est pas sûr.
+12)  LEE
+{happyA}Je suis content que vous soyez venu avec nous.
+13)  KENNY
+{normalB}Ouais, ben, on doit manger.  {normalA}Aider cette vache a intérêt à en valoir le coup.
+14)  KENNY
+[worried] {angryA}J'ai vu qu'il n'y avait pas trop de marcheurs sur le chemin.
+15)  LEE
+{normalD}C'est bien.
+16)  KENNY
+{normalA}Vraiment ? J'ai un mauvais pressentiment.
+17)  KENNY
+{angryA}Que ça vienne des marcheurs ou des brigands, il va y avoir une pluie d'emmerdes bientôt.
+18)  LEE
+{normalC}Quelque chose ne va pas ?
+19)  KENNY
+{angryA}Si on les voit pas, ça peut aussi dire qu'ils nous préparent une sacré surprise...
+20)  KENNY
+... à moins que quelqu'un de mieux armé que nous est en train de les liquider.
+21)  KENNY
+{normalA}Dans tous les cas, j'ai peur qu'une pluie d'emmerdes nous tombe dessus.
+22)  LEE
+{normalD}Les marcheurs ne m'inquiètent pas autant que les brigands.
+23)  KENNY
+{normalB}C'est ce que je dis.
+24)  KENNY
+{fearA}Il se passe un truc, Lee. Ca va être la guerre.
+25)  KENNY
+{sadA}Sur le chemin, je commençais à avoir la tête qui tourne, les mains qui tremblent, suer à grosses goûttes. {normalA}J'ai cru que j'allais m'évanouir.
+26)  LEE
+{normalD}Ils ont de la nourriture ici.
+27)  KENNY
+{angryA}J'espère qu'ils vont bientôt nous donner à manger, Lee.
+28)  KENNY
+{thinkingA}Ouais, mais je parle pas d'un seul repas, vous voyez ?
+29)  LEE
+{normalC}Comment vous tenez le coup ?
+30)  KENNY
+[quietly] {angryA}S'ils ont une réserve de bouffe quelque part, {normalA}il faudrait qu'on sache où et comment on peut la récupérer.
+31)  KENNY
+[quietly] {sadA}Au cas où.
+32)  KENNY
+{normalB}Katjaa est au courant, demandez lui de vous montrer l'endroit dont je parle.
+33)  KENNY
+{angryA}Découvrez ce qu'il y a dans cette pièce.
+34)  LEE
+[quietly] {thinkingA}Je continue de ne pas aimer ça.
+35)  KENNY
+{sadA}Voyons, Lee, il n'y a pas que nous. Il faut aussi penser aux enfants.
+36)  KENNY
+[quietly] {normalB}Vous n'êtes pas obligé d'aimer ça, faîte-le c'est tout.
+37)  LEE
+[quietly] {thinkingA}Vous avez raison.
+38)  LEE
+[quietly] {normalB}C'est sans doute rien. {normalC}Qu'est-ce qu'ils pourraient cacher dans une ferme laitière ?
+39)  KENNY
+[quietly] {thinkingA}De la bouffe !
+40)  LEE
+[quietly] {angryA}Ces gens ont le droit d'avoir une vie privée.
+41)  KENNY
+[quietly] {normalB}C'est juste pour savoir, Lee. On ne va rien voler.
+42)  LEE
+[quietly] {angryA}On ne peut pas les mettre en rogne, Kenny. Il faut qu'ils nous fassent confiance.
+43)  KENNY
+[quietly] {normalA}Ca va dans les deux sens, Lee.
+44)  LEE
+[quietly] {angryA}Vous voulez que JE jette un oeil ?
+45)  KENNY
+[quietly] {normalB}Tout à fait.
+46)  LEE
+{normalA}Salut.
+47)  KENNY
+{happyA}Hé, Lee. {normalA}Bel endroit, non ?
+48)  KENNY
+{normalA}Alors, heu... quoi de neuf ?
+49)  KENNY
+[after being ignored]{sadA}Ben... soyez prudent, j'imagine.
+50)  LEE
+{normalA}Salut, Kenny.
+51)  LEE
+[greeting]{normalB}Salut...
+171)  LEE
+[greeting]{normalB}Salut...
+52)  KENNY
+[noticing Lee's silence]{angryA}Vous le sentez aussi, hein ?   {fearA}Je crois qu'un truc mauvais se profile à l'horizon, Lee.
+53)  KENNY
+[responding to Lee's silence; hushed][quietly]  {angryA}Me regardez pas comme ça !  {thinkingA}Je suis mauvais pour les effractions.  Mais quelqu'un doit bien le faire !
+54)  KENNY
+{normalB}Quoi de neuf, Lee ?
+55)  KENNY
+[looks at Danny] {normalB}Ca vous ennuie si je parle à Lee une minute ?
+56)  KENNY
+[looks at Danny] {normalB}Une seconde...
+57)  DANNY
+{normalB}Pas du tout, allez-y.
+58)  KENNY
+[pickup2] Mec, qu'est-ce qu'il s'est passé là-bas ? Ca va ?
+59)  LEE
+[pickup2] Je suis un peu abattu. Ca c'est joué de peu que je sois celui qui se fasse tuer.
+60)  KENNY
+[pickup2]Ecoutez, Mark est mort ? C'est vraiment terrible... mais maintenant on sait que c'est plus dangereux par ici que ce qu'on pensait.
+61)  
+Je suis abattu.
+62)  
+C'est rien.
+63)  LEE
+[pickup2]C'est rien, ne vous en faîte pas.
+64)  KENNY
+[pickup2]Hé, j'ai compris. Mark est mort... vous devez surmonter ça à votre façon. Mais il faut se demander pourquoi on est venu ici.
+65)  KENNY
+[pickup2] Heureux de voir que vous avez pu vous en sortir en un seul morceau.
+66)  LEE
+[pickup2] C'est une façon de voir les choses.
+67)  KENNY
+[pickup2]  Hé, ça aurait pu être pire. Ca aurait pu se finir comme le pauvre gars dans le piège à ours.
+68)  LEE
+[pickup2] Pas sûr que Mark soit aussi optimiste que vous.
+69)  LEE
+[pickup2] [shrugging]J'imagine que c'est une façon de voir les choses.
+70)  LEE
+[pickup2] Je suppose que Lilly n'est pas ravie d'être ici.
+71)  KENNY
+[pickup2] J'en ai rien à foutre de ce que Lilly veut. Duck et Katjaa doivent manger, et je ne vais pas rester assis au Motor Inn à les regarder crever de faim.
+72)  LEE
+[pickup2] Si tout se passe bien, lui et Katjaa pourraient avoir une vie meilleure ici.
+73)  KENNY
+[pickup2][bitter]Ouais, c'est ça.
+74)  LEE
+[pickup2] C'est du passé, Kenny. Plein de choses sont arrivées depuis.
+75)  KENNY
+[pickup2] [bitter]C'est marrant, ça n'avait pas l'air de trop vous déranger que Larry veuille jeter Duck dans la rue à Macon.
+76)  KENNY
+[pickup2] [bitter] C'est marrant, vous n'aviez pas l'air trop inquiet pour Duck à la ferme Hershel.
+77)  KENNY
+[pickup2] J'espère que vous avez raison. Duck et Clémentine méritent mieux que de crever de faim dans un motel miteux.
+78)  LEE
+[pickup2] Je vais jeter un oeil aux environs.
+79)  KENNY
+[pickup2] Je serai là si vous avez besoin. Dites moi si vous trouvez quoi que ce soit.
+80)  KENNY
+[pickup2] Ok, ben, je serai là si vous avez besoin de moi.
+81)  KENNY
+[pickup2] Rien ? Mark est mort. Ce n'est pas rien. C'est putain de dangereux par ici, mais vous avez raison... on doit partir.  Aussitôt que le dîner sera servi on se sentira beaucoup mieux.
+82)  LEE
+[pickup2]Ouais, c'est vrai.
+83)  KENNY
+[pickup2]Et bien, c'était pas de la tarte. Duck n'avait pas l'air bien sur le trajet.
+84)  LEE
+[pickup2] Duck et Katjaa on fait bon voyage ?
+85)  KENNY
+[pickup2] Il faut se demander pourquoi on est venu ici. Pour la bouffe. On meurt de faim, Lee.
+86)  KENNY
+[pickup2]Et c'est mieux d'avoir une mort rapide que de souffrir le martyr comme ce type dans le piège à ours.
+87)  
+Ca va. On est en securite.
+88)  LEE
+[pickup2] Ca va. Des gens qui meurent, ça arrive. Mais au moins on est en sécurité maintenant.
+89)  KENNY
+[pickup2] On se sentira sans doute tous beaucoup mieux après que le dîner soit servi.
+90)  KENNY
+[pickup2]Lee, heureux de vous revoir. Vous avez trouvé quelque chose ?
+91)  KENNY
+[pickup2]Putain de merde ! Content que vous soyez revenu entier. Elle avait des provisions au moins ? De la nourriture ?
+92)  LEE
+[pickup2] J'ai tué quelqu'un là-bas. Une femme. Elle pointait une arbalète sur moi.
+93)  LEE
+[pickup2] On a trouvé une femme là-bas. Elle était seule et délirait avec une arbalète pointée droit sur nous. En un clin d'oeil, Danny l'a tué.
+94)  LEE
+[pickup2] On a rien trouvé d'utile là-bas, mais je voulais pas parler de ça.
+95)  KENNY
+[pickup2][disappointed, then quitely]Je comprends. Mais écoutez...
+96)  
+Qu'avez vous dit a Lilly ?
+97)  KENNY
+[pickup2] [impatient]Vous avez trouvé à manger ou pas alors ?!
+98)  LEE
+[pickup2] Non. Rien.
+99)  
+On a rien trouve.
+100)  LEE
+[pickup2]Il n'y a rien là-bas.
+101)  KENNY
+[pickup2]Vous déconnez ? Rien du tout ?
+102)  LEE
+[pickup2][forceful]Je viens de vous le dire. On a rien trouvé.
+103)  KENNY
+[pickup2][suspicious]Vous ne me mentiriez pas, hein, Lee ?
+104)  LEE
+[pickup2]Kenny ?
+105)  
+Qu'est-ce qu'il y a avec la grange ?
+106)  LEE
+[pickup2][clarifying][quietly]Qu'est-ce qu'elle a de spécial cette grange ? Pourquoi ils cacheraient des trucs là-dedans ?
+107)  KENNY
+[pickup2][quietly]Qui sait, mais peu importe, ils nous le cachent. Il faut que je sache, Lee. Pour ma famille. Et pour Clémentine.
+108)  
+Que cachent-ils ?
+109)  LEE
+[pickup2][quietly] Et d'après vous, qu'est-ce qu'ils ont là-dedans ?
+110)  KENNY
+[pickup2][quietly]D'après moi ? A manger. Et de ce que j'en ai vu, ils en ont plus qu'assez dans le coin. Vous pourriez peut-être trouver un moyen d'entrer, Lee.
+111)  
+Restez a l'ecart.
+112)  KENNY
+[pickup2] [quietly]Rien à foutre, mec.
+113)  LEE
+[pickup2][quietly] Ecoutez, quoiqu'ils gardent à l'intérieur c'est leurs affaires. On doit faire profil bas si on veut conclure un marché ici.
+114)  KENNY
+[pickup2] [impatient][quietly]Ne me faites pas barrage là-dessus.
+115)  KENNY
+[pickup2] [quietly]Vous devez entrer dans cette grange. Ils cachent un truc qui pourrait tous nous aider.
+116)  KENNY
+[pickup2] Lee, je pense vraiment qu'il est temps de savoir ce qu'il y a dans cette grange.
+117)  KENNY
+[pickup2] La casquette de Clémentine ? Ben putain.
+118)  LEE
+[pickup2] Danny et moi l'avons trouvé au campement.
+119)  KENNY
+[pickup2]Attendez, vous m'avez dit que vous n'avez rien trouvé à ce camp. C'est pas RIEN ça pour moi.
+120)  LEE
+[pickup2]Désolé. Je suis toujours en train de chercher une explication à tout ça.
+121)  LEE
+[pickup2]Qui qu'elle soit, elle devait nous suivre depuis un bon moment sans doute. Je suis pas sûr.
+122)  KENNY
+[pickup2] Ca veut dire quoi selon vous ?
+123)  KENNY
+[pickup2] Vous avez bien fait, Lee.
+124)  KENNY
+[pickup2] J'imagine que Danny à agit pour le mieux, là-bas.
+125)  KENNY
+[pickup2] [frustrated]C'est pour ça que vous devez me parler, Lee. S'il y avait quelqu'un qui pouvait faire du mal à Duck ou Clémentine là-bas, je dois le savoir.
+126)  KENNY
+[pickup2]Vous devriez rendre à Clementine sa casquette. Ca lui rappelera chez elle, sans doute.
+127)  LEE
+[pickup2]J'ai aussi trouvé ça sur le camp.
+128)  LEE
+[pickup2] Je suis pas sûr. Comme pour beaucoup de choses en ce moment.
+129)  KENNY
+[pickup2] Une caméra vidéo ?
+130)  KENNY
+[pickup2]Vous pensez que c'est utile ?
+131)  LEE
+[pickup2] Doug a dit que les piles étaient mortes, et ça n'intéressait plus Danny quand il a vu qu'elle marchait pas.
+132)  KENNY
+[pickup2] Bizarre. Pourquoi une bande de fermiers s'intéresseraient à une caméra ?
+133)  LEE
+[pickup2] C'est un peu ce que je me demandais.
+134)  KENNY
+[pickup2]Vous devriez la garder pour vous. Même si elle ne marche pas.
+135)  KENNY
+[pickup2]J'aime pas ça, Lee. Il se passe un truc.
+136)  KENNY
+[pickup2] Si cette femme avait touché un seul cheveux de Duck, je l'aurais tué moi-même.
+137)  LEE
+[pickup2]Pourquoi vous vous disputiez avec Lilly quand je suis revenu ?
+138)  KENNY
+[pickup2] Je lui ai dit qu'on devait jeter un oeil ce qu'ils gardent dans cette grange. Mais elle veut qu'on parte avant même de manger. Je la comprend pas, mec. On dirait qu'elle préfère rester affamée là-bas.
+139)  KENNY
+[pickup2]En plus, à mon avis on se sentira tous beaucoup mieux une fois le dîner servi.
+140)  LEE
+[pickup2] Nan, je crois que c'est cassé. Danny a paru très intéressé avant qu'on s'en aperçoive.
+141)  KENNY
+[pickup2][quietly]On a mieux à faire ici.
+142)  LEE
+[pickup2]Vous vous disputiez à propos de quoi avec Lilly quand je suis revenu ?
+143)  LEE
+[pickup2][quietly]Ca va ?
+144)  KENNY
+[pickup2]Elle marche ?
+145)  LEE
+[pickup2] J'arrive toujours pas à forcer la serrure de cette porte.
+146)  KENNY
+[pickup2][reminder] Hmmm.  Vous allez probablement avoir besoin d'un tournevis ou un truc du genre.
+147)  KENNY
+[pickup_2]Très bien.  Ca fait plaisir à entendre.
+148)  LEE
+[pickup_2]J'ai ramassé un truc qui pourrait nous aider pour la serrure.
+149)  KENNY
+Bien.  On a plus qu'à tenir ce type occupé.
+150)  KENNY
+Ouais.  Il était en train... de nous observer.
+151)  LEE
+Andy.
+152)  KENNY
+J'aimerais bien que ce type s'en aille...
+153)  KENNY
+[pickup_2]Rien ne peut plus vous arrêter maintenant.
+154)  
+Montrer la camera
+155)  
+Montrer la casquette
+156)  
+Danny a tue quelqu'un.
+157)  
+J'ai tue quelqu'un.
+158)  
+Lilly ne veut pas etre ici.
+159)  
+Votre famille est bien arrivee ?
+160)  
+Comment tenez vous ?
+161)  KENNY
+[pickup3][follows # 310481005]Vous êtes avec moi sur ce coup là, hein ?
+162)  LEE
+[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Ouais, bien sûr.  Lilly n'a pas les idées claires, mais vous, vous avez plutôt une bonne vision des choses.
+163)  LEE
+[pickup3][disagreeing with Kenny about the motor inn]Lilly a fait du bon boulot pour tous nous garder unis.  Vous devriez prendre un peu de recul.
+164)  LEE
+[pickup3][not siding with anyone about the motor inn]Vous ne me ferez pas choisir un camp, Kenny.
+165)  KENNY
+[pickup3][disapointed in Lee for siding with Lilly] Qu'importe.
+166)  KENNY
+[pickup3][in ernest]Hé bien... vous devriez y réfléchir car on va y venir un jour.
+167)  
+Oui, bien sur.
+168)  
+Non. Lilly a fait du bon boulot.
+169)  
+Je ne prends pas parti.
+170)  KENNY
+[pickup3][responding to Lee's silence and refusal to pick sides] Pff.  Revoilà le diplomate.
+172)  KENNY
+[pickup3] Hé Lee, vous avez trouvé quelque chose d'intéressant ?
+173)  KENNY
+[pickup3] C'est bon à savoir. Gardez les oreilles ouvertes sur ce qui pourrait nous aider.
+174)  LEE
+[pickup3] J'essaye de voir si cet endroit est sûr, au cas où on décide d'en faire une solution à long terme.  A part les gens dans les bois, cela semble sécurisé.
+175)  KENNY
+[pickup3] C'est vrai.  C'est bien de savoir à quoi on a à faire ici.
+176)  KENNY
+[pickup3] Continuez de chercher et dites moi quand vous aurez trouvé quelque chose.
+177)  LEE
+[pickup3] Je parlais à Andy un peu plus tôt, il semble qu'ils n'aient pas beaucoup d'armes. Ils dépendent surtout de la clôture pour se protéger.
+178)  LEE
+[pickup3] Et bien, c'est ça le problème. Quand il n'y a plus d'essence, il y a plus de clôture.
+179)  KENNY
+[pickup3] Hé Lee, comment ça se passe avec les St. John ?
+180)  LEE
+[pickup3] Bien. Je parlais à Andy plus tôt et j'ai proposé que notre groupe les aide à la ferme.
+181)  KENNY
+[pickup3] Génial. On dirait qu'ils commencent à nous accepter.
+182)  LEE
+[pickup3] Tout à fait.
+183)  LEE
+[pickup3]Je pense qu'ils ont pas bien plus que la clôture pour les protéger alors ils apprécient.
+184)  KENNY
+[pickup3] Ouais, cet endroit c'est quand même un cran au-dessus que ce trou à rat de Motor Inn.
+185)  LEE
+[pickup3] Ils ont l'air gentils. Si on la joue fine ça pourrait être bon pour nous.
+186)  KENNY
+[pickup3] N'attendez pas trop pour les aider à faire le tour de ce camp de brigands... ou autres. Ca va être une bonne occasion d'en découvrir un peu plus sur les St. John et leur relation avec eux.
+187)  LEE
+[pickup3] Oui. On verra bien ce qu'on trouvera.
+188)  LEE
+[pickup3] Bonne idée.
+189)  KENNY
+[pickup3] N'attendez pas trop pour les aider à faire le tour de ce camp de brigands.  Ils ont l'air plutôt remonté sur le sujet. Ce serait un bon moyen de gagner leur confiance.
+190)  KENNY
+[pickup3]Tant que vous êtes de CE côté, tout va bien.  Pourvu que la clôture tienne bon.

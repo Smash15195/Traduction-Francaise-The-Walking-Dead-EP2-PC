@@ -1,0 +1,866 @@
+1)  LEE
+[context: let's go, you're going to be okay] Allez, mec. On est tiré d'affaire.
+2)  BANDIT
+[taunting] Vous avez de la chance, enfoirés !  Allez, courez ! On bougera pas !
+333)  BANDIT
+[taunting] Vous avez de la chance, enfoirés !  Allez, courez ! On bougera pas !
+3)  MARK
+Vous m'aidez, Lee?
+4)  MARK
+Allez, Lee, on a pas toute la journée.
+5)  MARK
+Bon sang, Lee, je peux pas le soulever.
+6)  LEE
+Mark !
+7)  MARK
+[killed by arrow] Gaaahhhhh!
+8)  BANDIT
+Hé hé, Je t'ai eu !
+9)  BANDIT
+Vous voilà !
+12)  BANDIT
+Vous voilà !
+10)  LEE
+[killed by arrow] Gahhhh!
+11)  BANDIT
+Je t'ai eu, petit connard !
+13)  BANDIT
+Te voilà, gamin !
+14)  BANDIT
+Je peux te voir !
+15)  BANDIT
+Je vais vous niquer, bâtards !
+16)  BANDIT
+Je te vois !
+17)  MARK
+Vous pensez quoi de l'endroit, Lee ?
+18)  LEE
+Ca change du motel, en bien.
+19)  MARK
+C'est clair. Ici c'est comme si rien ne s'était produit.
+20)  LEE
+Je prévois pas de rester.
+21)  MARK
+Je me vois bien vivre ici un long moment.
+28)  MARK
+Je me vois bien vivre ici un long moment.
+171)  MARK
+Je me vois bien vivre ici un long moment.
+173)  MARK
+Je me vois bien vivre ici un long moment.
+22)  LEE
+C'est trop tôt pour le dire.
+23)  LEE
+Sauf pour les zombies et les brigands.
+24)  LEE
+Ce ne sera jamais comme avant.
+25)  MARK
+Ouais, ces types ont perdu autant de choses que nous.
+26)  MARK
+Le motel ne va pas suffire très longtemps.
+27)  LEE
+Vous voulez quitter le motel ?
+29)  MARK
+Ces gars ont besoin de nous, Lee. On pourrait faire quelque chose.
+30)  LEE
+On ne nous a pas invité à rester.
+31)  MARK
+[good-natured] Bâtard.
+32)  LEE
+On ne connait pas ces gens.
+33)  LEE
+[teasing] Who says that worked out?
+34)  MARK
+Vous ne ME connaissiez pas avant de vous montrer à la base.
+35)  MARK
+Dites ça à tout ceux qui veulent notre peau. Ca les fera peut-être partir.
+36)  LEE
+C'est plus sûr au motel.
+37)  MARK
+Avec la clôture en marche, c'est endroit est une forteresse.
+38)  MARK
+Pas beaucoup de conducteurs ces temps-ci, Lee.
+39)  MARK
+On pourrait voler un an d'essence, facile.
+40)  LEE
+La clôture fonctionne tant qu'il y a de l'essence.
+41)  MARK
+On a assez de monde.
+42)  LEE
+Une forteresse a besoin d'armée.
+340)  
+Une forteresse a besoin d'armée.
+43)  MARK
+Vous êtes trop parano, Lee.
+44)  LEE
+Ne vous relâchez pas trop par ici.
+45)  LEE
+Et eux ?
+46)  LEE
+Cet endroit va s'effondrer, comme partout ailleurs.
+47)  LEE
+Ces gars retardent juste l'inévitable.
+48)  MARK
+Hé bien, aidons-les à le retarder un peu plus.
+49)  MARK
+Bon sang, Lee. Vous parlez comme Kenny.
+50)  LEE
+On a assez d'hommes pour prendre cet endroit par la force, si besoin.
+51)  BANDIT
+Avancez !
+52)  BANDIT
+C'est pas juste, nous avions un marché !
+53)  BANDIT
+Vous nous avez roulé, on va prendre tout ce qu'on veut maintenant.
+54)  BANDIT
+Vous croyez que vous pouvez tous nous avoir ?
+55)  BANDIT
+Montrez-vous bande de tarés !
+56)  BANDIT
+Montre-toi !!
+57)  MARK
+This one must've knocked it over trying to get through.
+58)  MARK
+Andy a dit que lorsque la clôture fonctionne, les marcheurs sont comme une branche d'arbre sur une ligne haute tension.
+59)  MARK
+Il est plutôt bien empêtré. Allez, aidez-moi à remettre ce truc en place pour dégager Mr. Croustillant.
+60)  MARK
+[exertion from lifting] Hmmpfff....
+61)  LEE
+[panicked] C'était quoi ?!
+62)  MARK
+[pickup3]	[in pain] Un connard m'a tiré dessus ! PUTAIN !
+63)  LEE
+Vous pouvez marcher ?
+348)  
+Vous pouvez marcher ?
+64)  MARK
+[pickup3][in pain] Ouais...  Mais je bouge pas tant que ce malade est là !
+65)  LEE
+Il faut dégager d'ici.
+349)  
+Il faut dégager d'ici.
+66)  MARK
+[pickup3][in pain] Si on bouge, on est mort !
+67)  LEE
+Partons d'ici !
+68)  MARK
+[in pain] On y arrivera pas avec ce connard !
+69)  LEE
+Bien sûr, vous pouvez marcher ?
+70)  MARK
+[in pain] Ouais, mais on peut pas marcher à découvert. Il faut se planquer !
+404)  MARK
+[in pain] Ouais, mais on peut pas marcher à découvert. Il faut se planquer !
+71)  LEE
+Allez, si on atteint le portail, on passe la clôture et on retourne à la maison.
+72)  MARK
+[pickup3]	[in pain] Arghh!  Ca fait mal, merde !
+73)  LEE
+[exertion from lifting] Hmmpff...
+74)  MARK
+[hit by arrow] Gaaaahhh !
+75)  MARK
+[surprised, in pain] Qu'est-ce que- ?
+76)  BANDIT
+Je vous avais prévenu, fils de pute !
+77)  MARK
+[tense/under fire][in pain] PUTAIN !!! C'est qui ça ?!
+78)  LEE
+[trying to break a zombie's hold] Gahh !
+79)  MARK
+Ouais ! D'accord !
+80)  LEE
+[trying to break a zombie's hold] Grrrh !
+81)  LEE
+[trying to break a zombie's hold] Urngh !
+82)  LEE
+[trying to break a zombie's hold] Gyahhh !
+83)  LEE
+Réservoir à sec. Evidemment.
+84)  MARK
+[pickup3][In pain] Lee ! Il faut faire quelque chose !
+85)  MARK
+[responding to Lee's silence]["It's almost like things used to be..."][Sad] ...Presque.
+86)  MARK
+[responding to Lee's silence]Hé bien... C'est mieux qu'à l'extérieur avec... vous savez quoi. [zombies]
+87)  MARK
+Si ces ampoules sont éteintes ça veut dire que la clôture aussi, c'est ça ?
+88)  LEE
+Il vaudrait mieux.
+89)  MARK
+En voici un.
+90)  MARK
+Beurk.
+91)  LEE
+Allez, on le dégage.
+92)  MARK
+Je vois.
+93)  LEE
+En voici encore un.
+94)  MARK
+Vous ne vous habituerez jamais à l'odeur, hein ?
+432)  MARK
+Vous ne vous habituerez jamais à l'odeur, hein ?
+95)  LEE
+[chuckles] Nan.
+431)  LEE
+[chuckles] Nan.
+96)  MARK
+[continuing/responding to silence]Parce que je trouve que c'est un bol d'air frais.  Littéralement !
+97)  MARK
+Vous en pensez quoi, Lee ? On devrait fouiner un peu par ici ?
+98)  MARK
+[awkwardly starting the conversation again] Alors heuuu... que pensez-vous des frères ?
+99)  MARK
+[responding to Lee's silence]...D'aaaccooord....
+100)  LEE
+Merci.
+307)  LEE
+Merci.
+101)  MARK
+Chais pas.  Ils ont l'air convenables. Sachez que je vous couvre si jamais ça tourne mal.
+102)  MARK
+Allons, je pense savoir où ils veulent en venir.
+103)  MARK
+[context: no need to worry about it, it's dead] Lee, il est mort.
+104)  MARK
+[sarcastic]Si vous attendez que ce type vous aide, n'y comptez pas. [now get over here and help me]Allez.
+105)  LEE
+A terre !
+106)  MARK
+Merde !  Quoi encore ?!
+107)  BANDIT
+Vous pourrez pas vous cacher éternellement !
+108)  BANDIT
+Vous méritez de crever, connard !
+109)  BANDIT
+Plus vous vous cachez, plus je vais être en colère !
+110)  BANDIT
+Je peux attendre TOUTE la journée !
+111)  MARK
+[as Lee is killed]LEE !!
+118)  MARK
+[as Lee is killed]LEE !!
+126)  MARK
+[as Lee is killed]LEE !!
+183)  MARK
+[as Lee is killed]LEE !!
+112)  LEE
+[killed by an arrow!] Aughh !
+114)  LEE
+[killed by an arrow!] Aughh !
+117)  LEE
+[killed by an arrow!] Aughh !
+128)  LEE
+[killed by an arrow!] Aughh !
+182)  LEE
+[killed by an arrow!] Aughh !
+184)  LEE
+[killed by an arrow!] Aughh !
+332)  LEE
+[killed by an arrow!] Aughh !
+113)  LEE
+[killed by an arrow!] Errff !!
+119)  LEE
+[killed by an arrow!] Errff !!
+127)  LEE
+[killed by an arrow!] Errff !!
+115)  MARK
+[as lee is killed]Merde !! Lee !!
+116)  LEE
+[killed by an arrow!] Errfff !!!
+120)  LEE
+[killed by an arrow!] Gahh !
+185)  LEE
+[killed by an arrow!] Gahh !
+121)  BANDIT
+Je vais t'avoir !
+122)  BANDIT
+Merde !
+123)  BANDIT
+T'as eu du bol cette fois!
+124)  BANDIT
+Bordel.
+125)  LEE
+[exerting force] Eeenngh...
+129)  LEE
+A l'aide !
+130)  LEE
+Merde !!!
+331)  LEE
+Merde !!!
+131)  LEE
+[narwoly missed by an arrow while fighting a zombie] MERDE !!
+132)  LEE
+[shouting]Couvrez-moi !
+133)  MARK
+[pickup3][in pain]Ca va ?
+134)  LEE
+Ouais... un peu.
+135)  MARK
+Putain de merde !  C'était quoi ça ?!
+407)  MARK
+Putain de merde !  C'était quoi ça ?!
+136)  LEE
+La clôture est en marche !
+408)  LEE
+La clôture est en marche !
+137)  MARK
+Pourquoi il l'a mis en route, bon sang ! Il sait qu'on était là !
+409)  MARK
+Pourquoi il l'a mis en route, bon sang ! Il sait qu'on était là !
+138)  MARK
+[pickup3][in pain]Allez, le portail est juste là !
+139)  MARK
+[exerting force1]
+151)  LEE
+[exerting force1]
+140)  MARK
+[exerting force LONG1]
+153)  LEE
+[exerting force LONG1]
+141)  MARK
+[exerting force2]
+152)  LEE
+[exerting force2]
+142)  MARK
+[exerting force to completion 2]
+150)  LEE
+[exerting force to completion 2]
+143)  MARK
+[exerting force LONG2]
+148)  LEE
+[exerting force LONG2]
+144)  MARK
+[exerting force to completion 1]
+149)  LEE
+[exerting force to completion 1]
+145)  MARK
+[exerting force to completion 3]
+147)  LEE
+[exerting force to completion 3]
+146)  MARK
+[exerting force3]
+154)  LEE
+[exerting force3]
+155)  MARK
+[pained heavy breathing 2]
+156)  MARK
+[pained heavy breathing 3]
+157)  MARK
+[painful wincing 1]
+158)  MARK
+[painful wincing 2]
+159)  MARK
+[Exerting force 1]
+160)  MARK
+[Exerting force  2]
+161)  MARK
+[Exerting force  3]
+162)  MARK
+[Exerting force to completion  1]
+163)  MARK
+[Exerting force  to completion  2]
+164)  MARK
+[Killed with an arrow 1]
+165)  MARK
+[Killed with an arrow 2]
+166)  MARK
+[Killed with an arrow 3]
+167)  MARK
+[pained heavy breathing 1]
+168)  LEE
+[tense/under fire]On dirait que les St. John ont énervé quelqu'un.  Des brigands, sûrement.
+169)  MARK
+[nostalgic]Ca pourrait être comme avant.
+170)  MARK
+[nostalgic]Ca pourrait être comme avant.
+172)  MARK
+[nostalgic]Ca pourrait être comme avant.
+174)  MARK
+[Urgent!] Attendez !!
+175)  MARK
+[Urgent/not shouted] Lee, dépêchez-vous !
+176)  MARK
+[Urgent/not shouted]Mettez vous à l'abri !
+177)  MARK
+[Urgent/not shouted]Lee, revenez ici !
+178)  MARK
+[Urgent/not shouted]Baissez vous !
+179)  MARK
+[Urgent/not shouted]Vite !  Il va vous voir !
+180)  LEE
+[pickup1][With mark behind the tractor after its stuck on a still living zombie]Merde.  Et maintenant ?
+181)  MARK
+On doit le faire avancer. Ces brigands s'arrêteront pas.
+186)  MARK
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection]Hé, on devrait essayer de faire venir Larry par ici, non ? Histoire de faire rentrer de l'air frais dans ses poumons crasseux...
+187)  MARK
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][continued]... Il se rendra compte peut-être que vous n'êtes pas un danger pour le groupe..
+188)  MARK
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][cont.]... Je crois que même Larry sera ennuyé d'être un "putain de raciste" ici !
+189)  MARK
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][cont.]... Peu importe son problème avec vous, je parie qu'il oubliera tout !
+190)  LEE
+[pickup1][explaining why the tractor stopped] Merde. C'est un des morts qu'on a dégagé tout à l'heure. Je vais devoir le bouger.
+191)  MARK
+[pickup3][in pain][behind the tractor for cover when it stops moving]Que se passe-t-il ?
+192)  MARK
+[pickup3][in pain][as the tractor stops again]Encore un ?  On en a dégagé combien comme ça ?
+193)  MARK
+[pickup1][looking at the dead zombie they just pushed off the fence]Vous pensez que c'était qui ?
+194)  LEE
+[pickup1][response to Mark asking who the zombie on the fence might have been] Aucune importance.
+195)  LEE
+[pickup1][response to Mark asking who the zombie on the fence might have been]Peut-être un ouvrier agricole.  Chai pas.  J'espère qu'il n'était pas comme ça longtemps avant que la clôture le tue.
+196)  MARK
+[pickup1][agreeing that it's better to be dead than a zombie] Ouais.
+197)  MARK
+[pickup1][looking at the dead zombie they pushed off the fence] Pauvre type.
+198)  LEE
+[pickup1][pressing Mark to keep moving along the fence] Allez, je parie qu'il y en a encore.
+199)  
+Tracteur
+200)  
+Cale
+201)  
+Démarrage
+202)  
+Levier de vitesse
+203)  TEMP
+LE TRACTEUR ROULE
+204)  TEMP
+le tracteur a fini de rouler
+206)  TEMP
+le tracteur a fini de rouler
+330)  TEMP
+le tracteur a fini de rouler
+205)  TEMP
+le tracteur roule
+218)  TEMP
+le tracteur roule
+207)  TEMP
+La scène est terminée
+334)  TEMP
+La scène est terminée
+208)  TEMP
+Enlever les cales
+435)  TEMP
+Enlever les cales
+209)  TEMP
+essayer de pousser le tracteur alors qu'il est bloqué
+213)  TEMP
+essayer de pousser le tracteur alors qu'il est bloqué
+210)  TEMP
+essayer de pousser le tracteur alors qu'il est bloqué
+211)  TEMP
+pousser le tracteur
+212)  TEMP
+bouger le zombie
+214)  TEMP
+fin de combat 1 
+215)  TEMP
+fin de combat 2
+216)  MARK
+[pickup1][matter of fact]Bonne idée.
+217)  LEE
+[pickup1][inspecting the knocked over fence post]On aura un meilleur appui de l'autre côté.
+219)  TEMP
+Le zombie tronc vous poursuit
+220)  
+Regarder
+360)  
+Regarder
+363)  
+Regarder
+367)  
+Regarder
+368)  
+Regarder
+375)  
+Regarder
+376)  
+Regarder
+221)  
+Boîte aux lettres
+222)  
+Réparer
+223)  TEMP
+Lee démolit la clôture !
+371)  TEMP
+Lee démolit la clôture !
+372)  TEMP
+Lee démolit la clôture !
+224)  MARK
+[pickup2]Content que vous ayez décidé de rester par ici.
+225)  LEE
+[pickup2] Espérons que ça soit permanent.
+325)  LEE
+[pickup2] Espérons que ça soit permanent.
+226)  MARK
+[pickup2] Ravi qu'on soit sur la même longeur d'onde.
+227)  MARK
+[pickup2] Je sais que vous avez dit que c'était pas un bon endroit, mais allez, REGARDEZ ça !
+228)  MARK
+[pickup2] Je sais que vous avez dit qu'il ne fallait pas faire confiance à des étrangers, mais ils ont l'air bien. En plus, cet endroit... ! ALLEZ, quoi !
+229)  MARK
+[pickup2]Ecoutez, je sais que vous pensez que cet endroit n'est pas sûr pour Clémentine, mais vous êtes un peu trop protecteur.
+230)  LEE
+[pickup2]Pourquoi vous lui avez dit que je pensais qu'il était raciste ? Comme si y'avait pas assez de tensions comme ça !
+231)  LEE
+[pickup2]Il serait pas un tel emmerdeur si vous ne lui aviez pas dit que je parlais dans son dos tout le temps.
+232)  LEE
+[pickup2]A quoi pensiez vous quand vous lui avez dit que je racontais qu'il me prenait pour quelqu'un de dangereux ?
+233)  MARK
+[pickup2]Désolé mec ! C'est juste... sorti comme ça !
+234)  MARK
+[pickup2]Je suis désolé, d'accord ?
+235)  MARK
+[pickup2] Je veux dire, vous AVEZ avoué ça juste sous son nez...
+236)  
+C'est un con.
+237)  
+On trouvera une solution.
+238)  
+J'essaye d'etre correct, au moins.
+239)  LEE
+[pickup2] Ce mec est un con de toute façon.
+240)  LEE
+[pickup2] On trouvera une solution.
+241)  LEE
+[pickup2] J'essaye d'être civilisé, au moins.
+242)  MARK
+[pickup2]Il est trop cinglé pour s'en apercevoir.
+243)  MARK
+[pickup2]Hé bien, j'espère qu'il se calmera une fois ici.
+244)  MARK
+[pickup2] Calmez vous. Vous n'arrangerez rien en l'agaçant.
+245)  MARK
+[pickup2] Hé bien, un bon repas l'adouciera peut-être un peu.
+246)  MARK
+[pickup2]Seigneur, je n'arrête pas de penser au dîner.
+247)  
+Restez concentre sur le travail.
+248)  
+On demandera plus à manger apres ça.
+249)  
+J'ai faim aussi.
+250)  LEE
+[pickup2] S'ils ont autant à manger qu'ils le disent, je pense aussi.
+251)  LEE
+[pickup2] Restez concentré sur le travail.
+252)  MARK
+[pickup2] Vous pensez qu'ils vont arriver à faire à manger pour tout ce monde ?
+253)  LEE
+[pickup2] On demandera plus à manger quand on aura fini.
+254)  MARK
+[pickup2] Très bien, je vais me secouer.
+255)  LEE
+{pickup2} J'ai faim aussi, Mark.
+256)  MARK
+[pickup2] Il sont malins de nous attirer avec de la nourriture pour ensuite nous donner du boulot !
+257)  LEE
+[pickup2] Ca vaut bien un bon repas.
+258)  MARK
+[pickup2] Finissons-en. Brenda a peut-être encore du pain chez elle.
+259)  MARK
+[pickup2] Quand la clôture sera réparée cet endroit va être une forteresse !  Vous imaginez ne plus avoir à vous soucier des marcheurs ?
+260)  LEE
+[pickup2] On a les hommes pour le défendre.
+261)  MARK
+[pickup2] Entre nous et les gars de la ferme ? Aucun problème !
+262)  LEE
+[pickup2] On doit quand même rester sur nos gardes. C'est toujours très dangereux.
+263)  MARK
+[pickup2] Suffit de tenir éloigné les enfants, rien d'inquiétant.
+264)  MARK
+[pickup2] C'est vrai, mais c'est aussi dangereux pour les marcheurs.
+265)  LEE
+[pickup2] C'est dangereux.
+266)  MARK
+[pickup2] En parlant de...
+267)  MARK
+[pickup2] En parlant de...
+268)  MARK
+[pickup2] Alors, que pensez vous des frères ? On dirait qu'ils ont plutôt bien aménagé cet endroit.
+269)  
+Que voulez vous dire ?
+271)  
+Ils sont plutot genereux.
+272)  
+Ils retardent l'inevitable.
+273)  
+On peut prendre l'endroit s'il le faut.
+274)  LEE
+[pickup2] Que voulez vous dire ?
+275)  LEE
+[pickup2] Ils ont été plutôt généreux jusqu'à présent.
+276)  MARK
+[pickup2] Oui, carrément. Je sais qu'on a rien sans rien mais quand même...
+277)  MARK
+[pickup2] Hé bien, ils ont l'air convenables. Sachez que je vous couvre si jamais ça tourne mal.
+278)  MARK
+[pickup2] Et... à propos du type dans les bois...  On a bien fait de le laisser là ?
+279)  
+On ne pouvait rien faire.
+280)  
+On a fait ce qu'on a pu.
+281)  
+Je sais pas.
+282)  LEE
+[pickup2][matter-of-fact] On ne pouvait rien faire..
+283)  LEE
+[pickup2][matter-of-fact] On a fait ce qu'on a pu, Mark.
+284)  LEE
+[pickup2][unsure] Je sais pas.
+285)  MARK
+[pickup2] Ca m'a traversé l'esprit.
+286)  LEE
+[tense/under fire]Aucune idée !
+287)  MARK
+[pickup2] Il y'en a un autre.
+288)  LEE
+[pickup2] Je vois.
+289)  MARK
+[pickup2] Mais je...
+290)  MARK
+[pickup2][just shot though the neck] Uggkkkkk !
+291)  LEE
+[pickup2][just saw Mark get shot through the neck] Oh, putain !
+292)  LEE
+[pickup2][terrified] C'est quoi ce bordel !?
+293)  MARK
+[pickup3][pickup2] On va devoir faire bouger ce truc. Ce malade ne s'arrêtera pas !
+294)  BANDIT
+[pickup2] Où est notre bouffe, connards !?
+295)  BANDIT
+[pickup2] On a pas été livré ! Alors on va récupérer ce qui nous est dû !
+296)  BANDIT
+[pickup2] On avait un accord ! Maintenant vous êtes baisés !
+297)  MARK
+[pickup2] J'ai hâte que tout le monde soit là. Tout le monde sauf Larry...
+298)  MARK
+[pickup2] Ecoutez, vous l'avez dit.
+299)  MARK
+[pickup2] Vous lui avez même avoué directement.
+300)  MARK
+[pickup2]Vous lui avez avoué de toute façon...
+301)  LEE
+[pickup2] C'est inutile sans essence. On a peut-être besoin de nourriture mais les St. John ont aussi besoin de carburant.
+302)  
+C'est inutile sans essence.
+303)  MARK
+[pickup2] Je suppose...
+304)  MARK
+[pickup2] Pas si on travaille tous ensemble. Ils ont vraiment pris soin de cet endroit.
+305)  MARK
+[pickup2][sad, context: You're probably right that this place will fall eventually]Sans doute avez vous raison.
+306)  MARK
+Et on dirait que vous comptez les heures avant que ça n'arrive.
+309)  MARK
+Et on dirait que vous comptez les heures avant que ça n'arrive.
+308)  MARK
+[pickup2] C'est encourageant de voir combien ils se sont occupés de cet endroit.
+310)  
+C'est un changement sympa.
+311)  
+Je suis pas sur.
+313)  
+Esperons que c'est permanent.
+314)  MARK
+[pickup2] Oui. Je suis vraiment heureux qu'on ait accepté leur offre.
+315)  MARK
+[pickup2] Ici, c'est presque comme si rien n'avait changé.
+317)  MARK
+[pickup2] Ici, c'est presque comme si rien n'avait changé.
+326)  MARK
+[pickup2] Ici, c'est presque comme si rien n'avait changé.
+316)  MARK
+[pickup2] Vous voyez ? Je savais que vous changeriez d'avis en fin de compte !
+318)  LEE
+[pickup2] Je suis pas sûr. On ne sait rien de cet endroit.
+321)  LEE
+[pickup2] Je suis pas sûr. On ne sait rien de cet endroit.
+319)  MARK
+[pickup2] Oh, allez. Vous sembliez d'accord au début !
+320)  LEE
+[pickup2] J'y ai bien réfléchi, c'est tout.
+322)  MARK
+[pickup2] Je sais que vous n'êtes pas un vendu, mais je crois que cet endroit est parfait !
+323)  MARK
+[pickup2] Seigneur, vous imaginez ? Il y a plus qu'assez de place pour nous tous !!
+324)  MARK
+[pickup2] Ah oui ? Vous changez de refrain, je vois ! Vous n'étiez pas si enthousiaste avant !
+327)  MARK
+Vous êtes fous. Tous les autres sont excités !
+328)  MARK
+[pickup2] Ca aurait été sympa de me donner quelques rations. J'ai faim aussi, vous savez.
+329)  MARK
+[pickup2] Merci pour les rations de tout à l'heure. C'est pas facile de manger devant les enfants, mais c'est ce qui me fait tenir debout en ce moment.
+335)  LEE
+[pickup2b][underfire frm the bandits, lee figures out what to do next]Je dois atteindre le portail !
+336)  LEE
+{pickup2b}[talking to himself]Peut-être que si je fais bouger ça... on pourra se protéger.
+337)  LEE
+[pickup2b][to himself as the tractor stops against another zombie]Merde.  On en a viré combien comme ça ?
+338)  LEE
+[pickup2b][having reached the safety of the gate, Lee looks back toward Mark's dead body.]Désolé, Mark.  [then, to himself, getting angry] Qu'est ce qu'il se passe ici ?!
+339)  
+On a les hommes pour le defendre.
+341)  
+On doit rester prudent.
+342)  
+C'est dangereux.
+343)  
+Aucune importance.
+344)  
+Un ouvrier agricole, sans doute.
+345)  LEE
+[pickup2][looking at a dead zombie on the fence]Au moins ce n'est pas l'un de nous.
+346)  
+Au moins ce n'est pas l'un de nous.
+347)  
+Que s'est-il passe ?!
+350)  BANDIT2
+[pickup2] Et pour notre accord ?!
+351)  BANDIT3
+[calling out orders to other bandits]Je les vois !
+352)  BANDIT2
+[calling out orders to other bandits]Par là!
+353)  BANDIT3
+Vous avez cru pouvoir nous baiser ?
+354)  BANDIT2
+[calling out orders to other bandits]Derrière le tracteur !
+355)  BANDIT3
+Donner nous la bouffe !
+356)  BANDIT2
+Connards !
+357)  BANDIT3
+J'ai eu l'un des vôtre déjà !
+358)  BANDIT2
+[calling out orders to other bandits]Rapprochez vous !
+359)  BANDIT3
+[calling out orders to other bandits]Choppez les à découvert !
+361)  
+Pousser
+373)  
+Pousser
+362)  LEE
+[pickup3][casual - Noticing that the dead zombie is pinned to thefencepost] On dirait qu'il est coincé.
+364)  
+Tirer
+369)  
+Tirer
+365)  LEE
+[pickup3][to himself as he pulls an arrow out of the dead zombie]C'est dégueulasse.
+366)  LEE
+[pickup3][looking at a dead zombie pinned to the fencpost with an arrow]Les St. John se servait peut-être de lui pour s'entraîner au tir ?
+370)  LEE
+[pickup3][looking at the dead zombie on the fence post]On doit dégager ce type du poteau avant de le réparer.
+374)  
+Trancher
+377)  
+Trancher
+378)  LEE
+[pickup3][casual - looking at dead zombie]Seigneur, la clôture lui a grillé les mains.  On dirait qu'elles ont fondu.
+379)  LEE
+[pickup3][casual - looking at dead zombie]Seigneur, la clôture lui a grillé les mains.  On dirait qu'elles ont fondu.
+380)  LEE
+[pickup3][Lee heaves a heavy sigh looking at the dead body he just removed from the fence, then moves on to fixing the proken post] Très bien, réparons le poteau.
+381)  LEE
+[pickup3][mildly out of breath looking at the gate.]...on y est presque.
+382)  LEE
+[pickup3][trying to open a stuck tiller latch while under fire - med panic] Merde !  C'est bloqué par la rouille !
+383)  LEE
+[pickup3][effort trying to open a stuck latch while under fire!] Eenngh !
+384)  
+Utiliser
+385)  
+Utiliser
+386)  LEE
+[pickup3][looking at a dead zombie pinned to the fencpost with an arrow]Je sais pas qui l'a eu en premier, la flèche ou la clôture.  J'espère qu'il était déjà mort avant en tout cas.
+387)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Vous êtes qui putain ?!
+388)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Ne tirez pas !
+389)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]On est pas vos ennemis ?!
+390)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]On est PAS les St. John !!
+391)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]NE TIREZ PAS !!
+392)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]On vous connait pas !!
+393)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]On ne vous veut pas de mal, bon dieu !!
+394)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Parlons-en !!
+395)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Montrez vous !
+396)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Sortez de là et soyez des hommes !
+397)  LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Foutez nous la paix !!
+398)  
+Ampoule
+399)  
+Flèche
+400)  
+Main
+401)  
+Livre
+402)  LEE
+[pickup3][shouting!  Seeing the gate of the fence as a way to get free from the people shooting at them!] Allez au portail !!
+403)  LEE
+[pickup3][slightly out of breath and under fire]A cause de la clôture, le portail est notre seule chance de sortie !
+405)  LEE
+[pickup3][to himself, panicing and under fire] Merde !  Ce tracteur est mon seul couvert !  Et maintenant ?
+406)  LEE
+[pickup3][to himself. slightly panicked and under fire] Merde ! Avec la clôture je suis coincé ! A moins que... [sees the gate and recognizes his way out!] le portail !
+410)  
+Frapper avec la hache
+411)  LEE
+[pickup3][to himself, but under fire!] Merde, il y a quelque chose qui bloque !
+412)  
+Levier de charrue
+413)  
+Hurler
+414)  
+Brigands
+415)  LEE
+[pickup3][inspecting the plow while under fire!]Les lames sont plantées dans la terre !
+416)  MARK
+[pickup3][in pain]{lee attacked by suprise zombie]<<id:310509724>>	Putain de merde !  Lee !
+417)  MARK
+[pickup3][follows: 310509695]A cause de la clôture allumée on ne peut pas retourner de l'autre côté !
+418)  MARK
+[pickup3b]Alors comment vous trouvez ?   C'est assez sûr pour rester... si on peut ?
+419)  LEE
+[pickup3b]Ouais, c'est incroyable ce qu'ils ont fait de cette ferme.  Mais voyons ce qu'il faut pour sécuriser cette clôture avant de tirer des conclusions.
+420)  LEE
+[pickup3b]Hé bien, on ne doit pas paraître trop anxieux.  Leur montrer qu'on peut s'occuper de cette clôture nous fera gagner leur confiance.
+421)  MARK
+[pickup3b]Vous pensez que ça suffira pour que les St. John nous apprécient ?
+422)  BANDIT
+Ils se déplacent !
+423)  BANDIT3
+Go !  Go !
+424)  BANDIT
+Ils s'enfuient !
+425)  BANDIT3
+Ils sont derrière le tracteur !
+426)  BANDIT
+Où pensez vous aller !?
+427)  BANDIT3
+Les laissez pas s'échapper !
+428)  BANDIT
+Ils font bouger le tracteur !
+429)  BANDIT3
+Allez !  Passez devant eux !
+430)  
+Coup de pied
+433)  MARK
+C'est qui ça ?!
+434)  MARK
+MON DIEU !!

@@ -1,0 +1,1184 @@
+1)  LARRY
+[furious] OPEN THIS DOOR!
+506)  LARRY
+[furious] OPEN THIS DOOR!
+2)  LILLY
+[recovering, worried] Dad, stop!
+503)  LILLY
+[recovering, worried] Dad, stop!
+3)  LILLY
+[retching] Blurrggghh...
+505)  LILLY
+[retching] Blurrggghh...
+4)  LARRY
+[furious] OPEN UP! I WILL TEAR YOU FUCKERS APART WITH MY BARE HANDS!
+502)  LARRY
+[furious] OPEN UP! I WILL TEAR YOU FUCKERS APART WITH MY BARE HANDS!
+5)  LARRY
+[furious] OPEN THIS DOOR GOD DAMMIT!
+500)  LARRY
+[furious] OPEN THIS DOOR GOD DAMMIT!
+6)  LILLY
+Dad! Please, stop!
+14)  LILLY
+Dad! Please, stop!
+389)  LILLY
+Dad! Please, stop!
+7)  LEE
+[bleary] You okay, Clementine?
+8)  LARRY
+[furious] OPEN UP!
+386)  LARRY
+[furious] OPEN UP!
+9)  LILLY
+[pickup2][panicked]They threw us in the meat locker!
+10)  LILLY
+[scolding] Dad!
+18)  LILLY
+[scolding] Dad!
+11)  LEE
+[bleary] What happened?
+12)  LARRY
+[furious] LET US OUT YOU SONS OF BITCHES!
+13)  CLEMENTINE
+[pickup2]They locked us in here. I think it's a meat locker.
+387)  CLEMENTINE
+[pickup2]They locked us in here. I think it's a meat locker.
+15)  KENNY
+Those psychos have Katjaa and Duck!
+388)  KENNY
+Those psychos have Katjaa and Duck!
+16)  LARRY
+[furious] OPEN UP YOU SONS OF BITCHES!!
+17)  KENNY
+Both of you shut up!  We don't have time for this!
+19)  LARRY
+[Having a heart attack!] Hrrrgggttt!!!   Oh God...
+318)  LARRY
+[Having a heart attack!] Hrrrgggttt!!!   Oh God...
+20)  LILLY
+[panicked] DAD?!
+325)  LILLY
+[panicked] DAD?!
+21)  LILLY
+[worried] No! Dad, come on! DAD!
+319)  LILLY
+[worried] No! Dad, come on! DAD!
+22)  LILLY
+Oh God, he's stopped breathing. I think he's had a heart attack!
+322)  LILLY
+Oh God, he's stopped breathing. I think he's had a heart attack!
+23)  KENNY
+Shit!  Is he dead?
+324)  KENNY
+Shit!  Is he dead?
+24)  KENNY
+Think about it. You saw that poor bastard at the motel. How fast he turned.
+25)  LILLY
+What are you saying?
+26)  KENNY
+Lilly, I'm sorry. I truly, truly am.
+27)  KENNY
+But in a few minutes, we're gonna be stuck in a locked room with a 6-foot-four, 300 pound, SERIOUSLY pissed off dead guy!
+28)  LILLY
+[Shocked and offended]Fuck you![stunned] You can't seriously be talking about this.
+29)  KENNY
+We'll mourn him later. But right now, we have to keep him from comin' back.
+30)  CLEMENTINE
+[scared] Noooo!
+31)  LEE
+I'm sorry, Lilly. It's the only way.
+32)  LILLY
+[intensifying]No no no. Get off me!! Don't do this!!
+33)  KENNY
+[exertion] Grrraghh!
+34)  KENNY
+[exertion] Yeerggh!
+35)  CLEMENTINE
+[scared] I don't wanna see!
+36)  KENNY
+[furious] You're USELESS, Lee!
+37)  KENNY
+[slow realization]...You know what has to happen, Lee.
+38)  
+We can't kill him if he's not dead!
+39)  KENNY
+You remember how hard it was for you to get that monster off of Katjaa? And Larry's twice his size.
+40)  KENNY
+It's him or us.
+41)  KENNY
+But that man is dead. You BOTH know what happens next.
+42)  LEE
+Lilly can still save him.
+535)  
+Lilly can still save him.
+43)  KENNY
+I wish she could. Believe me, I do.
+44)  LILLY
+NO! God Damnit! My dad's survived worse than this!!
+45)  LEE
+Maybe you're right.
+536)  
+Maybe you're right.
+46)  LILLY
+You fucking monsters! Both of you!
+47)  LEE
+[pickup2][Lee decides that its important to back Kenny up in the decision to kill Larry Now.  But still feels like shit about it] You're right, Kenny.  Let's get this over with.
+48)  LEE
+You okay?
+49)  CLEMENTINE
+So he won't turn into one of those monsters?
+50)  LEE
+That's right.
+51)  LEE
+You understand why we had to do this, Clementine?
+52)  LEE
+Clem...
+53)  LEE
+Are you okay?
+54)  LEE
+Yes. For now.
+529)  
+Yes. For now.
+55)  CLEMENTINE
+[scared] Is it over?
+56)  CLEMENTINE
+I can do it.
+57)  LEE
+It's too small for us to fit through.
+58)  LEE
+We don't know where it leads.
+548)  
+We don't know where it leads.
+59)  LEE
+Clementine can fit through.
+60)  KENNY
+Those monsters are coming for us whether we like it or not.
+61)  LILLY
+[lethargic... still shellshocked over the death of her father] First you murder my father, now you want to send a little girl right out into the hands of those monsters...
+62)  LEE
+You know you don't have to do this, right?
+63)  KENNY
+This'll help us get back home.
+64)  CLEMENTINE
+I know. I just want to go home.
+65)  LEE
+It's okay to be scared.
+66)  CLEMENTINE
+I'm scared.
+72)  CLEMENTINE
+I'm scared.
+74)  CLEMENTINE
+I'm scared.
+67)  LEE
+You think you can do this?
+551)  
+You think you can do this?
+68)  KENNY
+We need you, Clementine.
+69)  CLEMENTINE
+[proud] And I saved your life!
+70)  LEE
+Remember the tree house? You held out for days.
+71)  LEE
+I know you're brave enough.
+552)  
+I know you're brave enough.
+73)  LEE
+[chuckling] That's right!
+75)  LEE
+Go, quickly!
+553)  
+Go, quickly!
+76)  LEE
+You'll be fine as long as you move fast enough.
+77)  CLEMENTINE
+[working up the courage & deciding to go through the vent]Okay.
+78)  LILLY
+[miserable] God.
+79)  LEE
+You're gonna be fine.
+80)  LILLY
+[anguished] Medicine? You had medicine?! You BASTARD!
+81)  LEE
+I...
+82)  KENNY
+[responding to Lee's silence] Yeah, I know... It's a pretty small vent, but maybe Clementine can fit through?
+83)  CLEMENTINE
+I can find out...
+84)  CLEMENTINE
+It's Ok. I'll go.  I just want to go home.
+85)  LEE
+I'll be right here if you change your mind and decide to come back.
+86)  CLEMENTINE
+What do I do when I get out?
+87)  LEE
+See if you can get to the other side of that door and open it.
+88)  KENNY
+[Responding to Lee's silence] Look, we're running out of time. If you don't wanna deal with this, I will.
+89)  LARRY
+[Shouting and pounding]Open up!
+90)  LARRY
+[Shouting and pounding]Open the god damned door!
+91)  LARRY
+[Shouting and pounding]You can't keep us in here!
+92)  LARRY
+[Shouting and pounding]Aaaarrrgggg!!!
+93)  LARRY
+[Shouting and pounding]You sick fucking bastards!
+94)  LARRY
+[Shouting and pounding]I will knock the God Damned door down!
+95)  LILLY
+[puking1]
+96)  LILLY
+[Moaning Sickly1]
+176)  LILLY
+[Moaning Sickly1]
+501)  LILLY
+[Moaning Sickly1]
+97)  LILLY
+[crying softly]
+98)  LILLY
+[puking2]
+99)  CLEMENTINE
+[Sobbing softly4]
+100)  CLEMENTINE
+[Sobbing softly1]
+101)  CLEMENTINE
+[Sobbing softly2]
+102)  CLEMENTINE
+[Sobbing softly3]
+103)  LILLY
+[stern/trying to calm her dad]That is NOT gonna help.
+104)  LILLY
+[stern/trying to calm her dad]Dad, please...
+105)  LILLY
+[stern/trying to calm her dad]Dad, this isn't helping!
+106)  LILLY
+[stern/trying to calm her dad]They're not gonna open the door.
+107)  LILLY
+[stern/trying to calm her dad]Please, settle down...
+108)  LILLY
+[stern/trying to calm her dad]Dad!
+109)  CLEMENTINE
+The man hit you.
+110)  KENNY
+[furious/panicked]Those psychos have Katjaa and Duck!
+111)  KENNY
+[Gasping for breath after exertion]
+112)  LILLY
+[Crying]
+113)  LILLY
+[Screaming] Noooooo!!!!
+114)  LILLY
+You asshole!!
+115)  KENNY
+[Coldly]I'd move if I were you.
+116)  KENNY
+[Still breathless]God help us.
+117)  LILLY
+[pickup2] [pissed] Don't talk to me, Lee. Don't fucking talk to me.
+257)  LILLY
+[pickup2] [pissed] Don't talk to me, Lee. Don't fucking talk to me.
+118)  LEE
+[pickup2] Lilly, I-I'm sorry...
+256)  LEE
+[pickup2] Lilly, I-I'm sorry...
+524)  LEE
+[pickup2] Lilly, I-I'm sorry...
+119)  LILLY
+[furious] You've NEVER liked my dad! Even back at the drug store when everyone thought Kenny's kid was bit, you went out of your way to side against him... But this?! You have no right!!
+120)  LEE
+Look, Kenny... Back at the drug store when we all thought Duck was bitten... I gave him the benefit of the doubt... Maybe we should do the same now.
+121)  KENNY
+Don't think I forgot about what you said at the drug store... when you all thought Duck was bitten...
+122)  LEE
+Kenny, listen-
+123)  KENNY
+That was different.  Duck wasn't bitten. But, come on,  we KNOW this guy's not gonna make it.
+124)  LILLY
+God dammit, Kenny!  He's not dead!!
+125)  LILLY
+He's not dead.  Somebody help me!
+320)  LILLY
+He's not dead.  Somebody help me!
+126)  KENNY
+[realizing that Larry may turn zombie]Fuuuuuuck... if he's dead...
+321)  KENNY
+[realizing that Larry may turn zombie]Fuuuuuuck... if he's dead...
+127)  LILLY
+HE'S NOT DEAD!
+323)  LILLY
+HE'S NOT DEAD!
+128)  LILLY
+No... no no no!
+129)  LILLY
+Let go of me!!!
+130)  LILLY
+No please!!
+131)  LILLY
+Noooo!!!
+132)  KENNY
+Well I'm just doing the same thing.  Except Duck wasn't bitten, and we KNOW this guy's not gonna make it.
+133)  LEE
+We can't kill him if he's not dead, Kenny!
+134)  LEE
+We can't kill him if he's not dead, Kenny!
+135)  KENNY
+Remember what Ben said.  Gotta destroy the brain...
+136)  KENNY
+Remember what Ben said.  Gotta destroy the brain...
+137)  KENNY
+[pickup2][panicking]Will you stop that banging! We've gotta find another way out of here!
+499)  KENNY
+[pickup2][panicking]Will you stop that banging! We've gotta find another way out of here!
+138)  CLEMENTINE
+[Scared!] Nooo!!
+139)  CLEMENTINE
+[Scared!] Nooo!!
+140)  LEE
+None of us did.
+141)  CLEMENTINE
+[sad] I didn't want Larry to die.
+147)  CLEMENTINE
+[sad] I didn't want Larry to die.
+142)  LEE
+Not yet.  We still have to find a way out of here.
+143)  LEE
+I don't know.  One of the brothers could come back any second...
+144)  LEE
+But we still need to find a way out of here...
+145)  LEE
+We need to find a way out of here.
+146)  LEE
+[solemn] I know, baby.  I know.
+148)  LILLY
+Don't you fucking touch me!
+354)  LILLY
+Don't you fucking touch me!
+149)  KENNY
+I'm sorry.  I know it-
+355)  KENNY
+I'm sorry.  I know it-
+150)  LEE
+[rembering] Clementine.
+151)  CLEMENTINE
+[sobs]
+356)  CLEMENTINE
+[sobs]
+523)  CLEMENTINE
+[sobs]
+152)  KENNY
+Looks like it'll probably lead right into that back room...
+153)  KENNY
+Looks like it'll probably lead right into that back room...
+154)  KENNY
+Looks like it'll probably lead right into that back room...
+155)  KENNY
+Looks like it'll probably lead right into that back room...
+156)  CLEMENTINE
+[ doing the pathetic post puking "peh, peh" ]...peh...peh...
+157)  KENNY
+[furious/panicked]If they so much as touch my family I'll kill those sons of bitches!
+158)  KENNY
+[furious/panicked]If they so much as touch my family I'll kill those sons of bitches!
+390)  KENNY
+[furious/panicked]If they so much as touch my family I'll kill those sons of bitches!
+159)  LILLY
+[trying to revive her dad - a bit breathles While giving CPR]Come on, dad, Come on!
+160)  LILLY
+[trying to revive her dad] [Heavy breathing during CPR 3]
+161)  LILLY
+[trying to revive her dad - a bit breathles While giving CPR] Come on!
+162)  LILLY
+[trying to revive her dad] [Heavy breathing during CPR 2]
+163)  LILLY
+[trying to revive her dad - a bit breathles While giving CPR] Wake up, wake up!
+164)  LILLY
+[trying to revive her dad - a bit breathles While giving CPR]This has happened before... everything's fine....
+165)  LILLY
+[trying to revive her dad] [Heavy breathing during CPR 1]
+166)  LEE
+[pickup1][after Ken kills larry and tries to appologize to Clem] Not now, Kenny.
+167)  KENNY
+[After Killing Larry,hushed to not seem insensitive] ... Look, I don't mean to sound like a prick, but we still gotta find a way out of here.  If those guys come back, we're all dead.
+168)  KENNY
+[To Clem after Killing Larry]... I'm sorry Clem...
+169)  KENNY
+[After Killing Larry,hushed to not seem insensitive] [pointing]Look, there's an AC unit right there.  I wanted to try to pull it off the wall but Larry thought... [looks over at Lilly and lowers his voice]
+170)  LEE
+[pickup1][flat] Fine.
+171)  KENNY
+[trying to remain quiet/stern]Look, I did what I had too. And you can't argue that we need to get the hell outta here, so suck it up and help me.
+172)  LEE
+[pickup1][to kenny afetr Kenny has fought with him/slightly hushed] You gonna knock me down again if I don't agree?
+173)  LEE
+[pickup1][hushed, agreeing with Kenny about pulling down the AC] That's not a bad idea.
+174)  KENNY
+[successfully pulling the AC off the wall]
+278)  KENNY
+[successfully pulling the AC off the wall]
+175)  KENNY
+[A little brethless/ slightly hushed]Well there's our way out, Lee.
+277)  KENNY
+[A little brethless/ slightly hushed]Well there's our way out, Lee.
+177)  CLEMENTINE
+[pickup1][just stopping crying/Sad/Angry at lee for Kelping Kenny kill Larry][weakly hits Lee while also wanting to be comforted by him.]Why Lee?!  Lilly said he wasn't dead!
+178)  LEE
+[pickup1][comforting Clem who is angry with him]I'm sorry. We couldn't take that chance. [That Lerry' would turn into a zombie]
+179)  LEE
+[pickup1][assuring Clem that Larry WAS dead before they smashed his head, but honsetly not so sure]He was dead, Clementine...
+180)  CLEMENTINE
+[pickup1][Not convinced Larry was dead, hit of tears] But what if he wasn't?
+181)  LEE
+[pickup1][assuring Clem that Larry WAS dead before they smashed his head, but honsetly not so sure]He was.  I- I promise.
+182)  
+Help
+183)  
+Help
+184)  LILLY
+[pickup2][alt][sean edit] FUCK YOU! We can bring him back! LEE!
+185)  
+Air Conditioner
+186)  KENNY
+[cont]Look, if you give me a hand we can probably get that thing down.
+187)  LEE
+[pickup2] What now?
+208)  LEE
+[pickup2] What now?
+188)  KENNY
+[pickup2] You got any ideas...?
+211)  KENNY
+[pickup2] You got any ideas...?
+189)  LEE
+[pickup2]It's just you and me...Lilly's in no condition to help us rescue your family.
+190)  KENNY
+[pickup2]Considering what just happened, she'd probably side with the St. Johns against us.
+191)  LEE
+[pickup2]Katjaa and Duck.
+192)  KENNY
+[pickup2]We've got to get to them!
+193)  KENNY
+[pickup2] [interrupting, vehement]No! [Beat]They-They need Katjaa, remember? She's the whole reason they brought us here.
+217)  KENNY
+[pickup2] [interrupting, vehement]No! [Beat]They-They need Katjaa, remember? She's the whole reason they brought us here.
+194)  LEE
+[pickup2]You don't think the St. Johns...[killed them...?]
+195)  LEE
+[pickup2]Sure.  And Duck is valuable as a bargaining chip.
+196)  KENNY
+[pickup2][apprehensive] What about 'em?
+197)  LEE
+[pickup2]You think maybe we were too hasty?
+198)  KENNY
+[pickup2]Only one important thing right now... getting the fuck outta here.  We did what we had to.
+199)  LEE
+[pickup2]You wanna do the honors and search Larry's pockets?
+200)  KENNY
+[pickup2]I'm not going near Lilly, not now. If somebody's gotta search his pockets, it better be you.
+201)  LEE
+[pickup2][confrontational] Look, if we're gonna survive this shit, we've got to work together.  How do you expect Lilly to work with us after what she just saw you do?
+202)  LEE
+[pickup2][confrontational]You talk a big game, but could you do the "hard thing" if it was Katjaa or Duck?
+203)  KENNY
+[pickup2]Make her tougher, that's what! I have the same worries, but then I tell myself...these kids are gonna grow up in a harsher world from the one we knew. [Beat. With a smile:] For a guy without any kids, you've got a pretty strong father instinct.
+204)  LEE
+[pickup2]I know it was necessary, but... I just wish Clem didn't have to witness shit like this.  I worry what it's gonna do to her.
+205)  KENNY
+[pickup2]I don't want to hear it, Lee.
+206)  KENNY
+[pickup2][angry self-justification] You think I liked doing what I did? I'm the guy who couldn't bear to watch the family dog get put down. But if we wanna survive this shit, we gotta have the balls to do the hard thing. [under his breath] Or at least, one of us's got to.
+207)  KENNY
+[pickup2]If she wants to live, she'll work with us.  If she doesn't, then the hell with her.
+209)  KENNY
+[pickup2][defensive] What?  You don't want to hang me up on a meathook and leave me to rot?
+210)  LEE
+[pickup2]What I WANT isn't important. What I KNOW is: there's safety in numbers.
+212)  LEE
+[pickup2]For all we know, the St. John's might've--
+213)  KENNY
+[pickup2][defiant] It's never gonna come to that, not if I have anything to do with it!
+214)  KENNY
+[pickup2]I know I'm right!  [half to himself]I just gotta get to 'em, that's all.
+215)  LEE
+[pickup2]I hope you're right...
+216)  KENNY
+[pickup2]And no doubt they're usin' Duck as a bargaining chip.
+218)  LEE
+[pickup2]She's an impressionable little girl!  What's a thing like this gonna teach her?
+219)  KENNY
+[pickup2]How to survive, that's what.  That's the best lesson she can learn.
+220)  LEE
+[pickup2]It's Clementine I'm worried about.  Her seein' what you did...
+221)  KENNY
+[pickup2][resentful] He wasn't HER father.
+222)  KENNY
+[pickup2]That's the ONLY thing I'm thinkin' about.  And I still think the air-conditioner duct's our best bet.
+223)  LEE
+[pickup2]Any thoughts on getting out of here?
+224)  KENNY
+[pickup2]You fixin' to lecture me again? Or you lookin' to get a man's opinion on something?
+225)  LEE
+[pickup2][metally steeling himself] Hoo boy.
+226)  LEE
+[pickup2]Any idea which pocket he keeps his change in?
+227)  LILLY
+[pickup2][low and threatening]Get away.
+572)  LILLY
+[pickup2][low and threatening]Get away.
+228)  LEE
+[pickup2][justifying]I just need to--
+229)  LILLY
+[berserk][pickup3]Get away!!
+231)  LILLY
+[berserk][pickup3]Get away!!
+230)  LILLY
+[pickup2][berserk] I told you to get the fuck away!!
+232)  LILLY
+[pickup2][devastated, in a whisper]He was still alive, Lee.  He was still alive...
+525)  LILLY
+[pickup2][devastated, in a whisper]He was still alive, Lee.  He was still alive...
+233)  LEE
+[pickup2]You've got to think about saving your own life now.  It's what he would've wanted...
+234)  LILLY
+[pickup2] [choked sob]
+236)  LILLY
+[pickup2] [choked sob]
+235)  LEE
+[pickup2]I'm sorry, Lilly.  I truly am. Larry and me, we might not've got along so great, but I know he would've done anything to protect you.  He was a good father.
+237)  LEE
+[pickup2]Kenny... he made a bad call.  It was premature, for sure, but... he WAS trying to keep us safe.
+238)  LILLY
+[pickup2][weary from weeping] Bullshit. He cares about keeping his FAMILY safe. He doesn't give a shit about you and me.
+239)  LEE
+[pickup2][granting her point]He puts his family first, sure.  Just like Larry did.
+240)  LILLY
+[pickup2][weary]I know.  There's nothing to be said.
+241)  LILLY
+[pickup2][under her breath, with venom]He'll learn.  Wait 'till it happens to him...
+242)  LILLY
+[pickup2][weary and cold]In other words, my father's more useful to you dead than alive.
+243)  LEE
+[pickup2]If he was alive, and had the key to getting us out of here, do you think he'd keep it to himself?
+244)  LILLY
+[pickup2][long sigh] Do what you have to do.
+558)  LILLY
+[pickup2][long sigh] Do what you have to do.
+245)  LEE
+[pickup2]Your permission.
+556)  LEE
+[pickup2]Your permission.
+246)  LILLY
+[pickup2]What do you want? My blessing to loot his corpse?
+557)  LILLY
+[pickup2]What do you want? My blessing to loot his corpse?
+247)  LEE
+[pickup2][disappointed]Nothing.
+248)  LEE
+[pickup2][mildly surprised] Huh!  He still carried his wallet...
+249)  LEE
+[pickup2]A ring.
+250)  LEE
+[pickup2]Don't worry.  I'm not takin' it.
+251)  LILLY
+[pickup2][apprehensive lest Lee take it]My mother's...
+252)  LEE
+[pickup2]Two quarters... and a dime.
+253)  LEE
+[pickup2]Here we go...
+254)  LEE
+[pickup2]God knows you deserve time to grieve, Lilly.
+255)  LILLY
+[pickup2][weary] Please.  I need to be alone.
+258)  LEE
+[pickup2]Never mind.
+259)  LILLY
+[pickup2]Beat. She glares at him.
+260)  LEE
+[pickup2]What do you want me to do?
+261)  LILLY
+[pickup2][under her breath] And don't look at me, either.
+262)  LILLY
+[pickup2]He's got his family, and you've got Clementine.  I've got nothing.  You've left me with nothing.
+263)  LILLY
+[pickup2][snapping]For what?
+264)  LEE
+[pickup2]I know you hate Kenny... and me, too.  But he did what he had to... so we can all go on living.
+265)  LILLY
+[pickup2][snapping]Fuck you!  You think he wanted THIS?
+266)  LEE
+[pickup2][more gently]He'd want you to get out of here.
+267)  LEE
+[pickup2][gently]Larry would've wanted--
+268)  LILLY
+[pickup2][Breathes heavily, trying to keep it together]
+269)  LEE
+[pickup2][trying to calm her] Of course not, but--
+270)  LILLY
+[pickup2][interrupting]You don't know what he wanted! You never knew him! You never gave him a chance!
+271)  LEE
+[pickup2][louder, shutting her down] Maybe not! Maybe-Maybe I should've tried harder.  But I know he loved YOU.
+272)  LEE
+[pickup2]You've got to pull yourself together, Lilly.
+273)  LILLY
+[pickup2][weary] Why? [Beat] For your sake... so you can feel better about... about what you DID?
+274)  LILLY
+[pickup2][flat] Right.  Because you fucking care SO much about ME...
+275)  LEE
+[pickup2]For your OWN sake.
+276)  LILLY
+[pickup2][without looking up]Why can't you just leave me alone...?
+526)  LILLY
+[pickup2][without looking up]Why can't you just leave me alone...?
+279)  LEE
+[pickup2]Yeah...I just gotta remove the screws...
+280)  LEE
+[pickup2]Gimme a hand, Kenny!
+281)  KENNY
+[pickup2][resentful, to himself]Right, 'cause you're always so eager to help ME...
+282)  KENNY
+[pickup2]Sure thing.
+283)  LARRY
+[pickup2][ranting]You're worse than the walkers!
+284)  LARRY
+[pickup2][ranting]C'mon, show yourselves! Fuckin' cowards!
+285)  LARRY
+[pickup2][ranting]There's more of us on the way! Let us out now if you want to live!
+286)  LARRY
+[pickup2][ranting]You think a fuckin' apocalypse gives you the right to chop people into MEAT?
+287)  LARRY
+[pickup2][ranting]Inbred bastards!
+288)  LEE
+[pickup2]Your Dad's not making things any easier for us...
+289)  LARRY
+[pickup2][ranting] Open the fucking door!
+290)  LILLY
+[pickup2]Dad, stop!
+291)  LARRY
+[pickup2][ranting]Goddammit!
+292)  LARRY
+[pickup2][ranting] Fuck!
+293)  LEE
+[pickup2][to Lilly]Isn't there anything you can do about him?
+294)  LILLY
+[pickup2]Not when he's like this...
+295)  LEE
+[pickup2]I know.  We're gonna get out of here and find them.
+296)  KENNY
+[pickup2]I wouldn't be hanging around in here if I knew a way out.
+297)  LEE
+[pickup2]Ya found a way out yet?
+298)  KENNY
+[pickup2]Ya' inspected all the walls?  Maybe there's a vent or a duct or something.
+299)  LARRY
+[pickup2][Normal tone of voice] Yeah, I wanna attract their attention [...up to a yell] so I can fucking kill them!
+300)  LEE
+[pickup2][softly, trying to reason with him]C'mon, Larry.  Do you really want to attract their attention?
+301)  KENNY
+[pickup2]They've got Katjaa and Duck, Lee! Those fuckers have my family!
+302)  LEE
+[pickup2]Not yet.  How 'bout you?
+303)  KENNY
+[pickup2]Nothin'.  Floor's solid as a rock...but I'll keep checking.  Maybe there's a cavity somewhere...
+304)  KENNY
+[pickup2]Found a way out?
+305)  LEE
+[pickup2]Larry!
+306)  LEE
+[pickup2]Don't give up.  We're gonna find a way out of here.
+307)  LEE
+[pickup2]Sure, honey!  You keep your eyes open for exposed screws or loose panels... anything we can pry away to open a passage out of here.
+308)  CLEMENTINE
+[pickup2]Can I help?
+309)  CLEMENTINE
+[pickup2]Okay...
+310)  LEE
+[pickup2]Nah.  Door's too solid.
+311)  LEE
+[pickup2][to himself] Pretty heavy.
+312)  LEE
+[pickup2][to himself] Salt licks.
+313)  LEE
+[pickup2][to himself] Meat. [beat] And I don't want to know what KIND.
+314)  LEE
+[pickup2][to himself] That's not gonna help us get out of here...
+315)  LEE
+[pickup2][to himself]Hmm...
+316)  LARRY
+[pickup2][in pain] Urg!
+317)  LILLY
+[pickup2][alarm] Is something wrong?
+326)  LARRY
+[pickup2][in the midst of a heart attack]Argh. Urgh.
+327)  LILLY
+[pickup2][sean edit] Oh GOD! He's stopped breathing... oh my God...
+328)  KENNY
+[pickup2] [furious/panicked]Lee, those psychos have my family, and we're stuck in a damn meat locker!  We've gotta get the fuck outta here!!!
+329)  KENNY
+[pickup2][furious/panicked - Seeing that Lee has woken up]Lee!  We gotta get outta here!!
+330)  KENNY
+[pickup2][frantic!  Trying to convince Lee that killing Larry NOW is the right thing -  Convinced that Lee is on his side.]Come on Lee, I'm right about this!  I know you've got my back.  You ALWAYS do.
+331)  KENNY
+[pickup2][frantic!  Trying to convince Lee that killing Larry NOW is the right thing- Calling Lee out for never choosing sides.]Come on, Lee. You can't be in the middle on this one.  You've gotta have my back this time!
+332)  KENNY
+[pickup2][frantic!  Trying to convince Lee that killing Larry NOW is the right thing - Calling Lee out for always taking Lillys side.]I know we don't see eye to eye on a lot of things, but come on, Lee... You've gotta step up for me this time.  I need to know you're with me on this.
+333)  LILLY
+[pickup2][Frantically trying to save her father from a heart attack] God damnit Lee!  I NEED you!   Please help me!!
+334)  LILLY
+Oh, God, thank you, Lee!
+335)  LILLY
+Dad... Dad, here.  Take these...  Come on dad, there you go...
+336)  KENNY
+[pickup2][Suprised and HURT that Lee has so coldly sided with Lilly over him and what he believes is right]Lee?[how could you?]
+337)  LEE
+[pickup2][urgent. to Lilly as he tries to help her dying dad] Is he breathing at all?
+338)  LILLY
+[pickup2][frantic, but happy that Lee has chosen to help her.] No, no I don't think so.
+339)  LEE
+[pickup2][handing lilly the nitro pills - Urgent]Here.  I found these inside the house.
+340)  LEE
+[pickup2][handing lilly the nitro pills - Urgent]Here.  I found these when I was out looking for bandits.
+341)  LEE
+[pickup2][urgent- Taking over CPR for Lilly] Okay, let me take over! Keep checking his pulse!
+342)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] One!
+559)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] One!
+343)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] Two!
+560)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] Two!
+344)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] Three!
+561)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] Three!
+345)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] Four!
+562)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] Four!
+346)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] Five!
+565)  LEE
+[pickup2][Quickly, with exhale!  Giving CPR] Five!
+347)  KENNY
+[pickup2][after killing Larry in an incredibly cold hearted manner and suprising way, Kenny instantly goes into a remorseful yet defensive mode. (Quick delivery)] I'm sorry, I'm so sorry!  I just-  It had to be done!
+522)  KENNY
+[pickup2][after killing Larry in an incredibly cold hearted manner and suprising way, Kenny instantly goes into a remorseful yet defensive mode. (Quick delivery)] I'm sorry, I'm so sorry!  I just-  It had to be done!
+348)  LEE
+[pickup2][Kenny smashed Larrys head while Lee is trying to revive him.]KENNY!  WHAT THE FUCK!?!
+349)  LILLY
+[pickup2][Kenny smashed Larrys head while Lilly is trying to revive him.  SCREAMING!!]  NOOOOOOO!!!!!!!!
+521)  LILLY
+[pickup2][Kenny smashed Larrys head while Lilly is trying to revive him.  SCREAMING!!]  NOOOOOOO!!!!!!!!
+350)  LARRY
+[pickup2][quiet grunt of impact as Lee gives CPR.  Is the CPR helping or is Larry becoming a zombie?]
+563)  LARRY
+[pickup2][quiet grunt of impact as Lee gives CPR.  Is the CPR helping or is Larry becoming a zombie?]
+351)  LARRY
+[pickup2][quiet quick inhale on impact as Lee gives CPR.  Is the CPR helping or is Larry becoming a zombie?]
+564)  LARRY
+[pickup2][quiet quick inhale on impact as Lee gives CPR.  Is the CPR helping or is Larry becoming a zombie?]
+352)  KENNY
+[after killing Larry in an incredibly cold hearted manner and suprising way, Kenny instantly goes into a remorseful yet defensive mode.] Yes I do, Lee!! And so do you! [frustrated that he's now in this alone and disapointed in Lee]I was counting on you, man.
+353)  LEE
+[pickup2][furious that Kenny just smashed in Larry's head!! "It had to be done!"]You don't know that!!
+357)  LEE
+[pickup2][exerting force, trying to remove a large screw by hand.] It's not coming off that way.
+368)  LEE
+[pickup2][exerting force, trying to remove a large screw by hand.] It's not coming off that way.
+358)  LEE
+[pickup2][trying to find a way to get the AC unit off the wall]If we can remove these screws, the AC should come down easily.
+363)  LEE
+[pickup2][trying to find a way to get the AC unit off the wall]If we can remove these screws, the AC should come down easily.
+359)  KENNY
+[pickup2][Helping Lee take down the AC, making sure the unit is still steady after the first screw was removed]You got it?
+365)  KENNY
+[pickup2][Helping Lee take down the AC, making sure the unit is still steady after the first screw was removed]You got it?
+360)  LEE
+[pickup2][confirming that he still has the AC ballanced after taking out the first screw] Yeah. One more should do it.
+364)  LEE
+[pickup2][confirming that he still has the AC ballanced after taking out the first screw] Yeah. One more should do it.
+361)  LEE
+[Pickup2][Trying to take down the AC unit but Kenny is being an ASS about it] Just keep the damn thing steady.
+366)  LEE
+[Pickup2][Trying to take down the AC unit but Kenny is being an ASS about it] Just keep the damn thing steady.
+362)  KENNY
+[pickup2][Reluctantly helping lee take down the AC, but ONLY because he wants to get the hell out of there and save his family] Hurry the fuck up, Lee! We don't have all day here.
+367)  KENNY
+[pickup2][Reluctantly helping lee take down the AC, but ONLY because he wants to get the hell out of there and save his family] Hurry the fuck up, Lee! We don't have all day here.
+369)  LEE
+[pickup2][quickly ushering Clementine back into the (relatively) safe room.  Rushed and hushed.]Are you okay?!  Did anyone see you?
+370)  CLEMENTINE
+[pickup2][Clem quietly asures Lee that she's okay.] No. [No one saw me, but-]But there's a man outside.
+371)  KENNY
+[pickup2][calling out from the next room, but trying to be relatively quiet, not attracting attention]Lee!  I can see him.
+372)  LEE
+[pickup2][hushed, but anoyed that Kenny is ready to just take off on his own.]Where the hell are you going?
+373)  KENNY
+[pickup2][quiet, but angry.  Still hurt that Lee turned his back on him] What do you care?
+374)  LEE
+[pickup2][quiet, but irritated as Kenny irrationally storms out of the room.] Kenny!
+375)  LEE
+[pickup2][Lilly is NOT Lee's friend.  But Lee still tries to convince Lilly that she cant stay here, while attempting to be sympathetic]Lilly.  We gotta go.
+376)  LILLY
+[pickup2][rather shellshocked and emotionless after Lee helped Kenny kill her dad] Leave me alone.
+377)  LEE
+[pickup2][Lilly is NOT Lee's friend.  But Lee still tries to convince Lilly that she cant stay here, while attempting to be sympathetic]It's not safe in here-
+378)  LILLY
+[pickup2][rather shellshocked and emotionless after Lee helped Kenny kill her dad, but with anger] For God's sake Lee, I didn't even get to say goodbye!
+379)  LEE
+[pickup2][ As Lee exits into the back room, he turns again to clem.]Stay here.  Take care of Lilly, okay?
+380)  LEE
+[pickup2][Hearing Kenny choosing weapons in the next room]Shit.  He's gonna get us all killed.
+381)  LEE
+[pickup2][Lee tries to convince Lilly that she cant stay here after Kenny has killed her dad while Lee was trying to help]Lilly.  I'm sorry, we've gotta go.
+382)  LILLY
+[pickup2][rather shellshocked and emotionless after  Kenny killed her dad] I know.  I just need a minute to say goodbye.
+383)  KENNY
+[pickup2][processess - In the next room][spoken to himself as he chooeses a weapon from a variety of kinives & Torture equipment] Yeah.  This is good.
+384)  LILLY
+[somber- still crushed after the killing of her dad, but recognies that Lee tried to help.  Stops lee for a moment just as he's about to leave her alone] Hey.  We're good.  Okay?
+385)  LEE
+[pickup2][bleary] Is there a way out?
+391)  CLEMENTINE
+[pickup2]Lee!
+504)  CLEMENTINE
+[pickup2]Lee!
+392)  LEE
+[pickup2][still coming out of his daze, attempting to console]No, Clem. It doesn't work like that...
+393)  CLEMENTINE
+[pickup2][wretched]It was Mark!  I ate part of Mark!  Does that mean I'm gonna turn into...?
+394)  LARRY
+[pickup2][accusing] If he woulda stopped us in time...!
+395)  LILLY
+C'mon, Dad.  Now's not the time.
+401)  LILLY
+C'mon, Dad.  Now's not the time.
+396)  CLEMENTINE
+[pickup2][wretched]It... it was a person! I ate meat from a person! Does that mean I'm gonna turn into...?
+397)  CLEMENTINE
+[pickup2][wretched]It-it was Mark!  They tried to make us eat Mark!
+398)  LEE
+[pickup2][still coming out of daze, consoling]But you didn't do it...
+399)  CLEMENTINE
+[pickup2]No...
+400)  LARRY
+[pickup2]The rest of us did, God damnit!  If you hadn't dragged your feet...
+402)  CLEMENTINE
+[pickup2][wretched]It-it was a person!  They tried to make us eat a person!
+403)  LARRY
+[pickup2][furious, to the rest of the group]That evil fucker INVITED me to eat the meat, and all the time he knew what it was...
+404)  LILLY
+[pickup2][to Larry, not of warning]Stay calm, Dad.  We'll deal with it later.
+405)  LARRY
+[pickup2][angry, of course]Yeah... THROUGH THIS FUCKIN' DOOR!
+406)  LARRY
+[pickup2][sarcastic]That's right, moron--you crawl off to the corner and think.  Leave the rest of us the hell alone!
+407)  LEE
+[pickup2]We gotta think...
+408)  LARRY
+[pickup2]This goddamn thumbsucker was the one who brought us here!
+409)  KENNY
+[pickup2]Will you all just shut the fuck up?!
+410)  LEE
+[pickup2][low, to Clem]Don't be.  It's gonna be okay...I'm gonna find us a way out of here...
+411)  CLEMENTINE
+[pickup2] I'm scared!
+412)  LARRY
+[pickup2]I'll rip your goddamn heads off and make you swallow 'em!
+413)  LARRY
+[ranting]Try to feed us one of our own men for dinner? Crazy fucking cannibals!
+414)  LARRY
+[ranting]Try to feed us human flesh for dinner? Crazy fucking cannibals!
+415)  LARRY
+[pickup2][low and menacing]What the hell is your problem?
+416)  LEE
+[pickup2][offhand but cutting] Guess your new girlfriend wasn't all she was cracked up to be.
+417)  LARRY
+[pickup2][low and menacing]You refused to give me my day's rations back at the motor lodge...
+418)  LARRY
+[pickup2][low and menacing]You were a prick back at the motor lodge...
+419)  LARRY
+[pickup2][low and menacing]Then you practically fuckin' push my face into that goddamn human barbeque.
+420)  LARRY
+[pickup2][low and menacing] ...and you went out of your way to be an asshole to me tonight.
+421)  LARRY
+[pickup2][low and menacing] You must really hate me.
+422)  LEE
+[pickup2][defiant]No... you're not worth the energy to hate....
+423)  LEE
+[pickup2]I'm not your enemy, Larry.
+424)  LARRY
+[pickup2][low and menacing] I don't believe you.
+425)  LARRY
+[pickup2][low and menacing]But guess what? You're stuck with me.  I plan to be around long after you're gone. And if you turn...
+426)  LARRY
+[pickup2][very intimate]I'll be the one to put the axe through your skull.
+427)  LARRY
+[pickup2]Open up, goddamnit!
+428)  LILLY
+[pickup2][scandalized] Dad!!
+429)  LEE
+[pickup2][to himself] Fuck it.
+430)  KENNY
+[pickup2][hopeful]Think we could heave it through the door?
+431)  LEE
+[pickup2][to himself]Could there be a hole behind these pallets...?
+432)  LEE
+[pickup2]No such luck.
+433)  LEE
+[pickup2][to himself]What's this...some kind of vent?
+434)  LEE
+[pickup2][to himself]Too small to do us any good.
+435)  LEE
+[pickup2][to himself]But there's no way out through the ceiling.
+436)  LEE
+[pickup2][to himself]Shelves are pretty sturdy. We could climb up...
+437)  LILLY
+[pickup2][concerned]Easy...
+438)  LARRY
+[pickup2][in pain] Aah!
+439)  LARRY
+[pickup2][ranting]I'll break the damn door down!
+440)  LILLY
+[pickup2][alarmed]Dad!  You can't get--
+441)  LEE
+[pickup2][to himself]I wonder.... [louder, to the group]There ought to be an air duct behind this unit... maybe big enough for one of us to fit through....
+442)  KENNY
+[pickup2][dubious] I dunno, Lee... seems like a longshot.
+443)  CLEMENTINE
+[pickup2][hopeful]Does the air-conditioner come off?
+444)  LEE
+[pickup2][examining the unit]I think I could take it off... if I had something to remove the screws...
+445)  LEE
+[pickup2][crestfallen]Of course they took it. Shit.
+446)  LEE
+[pickup2][remembering]The multitool!
+447)  CLEMENTINE
+[pickup2][hopeful]Maybe there's something else we could use.  I've got a rock.
+448)  LEE
+[pickup2]A rock won't help... [thinks]but a COIN might do the trick.  Do you have a coin?
+449)  CLEMENTINE
+[pickup2][disappointed]Uh-uh...
+450)  LEE
+[pickup2][to himself]That air-duct is our best bet for getting out of here!
+451)  LEE
+[pickup2][to himself]I just need a coin or something to remove the screws...
+452)  LEE
+[pickup2][to himself]Just gotta remove these screws and get this unit off...
+453)  LEE
+[pickup2][biting the bullet, slowly and clearly]I think I may have found a way out of here.  But I need something to remove the screws on the air-conditioner.
+454)  LILLY
+[pickup2][flatly]No.
+455)  LEE
+[pickup2][uncomfortable]If you had something I could use as a screwdriver...a coin or something...
+456)  LEE
+[pickup2][uncomfortable]What about HIM?  Look, I know this is a terrible time for it, but...
+457)  LEE
+[pickup2][continuing, uncomfortable]...back at the Motor Inn, Larry mentioned something about keeping coins in his pockets...
+458)  LEE
+[pickup2][continuing, uncomfortable]...if there's a chance Larry has a coin or something in one of his pockets...it might be the thing that saves our lives.
+459)  LILLY
+[pickup2][under her breath] Fucking vulture...
+460)  LEE
+But if we're gonna get out of here, we need your help.  And Larry's...
+462)  LEE
+But if we're gonna get out of here, we need your help.  And Larry's...
+464)  LEE
+But if we're gonna get out of here, we need your help.  And Larry's...
+461)  LEE
+[pickup2][with sympathy]I'm sorry, Lilly...
+463)  LEE
+[pickup2][with sympathy]I'm sorry, Lilly...
+465)  CLEMENTINE
+[pickup2][Lee has asked Clem to stay and take care of Lilly (after Lillys farther has died] I will.
+466)  KENNY
+[pickup2][calling out from the next room, but trying to be relatively quiet, not attracting attention] Get in here, I got an idea.
+467)  CLEMENTINE
+[pickup2][still sniffling]Like what?
+468)  CLEMENTINE
+[pickup2][more sobbing]
+469)  LEE
+[pickup2][consoling]Shh... I know, I know. But you gotta be strong right now. I need you to be strong. Think about something else... something hopeful.
+470)  LEE
+[pickup3][somber - comforthing Clementine after larry's death]Getting out of here.
+471)  LEE
+[pickup3][somber - comforthing Clementine after larry's death]Someplace safe, where no monsters can get you.
+472)  CLEMENTINE
+[pickup2]Sometimes.
+473)  LEE
+[pickup3][The new read should be more somber]How about your walkie-talkie... those pretend talks with your Mom and Dad.  Don't those make you feel better?
+474)  LEE
+[pickup2][consoling her] I'm workin' on it!
+475)  CLEMENTINE
+[pickup2][shyly]We're gonna get out, right? You found a way out?
+476)  LEE
+[pickup2]They didn't hurt you, did they?
+477)  CLEMENTINE
+[pickup2][answering in the negative]Mm-mm.
+478)  LEE
+[pickup2]The air-conditioner... there might be a duct behind it....
+479)  KENNY
+[pickup2][distracted, not listening] Oh God!  What're they doin' to Katjaa and Duck...?
+480)  LEE
+[pickup2]If the duct behind the air-conditioner is big enough, we might've found our way out of here...
+481)  KENNY
+[pickup2][hopeful] Yeah?
+482)  LEE
+[pickup2] But I need something to loosen the screws.
+483)  KENNY
+[disappointed]I got nothin'. [to himself]Shit!
+484)  LEE
+[pickup2]Hang tight... maybe I can scrounge something.
+485)  KENNY
+[pickup2]Well shit, man, go see if you can get the bolts off!
+486)  LEE
+[pickup2] I got a coin off Larry!
+497)  LEE
+[pickup2] I got a coin off Larry!
+487)  
+You wanna search Larry's pockets?
+490)  
+You wanna search Larry's pockets?
+488)  
+The air-conditioner might be our way out.
+489)  
+What now?
+491)  
+What now?
+492)  LEE
+[pickup2][half to himself]The air-conditioner!
+493)  
+I need a coin or something...
+494)  LEE
+[pickup2][insistent]Listen, I need a coin or something.
+495)  LEE
+[pickup2][more insistent]It's important!  It could get us out of here!
+496)  KENNY
+[pickup2][surly]Well, I got nothin'.
+498)  KENNY
+[pickup2][surly]So... go fuckin' loosen the bolts, if you think that'll help.
+507)  
+Look At
+510)  
+Look At
+574)  
+Look At
+508)  
+Unscrew
+509)  
+Unscrew
+511)  
+Unscrew
+512)  
+Unscrew
+513)  
+Pallets
+514)  
+Screw
+515)  
+Salt Licks
+516)  
+Boxes
+517)  
+Vent
+518)  
+Shelves
+519)  
+Pocket
+571)  
+Pocket
+520)  
+Door To Barn
+527)  
+He was dead.
+528)  
+We couldn't take that chance.
+530)  
+Not yet.
+531)  
+I don't know.
+532)  
+You've got to think about your own life.
+533)  
+Larry was a good father.
+534)  
+Kenny was trying to keep us safe.
+537)  
+Getting out of here.
+538)  
+A safe place.
+539)  
+Your walkie-talkie.
+540)  
+It's just you and me...
+541)  
+About your family...
+542)  
+We've got to work together.
+543)  
+Could you kill Katjaa or Duck?
+544)  
+You've got to pull yourself together.
+545)  
+Larry would want you to move on.
+546)  
+I know you hate Kenny...
+547)  
+It's too small to fit through.
+549)  
+Clementine can fit.
+550)  
+You don't have to do this.
+554)  
+You're not worth hating.
+555)  
+I'm not your enemy.
+566)  
+One!
+567)  
+Two!
+568)  
+Three!
+569)  
+Four!
+570)  
+Five!
+573)  
+Talk to
+575)  LARRY
+[pickup3][low and menacing - Follows #310420268 or # 310420266] Don't forget... I know who you really are.
+576)  LARRY
+[pickup3][low and menacing - Follows #310420268 or # 310420266] Don't forget... I know who you really are.
+577)  KENNY
+[pickup3][angry that Lee chose helping Larry, putting everyone at risk]Are you stupid?! He's gonna turn!  You're putting us ALL at risk, you son of a bitch!
+578)  KENNY
+[pickup3][angry that Lee chose helping Larry, putting everyone at risk]You're fucking worthless, Lee.
+579)  LILLY
+[pickup3][follows 310419580] No!  Dad told me about you Lee!!  I didn't want to believe him but he was right!!
+580)  LILLY
+[pickup3][crying 2]
+586)  CLEMENTINE
+[pickup3][crying 2]
+581)  LILLY
+[pickup3][crying 1]
+583)  CLEMENTINE
+[pickup3][crying 1]
+582)  LILLY
+[pickup3][crying 3]
+584)  CLEMENTINE
+[pickup3][Screams in fear 1]
+585)  CLEMENTINE
+[pickup3][Screams in fear2]
+587)  LILLY
+[pickup3][struggling while Lee tries to pull her off her dad 3]
+588)  LILLY
+[pickup3][scream of horror 2]
+589)  LILLY
+[pickup3][struggling while Lee tries to pull her off her dad 1]
+590)  LILLY
+[pickup3][struggling while Lee tries to pull her off her dad 2]
+591)  LILLY
+[pickup3][scream of horror 1]
+592)  LARRY
+Even after I saved your fucking life.

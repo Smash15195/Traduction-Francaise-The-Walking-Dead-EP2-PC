@@ -1,0 +1,146 @@
+1)  DANNY
+Lee, don't piss her off.
+2)  JOLENE
+{FearB}Killin' everywhere. {CrazyD}Take all the dead folks you want, we'll make more!
+3)  JOLENE
+{body-Crossbow}{CrazyA}Like you could kill me. {CrazyB}They couldn't kill me. {CrazyD}They tried.
+4)  LEE
+{body-B}{AngryB}Screw this.
+5)  LEE
+{body-B}{AngryB}Put down the crossbow.
+6)  JOLENE
+{body-Crossbow}{AngryC}No, sir, I need it.
+7)  LEE
+[angrily] {body-B}{AngryD}Enough!
+8)  DANNY
+[fed up]{body-A}{AngryB}Okay, fuck this shit!
+9)  JOLENE
+[pickup2] {body-Crossbow}{AngryD}You're a couple of god-damn... {CrazyB}THIEVES!
+10)  JOLENE
+[pickup2] {CrazyD}Steal my shit.  {AngryD}Steal everything from me!
+11)  JOLENE
+[pickup2] {body-Crossbow}{CrazyD}I'm gonna take this here crossbow, and put a nice sharp arrow, {CrazyA}right through your eyeball.  {CrazyB}And into your goddamn brain.
+12)  JOLENE
+[pickup2] {AngryD}And when I'm done, {AngryB}I'll take the little ones with me.
+13)  JOLENE
+[pickup2] {body-Crossbow}{CrazyA}Then I'm a head down to that farm, {CrazyB}and shoot every goddamn person I see.
+14)  JOLENE
+[pickup3] {body-Crossbow}{CrazyC}You know what? {CrazyD} I changed my mind... I'm putting this arrow right through your BALLS.  {HappyD}Yeah!  Right through.  {CrazyD}String 'em up on that tree.
+15)  JOLENE
+[pickup2] {CrazyA}You're not men... {CrazyB}you're monsters.  {AngryB}All men are monsters.  {FearB}Take what they want, then destroy it all.  {SadB}Take a can of beans, {ThinkingA}take a little girl... {CrazyB}it's all the fucking same to you!
+16)  JOLENE
+[pickup2] {body-Crossbow}{CrazyC}Or through your leg.  {HappyD}And leave you for the walkers.  {CrazyD}Yeah, that'd be just what you deserve.  The both of you!
+17)  JOLENE
+[pickup2] {DisgustB}I know you.  {CrazyA}I know what you are, {CrazyB}I know what you do.
+18)  JOLENE
+[pickup2] {AngryD}Ain't you taken enough from me?  {CrazyB}Ain't you taken enough, god dammit?
+19)  DANNY
+[pickup2] {ThinkingB}You don't know me!
+20)  DANNY
+[pickup2] {body-A}{AngryB}YOU'RE the thief, {DisgustA}bitch!
+21)  JOLENE
+[pickup2] {AngryD}No sir, I need it.  {CrazyB}I need it to kill you fuckers.{CrazyD}
+22)  LEE
+[pickup2] {body-B}{SurpriseB}Who the fuck are you?
+23)  JOLENE
+[pickup2] [laughs hysterically]
+24)  DANNY
+[pickup2]{body-A}{ThinkingA}Forget it, Lee.  {AngryA}She's bat shit loco.
+25)  DANNY
+[pickup2] {body-A}{SurprisedA}Lee... {ThinkingB}she's getting pissed...
+26)  LEE
+[pickup2]{body-B}{AngryB}You shot Mark, {AngryC}you psycho bitch!
+27)  
+Screw This!  [SHOOT HER]
+28)  JOLENE
+[pickup2][as if it were so obvious]{body-Crossbow}{ThinkingA}The little girl.
+29)  LEE
+[pickup2] [angry] {body-B}{AngryC}Where did you get this hat?
+30)  LEE
+[pickup2][firm, trying to establish the facts] {AngryD}You STOLE it from her.
+31)  JOLENE
+[pickup2]{CrazyC}So what if I did?  {AngryB}You stole her from {AngryC}ME!!!
+32)  LEE
+[pickup2]{ThinkingA}Look.  {SadB}It's not safe up here in the woods.  {SurpriseA}You gotta come back to the dairy.
+33)  JOLENE
+[pickup2]{body-Crossbow}{CrazyD}Ha ha!  Oh... It's a hell of a lot safer up here {CrazyB}than down THERE, {CrazyA}you best believe.
+34)  DANNY
+[pickup2] {body-A}{ThinkingA}Calm down.  {FearB}Nobody stole anyone from you, lady.
+35)  
+That's Enough! [SHOOT HER]
+36)  JOLENE
+[pickup3] Better than what he got planned for--[gets killed]
+73)  JOLENE
+[pickup3] Better than what he got planned for--[gets killed]
+37)  JOLENE
+[pickup2]{CrazyD}They told me I'd be safe with them...  {CrazyB}Men who lived here.
+38)  JOLENE
+[pickup2]{body-Crossbow}{CrazyA}That's a hell of a question, mister.
+39)  JOLENE
+[pickup2]{SadB}They didn't treat her nice.  Not at all.  {FearB}They took her away, into the woods.  {CrazyC}Wouldn't tell me where.
+40)  LEE
+[pickup2] {body-B}{FearC}Why are you alone up here?  {ThinkingB}What happened to you?
+41)  JOLENE
+[pickup2]{CrazyB}And I'm staying here 'til she comes back to me.
+42)  JOLENE
+[pickup2]But it weren't safe.  {AngryD}Not for me, {CrazyE}and not for my girl.
+43)  JOLENE
+[pickup2]{SadB}And I begged 'em.  Every way I could think.   {CrazyA}They just laughed...  {CrazyD}So I killed 'em.
+44)  
+Who are you?
+45)  
+You shot Mark!
+46)  
+Where did you get Clementine's hat?!
+47)  JOLENE
+[pickup2]  {CrazyD}I killed two men already.
+48)  JOLENE
+[pickup2]  And I don't intend to stop there...
+49)  JOLENE
+[pickup2][sadly]One way or another... {CrazyE}she'll come back.
+50)  LEE
+[pickup2] {body-B}{ThinkingB}Look, there's two of us, and one of you.  {AngryB}No matter what happens, {AngryC}one of us is gonna kill you.
+51)  DANNY
+[pickup2]  {AngryB}We had a deal!  {ThinkingB}You people broke it first!
+52)  DANNY
+[pickup2]  {body-A}{FearC}Hey!  We had a deal!  {AngryA}No shooting as long as we gave you food!
+53)  DANNY
+[pickup2] {AngryB}What the fuck happened?
+54)  JOLENE
+[pickup2] {body-Crossbow}{AngryB}You had a deal with {AngryD}THEM.  I ain't THEM.
+55)  JOLENE
+[pickup2] {CrazyA}You think I won't kill you?
+56)  JOLENE
+[pickup2] {body-Crossbow}{AngryB}Who the fuck is Mark?  {AngryD}I don't know any Mark.
+57)  LEE
+[pickup2] {AngryC}You shot him at the dairy.
+58)  JOLENE
+[pickup2] {CrazyA}Fuck I did.  {CrazyB}That's them OTHER people-- {CrazyC}they're good buddies with your boyfriend here.
+59)  JOLENE
+[pickup3][follows 310403320] [hisses sarcastically] {CrazyD}I guess you met 'em.  Ain't they nice?
+60)  JOLENE
+[pickup2] {body-Crossbow}{FearB}I don't know where they are.  {AngryC}But they ain't here.
+61)  JOLENE
+[pickup2] {CrazyB}So get the fuck outta my camp!
+62)  LEE
+[pickup2] {body-B}{AngryB}We're looking for the people who attacked the dairy, {AngryC}and shot my friend.
+63)  DANNY
+[pickup2] [weirdly calm and smarmy.] {body-A}{HappyC}She's lyin', Lee.
+64)  
+What happened here?
+65)  
+Who attacked the dairy?!
+66)  
+Put down the crossbow
+67)  
+Don't be stupid
+68)  JOLENE
+[pickup2] {body-Crossbow}{CrazyD}The crazy lady in the woods {CrazyA}brings fresh {CrazyB}meat to the farm!
+69)  DANNY
+[pickup2]  {AngryB}YOU SHUT IT! NOW!
+70)  JOLENE
+[pickup2] {body-Crossbow}{HappyD}Now maybe you didn't hear me last time... {CrazyD}when I asked you sweet... {AngryD}put your damn guns down.
+71)  LEE
+[pickup2][trying to make sense of this crazy talk]{ThinkingB}What the hell are you talking about?
+72)  JOLENE
+[pickup3] [addressing Danny, and a little wild laughter]{body-Crossbow}{CrazyB}Go on, tell him, boy!  {CrazyD}Tell him what you got in mind for --[Gets shot]
