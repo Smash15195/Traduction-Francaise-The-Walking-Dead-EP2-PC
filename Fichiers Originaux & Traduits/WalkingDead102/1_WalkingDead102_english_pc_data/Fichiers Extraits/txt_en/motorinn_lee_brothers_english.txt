@@ -1,8 +1,0 @@
-1)  DANNY
-{normalC}Looks like y'all could use it.
-2)  ANDY
-{normalC}We've got some food we could share.
-3)  ANDY
-{happyB}We're from the St. John Dairy.
-4)  LEE
-{thinkingB}Where do you fellas come from?
