@@ -35,11 +35,11 @@
 18)  ANDY
 [pickup2][process: outside the house][threating Kenny, yelling]J'avais dis de ne pas bouger, imbécile !
 19)  LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Pensez à votre mari, Brenda !  {AngryB}Il n'aurait jamais voulu {SadB}que sa laiterie soit transformée...{FearA} en abattoir ??!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Pensez à votre mari, Brenda !  {AngryB}Il n'aurait jamais voulu {SadB}que sa ferme soit transformée...{FearA} en abattoir ??!
 25)  LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Pensez à votre mari, Brenda !  {AngryB}Il n'aurait jamais voulu {SadB}que sa laiterie soit transformée...{FearA} en abattoir ??!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Pensez à votre mari, Brenda !  {AngryB}Il n'aurait jamais voulu {SadB}que sa ferme soit transformée...{FearA} en abattoir ??!
 57)  LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Pensez à votre mari, Brenda !  {AngryB}Il n'aurait jamais voulu {SadB}que sa laiterie soit transformée...{FearA} en abattoir ??!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Pensez à votre mari, Brenda !  {AngryB}Il n'aurait jamais voulu {SadB}que sa ferme soit transformée...{FearA} en abattoir ??!
 20)  LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Danny était {AngryB}un homme bizarre, Brenda !!  {AngryA}C'est lui qui a commencé tout ça ?!
 21)  LEE

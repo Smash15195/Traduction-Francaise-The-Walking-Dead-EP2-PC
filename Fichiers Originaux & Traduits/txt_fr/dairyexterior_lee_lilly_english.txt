@@ -68,7 +68,7 @@
 [pickup2] {sadA}Nous avons trouvé une femme dans les bois. {normalA}Elle débitait des choses incohérente avec une arbalète pointée droit sur ma tête... {sadB}alors j'ai dû la tuer.
 .
 35)  LEE
-[pickup2] {normalA}C'est ce que je disais.
+[pickup2] {normalA}C'est ce que je viens de dire.
 36)  LARRY
 [pickup2] {surprisedA}Doux Jésus. {angryA}Avez-vous au moins trouver un peu de putain de nourriture ?
 37)  LILLY
@@ -94,7 +94,7 @@ Tout va bien.
 47)  LEE
 [pickup2] {thinkingA}Il se passe quelque chose avec cette grange.
 48)  LILLY
-[pickup2]{angryA}Si vous voulez aller là-bas et commencer à fouiller la merde des autres, alors allez-y. {normalA}Mais si ç'était que moi, nous devrions prendre notre nourriture et partir.
+[pickup2]{angryA}Si vous voulez aller là-bas et commencer à fouiller la merde des autres, alors allez-y. {normalA}Mais si ça ne tenait qu'à moi, nous devrions prendre notre nourriture et partir.
 49)  LEE
 [pickup2] {angryA}Et qu'est-ce que je suis censé faire ?
 50)  LEE
@@ -110,7 +110,7 @@ Tout va bien.
 55)  LILLY
 [pickup2] {angryA}Vous gardez des trucs pour vous, Lee. Et au moment où devenez net, ce sera trop tard. Nous devons commencer à penser à foutre le camp d'ici.
 56)  LEE
-[pickup2] {thinkingA}Après ce que m'a dit Kenny, je commence à penser qu'ils nous cachent peut-être quelque.
+[pickup2] {thinkingA}Après ce que m'a dit Kenny, je commence à penser qu'ils nous cachent peut-être quelque chose.
 57)  LEE
 [pickup2]{normalA} Hé.
 58)  LILLY
@@ -126,7 +126,7 @@ Tout va bien.
 63)  LARRY
 [pickup2]{angryA}Ouais, et on n'a pas besoin que vous foutiez votre nez partout et que l'on se fasse virer à coup de pompe dans l'oignon.
 64)  LILLY
-[pickup2]{normalA}Ne soyez pas pas trop curieux. Ce genre de personnes est généralement assez de protectrice de leur vie privée.
+[pickup2]{normalA}Ne soyez pas trop curieux. Ce genre de personnes est assez de protectives avec leur vie privée.
 65)  LILLY
 [pickup2] {sadA} Faites attention, Lee.
 66)  LILLY
@@ -150,7 +150,7 @@ Tout va bien.
 75)  LARRY
 [pickup2]Pour l'amour du Dieu, vous venez de nous dire que vous aviez tué une femme. Ouais, on peut certainement dire qu'il se passe beaucoup de choses.
 76)  LEE
-[pickup2] Alors, Larry, on dirait que vous allez bien vous entendre avec Brenda.
+[pickup2] Alors Larry, on dirait que vous vous entendez bien avec Brenda.
 77)  LARRY
 [pickup2] Vous savez, pour changer un peu, que diriez-vous d'essayez de vous occuper de vos putain d'oignons ?
 78)  LEE
@@ -248,8 +248,8 @@ Vous pensez quoi du marché avec eux ?
 124)  
 Vous avez pas la sensation que quelque chose cloche ?
 125)  
-Je crois qu'ils nous cachent quelques chose.
+Je crois qu'ils nous cachent quelque chose.
 126)  
 Nous avons trouvé une tente.
 127)  
-Rien ne n'est arrivé.
+Il ne s'est rien passé.

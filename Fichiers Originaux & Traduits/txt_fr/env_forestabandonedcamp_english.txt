@@ -275,7 +275,7 @@ Piles
 138)  DOUG
 [pickup2] ils ont vraiment dépecé des gens ?  Pour manger ?
 139)  
-Ouais. Et Clémentine... en a grignoté.
+Ouais. Et Clémentine... en a mangé.
 140)  
 Ouais. ils l'ont fait.
 141)  
@@ -283,13 +283,13 @@ On aurait dû savoir que quelque chose se tramait.
 142)  
 Ouais. Et Clémentine en a presque mangé.
 143)  LEE
-[pickup2] Ouais. Et Clémentine... en a grignoté. C'est ma faute, J'ai paniqué et j'ai pas pu l'arrêter.
+[pickup2] Ouais. Et Clémentine... en a mangé. C'est ma faute, J'ai paniqué et j'ai pas pu l'arrêter.
 144)  DOUG
 [pickup2] Oh bon Dieu. Elle le sait ?
 145)  LEE
 [pickup2] Elle est pas idiote, Doug.
 146)  DOUG
-[pickup2] [exhale] Woof.
+[pickup2] [exhale] Wouh.
 147)  LEE
 [pickup2] Je l'ai arrêté. Je ne peux pas la laisser seule, Carley. C'est un putain de monde, aujourd'hui. Toute cette merde indicible qui se cache à chaque détour.
 148)  DOUG
@@ -309,7 +309,7 @@ Ouais. Et Clémentine en a presque mangé.
 155)  DOUG
 [pickup2] Bon... j'espère que Clémentine et Duck ne s'en sont pas rendu compte... ou vu quoique ce soit...
 156)  CARLEY
-[pickup2] Hé Lee, Je dirais bien que je suis désolé d'avoir laisser le motel sans surveillance, mais vous savez.
+[pickup2] Hé Lee, Je dirais bien que je suis désolée d'avoir laisser le motel sans surveillance, mais vous savez.
 157)  LEE
 [pickup2] Je suis content que vous soyez venu quand vous l'avez fait.
 158)  CARLEY
@@ -321,7 +321,7 @@ Ouais. Et Clémentine en a presque mangé.
 163)  LEE
 [pickup2] Elle est pas idiote, Carley.
 161)  CARLEY
-[pickup2][exhale] Woof.
+[pickup2][exhale] Wouh.
 162)  CARLEY
 [pickup2]Mais ?
 164)  CARLEY
@@ -367,7 +367,7 @@ Ca va aller.
 184)  
 Vous avez détruit le groupe.
 185)  
-Vous n'êtes pas un heros.
+Vous n'êtes pas un héros.
 186)  
 Vous avez assassiné Larry.
 187)  KENNY
@@ -397,7 +397,7 @@ Vous avez assassiné Larry.
 199)  CLEMENTINE
 [pickup2] Ces affaires ne sont a nous.
 200)  LILLY
-[pickup2] [cold] Si ils reviennent, nous serons juste des monstres venuent des bois ruinant leurs vies.
+[pickup2] [cold] Si ils reviennent, Nous serons juste des monstres venus des bois et qui auront ruiné leur vie.
 201)  KENNY
 [pickup2] {normalC}Voyons, il va certainement faire froid.
 202)  LEE
@@ -459,7 +459,7 @@ C'est a toi maintenant.
 230)  CLEMENTINE
 [pickup2] {fearA}Et si elle l'était pas ?
 231)  CLEMENTINE
-[pickup2] Elle si elle n'est pas abandonné ? Et si elle EST à quelqu'un ?
+[pickup2] Elle si elle n'est pas abandonnée ? Et si elle EST à quelqu'un ?
 232)  
 On la prends.
 233)  
@@ -563,7 +563,7 @@ Nous avons déjà fait assez de dégats.
 280)  DOUG
 [pickup2]Hé, Lee.  Je crois que j'ai réparé ce machin.  Fallait juste remettre en place quelques cavaliers.  Avec des piles, ça devrait fonctionner.
 281)  CARLEY
-[pickup2] {happyA}Pourquoi vous le garder pas. Ca peut être utile parfois d'avoir quelque chose pour enregistrer ses pensées.
+[pickup2] {happyA}Pourquoi vous le gardez pas. Ca peut être utile parfois d'avoir quelque chose pour enregistrer ses pensées.
 282)  LEE
 [pickup2] {normalA}Vous le voulez ?
 283)  CARLEY
@@ -625,7 +625,7 @@ Vous en avez besoin, Doug ?
 313)  KENNY
 Cherie, tu dois voir ça !
 314)  KENNY
-{happyC}Il y a un tas de vivres et de matériels !
+{happyC}Il y a un tas de vivres et de matériel !
 315)  KENNY
 [pickup3][looting the car]{happyC}D'accord, qu'est-ce que nous avons là ?
 316)  BEN
@@ -645,7 +645,7 @@ Ne vous en faites pas.
 323)  
 Vous auriez du rester.
 324)  LEE
-[pickup3][follows 310423800]Si vous n'aviez pas tirer ce coup sur Andy, nous ne serions pas sorti de là.
+[pickup3][follows 310423800]Si vous n'aviez pas tiré sur Andy, nous ne serions pas sorti de là.
 325)  CLEMENTINE
 [pickup3] Lee... tu as dû tuer ces gens ?
 326)  
@@ -679,7 +679,7 @@ Je n'aurais pas dû le faire
 340)  
 Oui.  Les marcheurs les ont certainement eus.
 341)  
-Nous les avons pas tues, alors je sais pas.
+Nous les avons pas tués, alors je sais pas.
 342)  
 Non, ils souffrent mais sont vivants 
 343)  LEE

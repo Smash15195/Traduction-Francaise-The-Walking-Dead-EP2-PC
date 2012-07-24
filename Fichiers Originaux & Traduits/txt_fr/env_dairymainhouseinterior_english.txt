@@ -275,15 +275,15 @@ Porte
 139)  
 Porte
 135)  
-Porte des toilettes
+Porte du Placard
 136)  
-Porte de la chambre
+Porte de la Chambre
 137)  
 Tâche Sombre
 138)  
 Bibliothèque
 140)  
-Table de nuit
+Table de Nuit
 141)  
 Fenêtre
 142)  BRENDA
@@ -863,9 +863,9 @@ Serviette
 415)  DAVID
 [Drugged & falling down the stairs]
 427)  
-Diplôme de fin d'études secondaires
-428)  
 Diplôme universitaire
+428)  
+Diplôme d'études secondaires
 434)  
 Morphine
 435)  

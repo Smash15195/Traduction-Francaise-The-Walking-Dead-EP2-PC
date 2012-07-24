@@ -235,7 +235,7 @@ Pour moi, c'est bon.
 116)  DANNY
 [STERN!] Fais quelque chose, sale fils de pute !!
 117)  LEE
-Je peux vous faire confiance que vous garderez Clémentine en sécurité ?
+Je peux vous faire confiance pour gardez Clémentine en sécurité ?
 118)  LEE
 [calling out a few feet away] Allez...
 119)  LILLY
@@ -537,9 +537,9 @@ Je vais vous laisser pourrir ici.
 262)  LEE
 [pickup2][trying to hang on to his humanity! ]Vous me ferez pas faire ça !!
 263)  LEE
-[pickup2] [worried more about Clems safety than his own] Reste ici et protège Clémentine.
+[pickup2] [worried more about Clems safety than his own] Restez ici et protégez Clémentine.
 264)  LILLY
-[pickup2][Lilly, still numb, know that Lee has to find Kenny before Kenny gets more poeple killed]Go.  Je vous couvre.
+[pickup2][Lilly, still numb, know that Lee has to find Kenny before Kenny gets more poeple killed]Allez-y.  Je vous couvre.
 265)  LEE
 [pickup2][turns to Clem as he's about to leave her in the barn under Lillys protection]Je reviens vite.
 266)  LEE
@@ -613,6 +613,6 @@ Electrochoc
 306)  
 Danny
 307)  
-Poing électrique
+Epargner Danny
 309)  
 Fusil

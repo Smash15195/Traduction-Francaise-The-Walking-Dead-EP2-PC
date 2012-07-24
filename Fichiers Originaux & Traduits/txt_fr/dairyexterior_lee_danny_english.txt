@@ -15,7 +15,7 @@
 8)  DANNY
 [pickup2] {normalA}Hein ! ma belle.
 9)  DANNY
-[pickup2] {normalA}Bonjour.
+[pickup2] {normalA}Salut.
 10)  
 Vous aimez vraiment cette arme.
 11)  
@@ -77,4 +77,4 @@ C'est un peu effrayant, c'est tout.
 39)  DANNY
 {normala}{body-a}[pickup2] Et ça devrait en être un bon.
 40)  LEE
-{normala}{body-a}[pickup2] Je vais aller attendre le dîner, alors.
+{normala}{body-a}[pickup2] Je vais attendre le dîner, alors.

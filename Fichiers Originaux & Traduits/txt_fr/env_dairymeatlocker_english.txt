@@ -157,7 +157,7 @@ Ces monstres viennent nous chercher, qu'on le veuille ou non.
 61)  LILLY
 [lethargic... still shellshocked over the death of her father] D'abord vous tuez mon père, et ensuite vous envoyez une petite fille dans les griffes de ces monstres...
 62)  LEE
-Tu n'es pas obligé de le faire, d'accord ?
+Tu n'es pas obligée de le faire, d'accord ?
 63)  KENNY
 Ca va nous aider à rentrer à la maison.
 64)  CLEMENTINE
@@ -739,7 +739,7 @@ Papa... Tiens.  Prends ça...  Allez papa, voilà...
 340)  LEE
 [pickup2][handing lilly the nitro pills - Urgent]Tenez.  Je les ai trouvé quand je chassais les brigands.
 341)  LEE
-[pickup2][urgent- Taking over CPR for Lilly] Ok, laissez-moi souffler ! Je continue de vérifier son pouls !
+[pickup2][urgent- Taking over CPR for Lilly] Ok, laissez-moi réfléchir... Je vérifie son pouls !
 342)  LEE
 [pickup2][Quickly, with exhale!  Giving CPR] Un !
 559)  LEE
@@ -939,7 +939,7 @@ Allons, papa.  C'est pas le moment.
 438)  LARRY
 [pickup2][in pain] Aah !
 439)  LARRY
-[pickup2][ranting]Je vais défoncer cettte foutue porte !
+[pickup2][ranting]Je vais défoncer cette foutue porte !
 440)  LILLY
 [pickup2][alarmed]Papa !  Tu ne peux--
 441)  LEE
@@ -1129,7 +1129,7 @@ C'est trop petit pour passer.
 549)  
 Clémentine peut passer.
 550)  
-Tu n'es pas obligé de le faire.
+Tu n'es pas obligée de le faire.
 554)  
 Vous n'en valez pas la peine.
 555)  

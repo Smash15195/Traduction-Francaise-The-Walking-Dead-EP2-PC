@@ -31,7 +31,7 @@ Attendez, Lee, les choses sembleront tellement plus agréable une fois que vous a
 13)  LEE
 [pickup2]{sadA}Comment va Mark là-dedans ?
 14)  BRENDA
-[pickup2]{normalA}Le meilleur patients que j'ai jamais eu. Ca change de mes petits gars qui avec une égratignure, commencent à crier. {happya}Il pourrait certainement leur donner une leçon ou deux pour être moins chochotte.
+[pickup2]{normalA}C'est le meilleur patient que j'ai jamais eu. Ca change de mes petits gars qui avec une égratignure, commencent à crier. {happya}Il pourrait certainement leur donner une leçon ou deux pour être moins chochotte.
 15)  LEE
 [pickup2]Je voudrais pas être grossier, madame, mais comment vous êtes venu ici, au milieu de, vous savez...
 16)  LEE
@@ -43,7 +43,7 @@ Attendez, Lee, les choses sembleront tellement plus agréable une fois que vous a
 19)  BRENDA
 [pickup2]C'est rien d'intéressant, Je peux pas vous promettre grand chose. Juste quelques trucs. Gérer une ferme prends beaucoup de temps, vous savez.
 20)  BRENDA
-[pickup2]Eh bien, vous êtes bien curieux, non ?
+[pickup2]Eh bien, vous êtes bien curieux !
 21)  LEE
 [pickup2]Je voulais pas avoir l'air de fouiner.
 22)  LEE
@@ -77,7 +77,7 @@ Attendez, Lee, les choses sembleront tellement plus agréable une fois que vous a
 35)  
 Pourquoi être ici plutôt qu'à la cuisine ?
 36)  
-Que garde vos garçons dans la grange ?
+Que garde vos fils dans la grange ?
 37)  
 Votre garçon est dingue.
 38)  
@@ -85,7 +85,7 @@ Pourquoi traiter avec des bandits ?
 39)  
 Nous avons vu une femme dans le camp...
 40)  LEE
-[pickup2] Il semblait prendre plaisir à la mort de cette femme.
+[pickup2] La mort de cette femme semblait le réjouir.
 41)  LEE
 [pickup2] Votre fils Danny est dingue.
 42)  BRENDA

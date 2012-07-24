@@ -16,10 +16,10 @@ L'histoire est adaptée par la façon dont vous jouez.
 © 2012 Telltale, Inc Basé sur le Comic Book de Robert Kirkman, Tony Moore et Charlie Adlard. The Walking Dead
 © 2012 Robert Kirkman, LLC. Telltale et le logo Telltale Games sont des marques de Telltale, Inc Tous droits réservés.
 7)  
-directeur artistique
+Directeur artistique
 DEREK SAKAI
 8)  
-animateur principal
+Animateur principal
 PETER TSAYKEL
 9)  
 EPISODE DEUX
@@ -28,13 +28,13 @@ LA FAIM
 JUSTIFIE LES MOYENS
 11)  
 Traduit par
-CHARTREUSE, NEOSTEF, ETHANFR, STELGAR & SMASH15195
+CHARTREUSE, ROGER le BANNI, ETHANFR
 12)  
-écrit, conçu et réalisé par
-MARK DARIN & DENNIS LENART
+Traduit par (suite)
+STELGAR & SMASH15195
 13)  
-Programmeur en chef
-RANDY TUDOR
+Ecriture, réalisation & programmation
+MARK DARIN, DENNIS LENART, RANDY TUDOR
 14)  
 Directeur des cinématiques
 NICK HERMAN

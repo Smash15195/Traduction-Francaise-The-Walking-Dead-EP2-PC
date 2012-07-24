@@ -771,7 +771,7 @@ Cet endroit est sûr, promis.
 346)  MARK
 [pickup2] Ca va être génial.
 347)  
-Panneau
+Inscription
 348)  
 Prise de Courant
 349)  
@@ -1101,7 +1101,7 @@ verb_board
 494)  
 Courroie
 495)  
-Inscription
+Panneau
 496)  
 Bouton d'alimentation
 499)  LEE

@@ -93,7 +93,7 @@ Ca me fait mal de le dire, mais il a raison.  {ThinkingA}Il faut qu'on sache ce 
 46)  LEE
 {body-B}{HappyB}Vous vous amusez bien les gars ?
 47)  DUCK
-{body-A}{HappyB}Youhou !
+{body-A}{HappyB}Ouais  !
 48)  KATJAA
 {body-Sit}{FearA}Plus vite, Lee.
 49)  KATJAA
@@ -177,7 +177,7 @@ Ca me fait mal de le dire, mais il a raison.  {ThinkingA}Il faut qu'on sache ce 
 88)  KATJAA
 {body-A}{HappyA}Ca va, Clémentine, tu peux la caresser.
 89)  LEE
-{HappyB}Vas-y, ça va.
+{HappyB}Allez, vas-y !
 90)  CLEMENTINE
 [amazed by the cow]{body-Stand}{HappyC}Woah...
 91)  CLEMENTINE
@@ -343,7 +343,7 @@ Lee regarde dans les cartons.  Ils sont vides.
 168)  KENNY
 [pickup2]{Body-D}Je le sais bien.
 169)  KENNY
-[pickup2]{Body-D}{SadA}Pfft.  C'est maintenant qu'il faut la protéger.  {ThinkingA}Cette fille a besoin de toi.
+[pickup2]{Body-D}{SadA}Pfft.  C'est maintenant qu'il faut la protéger.  {ThinkingA}Cette petite fille a besoin de vous.
 170)  KENNY
 [pickup2][hurt] {Body-D}{AngryA}Débile ?  {AngryB}Débile ?!  {DisgustA}Joli, Lee.
 171)  KENNY
@@ -383,7 +383,7 @@ Lee regarde dans les cartons.  Ils sont vides.
 188)  KENNY
 [pickup2]{Body-D}{SurprisedA}Quoi ?
 189)  LEE
-[pickup2]{ThinkingB}Vous voyez ces vis ?  {HappyA}Au lieu de casser le cadenas, on peut juste dévisser l'ensemble, jetez un oeil à l'intérieur, {ThinkingA}et ensuite tout replacer, comme s'il ne s'était jamais rien passé.
+[pickup2]{ThinkingB}Vous voyez ces vis ?  {HappyA}Au lieu de casser le cadenas, on peut juste dévisser l'ensemble, jeter un oeil à l'intérieur, {ThinkingA}et ensuite replacer tout, comme s'il ne s'était jamais rien passé.
 190)  KENNY
 [pickup2]{HappyB}D'accord.  Ca me semble une bonne idée.  {ThinkingA}Je vais faire un tour et garder à l'oeil ce type à  côté de la vache.
 191)  LEE
@@ -415,7 +415,7 @@ Lee regarde dans les cartons.  Ils sont vides.
 204)  ANDY
 [pickup2]Hé, euh...  Rendez-moi un service.  Faites pas les cons avec cette porte.  C'est juste que, vous savez, ça va énerver M'man.
 205)  ANDY
-[pickup2]{NormalC}Pas de problème !  {HappyB}A toute, doc !
+[pickup2]{NormalC}Pas de problème !  {HappyB}J'arrive, doc !
 206)  KATJAA
 [pickup2][calling across the barn] {Body-Sit}{FearA}Andrew !  J'ai encore besoin d'aide.
 207)  ANDY
@@ -423,7 +423,7 @@ Lee regarde dans les cartons.  Ils sont vides.
 208)  LEE
 [pickup2] {Body-B}{HappyB}Hé, Andy.
 209)  ANDY
-[pickup2] {Body-A}{HappyA}Ben, mieux depuis que la {HappyB}Doc a pris les choses en main.
+[pickup2] {Body-A}{HappyA}Ben, mieux depuis que le {HappyB}Doc a pris les choses en main.
 210)  ANDY
 [pickup2][laughs]{Body-A}{HappyA}Vous avez faim hein ?  {HappyB}Vous inquiétez pas.  {HappyC}M'man est en train de préparer une bonne bouffe.
 211)  LEE
@@ -431,7 +431,7 @@ Lee regarde dans les cartons.  Ils sont vides.
 212)  LEE
 [pickup2]{Body-B}{FearA}Euh... [hems a bit] {ThinkingA}vous pensez qu'on {FearA}euh, {SadA}pourra bientôt manger ?
 213)  ANDY
-[pickup2][reluctant]{Body-A}{SurprisedA}Ouais.  {ThinkingA}He, euh, {HappyA}il parle quand même un peu trop.
+[pickup2][reluctant]{Body-A}{SurprisedA}Ouais.  {ThinkingA}Il, euh, {HappyA}il parle quand même un peu trop.
 214)  LEE
 [pickup2]{Body-B}{SadA}On est tombé sur cette femme dans la forêt.  {ThinkingA}On aurait dit qu'elle connaissait votre frère.
 215)  ANDY
@@ -699,7 +699,7 @@ Donner casquette à
 349)  LEE
 [pickup3][explaining why he stinks]Et bien, on est dans une grange.  Tu vas t'y habituer.
 350)  ANDY
-[pickup3][alt][when Andy appears while Lee & Kenny are planning to get into the back room - Flat, but not menancing]Je peux vous aider à trouver quelque chose les gars ?
+[pickup3][alt][when Andy appears while Lee & Kenny are planning to get into the back room - Flat, but not menancing]Je peux vous aider les gars ?
 351)  CLEMENTINE
 [pickup3]{body-HandsOpen}{HappyC}Je savais que tu la retrouverais !  {HappyB}Tu me l'avais dit !
 352)  CLEMENTINE
@@ -725,7 +725,7 @@ Ca fait longtemps que je n'y ai pas pensé.
 362)  CLEMENTINE
 [pickup3]{body-Stand}{HappyA}C'est super.  {body-HandOnWrist}Tu ferais un bon papa.
 363)  LEE
-[pickup3]{body-B}{SadA}I don't think so, Clem. {ThinkingA} Pas maintenant que le monde a changé.  {NormalC}Je... {SadA}Je ne pense pas que je pourrais.
+[pickup3]{body-B}{SadA}Je ne pense pas, Clém. {ThinkingA} Pas maintenant que le monde a changé.  {NormalC}Je... {SadA}Je ne pense pas que je pourrais.
 364)  CLEMENTINE
 [pickup3]{body-Stand}{SadA}Oh.  {HappyA}{body-HandOnWrist}Peut-être quand le monde ira mieux alors.
 365)  LEE
