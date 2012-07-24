@@ -1,5 +1,5 @@
 1)  DANNY
-{normalC}Rappelez-vous: nous ne faisons que de reconnaissance pour l'instant. N'allons pas nous faire tuer.
+{normalC}Rappelez-vous: nous ne faisons qu'une reconnaissance pour l'instant. N'allons pas nous faire tuer.
 2)  DANNY
 {normalC}Que pensez-vous de cet endroit ?
 3)  LEE
