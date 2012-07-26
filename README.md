@@ -15,8 +15,8 @@ Traduction Française The Walking Dead Episode 2 (Telltales)
 
 ### Note de Version
 ```
-Avancement de la traduction : Effective 100% | Relecture en cours
-V1 : Bientôt disponible.
+Avancement de la traduction : Effective 100%
+V1 : Disponible.
 ```
 
 ### Windows
@@ -27,7 +27,7 @@ Copier/coller les fichiers suivant l'image fournit dans l'archive
 Pour la version Telltales
 En cours de recherche
 
-Téléchargement disponible dans la section Download.
+Téléchargement disponible dans [la section Download de l'épisode 1](https://github.com/Smash15195/Traduction-Francaise-The-Walking-Dead-EP1-PC/downloads).
 
 ### Mac
 
