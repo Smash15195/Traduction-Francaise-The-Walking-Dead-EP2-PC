@@ -217,7 +217,7 @@ Hé, Lee, je suis vraiment désolé que nous ayons laissé le motel sans surveillanc
 108)  LILLY
 [pickup 1][Cold but still shell shocked, Keeping Clem near her instead of Lee]Elle va bien. [then hushed to Clem] Reste avec moi, ma chérie.
 109)  CLEMENTINE
-[pickup1][quiet, unsure what to think] D'accord.
+[pickup1][quiet, unsure what to think] Oui, je crois.
 110)  CLEMENTINE
 [pickup1][happily taking Lee's hand] Bien. Il n'y a plus de mauvaise personnes, hein ?
 111)  LEE
