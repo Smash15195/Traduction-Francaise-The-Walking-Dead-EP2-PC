@@ -24,9 +24,6 @@ V1 : Disponible.
 Pour Steam
 Copier/coller les fichiers suivant l'image fournit dans l'archive
 
-Pour la version Telltales
-En cours de recherche
-
 Téléchargement disponible dans [la section Download de l'épisode 1](https://github.com/Smash15195/Traduction-Francaise-The-Walking-Dead-EP1-PC/downloads).
 
 ### Mac
